@@ -38,7 +38,6 @@ def update_houses():
 
                 except:
                     pass
-                # deneme
         try:
             next_link = browser.find_element(by=By.XPATH, value="/html/body/div/div/div[3]/div[1]/div/div[7]/div["
                                                                 "1]/div[35]/div[1]/ul/li[3]/div")
