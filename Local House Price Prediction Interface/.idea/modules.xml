@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Local House Price Prediction Interface/.idea/flaskProject.iml" filepath="$PROJECT_DIR$/../Local House Price Prediction Interface/.idea/flaskProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Local House Price Prediction Interface/.idea/Local House Price Prediction Interface.iml" filepath="$PROJECT_DIR$/../Local House Price Prediction Interface/.idea/Local House Price Prediction Interface.iml" />
     </modules>
   </component>
 </project>
