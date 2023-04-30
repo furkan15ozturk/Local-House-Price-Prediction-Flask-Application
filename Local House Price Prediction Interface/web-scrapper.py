@@ -1,6 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+import re
 import os
 import time
 
@@ -8,7 +9,7 @@ import time
 house_list = []
 def update_houses():
     edge_options = Options()
-    link = "https://www.emlakjet.com/satilik-konut/istanbul-adalar/"
+    link = "https://www.emlakjet.com/satilik-konut/istanbul-arnavutkoy/"
     edge_options.add_experimental_option("excludeSwitches", ["enable-automation"])
     edge_options.add_experimental_option('useAutomationExtension', False)
     browser = webdriver.Edge(f"{os.getcwd()}/msedgedriver.exe")
@@ -25,9 +26,14 @@ def update_houses():
                 price = c.find_elements(by=By.CSS_SELECTOR, value="._2C5UCT")
                 location = c.find_elements(by=By.CSS_SELECTOR, value="._2wVG12")
                 try:
-
-                    house_list.append({'price': int(price[0].text.replace('\n', '').replace('.', '').replace('TL', '')),
-                                           'location': location[0].text.replace('\n', '')})
+                    for element in elements:
+                        find_m2 = element.find_element(by=By.XPATH, value=".//span[contains(text(),'m2')]")
+                        m2_text = find_m2.text
+                        m2_value = re.search(r'\d+\s*m2', m2_text)
+                        m2 = m2_value.group()
+                        house_list.append({'price': int(price[0].text.replace('\n', '').replace('.', '').replace('TL', '')),
+                                           'location': location[0].text.replace('\n', ''),
+                                           'm2': m2.replace(' m2', '')})
 
                 except:
                     pass
