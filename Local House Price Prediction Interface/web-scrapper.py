@@ -21,16 +21,13 @@ def update_houses():
             if c.get_attribute("data-index") is None:
                 continue
             else:
-                metre_squared = c.find_elements(by=By.CSS_SELECTOR, value="._2UELHn")
-                element = c.find_element(by=By.XPATH, value="//div[@class='_2UELHn']//span[contains(text(),'m2')]")
-                print(element.text)
+                elements = c.find_elements(by=By.CSS_SELECTOR, value="._2UELHn")
                 price = c.find_elements(by=By.CSS_SELECTOR, value="._2C5UCT")
                 location = c.find_elements(by=By.CSS_SELECTOR, value="._2wVG12")
                 try:
 
                     house_list.append({'price': int(price[0].text.replace('\n', '').replace('.', '').replace('TL', '')),
-                                           'location': location[0].text.replace('\n', ''),
-                                           'm2': int(element[1].text.replace(' m2', ''))})
+                                           'location': location[0].text.replace('\n', '')})
 
                 except:
                     pass
