@@ -22,19 +22,15 @@ def update_houses():
                 continue
             else:
                 metre_squared = c.find_elements(by=By.CSS_SELECTOR, value="._2UELHn")
-
+                element = c.find_element(by=By.XPATH, value="//div[@class='_2UELHn']//span[contains(text(),'m2')]")
+                print(element.text)
                 price = c.find_elements(by=By.CSS_SELECTOR, value="._2C5UCT")
                 location = c.find_elements(by=By.CSS_SELECTOR, value="._2wVG12")
                 try:
-                    for i in metre_squared:
-                        material_icons = browser.find_elements(by=By.CSS_SELECTOR, value=".material-icons")
-                        for m in material_icons:
-                            if m.text == 'texture':
-                                print(metre_squared[-1].text)
-                                # print("M2: " + int(metre_squared[count]).text.replace('m2', ''))
 
                     house_list.append({'price': int(price[0].text.replace('\n', '').replace('.', '').replace('TL', '')),
-                                                                  'location': location[0].text.replace('\n', '')})
+                                           'location': location[0].text.replace('\n', ''),
+                                           'm2': int(element[1].text.replace(' m2', ''))})
 
                 except:
                     pass
@@ -54,4 +50,4 @@ def update_houses():
 
 if __name__ == "__main__":
     update_houses()
-    # print(house_list)
+    print(house_list)
