@@ -28,7 +28,10 @@ def update_houses():
                 house_href = house_link.get_attribute("href")
                 print(house_href)
                 browser2.get(house_href)
-                house_info = browser2.find_elements(by=By.CSS_SELECTOR, value="._1bVOdb")
+                house_info = browser2.find_elements(by=By.CSS_SELECTOR, value="._35T4WV")
+                if count == 0:
+                    print(house_info[3].text)
+                    count += 1
                 # 7 -
                 elements = c.find_elements(by=By.CSS_SELECTOR, value="._2UELHn")
                 price = c.find_elements(by=By.CSS_SELECTOR, value="._2C5UCT")
