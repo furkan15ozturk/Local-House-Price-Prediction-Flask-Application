@@ -37,23 +37,23 @@ def update_houses():
                 # balcony_xpath = '//div[contains(text(), "Balkon Sayısı")]/following-sibling::div'
                 area_xpath = '//div[contains(text(), "Brüt Metrekare")]/following-sibling::div'
                 room_xpath = '//div[contains(text(), "Oda Sayısı")]/following-sibling::div'
-                bathroom_xpath = '//div[contains(text(), "Banyo Sayısı")]/following-sibling::div'
                 floor_count_xpath = '//div[contains(text(), "Binanın Kat Sayısı")]/following-sibling::div'
+                building_age_xpath = '//div[contains(text(), "Binanın Yaşı")]/following-sibling::div'
                 area_elements = browser2.find_elements(by=By.XPATH, value=area_xpath)
                 room_elements = browser2.find_elements(by=By.XPATH, value=room_xpath)
-                bathroom_elements = browser2.find_elements(by=By.XPATH, value=bathroom_xpath)
                 floor_count_elements = browser2.find_elements(by=By.XPATH, value=floor_count_xpath)
+                building_age_elements = browser2.find_elements(by=By.XPATH, value=building_age_xpath)
 
                 area_value = area_elements[0].text if area_elements else None
                 room_value = room_elements[0].text if room_elements else None
-                bathroom_value = bathroom_elements[0] if bathroom_elements else None
                 floor_count_value = floor_count_elements[0].text if floor_count_elements else None
+                building_age_value = building_age_elements[0].text if building_age_elements else None
 
                 if count == 0:
                     print("Area: " + area_value)
                     print("Room: " + room_value)
-                    print(bathroom_value.text)
                     print("Floor Count: " + floor_count_value)
+                    print("Building age: " + building_age_value)
                 count += 1
 
                 # 7 -
