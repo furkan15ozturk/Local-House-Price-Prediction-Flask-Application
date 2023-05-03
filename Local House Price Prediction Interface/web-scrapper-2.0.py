@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import re
 import os
@@ -13,7 +14,7 @@ def update_houses():
     edge_options.add_experimental_option("excludeSwitches", ["enable-automation"])
     edge_options.add_experimental_option('useAutomationExtension', False)
     browser = webdriver.Edge(f"{os.getcwd()}/msedgedriver.exe")
-    browser2 = webdriver.Edge(f"{os.getcwd()}/msedgedriver.exe")
+    # browser2 = webdriver.Edge(f"{os.getcwd()}/msedgedriver.exe")
     next_page = True
     while next_page:
         browser.get(link)  # opens the web browser
@@ -27,8 +28,12 @@ def update_houses():
                 house_link = c.find_element(by=By.CSS_SELECTOR, value="a")
                 house_href = house_link.get_attribute("href")
                 # print(house_href)
-                browser2.get(house_href)
                 # house_info = browser2.find_elements(by=By.CSS_SELECTOR, value="._35T4WV")
+
+                browser.find_element(by=By.TAG_NAME, value="body").send_keys(Keys.CONTROL + "t")
+                browser.switch_to.window(browser.window_handles[-1])
+
+                browser.get(house_href)
 
                 area_xpath = '//div[contains(text(), "Brüt Metrekare")]/following-sibling::div'
                 absolute_area_xpath = '//div[contains(text(), "Net Metrekare")]/following-sibling::div'
@@ -36,13 +41,13 @@ def update_houses():
                 floor_count_xpath = '//div[contains(text(), "Binanın Kat Sayısı")]/following-sibling::div'
                 building_age_xpath = '//div[contains(text(), "Binanın Yaşı")]/following-sibling::div'
 
-                area_elements = browser2.find_elements(by=By.XPATH, value=area_xpath)
-                absolute_area_elements = browser2.find_elements(by=By.XPATH, value=absolute_area_xpath)
-                room_elements = browser2.find_elements(by=By.XPATH, value=room_xpath)
-                floor_count_elements = browser2.find_elements(by=By.XPATH, value=floor_count_xpath)
-                building_age_elements = browser2.find_elements(by=By.XPATH, value=building_age_xpath)
-                price_element = browser2.find_elements(by=By.CSS_SELECTOR, value=".R-RKDB")
-                location_element = browser2.find_elements(by=By.CSS_SELECTOR, value="._3VQ1JB")
+                area_elements = browser.find_elements(by=By.XPATH, value=area_xpath)
+                absolute_area_elements = browser.find_elements(by=By.XPATH, value=absolute_area_xpath)
+                room_elements = browser.find_elements(by=By.XPATH, value=room_xpath)
+                floor_count_elements = browser.find_elements(by=By.XPATH, value=floor_count_xpath)
+                building_age_elements = browser.find_elements(by=By.XPATH, value=building_age_xpath)
+                price_element = browser.find_elements(by=By.CSS_SELECTOR, value=".R-RKDB")
+                location_element = browser.find_elements(by=By.CSS_SELECTOR, value="._3VQ1JB")
 
                 price = price_element[0].text.replace('.', '').replace('TL', '') if price_element else None
                 price_value = int(re.findall(r'\d+', price)[0])
@@ -86,16 +91,14 @@ def update_houses():
                                    'floor_count': floor_count_value,
                                    'building_age': building_age_value,
                                    'location': location_value})
-                #
-                # if count == 0:
-                #     print(house_list)
-                #     count += 1
+                time.sleep(0.5)
+                browser.close()
+                browser.switch_to.window(browser.window_handles[0])
         try:
             next_link = browser.find_element(by=By.XPATH, value="/html/body/div/div/div[3]/div[1]/div/div[7]/div["
                                                                 "1]/div[35]/div[1]/ul/li[3]/div")
             a = next_link.find_element(by=By.CSS_SELECTOR, value="a")
             link = a.get_attribute("href")
-            # print(link)
             next_page = True
         except:
             next_page = False
