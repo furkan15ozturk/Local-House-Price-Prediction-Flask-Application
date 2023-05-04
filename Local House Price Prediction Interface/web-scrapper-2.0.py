@@ -10,7 +10,7 @@ import time
 house_list = []
 def update_houses():
     edge_options = Options()
-    link = "https://www.emlakjet.com/satilik-konut/istanbul-arnavutkoy/"
+    link = "https://www.emlakjet.com/satilik-konut/istanbul-adalar/"
     edge_options.add_experimental_option("excludeSwitches", ["enable-automation"])
     edge_options.add_experimental_option('useAutomationExtension', False)
     browser = webdriver.Edge(f"{os.getcwd()}/msedgedriver.exe")
@@ -18,6 +18,7 @@ def update_houses():
     next_page = True
     while next_page:
         browser.get(link)  # opens the web browser
+        link = "https://www.dizibox.tv/the-big-bang-theory-6-sezon-1-bolum-hd-izle/"
         time.sleep(3)
         houses = browser.find_elements(by=By.CSS_SELECTOR, value="._3qUI9q")
         count = 0
@@ -96,18 +97,27 @@ def update_houses():
         #         browser.close()
         #         browser.switch_to.window(browser.window_handles[0])
         try:
+            print("girdim")
             browser.switch_to.window(browser.window_handles[0])
-            next_link = browser.find_element(by=By.XPATH, value="/html/body/div[1]/div/div[3]/div[1]/div/div[7]/div[1]/div[40]/div[1]/ul/li[8]/div")
 
-            # next_link = browser.find_element(by=By.CSS_SELECTOR, value="._3au2n_ OTUgAO")
-            a = next_link.find_element(by=By.CSS_SELECTOR, value="a")
-            link = a.get_attribute("href")
-            print(link)
-            print("aldım dost")
+            next_link = browser.find_elements(by=By.CSS_SELECTOR, value="._3au2n_")
+            # for i in next_link:
+            #     linkk = i.find_elements(by=By.TAG_NAME, value="a")
+            #     print(linkk[3].text)
+            # # print(next_link[-1].text)
+            # a = next_link.find_element(by=By.CSS_SELECTOR, value="href")
+            # print("hata 3")
+            # link = a.get_attribute("href")
+            for i in next_link:
+                if "Sonraki" in i.text:
+                    a = i.find_element(By.CSS_SELECTOR, "a")
+                    href_value = a.get_attribute("href")
+                    link = href_value
+                    print(i.text)
+                else:
+                    next_page = False
             next_page = True
         except:
-            print(link)
-            print("alamadım abiiii")
             next_page = False
             break
 
