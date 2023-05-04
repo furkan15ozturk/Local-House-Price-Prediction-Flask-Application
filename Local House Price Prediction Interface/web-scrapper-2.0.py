@@ -72,6 +72,8 @@ def update_houses(district):
                     room_value = eval(numbers[0] + '+' + numbers[1])
                 elif len(numbers) == 1:
                     room_value = int(numbers[0])
+                elif room == "9+ Oda":
+                    room_value = 9
                 else:
                     room_value = None
 
