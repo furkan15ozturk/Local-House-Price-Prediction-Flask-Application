@@ -31,7 +31,6 @@ def update_houses(district):
             else:
                 house_link = c.find_element(by=By.CSS_SELECTOR, value="a")
                 house_href = house_link.get_attribute("href")
-                # print(house_href)
                 # house_info = browser2.find_elements(by=By.CSS_SELECTOR, value="._35T4WV")
 
                 # browser.find_element(by=By.TAG_NAME, value="body").send_keys(Keys.CONTROL + "T")
@@ -76,9 +75,6 @@ def update_houses(district):
                     room_value = 9
                 else:
                     room_value = None
-
-                print(house_href)
-                print(room_value)
 
                 floor_count_value = int(floor_count_elements[0].text) if floor_count_elements else None
 
@@ -152,24 +148,24 @@ if __name__ == "__main__":
                       "kagithane", "kartal", "kucukcekmece", "maltepe", "pendik", "sancaktepe", "sariyer", "silivri",
                       "sultanbeyli", "sultangazi", "sile", "sisli", "tuzla", "umraniye", "uskudar", "zeytinburnu"]
 
-    # queue = queue.Queue()
-    #
-    # for district in district_names:
-    #     queue.put(district)
-    #
-    # threads = []
-    # for i in range(3):  # 3 threads
-    #     thread = threading.Thread(target=process_district, args=(queue,))
-    #     threads.append(thread)
-    #     thread.start()
-    #
-    # queue.join()
-    #
-    # for i in range(3):  # 3 threads
-    #     queue.put(None)
-    #
-    # for thread in threads:
-    #     thread.join()
+    queue = queue.Queue()
+
+    for district in district_names:
+        queue.put(district)
+
+    threads = []
+    for i in range(3):  # 3 threads
+        thread = threading.Thread(target=process_district, args=(queue,))
+        threads.append(thread)
+        thread.start()
+
+    queue.join()
+
+    for i in range(3):  # 3 threads
+        queue.put(None)
+
+    for thread in threads:
+        thread.join()
 
     # with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
     #     futures = [executor.submit(process_district, district) for district in district_names]
@@ -185,4 +181,4 @@ if __name__ == "__main__":
     # for thread in threads:
     #     thread.join()
 
-    update_houses("atasehir")
+    # update_houses("arnavutkoy")
