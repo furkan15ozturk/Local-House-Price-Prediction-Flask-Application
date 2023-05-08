@@ -1,0 +1,404 @@
+price,area,absolute_area,room,floor_count,building_age,location
+998000,90,80,3,4,4,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+6200000,120,100,3,5,18.5,Ýstanbul - Arnavutköy - Nenehatun Mahallesi
+1180000,95,90,3,5,18.5,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+3200000,170,165,5,5,0,Ýstanbul - Arnavutköy - Nenehatun Mahallesi
+1800000,120,115,4,5,0,Ýstanbul - Arnavutköy - Yunus Emre Mahallesi
+1300000,100,95,3,4,13.5,Ýstanbul - Arnavutköy - Haraççý Mahallesi
+1780000,75,71,3,10,13.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1550000,65,55,2,12,4,Ýstanbul - Arnavutköy - Deliklikaya Mahallesi
+1400000,150,130,4,3,21,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+4200000,190,180,6,5,1,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1850000,120,110,4,5,7.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+2800000,150,130,5,4,4,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+4500000,160,148,4.5,15,7.5,Ýstanbul - Arnavutköy - Yassýören Mahallesi
+2850000,135,125,4,5,13.5,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+3220000,200,190,3,5,0,Ýstanbul - Arnavutköy - Nenehatun Mahallesi
+1920000,100,90,3,5,0,Ýstanbul - Arnavutköy - Nenehatun Mahallesi
+2100000,100,90,3,5,7.5,Ýstanbul - Arnavutköy - Boðazköy Ýstiklal Mahallesi
+2300000,180,160,3,4,0,Ýstanbul - Arnavutköy - Nenehatun Mahallesi
+1560000,75,65,3,10,13.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+2500000,88,80,3,5,0,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+1219000,75,65,2,1,3,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+2990000,220,200,6,5,0,Ýstanbul - Arnavutköy - Yavuz Selim Mahallesi
+1090000,75,70,2.5,3,7.5,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+1350000,95,85,3,6,2,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2100000,95,85,3,10,13.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1900000,95,85,3,4,2,Ýstanbul - Arnavutköy - Haraççý Mahallesi
+2625000,200,185,6,3,13.5,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+1900000,105,90,3,4,7.5,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+3500000,210,190,7,4,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+3500000,180,160,6,3,0,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+19000000,590,240,6,2,13.5,Ýstanbul - Arnavutköy - Mareþal Fevzi Çakmak Mahallesi
+7500000,300,220,9,3,21,Ýstanbul - Arnavutköy - Karaburun Mahallesi
+19000000,590,310,8,3,13.5,Ýstanbul - Arnavutköy - Mareþal Fevzi Çakmak Mahallesi
+2900000,160,150,6,4,1,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+13000000,340,300,7,4,7.5,Ýstanbul - Arnavutköy - Karaburun Mahallesi
+1750000,95,90,3,5,3,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1820000,125,105,3,4,7.5,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2000000,110,90,3,3,0,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+2000000,220,45,3,1,0,Ýstanbul - Arnavutköy - Adnan Menderes Mahallesi
+1585000,150,140,5,4,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1920000,120,105,4,4,0,Ýstanbul - Arnavutköy - Atatürk Mahallesi
+2100000,100,90,3,4,0,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+1950000,130,125,4,4,13.5,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+1980000,95,90,3,9,13.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1710000,90,75,3,12,13.5,Ýstanbul - Arnavutköy - Ömerli Mahallesi
+1450000,117,104,4,4,7.5,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+15020000,350,340,3,5,0,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+5520000,125,85,3,2,1,Ýstanbul - Arnavutköy - Boðazköy Ýstiklal Mahallesi
+2985000,150,140,4,4,4,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+2650000,190,170,6,4,0,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+2350000,105,90,3,12,4,Ýstanbul - Arnavutköy - Deliklikaya Mahallesi
+4250000,170,140,4,4,4,Ýstanbul - Arnavutköy - Mavigöl Mahallesi
+6950000,235,200,6,3,18.5,Ýstanbul - Arnavutköy - Yeniköy Mahallesi
+1980000,95,85,3,4,2,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+2325000,100,90,3,5,4,Ýstanbul - Arnavutköy - Mavigöl Mahallesi
+1980000,100,95,3,4,7.5,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+2390000,115,90,3,2,0,Ýstanbul - Arnavutköy - Mehmet Akif Ersoy Mahallesi
+2590000,100,80,3,2,0,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+6200000,250,235,5,4,2,Ýstanbul - Arnavutköy - Haraççý Mahallesi
+1900000,90,80,3,4,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1450000,100,90,4,3,0,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+3000000,195,185,6,4,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2650000,120,100,4,3,0,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+3650000,220,200,7,3,0,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+4500000,120,110,4,2,13.5,Ýstanbul - Arnavutköy - Mareþal Fevzi Çakmak Mahallesi
+2000000,100,90,3,4,0,Ýstanbul - Arnavutköy - Bolluca Mahallesi
+3200000,255,235,7,4,4,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+3275000,210,185,6,4,4,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+2850000,200,190,6,4,7.5,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+2570000,150,140,4,6,4,Ýstanbul - Arnavutköy - Hastane Mahallesi
+1670000,120,110,3,4,7.5,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+1400000,90,85,3,4,0,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+780000,60,37,2,7,13.5,Ýstanbul - Arnavutköy - Fatih Mahallesi
+1290000,60,55,2,3,4,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+2300000,110,100,3,4,7.5,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+1820000,85,80,3,9,13.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1750000,100,90,3,5,0,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+4000000,165,150,4.5,15,7.5,Ýstanbul - Arnavutköy - Yassýören Mahallesi
+2550000,195,190,5,5,3,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+2200000,106,88,3,5,0,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1400000,75,50,2,10,0,Ýstanbul - Arnavutköy - Deliklikaya Mahallesi
+2500000,165,160,6,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1750000,90,85,3,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+4400000,120,110,4,2,13.5,Ýstanbul - Arnavutköy - Mareþal Fevzi Çakmak Mahallesi
+2575000,150,130,4,5,7.5,Ýstanbul - Arnavutköy - Hastane Mahallesi
+3250000,105,100,3,4,4,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+1150000,90,80,3,4,4,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1582000,85,70,3,4,7.5,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+9650000,350,320,7,4,21,Ýstanbul - Arnavutköy - Boðazköy Ýstiklal Mahallesi
+3520000,200,190,6,5,0,Ýstanbul - Arnavutköy - Haraççý Mahallesi
+3500000,200,180,6,3,7.5,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1600000,85,75,3,3,4,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+3685000,125,117,4,4,2,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1870000,100,90,3,4,0,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+11500000,440,380,9,4,7.5,Ýstanbul - Arnavutköy - Boðazköy Ýstiklal Mahallesi
+1185000,90,80,3,4,3,Ýstanbul - Arnavutköy - Atatürk Mahallesi
+1950000,95,80,3,4,4,Ýstanbul - Arnavutköy - Haraççý Mahallesi
+2010000,160,150,6,4,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2000000,90,85,3,5,3,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+3000000,185,180,6,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2000000,95,90,3,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1700000,85,75,3,4,4,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+2175000,135,120,4,5,7.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+2200000,95,80,3,5,7.5,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+2200000,114,90,3,10,0,Ýstanbul - Arnavutköy - Deliklikaya Mahallesi
+3075000,150,135,4,6,4,Ýstanbul - Arnavutköy - Hastane Mahallesi
+9750000,500,270,5,3,0,Ýstanbul - Arnavutköy - Durusu Mahallesi
+8500000,306,270,5,3,13.5,Ýstanbul - Arnavutköy - Durusu Mahallesi
+1750000,135,120,4,3,0,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+1850000,100,95,3,5,7.5,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2750000,135,120,4,4,0,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+1720000,85,75,3,10,13.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+4000000,200,180,6,4,0,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+1850000,95,85,3,4,0,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+2650000,80,75,3,4,0,Ýstanbul - Arnavutköy - Mareþal Fevzi Çakmak Mahallesi
+1850000,100,90,3,5,7.5,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+2550000,100,90,3,5,0,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+3100000,142,121,4,5,0,Ýstanbul - Arnavutköy - Hastane Mahallesi
+3150000,160,150,7,3,0,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+1399000,90,80,3,5,7.5,Ýstanbul - Arnavutköy - Haraççý Mahallesi
+3700000,115,100,4,6,13.5,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+3350000,200,190,5,4,0,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+950000,85,75,3,5,2,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2200000,105,95,4,4,0,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+1550000,80,75,3,5,3,Ýstanbul - Arnavutköy - Hastane Mahallesi
+2050000,190,170,4,2,13.5,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+12100000,180,160,4,2,2,Ýstanbul - Arnavutköy - Mavigöl Mahallesi
+1650000,90,85,3,5,4,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2350000,145,135,5,5,7.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+2550000,130,120,4,5,0,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1980000,85,80,3,5,13.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+2650000,130,120,4,5,0,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1650000,95,90,3,5,7.5,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2100000,110,90,3,4,7.5,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1870000,90,82,3,5,4,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+19500000,120,100,3,5,7.5,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+1300000,85,75,2,4,0,Ýstanbul - Arnavutköy - Nenehatun Mahallesi
+3000000,180,170,6,4,0,Ýstanbul - Arnavutköy - Nenehatun Mahallesi
+1165000,110,90,3,4,7.5,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+2750000,160,140,4,11,13.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+3650000,210,200,7,4,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+4550000,164,110,3,5,21,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+2800000,95,85,3,5,0,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+2000000,85,80,3,9,13.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+2570000,150,140,4,6,4,Ýstanbul - Arnavutköy - Hastane Mahallesi
+2200000,105,100,3,3,0,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1300000,90,80,3,4,7.5,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+1150000,95,85,3,4,7.5,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+2050000,160,150,4,4,0,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+2600000,100,85,3,5,2,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+3150000,175,165,5,3,1,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1750000,85,75,3,5,4,Ýstanbul - Arnavutköy - Mavigöl Mahallesi
+3250000,220,190,7,3,0,Ýstanbul - Arnavutköy - Mehmet Akif Ersoy Mahallesi
+1580000,85,75,3,14,13.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1799000,100,90,3,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1300000,100,90,3,4,21,Ýstanbul - Arnavutköy - Haraççý Mahallesi
+2150000,112,105,4,5,0,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+150000,950,900,9,6,13.5,Ýstanbul - Arnavutköy - Yavuz Selim Mahallesi
+11750000,165,100,3,5,4,Ýstanbul - Arnavutköy - Atatürk Mahallesi
+3320000,200,190,6,5,0,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+3520000,200,190,6,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2120000,160,150,6,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+3320000,220,210,7,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2320000,110,100,4,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1950000,100,90,3,5,7.5,Ýstanbul - Arnavutköy - Mavigöl Mahallesi
+2900000,120,112,3,3,18.5,Ýstanbul - Arnavutköy - Yunus Emre Mahallesi
+1750000,95,90,3,5,3,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+2900000,180,140,6,5,3,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1850000,95,94,3,5,13.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1300000,130,125,4,3,18.5,Ýstanbul - Arnavutköy - Boðazköy Ýstiklal Mahallesi
+2500000,200,180,6,4,1,Ýstanbul - Arnavutköy - Boðazköy Ýstiklal Mahallesi
+2550000,200,175,5,5,4,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+6350000,171,170,3,5,7.5,Ýstanbul - Arnavutköy - Boðazköy Ýstiklal Mahallesi
+2500000,170,165,5,5,0,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+6350000,125,120,3,5,7.5,Ýstanbul - Arnavutköy - Atatürk Mahallesi
+2100000,155,150,3,1,21,Ýstanbul - Arnavutköy - Boðazköy Ýstiklal Mahallesi
+3200000,100,99,9,3,13.5,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+3350000,210,185,6,4,4,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+2000000,100,90,3,4,0,Ýstanbul - Arnavutköy - Bolluca Mahallesi
+1670000,120,110,3,4,7.5,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+1549999,84,60,3,11,4,Ýstanbul - Arnavutköy - Deliklikaya Mahallesi
+2575000,120,117,4,5,4,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+3500000,200,195,6,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2350000,95,90,3,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+3650000,210,180,8,2,18.5,Ýstanbul - Arnavutköy - Ýmrahor Mahallesi
+2575000,160,145,5,4,0,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+2350000,90,70,3,3,0,Ýstanbul - Arnavutköy - Mavigöl Mahallesi
+11000000,260,240,6,4,0,Ýstanbul - Arnavutköy - Karaburun Mahallesi
+5500000,120,110,4,2,13.5,Ýstanbul - Arnavutköy - Mareþal Fevzi Çakmak Mahallesi
+1600000,145,144,4.5,5,7.5,Ýstanbul - Arnavutköy - Adnan Menderes Mahallesi
+2950000,185,175,5,5,7.5,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+2320000,110,100,4,5,0,Ýstanbul - Arnavutköy - Atatürk Mahallesi
+1550000,95,90,3,5,3,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+2320000,110,100,4,5,0,Ýstanbul - Arnavutköy - Atatürk Mahallesi
+2800000,195,190,8,5,0,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+3520000,220,210,8,5,0,Ýstanbul - Arnavutköy - Atatürk Mahallesi
+1920000,180,170,5,5,0,Ýstanbul - Arnavutköy - Atatürk Mahallesi
+1050000,85,75,3,4,7.5,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+950000,65,55,2,4,7.5,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2020000,160,150,4,5,0,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+1770000,160,15,3,5,0,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+1520000,120,110,3,5,0,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+3100000,180,170,6,4,0,Ýstanbul - Arnavutköy - Haraççý Mahallesi
+1985000,140,130,4,4,1,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+2500000,234,195,6,5,7.5,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1750000,135,130,4,4,4,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+3250000,255,235,7,4,4,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+6000000,230,210,6,3,18.5,Ýstanbul - Arnavutköy - Çilingir Mahallesi
+1150000,90,85,3,4,7.5,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+1675000,95,80,3,3,0,Ýstanbul - Arnavutköy - Mehmet Akif Ersoy Mahallesi
+1850000,135,110,4,3,0,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+1285000,92,85,3,5,7.5,Ýstanbul - Arnavutköy - Hastane Mahallesi
+1180000,85,75,3,4,1,Ýstanbul - Arnavutköy - Haraççý Mahallesi
+2925000,200,190,6,4,7.5,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2050000,200,180,7,3,7.5,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+2700000,85,80,3,4,0,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+2900000,190,175,6,4,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1600000,84,60,3,11,4,Ýstanbul - Arnavutköy - Deliklikaya Mahallesi
+1750000,90,80,3,4,4,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+6500000,570,569,4,2,13.5,Ýstanbul - Arnavutköy - Ýmrahor Mahallesi
+3400000,220,210,7,3,0,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+1650000,100,90,3,3,0,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+1650000,115,110,3,4,7.5,Ýstanbul - Arnavutköy - Atatürk Mahallesi
+6250000,445,400,9,4,18.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1900000,98,89,3,7,0,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+2550000,135,125,3,5,2,Ýstanbul - Arnavutköy - Yunus Emre Mahallesi
+3250000,250,220,6,2,7.5,Ýstanbul - Arnavutköy - Yunus Emre Mahallesi
+2300000,170,160,5,4,7.5,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+990000,90,80,3,4,13.5,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+2290000,100,80,3,2,0,Ýstanbul - Arnavutköy - Mehmet Akif Ersoy Mahallesi
+2600000,130,120,4,4,1,Ýstanbul - Arnavutköy - Hicret Mahallesi
+2350000,160,150,6,4,0,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+5600000,300,280,4,3,13.5,Ýstanbul - Arnavutköy - Nenehatun Mahallesi
+2000000,150,140,4,3,13.5,Ýstanbul - Arnavutköy - Hastane Mahallesi
+2350000,125,110,4,4,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+3500000,600,80,3,1,7.5,Ýstanbul - Arnavutköy - Tayakadýn Mahallesi
+2050000,150,125,4,5,1,Ýstanbul - Arnavutköy - Mavigöl Mahallesi
+18500000,280,260,7,3,0,Ýstanbul - Arnavutköy - Terkos Mahallesi
+9100000,350,250,8,4,0,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+8500000,450,400,10,3,13.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1750000,110,95,3,4,2,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+2150000,115,100,3,3,0,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+1250000,75,65,2,3,4,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+3265000,200,170,5,5,2,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+1550000,85,84,3,5,1,Ýstanbul - Arnavutköy - Hastane Mahallesi
+2075000,100,90,3,6,0,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1550000,95,85,3,6,0,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+2400000,160,150,5,4,0,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+3100000,120,110,4,5,0,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+1625000,95,85,3,4,0,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+1300000,80,75,3,4,3,Ýstanbul - Arnavutköy - Haraççý Mahallesi
+3050000,135,130,4,5,18.5,Ýstanbul - Arnavutköy - Boðazköy Ýstiklal Mahallesi
+17000000,90,80,9,2,2,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+27000000,1050,1000,9,5,7.5,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+4300000,140,135,5,2,7.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+4350000,132,120,3,3,18.5,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1900000,110,100,3,5,0,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+1750000,85,75,3,3,0,Ýstanbul - Arnavutköy - Yunus Emre Mahallesi
+3050000,190,180,6,6,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1775000,115,100,3,5,3,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+65000,21,20,2,1,0,Ýstanbul - Arnavutköy - Bolluca Mahallesi
+1870000,84,74,3,10,7.5,Ýstanbul - Arnavutköy - Deliklikaya Mahallesi
+2250000,115,105,4,4,0,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+2500000,95,90,3,5,2,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+3000000,150,121,4,14,7.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1850000,100,95,3,4,7.5,Ýstanbul - Arnavutköy - Mavigöl Mahallesi
+2500000,200,180,5,4,0,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+2250000,140,120,6,12,4,Ýstanbul - Arnavutköy - Deliklikaya Mahallesi
+28500000,110,100,3,5,13.5,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+1100000,100,90,3,5,7.5,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2800000,90,85,3,3,13.5,Ýstanbul - Arnavutköy - Mehmet Akif Ersoy Mahallesi
+2750000,90,85,3,6,0,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+1340000,95,85,3,5,4,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+2600000,130,120,4,5,13.5,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+2800000,95,85,3,5,3,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+2200000,190,180,6,5,7.5,Ýstanbul - Arnavutköy - Boðazköy Ýstiklal Mahallesi
+1750000,125,120,3,5,4,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+2250000,115,90,3,14,7.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1430000,95,85,3,4,4,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1550000,75,65,3,10,13.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+2650000,200,190,6,4,7.5,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+1350000,120,90,3,4,0,Ýstanbul - Arnavutköy - Nenehatun Mahallesi
+1365000,95,85,3,5,4,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+3650000,130,120,4,6,4,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+3600000,135,130,4,5,0,Ýstanbul - Arnavutköy - Bolluca Mahallesi
+5600000,250,240,6,5,0,Ýstanbul - Arnavutköy - Bolluca Mahallesi
+6600000,210,200,5,5,0,Ýstanbul - Arnavutköy - Bolluca Mahallesi
+2450000,115,100,3,15,13.5,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+3375000,270,260,6,5,0,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+1850000,110,95,3,4,2,Ýstanbul - Arnavutköy - Mavigöl Mahallesi
+1300000,110,90,3,4,4,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+3925000,150,130,4,6,13.5,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+2550000,150,140,4,3,21,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+3450000,190,139,6,5,0,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+2450000,98,72,3,5,0,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+1950000,95,72,3,5,0,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+1450000,105,95,3,5,7.5,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+2160000,190,180,6,5,4,Ýstanbul - Arnavutköy - Boðazköy Ýstiklal Mahallesi
+2100000,110,100,3,3,2,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+3100000,110,81,3,4,0,Ýstanbul - Arnavutköy - Mareþal Fevzi Çakmak Mahallesi
+2250000,100,95,3,4,4,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+2000000,110,95,3,3,0,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+1800000,105,95,3,4,0,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+2800000,230,210,8,6,13.5,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+3460000,170,140,4,4,4,Ýstanbul - Arnavutköy - Mavigöl Mahallesi
+4990000,245,180,5,2,0,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+1800000,80,75,3,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1650000,90,80,3,6,7.5,Ýstanbul - Arnavutköy - Yunus Emre Mahallesi
+100000,200,190,4,6,0,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+1530000,90,80,3,4,7.5,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+1450000,85,75,3,4,4,Ýstanbul - Arnavutköy - Haraççý Mahallesi
+1850000,90,85,3,5,2,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+1000000,80,70,2,5,0,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+2300000,90,85,3,5,0,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+20500000,200,175,5,2,13.5,Ýstanbul - Arnavutköy - Karaburun Mahallesi
+2700000,185,180,6,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2420000,160,150,6,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2800000,180,160,6,5,7.5,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2250000,84,78,3,10,7.5,Ýstanbul - Arnavutköy - Deliklikaya Mahallesi
+1499000,125,120,3,1,7.5,Ýstanbul - Arnavutköy - Yavuz Selim Mahallesi
+1850000,175,170,6,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1800000,90,85,3,5,4,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+3520000,210,200,6,5,0,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+2820000,160,150,4,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1750000,85,75,6,5,0,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+8150000,655,650,7,2,7.5,Ýstanbul - Arnavutköy - Karaburun Mahallesi
+7200000,700,600,6,2,21,Ýstanbul - Arnavutköy - Terkos Mahallesi
+1725000,80,70,3,3,1,Ýstanbul - Arnavutköy - Nenehatun Mahallesi
+1850000,105,100,3,4,7.5,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+2550000,210,195,6,5,0,Ýstanbul - Arnavutköy - Yunus Emre Mahallesi
+7900000,280,250,5,4,7.5,Ýstanbul - Arnavutköy - Boðazköy Ýstiklal Mahallesi
+8500000,350,300,9,4,13.5,Ýstanbul - Arnavutköy - Yeniköy Mahallesi
+2500000,125,120,4,10,7.5,Ýstanbul - Arnavutköy - Ömerli Mahallesi
+6100000,150,130,4,4,18.5,Ýstanbul - Arnavutköy - Atatürk Mahallesi
+1500000,80,75,3,5,7.5,Ýstanbul - Arnavutköy - Bolluca Mahallesi
+3500000,205,200,7,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+3320000,230,220,7,5,0,Ýstanbul - Arnavutköy - Mehmet Akif Ersoy Mahallesi
+3320000,250,240,7,5,0,Ýstanbul - Arnavutköy - Mehmet Akif Ersoy Mahallesi
+2770000,250,240,7,5,0,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+2670000,95,90,3,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2400000,180,170,6,5,0,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+2500000,95,80,3,5,0,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+3250000,190,183,3,5,21,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+3650000,190,180,4,4,18.5,Ýstanbul - Arnavutköy - Yunus Emre Mahallesi
+1750000,90,80,3,5,4,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+3750000,130,122,3,3,18.5,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1490000,130,120,4,5,7.5,Ýstanbul - Arnavutköy - Adnan Menderes Mahallesi
+2850000,115,87,4,6,13.5,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+1600000,68,57,2,12,4,Ýstanbul - Arnavutköy - Deliklikaya Mahallesi
+2300000,180,170,6,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1720000,100,90,3,5,0,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+1720000,100,90,3,5,0,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+2620000,210,200,6,5,0,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+3270000,200,190,6,5,0,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+1870000,110,100,4,5,0,Ýstanbul - Arnavutköy - Atatürk Mahallesi
+2950000,170,150,4,4,2,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+3220000,180,170,6,5,0,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+1820000,90,85,3,5,0,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+1920000,90,85,3,5,0,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+1600000,100,90,3,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2500000,180,150,6,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1650000,135,130,4,2,13.5,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+3420000,210,200,6,5,0,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+3420000,210,200,6,5,0,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+1970000,150,145,5,5,0,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+3420000,210,200,6,5,0,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+3420000,210,200,6,5,0,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+3100000,190,185,6,5,0,Ýstanbul - Arnavutköy - Taþoluk Mahallesi
+12250000,352,250,3,4,0,Ýstanbul - Arnavutköy - Mareþal Fevzi Çakmak Mahallesi
+3050000,210,200,6,5,7.5,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+10500000,172,127,4,20,0,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+10650000,360,320,8,3,7.5,Ýstanbul - Arnavutköy - Boðazköy Ýstiklal Mahallesi
+1470000,130,120,3,5,0,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+4020000,190,180,6,5,0,Ýstanbul - Arnavutköy - Mustafa Kemal Paþa Mahallesi
+155000,22,21,2,1,7.5,Ýstanbul - Arnavutköy - Arnavutköy Merkez Mahallesi
+1950000,120,110,3,2,21,Ýstanbul - Arnavutköy - Yunus Emre Mahallesi
+1675000,150,140,5,4,0,Ýstanbul - Arnavutköy - Atatürk Mahallesi
+7500000,132,96,4,20,0,Ýstanbul - Arnavutköy - Hadýmköy Mahallesi
+12500000,380,320,7,3,3,Ýstanbul - Arnavutköy - Boðazköy Ýstiklal Mahallesi
+8600000,345,340,3,1,21,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+6600000,525,520,3,5,0,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+1600000,68,57,2,12,4,Ýstanbul - Arnavutköy - Deliklikaya Mahallesi
+2150000,180,176,3,3,18.5,Ýstanbul - Arnavutköy - Ýslambey Mahallesi
+500000,125,105,4,7,0,Ýstanbul - Arnavutköy - Mehmet Akif Ersoy Mahallesi
+2750000,190,180,6,4,3,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+9350000,300,245,7,3,0,Ýstanbul - Arnavutköy - Mareþal Fevzi Çakmak Mahallesi
+7000000,240,200,5,2,18.5,Ýstanbul - Arnavutköy - Boyalýk Mahallesi
+18350000,545,500,9,3,0,Ýstanbul - Arnavutköy - Mareþal Fevzi Çakmak Mahallesi
+10000000,420,150,4,2,21,Ýstanbul - Arnavutköy - Karaburun Mahallesi
+1950000,125,120,4,5,0,Ýstanbul - Arnavutköy - Boðazköy Ýstiklal Mahallesi
+1750000,60,58,2,12,7.5,Ýstanbul - Arnavutköy - Deliklikaya Mahallesi
+7500000,270,220,5,2,18.5,Ýstanbul - Arnavutköy - Boyalýk Mahallesi
+2920000,90,80,3,4,0,Ýstanbul - Arnavutköy - Karlýbayýr Mahallesi
+2850000,190,180,6,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+1900000,100,95,3,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+14550000,161,113,5,2,0,Ýstanbul - Arnavutköy - Balaban Mahallesi
+19400000,161,113,5,2,0,Ýstanbul - Arnavutköy - Balaban Mahallesi
+1000000,95,85,3,5,0,Ýstanbul - Arnavutköy - Haraççý Mahallesi
+4200000,420,300,3,3,7.5,Ýstanbul - Arnavutköy - Karaburun Mahallesi
+3500000,200,190,7,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+2100000,180,170,6,5,0,Ýstanbul - Arnavutköy - Anadolu Mahallesi
+3600000,190,170,7,5,0,Ýstanbul - Arnavutköy - Bolluca Mahallesi
+2530000,140,120,2,2,4,Ýstanbul - Arnavutköy - Haraççý Mahallesi
