@@ -1,5 +1,5 @@
 from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.edge.options import Options
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import re
@@ -15,9 +15,11 @@ def update_houses(district):
     house_list = []
     edge_options = Options()
     link = "https://www.emlakjet.com/satilik-konut/istanbul-" + district + "/"
+    edge_options.add_argument('--headless')
     edge_options.add_experimental_option("excludeSwitches", ["enable-automation"])
     edge_options.add_experimental_option('useAutomationExtension', False)
-    browser = webdriver.Edge(f"{os.getcwd()}/msedgedriver.exe")
+    browser = webdriver.Edge(f"{os.getcwd()}/msedgedriver.exe", options=edge_options)
+    # browser = webdriver.Chrome(f"{os.getcwd()}/chromedriver.exe")
     # browser2 = webdriver.Edge(f"{os.getcwd()}/msedgedriver.exe")
     next_page = True
     while next_page:
@@ -91,7 +93,6 @@ def update_houses(district):
                     building_age_value = 21
                 else:
                     building_age_value = int(building_age)
-
                 house_list.append({'price': price_value,
                                    'area': area_value,
                                    'absolute_area': absolute_area_value,
@@ -99,7 +100,7 @@ def update_houses(district):
                                    'floor_count': floor_count_value,
                                    'building_age': building_age_value,
                                    'location': location_value})
-                time.sleep(0.5)
+                print(house_href)
                 browser.close()
                 browser.switch_to.window(browser.window_handles[0])
 
@@ -154,7 +155,7 @@ if __name__ == "__main__":
         queue.put(district)
 
     threads = []
-    for i in range(3):  # 3 threads
+    for i in range(1):  # 3 threads
         thread = threading.Thread(target=process_district, args=(queue,))
         threads.append(thread)
         thread.start()
@@ -181,4 +182,5 @@ if __name__ == "__main__":
     # for thread in threads:
     #     thread.join()
 
-    # update_houses("arnavutkoy")
+    # update_houses("avcilar")
+
