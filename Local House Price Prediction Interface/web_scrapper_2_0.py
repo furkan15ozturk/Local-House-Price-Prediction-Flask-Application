@@ -40,66 +40,68 @@ def update_houses(district):
                 browser.switch_to.window(browser.window_handles[-1])
 
                 browser.get(house_href)
+                try:
+                    area_xpath = '//div[contains(text(), "Brüt Metrekare")]/following-sibling::div'
+                    absolute_area_xpath = '//div[contains(text(), "Net Metrekare")]/following-sibling::div'
+                    room_xpath = '//div[contains(text(), "Oda Sayısı")]/following-sibling::div'
+                    floor_count_xpath = '//div[contains(text(), "Binanın Kat Sayısı")]/following-sibling::div'
+                    building_age_xpath = '//div[contains(text(), "Binanın Yaşı")]/following-sibling::div'
 
-                area_xpath = '//div[contains(text(), "Brüt Metrekare")]/following-sibling::div'
-                absolute_area_xpath = '//div[contains(text(), "Net Metrekare")]/following-sibling::div'
-                room_xpath = '//div[contains(text(), "Oda Sayısı")]/following-sibling::div'
-                floor_count_xpath = '//div[contains(text(), "Binanın Kat Sayısı")]/following-sibling::div'
-                building_age_xpath = '//div[contains(text(), "Binanın Yaşı")]/following-sibling::div'
+                    area_elements = browser.find_elements(by=By.XPATH, value=area_xpath)
+                    absolute_area_elements = browser.find_elements(by=By.XPATH, value=absolute_area_xpath)
+                    room_elements = browser.find_elements(by=By.XPATH, value=room_xpath)
+                    floor_count_elements = browser.find_elements(by=By.XPATH, value=floor_count_xpath)
+                    building_age_elements = browser.find_elements(by=By.XPATH, value=building_age_xpath)
+                    price_element = browser.find_elements(by=By.CSS_SELECTOR, value=".R-RKDB")
+                    location_element = browser.find_elements(by=By.CSS_SELECTOR, value="._3VQ1JB")
 
-                area_elements = browser.find_elements(by=By.XPATH, value=area_xpath)
-                absolute_area_elements = browser.find_elements(by=By.XPATH, value=absolute_area_xpath)
-                room_elements = browser.find_elements(by=By.XPATH, value=room_xpath)
-                floor_count_elements = browser.find_elements(by=By.XPATH, value=floor_count_xpath)
-                building_age_elements = browser.find_elements(by=By.XPATH, value=building_age_xpath)
-                price_element = browser.find_elements(by=By.CSS_SELECTOR, value=".R-RKDB")
-                location_element = browser.find_elements(by=By.CSS_SELECTOR, value="._3VQ1JB")
+                    price = price_element[0].text.replace('.', '').replace('TL', '') if price_element else None
+                    price_value = int(re.findall(r'\d+', price)[0])
 
-                price = price_element[0].text.replace('.', '').replace('TL', '') if price_element else None
-                price_value = int(re.findall(r'\d+', price)[0])
+                    location = location_element[0].text if location_element else None
+                    location_value = location.replace('location_on\n', '')
 
-                location = location_element[0].text if location_element else None
-                location_value = location.replace('location_on\n', '')
+                    area = area_elements[0].text if area_elements else None
+                    area_value = int(area.replace(' M2', '').replace('.', ''))
 
-                area = area_elements[0].text if area_elements else None
-                area_value = int(area.replace(' M2', '').replace('.', ''))
+                    absolute_area = absolute_area_elements[0].text if absolute_area_elements else None
+                    absolute_area_value = int(absolute_area.replace(' M2', '').replace('.', ''))
 
-                absolute_area = absolute_area_elements[0].text if absolute_area_elements else None
-                absolute_area_value = int(absolute_area.replace(' M2', '').replace('.', ''))
+                    room = room_elements[0].text if room_elements else None
+                    numbers = re.findall(r'\d+\.\d+|\d+', room)
+                    if len(numbers) == 2:
+                        room_value = eval(numbers[0] + '+' + numbers[1])
+                    elif len(numbers) == 1:
+                        room_value = int(numbers[0])
+                    elif room == "9+ Oda":
+                        room_value = 9
+                    else:
+                        room_value = None
 
-                room = room_elements[0].text if room_elements else None
-                numbers = re.findall(r'\d+\.\d+|\d+', room)
-                if len(numbers) == 2:
-                    room_value = eval(numbers[0] + '+' + numbers[1])
-                elif len(numbers) == 1:
-                    room_value = int(numbers[0])
-                elif room == "9+ Oda":
-                    room_value = 9
-                else:
-                    room_value = None
+                    floor_count_value = int(floor_count_elements[0].text) if floor_count_elements else None
 
-                floor_count_value = int(floor_count_elements[0].text) if floor_count_elements else None
-
-                building_age = building_age_elements[0].text.lower() if building_age_elements else None
-                if building_age == "0 (yeni)":
-                    building_age_value = 0
-                elif building_age == "5-10":
-                    building_age_value = 7.5
-                elif building_age == "11-15":
-                    building_age_value = 13.5
-                elif building_age == "16-20":
-                    building_age_value = 18.5
-                elif building_age == "21 ve üzeri":
-                    building_age_value = 21
-                else:
-                    building_age_value = int(building_age)
-                house_list.append({'price': price_value,
-                                   'area': area_value,
-                                   'absolute_area': absolute_area_value,
-                                   'room': room_value,
-                                   'floor_count': floor_count_value,
-                                   'building_age': building_age_value,
-                                   'location': location_value})
+                    building_age = building_age_elements[0].text.lower() if building_age_elements else None
+                    if building_age == "0 (yeni)":
+                        building_age_value = 0
+                    elif building_age == "5-10":
+                        building_age_value = 7.5
+                    elif building_age == "11-15":
+                        building_age_value = 13.5
+                    elif building_age == "16-20":
+                        building_age_value = 18.5
+                    elif building_age == "21 ve üzeri":
+                        building_age_value = 21
+                    else:
+                        building_age_value = int(building_age)
+                    house_list.append({'price': price_value,
+                                       'area': area_value,
+                                       'absolute_area': absolute_area_value,
+                                       'room': room_value,
+                                       'floor_count': floor_count_value,
+                                       'building_age': building_age_value,
+                                       'location': location_value})
+                except:
+                    print("hata")
                 print(house_href)
                 browser.close()
                 browser.switch_to.window(browser.window_handles[0])
@@ -143,11 +145,13 @@ def process_district(queue):
 
 
 if __name__ == "__main__":
-    district_names = ["adalar", "arnavutkoy", "atasehir", "avcilar", "bagcilar", "bahcelievler", "bakirkoy",
-                      "basaksehir", "bayrampasa", "besiktas", "beykoz", "beylikduzu", "beyoglu", "buyukcekmece",
-                      "catalca", "cekmekoy", "esenyurt", "eyupsultan", "fatih", "gaziosmanpasa", "gungoren", "kadikoy",
-                      "kagithane", "kartal", "kucukcekmece", "maltepe", "pendik", "sancaktepe", "sariyer", "silivri",
-                      "sultanbeyli", "sultangazi", "sile", "sisli", "tuzla", "umraniye", "uskudar", "zeytinburnu"]
+    # district_names = ["adalar", "arnavutkoy", "atasehir", "avcilar", "bagcilar", "bahcelievler", "bakirkoy",
+    #                   "basaksehir", "bayrampasa", "besiktas", "beykoz", "beylikduzu", "beyoglu", "buyukcekmece",
+    #                   "catalca", "cekmekoy", "esenyurt", "eyupsultan", "fatih", "gaziosmanpasa", "gungoren", "kadikoy",
+    #                   "kagithane", "kartal", "kucukcekmece", "maltepe", "pendik", "sancaktepe", "sariyer", "silivri",
+    #                   "sultanbeyli", "sultangazi", "sile", "sisli", "tuzla", "umraniye", "uskudar", "zeytinburnu"]
+
+    district_names = ["avcilar"]
 
     queue = queue.Queue()
 
