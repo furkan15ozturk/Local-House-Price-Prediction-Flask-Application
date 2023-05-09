@@ -145,8 +145,7 @@ def process_district(queue):
 
 
 if __name__ == "__main__":
-    district_names = ["bagcilar", "bahcelievler", "bakirkoy",
-                      "basaksehir", "bayrampasa", "besiktas", "beykoz", "beylikduzu", "beyoglu", "buyukcekmece",
+    district_names = ["buyukcekmece",
                       "catalca", "cekmekoy", "esenyurt", "eyupsultan", "fatih", "gaziosmanpasa", "gungoren", "kadikoy",
                       "kagithane", "kartal", "kucukcekmece", "maltepe", "pendik", "sancaktepe", "sariyer", "silivri",
                       "sultanbeyli", "sultangazi", "sile", "sisli", "tuzla", "umraniye", "uskudar", "zeytinburnu"]
