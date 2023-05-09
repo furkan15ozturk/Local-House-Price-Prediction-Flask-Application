@@ -145,13 +145,13 @@ def process_district(queue):
 
 
 if __name__ == "__main__":
-    # district_names = ["adalar", "arnavutkoy", "atasehir", "avcilar", "bagcilar", "bahcelievler", "bakirkoy",
-    #                   "basaksehir", "bayrampasa", "besiktas", "beykoz", "beylikduzu", "beyoglu", "buyukcekmece",
-    #                   "catalca", "cekmekoy", "esenyurt", "eyupsultan", "fatih", "gaziosmanpasa", "gungoren", "kadikoy",
-    #                   "kagithane", "kartal", "kucukcekmece", "maltepe", "pendik", "sancaktepe", "sariyer", "silivri",
-    #                   "sultanbeyli", "sultangazi", "sile", "sisli", "tuzla", "umraniye", "uskudar", "zeytinburnu"]
+    district_names = ["bagcilar", "bahcelievler", "bakirkoy",
+                      "basaksehir", "bayrampasa", "besiktas", "beykoz", "beylikduzu", "beyoglu", "buyukcekmece",
+                      "catalca", "cekmekoy", "esenyurt", "eyupsultan", "fatih", "gaziosmanpasa", "gungoren", "kadikoy",
+                      "kagithane", "kartal", "kucukcekmece", "maltepe", "pendik", "sancaktepe", "sariyer", "silivri",
+                      "sultanbeyli", "sultangazi", "sile", "sisli", "tuzla", "umraniye", "uskudar", "zeytinburnu"]
 
-    district_names = ["avcilar"]
+    # district_names = ["avcilar"]
 
     queue = queue.Queue()
 
