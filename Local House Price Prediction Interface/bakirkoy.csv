@@ -1,0 +1,768 @@
+price,area,absolute_area,room,floor_count,building_age,location
+7500000,100,80,3,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+5250000,95,80,3,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+10500000,145,120,4,3,7.5,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+3950000,125,120,4,4,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+6950000,130,120,4,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+3250000,105,97,4,4,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+6650000,125,115,4,5,7.5,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+6300000,115,105,4,5,0,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+14000000,140,136,4,4,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+19000000,156,120,3,18,4,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+6000000,125,120,4,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+20000000,180,160,5,4,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+8500000,135,115,4,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+10500000,145,120,4,4,7.5,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+1950000,90,80,3,4,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+2100000,90,80,3,4,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+1550000,70,50,2,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+7000000,130,115,4,5,3,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+4650000,130,120,4,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+12000000,175,135,4,4,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+2850000,120,100,4,7,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+23000000,220,172,5,4,4,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+25500000,320,280,7,4,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+19800000,160,130,3,20,7.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+7750000,105,88,3,9,2,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+1700000,85,80,3,4,21,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+12500000,200,175,6,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+3150000,40,30,2,18,13.5,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+7600000,130,120,4,5,7.5,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+5000000,100,90,3,4,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+36000000,310,210,5,17,2,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+2750000,95,90,3,5,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+42000000,360,260,6,16,2,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+22000000,345,270,7,4,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+8750000,135,125,3,4,21,Ýstanbul - Bakýrköy - Yeþilyurt Mahallesi
+7000000,110,80,3,4,21,Ýstanbul - Bakýrköy - Ataköy 3-4-11. Kýsým Mahallesi
+5750000,85,75,3,4,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+3000000,105,100,3,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+3500000,92,85,3,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+47500000,363,270,5.5,20,0,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+22000000,345,270,7,4,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+14250000,145,135,4,5,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+3200000,110,85,2,5,4,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+3500000,130,110,4,4,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+14500000,300,280,5,2,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+8500000,135,115,4,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+4250000,110,95,3,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+9500000,120,100,4,4,0,Ýstanbul - Bakýrköy - Yeþilyurt Mahallesi
+24000000,212,132,4,4,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+3150000,100,85,3,4,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+8500000,135,115,4,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+10950000,170,150,5,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+10500000,120,100,4,4,0,Ýstanbul - Bakýrköy - Yeþilyurt Mahallesi
+8500000,125,105,4,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+7450000,92,62,2,17,0,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+77000000,618,421,6,17,2,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+34000000,310,210,5,16,2,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+9500000,136,95,2,16,2,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+5850000,105,100,3,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+3750000,120,110,4,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+4500000,175,160,6,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+5250000,95,80,3,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+9750000,2230,220,5,4,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+2790000,120,90,3,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+10000000,155,145,4,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+8750000,135,125,3,4,21,Ýstanbul - Bakýrköy - Yeþilyurt Mahallesi
+29500000,260,245,5,5,7.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+2700000,37,35,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+29000000,260,245,5,3,7.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+9000000,200,185,4,5,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+13900000,260,250,5,4,13.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+1650000,70,50,2,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+6900000,130,90,3,9,4,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+6900000,135,125,4,6,21,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+5500000,110,80,3,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+6900000,120,100,3,5,1,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+9000000,160,135,4,5,0,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+25000000,300,240,6,4,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+17500000,230,200,5,4,4,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+5000000,80,70,3,5,0,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+14500000,300,250,6,5,7.5,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+30500000,265,230,5,3,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+47500000,363,337,6,17,0,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+9425000,95,75,2,17,0,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+2250000,85,80,3,4,21,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+12500000,200,175,6,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+29500000,260,240,5,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+34500000,270,240,5,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+2750000,88,85,3,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+2250000,80,65,2,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+5000000,100,90,3,4,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+7750000,105,88,3,9,2,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+3500000,130,115,4,5,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+55000000,500,450,9,4,7.5,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+8500000,135,115,4,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+32000000,260,240,5,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+8750000,130,115,4,4,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+26000000,200,180,5,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+11500000,130,120,4,5,7.5,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+3300000,110,100,4,5,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+14950000,320,280,6,3,21,Ýstanbul - Bakýrköy - Basýnköy Mahallesi
+8500000,220,200,5,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+1620000,75,70,3,4,21,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+19500000,211,132,4,4,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+2750000,45,33,2,17,4,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+20500000,211,132,4,4,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+34000000,270,210,5,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+3950000,145,115,4,4,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+3700000,140,130,4,6,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+5000000,75,50,3,2,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+2900000,65,55,3,4,13.5,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+7650000,120,115,4,5,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+8950000,145,130,3,8,21,Ýstanbul - Bakýrköy - Ataköy 1. Kýsým Mahallesi
+24000000,250,160,5,4,0,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+54000000,350,250,7,3,0,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+3750000,135,120,4,4,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+15200000,150,135,4,4,7.5,Ýstanbul - Bakýrköy - Yeþilyurt Mahallesi
+5500000,260,245,7,4,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+38000000,259,207,4,19,7.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+40000000,357,268,6,2,0,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+6000000,90,75,3,5,4,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+15500000,210,200,6,4,2,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+5800000,135,120,4,5,18.5,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+8250000,140,105,4,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+10500000,145,120,4,4,7.5,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+6000000,135,120,3,5,7.5,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+5500000,160,150,4,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+3250000,80,65,3,5,0,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+7700000,150,120,5,5,0,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+6000000,145,140,4,4,21,Ýstanbul - Bakýrköy - Ataköy 3-4-11. Kýsým Mahallesi
+4800000,120,97,3,4,21,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+17850000,160,150,5,4,7.5,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+1800000,65,60,3,4,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+6000000,125,110,4,4,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+4500000,100,90,4,4,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+23500000,300,280,7,5,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+9600000,140,130,3,4,21,Ýstanbul - Bakýrköy - Yeþilyurt Mahallesi
+13250000,170,150,4,4,21,Ýstanbul - Bakýrköy - Yeþilyurt Mahallesi
+3500000,130,110,4,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+2450000,75,65,3,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+5000000,115,95,4,4,0,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+5000000,91,80,3,4,2,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+25500000,240,200,5,4,0,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+21000000,204,140,4.5,4,0,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+22000000,211,180,4.5,4,0,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+4550000,90,75,3,5,0,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+19500000,220,195,5,4,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+18750000,165,155,4,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+4990000,92,52,2,17,1,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+6900000,190,185,6,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+4150000,150,135,4,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+8250000,185,180,5,3,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+5500000,180,160,4,4,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+7000000,140,115,5,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+3300000,70,60,2,5,7.5,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+4500000,130,125,4,4,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+31750000,274,265,5,5,18.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+6000000,107,80,3,5,7.5,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+3500000,140,120,4,5,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+20600000,220,200,6,5,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+6000000,75,70,3,4,18.5,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+8500000,174,85,3,14,4,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+3650000,85,75,3,5,3,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+14200000,200,155,4,5,3,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+1660000,90,80,3,4,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+12500000,260,250,5,5,3,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+4100000,245,200,5,4,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+3100000,95,85,3,4,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+22000000,345,270,7,4,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+15000000,190,180,5,3,21,Ýstanbul - Bakýrköy - Basýnköy Mahallesi
+3900000,55,50,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+7500000,107,95,3,5,21,Ýstanbul - Bakýrköy - Ataköy 3-4-11. Kýsým Mahallesi
+4900000,105,95,3,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+9600000,140,117,4,5,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+4250000,90,75,3,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+1850000,110,90,2,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+5500000,200,190,3,3,18.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+14500000,155,140,4,2,0,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+2750000,115,95,4,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+4500000,70,65,2,15,4,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+7200000,110,95,3,5,2,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+10250000,160,130,4,5,2,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+1950000,85,80,3,4,21,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+2500000,70,65,2,4,21,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+8600000,180,160,4,5,0,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+5250000,90,75,3,5,0,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+10100000,186,147,4,15,7.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+4500000,130,125,4,4,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+6500000,130,100,4,11,18.5,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+6900000,90,80,3,3,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+3450000,140,130,4,4,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+15499000,200,180,4,2,13.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+3975000,120,100,3,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+48000000,363,252,6,17,0,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+7750000,120,100,4,6,1,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+38000000,310,210,5,16,0,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+10000000,85,62,2,16,0,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+6550000,120,108,3,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+8500000,130,116,4,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+5300000,90,75,3,4,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+36500000,280,262,5,3,0,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+8500000,100,90,3,2,0,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+6750000,80,70,3,5,0,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+10700000,130,110,4,5,7.5,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+5250000,100,90,3,5,21,Ýstanbul - Bakýrköy - Ataköy 3-4-11. Kýsým Mahallesi
+7750000,105,88,3,9,2,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+10000000,150,140,4,3,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+2250000,85,75,3,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+9500000,120,97,4,5,1,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+8850000,305,250,6,4,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+14000000,115,100,4,4,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+7200000,105,96,3,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+3200000,125,110,4,4,21,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+15800000,250,210,6,5,4,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+9000000,115,100,4,5,13.5,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+6550000,150,120,4,6,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+4200000,75,65,3,5,0,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+13000000,200,180,4,5,7.5,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+4500000,125,100,4,4,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+3850000,75,60,3,4,2,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+14500000,300,250,5.5,3,21,Ýstanbul - Bakýrköy - Basýnköy Mahallesi
+14000000,115,100,4,4,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+2990000,80,65,3,8,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+2750000,39,35,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+10000000,110,95,4,4,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+7600000,130,110,4,6,21,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+6450000,153,139,5,5,3,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+2250000,90,75,3,4,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+6250000,95,87,3,4,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+4200000,69,52,2,18,4,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+18550000,210,185,6,2,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+4750000,100,75,3,6,7.5,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+6900000,90,80,3,3,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+12300000,140,130,4,5,21,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+6550000,150,120,4,6,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+10000000,240,220,4,4,18.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+13850000,140,120,4,4,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+12000000,170,140,5,4,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+4100000,120,110,4,4,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+1300000,70,65,2,5,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+4500000,80,70,2,5,4,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+11750000,360,240,5,4,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+10500000,145,135,4,5,21,Ýstanbul - Bakýrköy - Ataköy 3-4-11. Kýsým Mahallesi
+5250000,130,125,4,4,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+7250000,145,135,4,5,18.5,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+5500000,72,70,2,9,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+6800000,95,87,3,4,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+3800000,57,55,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+9000000,270,250,6,5,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+3100000,48,38,2,18,4,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+49000000,500,480,9,3,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+37500000,400,350,6,3,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+33000000,259,207,4,18,7.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+4800000,180,155,4,6,18.5,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+8850000,135,115,3,4,7.5,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+27000000,500,490,9,3,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+3200000,85,70,3,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+9250000,130,110,4,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+3500000,145,135,4,7,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+7600000,174,86,3,12,4,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+2850000,90,85,3,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+24500000,350,200,5.5,6,7.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+19500000,147,95,3,16,0,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+6500000,95,85,3,5,3,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+52500000,363,350,6,16,0,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+6000000,117,75,2,17,1,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+3600000,90,85,3,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+3000000,90,80,3,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+15000000,210,200,5,4,4,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+6800000,125,120,4,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+21500000,140,117,4,18,4,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+3250000,45,37,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+23500,73,51,2,18,7.5,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+3000000,90,80,3,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+6800000,145,135,4,4,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+2650000,100,85,3,5,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+2500000,85,80,3,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+17500000,338,270,5,3,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+5100000,110,100,3,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+5250000,160,140,4,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+3570000,60,48,2,23,4,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+1550000,90,85,4,4,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+1850000,70,60,3,4,21,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+6250000,125,120,4,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+21000000,181,142,4,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+19000000,181,142,4,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+45900000,300,240,6,19,7.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+6600000,110,90,3,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+22500000,181,142,4,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+40000000,363,253,6,17,3,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+31750000,260,200,5,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+48500000,300,240,6,19,7.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+42500000,259,207,4,19,7.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+6500000,115,105,4,9,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+28500000,211,182,5,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+47000000,300,249,6,19,7.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+4500000,120,90,3,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+9850000,135,110,4,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+2700000,85,78,3,5,21,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+17000000,320,280,7,5,0,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+4500000,85,78,3,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+7300000,66,55,2,18,7.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+5500000,90,75,3,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+2650000,39,35,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+5300000,150,140,5,6,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+13750000,286,186,4,5,13.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+3100000,52,27,2,17,1,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+6000000,92,59,2,17,1,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+12000000,140,115,4,5,7.5,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+35000000,350,285,8,6,7.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+13000000,145,136,4,4,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+6250000,100,95,3,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+6100000,130,115,4,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+9450000,170,150,4,12,21,Ýstanbul - Bakýrköy - Ataköy 1. Kýsým Mahallesi
+3200000,110,100,3,4,21,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+10500000,150,115,4,6,7.5,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+3800000,130,100,4,6,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+4800000,120,100,4,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+14500000,100,90,3,3,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+2200000,65,55,2,4,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+5500000,115,95,4,5,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+23000000,220,170,5,5,7.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+4000000,69,52,2,18,4,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+3850000,75,55,3,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+6419000,125,115,4,5,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+2925000,40,37,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+17100000,89,70,2,20,7.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+28300000,202,140,4,20,2,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+9500000,130,120,4,6,7.5,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+6200000,90,80,3,4,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+2600000,40,37,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+7450000,100,90,3,9,21,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+6950000,120,115,4,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+13000000,138,124,3,9,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+4500000,110,90,4,3,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+7100000,100,85,4,4,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+12300000,240,180,6,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+6750000,85,75,3,5,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+3000000,95,85,3,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+5300000,90,75,3,5,7.5,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+7000000,125,95,4,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+2800000,90,80,3,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+4000000,60,50,2,5,1,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+2500000,100,90,3,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+4500000,125,100,4,35,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+4900000,95,75,3,5,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+5000000,75,68,3,5,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+5200000,70,60,3,5,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+3900000,80,72,3,5,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+14900000,250,220,6,5,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+18000000,210,190,5,3,13.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+5750000,120,100,3,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+20000000,200,180,6,4,0,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+5000000,140,130,4,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+4500000,85,80,3,4,2,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+10250000,110,86,4,5,4,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+3750000,100,85,3,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+1250000,65,50,2,5,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+3200000,95,90,3,5,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+3350000,54,40,2,18,4,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+6250000,120,115,4,14,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+22300000,320,300,8,4,7.5,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+5000000,100,90,3,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+20000000,105,81,3,20,0,Ýstanbul - Bakýrköy - Basýnköy Mahallesi
+19500000,147,95,3,20,0,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+52500000,363,350,6,20,0,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+6750000,120,105,4,9,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+2980000,45,37,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+49000000,500,480,9,4,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+22500000,320,290,7,3,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+4650000,76,55,2,16,4,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+9425000,90,70,2,17,1,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+3790000,110,100,4,5,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+11500000,200,165,7,4,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+2950000,39,35,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+25999000,350,340,8,4,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+5500000,105,95,3,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+13150000,151,134,3,15,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+10500000,150,130,3,15,4,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+2850000,120,100,4,4,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+3300000,80,70,3,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+13000000,172,147,3,16,0,Ýstanbul - Bakýrköy - Ataköy 1. Kýsým Mahallesi
+4300000,95,85,3,4,21,Ýstanbul - Bakýrköy - Ataköy 3-4-11. Kýsým Mahallesi
+3800000,130,100,4,6,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+28500000,274,245,5,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+15950000,160,135,4,5,0,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+9900000,210,140,4,4,18.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+7200000,130,90,3,9,7.5,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+17500000,300,270,5.5,6,13.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+8500000,120,110,4,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+3885000,130,120,4,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+3000000,95,80,3,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+4500000,80,70,3,5,4,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+6250000,90,80,3,4,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+3500000,100,90,3,5,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+5500000,115,100,4,5,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+2450000,90,75,3,5,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+5600000,140,130,4,5,13.5,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+5300000,67,60,3,4,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+14200000,220,170,4,5,4,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+4200000,105,95,3,4,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+2500000,85,80,3,5,21,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+9500000,160,130,4,6,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+3100000,100,80,4,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+10500000,150,115,4,6,7.5,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+9200000,200,180,4,5,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+9000000,150,100,4,2,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+39000000,700,500,5,4,7.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+4500000,100,85,3,4,21,Ýstanbul - Bakýrköy - Ataköy 3-4-11. Kýsým Mahallesi
+19570000,436,435,5,3,7.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+12950000,145,135,4,5,18.5,Ýstanbul - Bakýrköy - Ataköy 3-4-11. Kýsým Mahallesi
+4650000,120,105,4,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+10500000,145,140,4,4,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+3000000,40,37,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+5500000,100,95,3,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+6500000,120,90,3,5,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+4000000,80,70,3,4,4,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+2550000,85,75,3,4,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+5850000,100,75,3,5,3,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+8000000,110,90,4,4,4,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+3000000,125,115,4.5,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+2500000,85,70,3,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+6500000,160,140,5,5,18.5,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+12500000,270,260,5,3,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+15200000,220,160,5.5,4,3,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+3150000,110,100,4,4,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+29800000,260,200,5,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+6450000,160,130,5,4,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+7099000,125,105,4,5,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+7520000,150,130,4,5,21,Ýstanbul - Bakýrköy - Yeþilyurt Mahallesi
+6750000,125,115,4,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+10450000,200,180,5,4,4,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+9000000,140,110,4,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+12500000,230,195,6,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+3150000,100,90,3,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+3350000,120,110,4,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+2600000,100,87,3,5,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+9770000,240,200,6,5,0,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+4100000,130,120,4,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+4550000,145,125,4,4,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+5000000,100,90,3,14,21,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+15000000,300,250,7,4,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+2850000,110,100,3,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+9250000,136,111,4,4,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+11250000,192,155,4,4,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+10250000,153,129,4,4,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+6000000,90,72,3,4,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+1975000,80,65,3,4,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+2800000,100,80,3,6,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+1475000,75,60,2,4,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+58000000,300,240,6,19,7.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+32500000,260,200,5,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+6770000,120,100,4,4,0,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+5100000,120,110,4,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+3750000,85,70,3,6,0,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+12500000,270,260,5,3,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+4750000,240,200,6,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+1800000,70,60,2,7,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+15750000,200,175,5,4,18.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+10250000,260,220,6,3,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+3800000,145,137,4,7,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+2950000,45,37,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+1800000,110,90,3,4,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+3750000,85,70,3,6,0,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+7700000,130,90,3,9,4,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+2600000,90,75,3,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+14200000,185,170,4,4,18.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+1650000,80,75,3,4,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+29000000,500,450,9,4,18.5,Ýstanbul - Bakýrköy - Basýnköy Mahallesi
+3750000,90,75,3,6,0,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+8500000,140,135,4,14,18.5,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+15000000,230,200,7,4,7.5,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+6350000,110,95,3,5,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+28500000,280,245,5,5,18.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+25750000,260,245,5,6,18.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+3000000,45,30,2,5,1,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+28500000,450,430,7,5,4,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+14850000,300,260,7,6,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+2600000,90,80,3,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+7000000,76,70,2,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+3300000,45,30,2,18,7.5,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+3300000,55,35,2,18,7.5,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+8000000,110,90,4,4,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+3950000,90,75,3,4,0,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+3950000,90,75,3,4,0,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+2950000,65,45,2,18,7.5,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+12250000,280,232,5,11,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+7950000,120,100,4,14,21,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+12000000,160,150,4,2,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+3350000,100,95,3,4,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+4450000,140,130,4,4,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+9100000,125,110,4,5,13.5,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+4200000,130,120,4,4,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+2400000,75,70,3,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+5300000,160,130,4,6,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+6500000,120,105,4,14,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+5300000,165,124,5,5,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+10500000,145,120,4,4,7.5,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+9250000,285,240,6,4,0,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+6200000,140,120,3,4,4,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+2500000,95,85,3,6,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+2350000,95,85,3,5,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+5600000,130,120,4,5,18.5,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+4200000,55,50,2,5,3,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+6350000,120,90,4,5,4,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+18500000,240,220,5,5,18.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+4500000,125,100,5,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+3500000,125,105,3,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+15500000,250,230,5,4,18.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+7200000,160,145,4,3,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+7750000,152,137,4,4,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+13000000,260,250,6,5,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+5200000,125,100,3,5,7.5,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+6300000,300,280,7,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+6500000,130,110,4,14,21,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+10000000,200,195,4,3,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+4000000,95,80,3,5,21,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+6000000,115,107,4,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+5300000,160,130,4,6,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+10750000,145,135,4,4,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+24000000,400,300,6,4,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+2029000,90,80,3,3,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+12000000,300,295,4,3,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+2300000,90,80,3,4,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+3800000,150,140,4,6,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+6500000,110,100,3,4,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+2000000,100,85,3,5,18.5,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+12000000,99,86,3,5,2,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+4000000,80,75,3,3,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+3000000,120,100,3.5,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+4300000,75,53,2,16,4,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+4250000,90,75,3,2,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+3250000,125,110,4,5,21,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+32000000,300,250,7,3,21,Ýstanbul - Bakýrköy - Basýnköy Mahallesi
+5450000,180,160,5,5,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+9000000,170,95,4,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+3500000,105,95,3,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+6550000,140,120,4,4,0,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+6750000,140,120,4,4,0,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+6000000,200,180,5,5,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+2900000,100,95,3,4,13.5,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+13100000,360,350,8,4,18.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+4750000,140,110,4,4,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+3250000,110,90,3,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+4300000,130,125,4,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+17850000,320,300,8,4,7.5,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+2500000,100,90,3,3,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+9250000,145,135,4,5,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+8000000,170,90,4,4,4,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+2650000,85,70,3,4,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+4950000,85,75,3,5,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+8500000,180,160,6,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+6100000,107,100,4,4,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+3400000,75,65,3,4,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+5250000,150,90,3.5,4,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+9499000,125,110,4,4,0,Ýstanbul - Bakýrköy - Yeþilyurt Mahallesi
+9499000,125,110,4,4,0,Ýstanbul - Bakýrköy - Yeþilyurt Mahallesi
+7500000,110,98,4,5,4,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+3850000,76,67,3,5,2,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+8250000,165,150,5,4,0,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+12000000,280,240,6,5,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+11000000,200,185,4,5,7.5,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+3500000,125,105,3,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+5000000,125,100,4,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+1465000,90,80,3,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+1800000,80,75,3,5,21,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+2200000,95,85,3,5,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+2900000,100,95,3,4,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+6500000,125,115,4,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+2750000,45,37,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+9650000,145,135,4,4,18.5,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+18500000,350,300,7,4,18.5,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+2750000,45,28,2,16,7.5,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+7500000,150,130,3,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+50000000,801,800,9,6,3,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+5750000,120,110,3,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+2550000,85,80,3,5,21,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+4250000,85,75,3,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+6000000,130,100,3,4,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+3000000,90,80,3,5,21,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+2150000,80,75,3,4,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+35000000,560,460,9,4,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+25750000,500,400,8,4,18.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+3150000,120,110,4,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+3750000,55,47,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+3700000,180,150,4,5,21,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+14500000,260,220,7,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+9000000,165,130,4.5,5,0,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+28750000,280,274,5,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+12250000,220,200,5,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+5500000,80,70,3,5,0,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+6750000,190,165,5,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+11550000,140,130,4,4,4,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+5000000,77,67,3,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+2650000,45,37,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+16000000,112,95,3,19,4,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+5250000,90,77,3,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+2950000,110,100,3,4,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+10500000,230,180,4,5,7.5,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+3550000,110,100,3,4,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+6000000,140,125,4,4,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+19990000,329,280,9,3,21,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+10250000,210,190,5,3,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+2950000,100,90,4,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+25750000,700,680,8,4,18.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+4750000,140,125,4,4,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+11500000,140,120,4,4,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+8500000,145,130,4,2,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+2800000,95,85,3,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+3500000,130,120,4,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+4700000,100,90,3,6,2,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+26000000,400,350,8,3,0,Ýstanbul - Bakýrköy - Yeþilyurt Mahallesi
+6500000,185,165,5,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+4300000,75,53,2,16,4,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+8500000,220,200,5,4,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+2750000,40,35,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+30500000,260,220,5,3,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+8550000,145,135,4,6,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+7700000,125,85,3,16,3,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+2300000,90,70,3,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+17000000,430,400,9,5,0,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+46000000,420,350,9,6,7.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+11500000,230,200,7,5,7.5,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+19500000,240,201,6,4,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+3250000,100,90,3,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+6500000,145,130,4,5,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+2200000,75,65,3,5,18.5,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+22300000,320,300,8,4,7.5,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+6450000,180,155,5,4,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+7750000,147,88,3,9,2,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+1350000,75,60,2,4,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+3000000,95,87,3,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+23250000,174,141,4,6,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+4150000,150,130,4,4,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+4000000,115,95,3,5,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+6250000,160,150,4,5,2,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+4000000,85,75,3,5,4,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+3250000,60,45,2,18,3,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+2800000,45,35,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+6750000,115,90,4,3,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+5500000,112,107,3,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+13500000,196,150,6,2,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+4200000,225,200,6,4,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+35000000,450,400,9,3,18.5,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+12500000,220,200,5,3,0,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+8500000,135,115,4,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+25000000,345,300,8,4,0,Ýstanbul - Bakýrköy - Yeþilköy Sb Mahallesi
+2900000,73,61,3,4,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+2850000,40,37,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+14000000,270,250,5,5,21,Ýstanbul - Bakýrköy - Yeþilyurt Mahallesi
+5700000,140,115,4,6,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+2400000,100,85,3,4,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+3150000,45,30,2,18,3,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+9750000,145,140,4,3,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+27500000,211,190,5,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+3000000,58,50,3,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+5700000,140,115,4,6,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+9000000,145,135,4,5,21,Ýstanbul - Bakýrköy - Ataköy 3-4-11. Kýsým Mahallesi
+12000000,480,440,9,4,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+5250000,75,65,3,5,2,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+22000000,340,300,7,2,0,Ýstanbul - Bakýrköy - Basýnköy Mahallesi
+9750000,200,190,4,3,21,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+14500000,220,200,5,4,18.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+12600000,290,260,5,4,4,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+15500000,180,170,4,2,13.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+6500000,96,67,2,15,4,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+3250000,90,75,3,4,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+2800000,100,85,3,5,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+14500000,220,200,5,4,18.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+1900000,75,65,3,6,18.5,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+8950000,145,135,4,5,21,Ýstanbul - Bakýrköy - Ataköy 3-4-11. Kýsým Mahallesi
+12500000,140,130,4,5,7.5,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+34000000,380,320,8,3,4,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+7950000,100,85,3,2,0,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+18500000,250,200,5,3,2,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+13750000,250,240,5,4,13.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+2250000,75,65,2,4,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+4200000,150,135,4,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+4450000,90,85,3,5,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+6750000,190,160,5,6,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+11000000,140,125,4,5,3,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+2500000,90,70,3,4,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+4450000,110,80,3,4,7.5,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+3000000,40,37,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+6980000,190,185,6,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+2400000,105,95,3,5,21,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+3750000,130,125,4,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+3000000,130,115,4,5,21,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+5300000,64,55,2,9,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+5750000,120,110,4,9,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+21500000,140,130,3,5,7.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+3000000,130,115,4,5,21,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+13750000,200,185,4,5,13.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+4250000,90,75,3,5,2,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+4250000,90,75,3,5,2,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+4250000,145,135,4,5,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+6300000,160,140,4,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+27000000,185,155,3,19,7.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+3850000,55,48,2,14,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+22000000,133,90,3,20,2,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+900000,70,50,2,5,21,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+52000000,317,260,6,19,4,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+4350000,120,100,4,4,21,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+3490000,85,75,3,4,7.5,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+2950000,120,100,3,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+16500000,250,230,6,4,0,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+32000000,260,220,5,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+1710000,38,30,1,16,4,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+3500000,120,110,4,5,21,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+6500000,130,100,4,5,3,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+8500000,200,175,5,5,7.5,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+6500000,180,160,6,4,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+5500000,95,80,3,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+6300000,200,170,5,5,2,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+6500000,130,100,4,5,3,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+2850000,85,75,3,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+8500000,140,110,4,5,0,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+6000000,160,148,4,3,3,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+13000000,140,130,4,5,0,Ýstanbul - Bakýrköy - Yeþilyurt Mahallesi
+2250000,85,75,3,6,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+5000000,130,100,4,6,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+28000000,171,111,3,17,2,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+5450000,150,130,4,5,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+6200000,230,210,5,5,18.5,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+26500000,214,195,5,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+3600000,120,115,4,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+15000000,220,180,6,3,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+16000000,112,96,3,19,4,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+10250000,145,135,4,5,21,Ýstanbul - Bakýrköy - Ataköy 3-4-11. Kýsým Mahallesi
+4650000,120,100,4,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+1580000,70,65,2,4,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+3000000,100,85,3,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+4300000,130,120,4,5,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+12500000,270,250,7,5,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+8750000,99,81,2,8,4,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+8950000,112,96,3,8,4,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+16900000,340,260,5,4,0,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+27900000,260,220,5,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+4000000,135,120,4,4,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+29000000,260,220,5,5,7.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+8500000,320,300,8,5,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+7000000,280,240,4,11,18.5,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+5500000,97,80,2,15,3,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+10000000,260,250,9,5,21,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+15500000,310,285,6,5,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+10500000,200,185,5,7,7.5,Ýstanbul - Bakýrköy - Basýnköy Mahallesi
+4250000,85,75,3,5,0,Ýstanbul - Bakýrköy - Osmaniye Mahallesi
+5250000,145,130,4,5,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
+6750000,75,60,3,5,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+21750000,650,470,8,4,21,Ýstanbul - Bakýrköy - Basýnköy Mahallesi
+2750000,85,75,3,5,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+4150000,155,140,4,4,21,Ýstanbul - Bakýrköy - Kartaltepe Mahallesi
+38000000,310,220,5,16,0,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+11650000,145,135,4,5,21,Ýstanbul - Bakýrköy - Ataköy 7-8-9-10. Kýsým Mahallesi
+9350000,99,82,2,18,4,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+6410000,12,10,4,9,0,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+52000000,363,253,6,16,0,Ýstanbul - Bakýrköy - Sakýzaðacý Mahallesi
+20000000,250,240,5,4,13.5,Ýstanbul - Bakýrköy - Basýnköy Mahallesi
+3900000,135,120,4,4,21,Ýstanbul - Bakýrköy - Zeytinlik Mahallesi
+12000000,360,350,6,3,21,Ýstanbul - Bakýrköy - Zuhuratbaba Mahallesi
+9000000,175,160,5,5,7.5,Ýstanbul - Bakýrköy - Þenlikköy Mahallesi
+10000000,135,120,4,2,21,Ýstanbul - Bakýrköy - Yeþilköy Mahallesi
+65000000,305,249,6,19,3,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+32000000,270,240,5,5,13.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+32000000,270,220,5,5,7.5,Ýstanbul - Bakýrköy - Ataköy 2-5-6. Kýsým Mahallesi
+3500000,110,105,4,4,21,Ýstanbul - Bakýrköy - Yenimahalle Mahallesi
+3550000,87,75,3,4,21,Ýstanbul - Bakýrköy - Cevizlik Mahallesi
