@@ -1,0 +1,797 @@
+price,area,absolute_area,room,floor_count,building_age,location
+10000000,300,250,8,3,21,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+2290000,90,85,3,5,18.5,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+4500000,150,140,5,3,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+3850000,170,150,5,5,0,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+1650000,70,55,3,4,21,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+34750000,350,300,6,3,0,Ýstanbul - Eyüpsultan - Topçular Mahallesi
+30000000,300,250,9,3,18.5,Ýstanbul - Eyüpsultan - Topçular Mahallesi
+14850000,220,200,5,3,21,Ýstanbul - Eyüpsultan - Topçular Mahallesi
+6200000,100,95,3,5,2,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2450000,90,80,3,5,4,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+1750000,70,65,3,5,21,Ýstanbul - Eyüpsultan - Defterdar Mahallesi
+8500000,240,160,8,3,21,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+3850000,140,120,4,4,7.5,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+5500000,135,120,4,4,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+13000000,151,108,3,5,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3370000,135,125,5,3,7.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+2800000,90,80,3,9,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+8950000,143,128,4,14,7.5,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+2850000,145,140,4,3,0,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+1800000,75,70,2,5,0,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+5175000,100,70,3,12,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+13250000,253,178,6,5,3,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+7250000,145,114,4,5,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+3020000,100,95,3,10,7.5,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+1670000,85,70,3,5,13.5,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+3850000,160,140,4,3,7.5,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+1660000,100,90,3,5,4,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+3000000,83,75,3,4,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+3100000,95,80,3,9,7.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+2300000,100,85,3,9,4,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+2949000,110,80,3,5,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2650000,130,120,4,9,13.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+3300000,80,50,2,9,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+4850000,185,160,5,4,13.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+2580000,90,80,3,11,7.5,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+3650000,110,90,3,4,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+3450000,130,120,4,10,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+2400000,95,60,2,5,0,Ýstanbul - Eyüpsultan - Emniyettepe Mahallesi
+2400000,95,55,2,5,2,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+3450000,70,65,3,5,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+4100000,90,73,3,10,0,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+9000000,151,100,3,4,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+14750000,180,140,4,4,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2500000,90,80,3,5,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+3100000,80,65,2,4,3,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+2500000,95,55,2,5,1,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+2890000,100,90,3,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2880000,100,90,3,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2500000,55,37,2,4,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3000000,76,68,3,5,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+3250000,120,110,4,4,13.5,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+3750000,140,120,4,4,7.5,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+2850000,200,190,5,5,7.5,Ýstanbul - Eyüpsultan - Emniyettepe Mahallesi
+4650000,150,130,4,3,13.5,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+6250000,130,120,4,4,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+41242000,376,342,5,7,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+25640000,213,187,5,7,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+18150000,285,246,4,7,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+11460000,145,81,3,7,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+9400000,89,66,2,7,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+27900000,310,275,5,4,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+19800000,270,230,4,4,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+19600000,140,110,4,4,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+10500000,108,87,3,4,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+1540000,48,45,2,5,21,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+4150000,165,160,5,5,3,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+4200000,150,125,4,4,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+1820000,80,70,2,6,13.5,Ýstanbul - Eyüpsultan - Emniyettepe Mahallesi
+1800000,90,85,3,1,4,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+3250000,140,130,5,3,0,Ýstanbul - Eyüpsultan - Defterdar Mahallesi
+1700000,113,75,3,3,21,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+2795000,130,110,4,7,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+5100000,170,150,5,2,21,Ýstanbul - Eyüpsultan - Düðmeciler Mahallesi
+3500000,90,85,3,9,4,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+50000000,260,250,5,3,13.5,Ýstanbul - Eyüpsultan - Defterdar Mahallesi
+3500000,140,120,4,4,7.5,Ýstanbul - Eyüpsultan - Emniyettepe Mahallesi
+3250000,80,70,3,6,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+3300000,97,90,3,3,4,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2435000,180,155,5,4,13.5,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+1850000,110,100,3,6,13.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+3400000,80,55,2,13,7.5,Ýstanbul - Eyüpsultan - Topçular Mahallesi
+1900000,70,55,2,5,7.5,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+2000000,110,90,3,4,7.5,Ýstanbul - Eyüpsultan - Emniyettepe Mahallesi
+3465000,185,170,5,6,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+3800000,220,200,7,5,4,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2750000,80,70,3,4,7.5,Ýstanbul - Eyüpsultan - Rami Cuma Mahallesi
+5000000,110,100,4,3,0,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+5400000,95,85,3,9,0,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+7300000,160,150,5,3,0,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+4500000,105,90,3,5,13.5,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+3390000,105,95,3,5,4,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2750000,140,110,3,5,7.5,Ýstanbul - Eyüpsultan - Sakarya Mahallesi
+2750000,160,130,3,4,7.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+5250000,110,90,4,4,18.5,Ýstanbul - Eyüpsultan - Düðmeciler Mahallesi
+22250000,190,175,4.5,4,18.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+10000000,125,100,4,10,0,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+3950000,145,130,4,5,7.5,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+2490000,70,69,3,5,2,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+4850000,94,67,3,7,0,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2500000,60,50,2,5,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2495000,90,75,3,3,21,Ýstanbul - Eyüpsultan - Düðmeciler Mahallesi
+3800000,100,95,3,5,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+4000000,120,100,3,4,0,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+1600000,85,70,3,3,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+1600000,85,70,2,5,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+5700000,98,62,3,9,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+16250000,500,420,8,6,7.5,Ýstanbul - Eyüpsultan - Emniyettepe Mahallesi
+3500000,105,95,2,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3350000,50,45,2,4,1,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+1350000,100,80,3,4,21,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+4500000,136,85,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+2050000,90,80,3,6,7.5,Ýstanbul - Eyüpsultan - Emniyettepe Mahallesi
+3500000,118,63,3,10,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+6930000,70,52,2,4,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+9635000,98,73,3,4,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3200000,95,85,3,5,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+2850000,95,85,3,12,4,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+3600000,160,140,5,5,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+15250000,240,200,5,5,18.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+4550000,150,135,4,5,13.5,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+2850000,100,75,3,6,2,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+1370000,85,75,3,5,3,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+1425000,90,80,3,5,7.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+1695000,85,75,3,5,7.5,Ýstanbul - Eyüpsultan - Emniyettepe Mahallesi
+4500000,172,125,5,3,13.5,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+4575000,136,85,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+5300000,115,105,3,4,4,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+6500000,135,100,3,4,4,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3500000,185,170,5,6,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+2000000,65,45,2,3,2,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+2200000,115,105,3,6,18.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+52800000,350,300,7,2,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2250000,85,75,3,4,13.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+12000000,115,100,4,9,7.5,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+2850000,100,90,3,4,21,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+5753000,229,222,5,5,13.5,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+2150000,85,75,3,11,7.5,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+3465000,185,170,6,6,0,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+3000000,90,70,3,10,7.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+1600000,85,70,3,3,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2925000,100,80,3,5,13.5,Ýstanbul - Eyüpsultan - Sakarya Mahallesi
+4500000,80,79,3,5,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+2500000,95,85,3,11,4,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+2780000,95,85,3,10,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+1370000,90,80,3,4,3,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+5200000,110,86,3,12,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+3145000,100,80,3,4,21,Ýstanbul - Eyüpsultan - Rami Cuma Mahallesi
+7500000,220,160,6,7,4,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+13000000,200,160,6,4,2,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+17350000,280,215,4,5,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+9700000,140,120,4,5,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3100000,125,110,4,3,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+3300000,110,100,3,5,7.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+2150000,85,80,3,5,7.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+3200000,260,250,6,3,13.5,Ýstanbul - Eyüpsultan - Rami Cuma Mahallesi
+3250000,140,120,4,6,13.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+2550000,85,75,3,4,0,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+1850000,100,85,3,4,7.5,Ýstanbul - Eyüpsultan - Rami Yeni Mahallesi
+2750000,85,75,3,4,4,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+3795000,88,77,3,5,0,Ýstanbul - Eyüpsultan - Sakarya Mahallesi
+2200000,90,85,3,4,21,Ýstanbul - Eyüpsultan - Rami Yeni Mahallesi
+4950000,135,100,3,4,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+9000000,151,100,3,4,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+1580000,85,75,3,3,7.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+13750000,240,220,5,4,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+13750000,240,220,5,4,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3065000,85,80,3,10,4,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+4500000,130,115,3,5,4,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+3250000,55,45,,5,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3100000,95,90,3,10,7.5,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+2850000,105,95,3,3,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+1700000,75,65,2,6,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+3000000,90,80,3,6,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+3000000,95,85,2,4,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+1315000,55,45,2,5,7.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+3550000,100,85,3,5,2,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+2450000,130,110,4,4,21,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+3795000,88,77,3,5,0,Ýstanbul - Eyüpsultan - Sakarya Mahallesi
+11750000,225,150,4,4,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+6200000,140,100,3,4,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+10100000,200,145,4,3,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+10100000,210,157,4,3,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+5000000,80,65,2,3,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+8500000,185,100,3,4,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+2200000,95,70,3,9,13.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+4650000,220,180,7,4,18.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+9999000,190,145,4,3,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+4270000,74,48,2,24,2,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+5380000,80,65,3,3,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+7999999,250,201,7,4,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2350000,100,85,3,9,4,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+4400000,100,80,2,25,4,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+4000000,120,85,3,10,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+1450000,75,60,3,6,7.5,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+2550000,80,75,3,8,7.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+7300000,136,84,3,7,3,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+3400000,160,138,5,5,1,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+1850000,75,67,2,4,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+2550000,107,85,3,6,3,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+4650000,100,90,3,4,13.5,Ýstanbul - Eyüpsultan - Rami Cuma Mahallesi
+2350000,82,57,3,8,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+2400000,88,63,3,8,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+2400000,88,63,3,8,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+2685000,130,105,4,4,3,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+8000000,150,135,5,2,18.5,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+2150000,44,28,2,6,7.5,Ýstanbul - Eyüpsultan - Topçular Mahallesi
+3600000,92,55,2,13,7.5,Ýstanbul - Eyüpsultan - Topçular Mahallesi
+3700000,80,55,2,13,7.5,Ýstanbul - Eyüpsultan - Topçular Mahallesi
+2650000,90,80,3,8,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2700000,85,70,3,9,3,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+3000000,85,80,3,6,7.5,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+8000000,220,200,6,3,7.5,Ýstanbul - Eyüpsultan - Emniyettepe Mahallesi
+3250000,70,65,3,6,13.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+36000000,400,350,6,3,18.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+1885000,120,100,3,5,21,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2145000,90,80,3,5,7.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+2650000,90,85,3,5,0,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+4000000,95,85,3,4,18.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3450000,80,60,2,14,7.5,Ýstanbul - Eyüpsultan - Topçular Mahallesi
+2850000,100,90,2,5,7.5,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+7500000,140,85,3,30,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+3100000,190,188,6,5,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+3880000,160,145,4,5,13.5,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+7000000,220,160,5,7,4,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+2700000,90,60,2,3,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3269000,114,103,4,5,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+8500000,120,90,3,24,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+3850000,170,140,6,5,0,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+5000000,70,65,4,2,21,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+3750000,175,155,4.5,4,7.5,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+2705000,90,77,3,10,4,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+27000000,400,380,7,3,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+7650000,120,90,3,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+4950000,75,70,2,5,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+8700000,170,140,5,3,3,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+4400000,136,85,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+3350000,120,110,4,8,18.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+19000000,240,215,5,5,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+7850000,165,135,5,2,4,Ýstanbul - Eyüpsultan - Rami Cuma Mahallesi
+1670000,85,75,3,3,7.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+6750000,132,93,3,9,1,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2225000,90,70,3,5,7.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+6500000,110,85,3,3,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+4190000,70,59,2,3,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2065000,80,72,3,3,3,Ýstanbul - Eyüpsultan - Emniyettepe Mahallesi
+2113000,85,70,3,5,7.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+2885000,210,150,4.5,4,0,Ýstanbul - Eyüpsultan - Emniyettepe Mahallesi
+2885000,140,130,4,3,0,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2570000,85,77,3,8,4,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+13850000,210,168,5,5,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2300000,120,110,4,6,13.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+17950000,320,280,5,30,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+4500000,75,55,2,24,3,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+1270000,80,75,3,4,13.5,Ýstanbul - Eyüpsultan - Sakarya Mahallesi
+2100000,85,75,3,6,7.5,Ýstanbul - Eyüpsultan - Emniyettepe Mahallesi
+1550000,80,40,2,4,4,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2100000,85,80,3,4,2,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+3600000,90,80,3,5,21,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+4420000,150,135,5,5,18.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2150000,75,65,3,3,7.5,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+4350000,112,95,3,4,3,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+3000000,120,110,4,8,13.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+1975000,95,85,4,4,7.5,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+2100000,85,75,3,7,7.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+2400000,90,70,3,4,13.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+1800000,80,75,3,5,4,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+2500000,80,75,3,5,4,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+1550000,120,100,4,5,13.5,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+2800000,100,75,3,9,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+3750000,220,200,7,7,4,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+4300000,111,94,3,13,7.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+3050000,130,110,4,7,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+41000000,550,350,7,4,7.5,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+2575000,80,75,3,5,4,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2560000,65,45,2,10,1,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+15500000,224,165,5,11,2,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+15250000,180,140,4.5,4,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+6270000,100,90,4,7,0,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+9300000,176,130,4,30,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+1850000,120,110,3,6,18.5,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+1150000,60,50,2,6,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+9500000,310,300,3,3,13.5,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+3950000,200,190,6,5,0,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+6000000,170,165,5,5,4,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+5500000,110,75,3,4,1,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+15500000,224,165,5,11,2,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2850000,95,80,3,4,4,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+5750000,98,62,3,9,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+4750000,136,87,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+4600000,136,85,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+4450000,136,84,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+4500000,136,84,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+6190000,100,89,3,5,4,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+1295000,55,50,2,6,3,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+1750000,90,85,3,4,18.5,Ýstanbul - Eyüpsultan - Rami Cuma Mahallesi
+13990000,198,145,5,14,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2575000,70,65,3,2,21,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+1750000,80,75,3,5,13.5,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+15000000,220,190,5,4,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+10700000,208,140,5,3,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+22000000,256,196,6,3,18.5,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+3475000,65,50,2,4,4,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3500000,110,90,3,4,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3350000,74,64,3,12,3,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+5395000,150,130,4,3,7.5,Ýstanbul - Eyüpsultan - Düðmeciler Mahallesi
+2550000,95,80,3,5,18.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+7250000,195,170,5,11,0,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+4750000,90,60,2,9,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+3750000,97,84,3,11,0,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+2250000,75,65,3,4,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+3500000,90,85,3,9,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+4450000,136,85,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+8250000,125,100,3,5,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+44000000,400,350,8,4,21,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+8745000,153,102,4,4,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+1770000,70,60,2,3,4,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+2800000,95,85,4,4,13.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+7450000,170,125,4,12,3,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2575000,80,70,3,10,4,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+5000000,240,220,2,3,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3050000,145,120,5,3,7.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+12500000,215,165,5,11,4,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2200000,125,120,3,5,18.5,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+2080000,95,83,3,10,7.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+17000000,280,215,4,5,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2500000,145,130,4,5,21,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+2600000,85,75,3,5,13.5,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+1600000,37,30,2,10,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+4575000,136,87,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+4550000,136,85,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+4600000,136,86,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+19900000,210,170,4,3,18.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+6000000,95,69,3,4,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+15500000,224,165,5,11,2,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+5390000,220,190,6,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+4480000,110,95,3,4,13.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+1975000,85,80,3,6,21,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+1688000,60,50,2,4,7.5,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+2395000,85,75,3,4,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2820000,85,75,3,5,21,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+4285000,250,235,6,3,7.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+3150000,65,50,2,5,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+8000000,220,180,5,11,7.5,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+2250000,85,70,3,3,21,Ýstanbul - Eyüpsultan - Rami Cuma Mahallesi
+3150000,85,75,3,7,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+1670000,75,65,2,4,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2750000,88,85,3,8,13.5,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+4350000,260,240,6,4,13.5,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+6850000,110,100,3,4,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+7500000,180,150,4,3,2,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+5400000,120,110,3,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+1900000,100,85,4,4,21,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+29500000,242,210,6,5,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+1925000,75,65,3,4,21,Ýstanbul - Eyüpsultan - Rami Yeni Mahallesi
+3850000,100,75,3,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2000000,75,70,3,6,21,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+2600000,90,80,3,7,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2330000,85,75,3,6,7.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+27500000,503,260,6,3,18.5,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+2850000,85,75,3,3,0,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2949000,110,80,3,5,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+6150000,175,165,6,5,0,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+1250000,70,55,2,4,7.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+3500000,130,120,4,4,18.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2000000,88,82,3,5,21,Ýstanbul - Eyüpsultan - Rami Yeni Mahallesi
+2250000,85,75,3,8,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+1750000,90,80,3.5,6,7.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+2000000,85,70,3,11,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+9750000,110,90,3,5,2,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+10200000,110,98,4,5,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+4500000,80,70,3,3,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+8250000,122,79,3,5,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+4850000,63,46,2,4,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3500000,90,70,2,3,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+9000000,169,150,4,5,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+5450000,110,90,3,6,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+8900000,170,140,5,3,3,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+5750000,200,160,7,4,7.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+13150000,270,180,6,4,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+3150000,90,85,3,10,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+3050000,90,85,3,10,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+9850000,152,113,3,4,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+8650000,140,135,7,5,21,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+2707000,90,77,3,10,4,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+6350000,175,160,5,4,21,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+1890000,70,55,2,5,7.5,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+12600000,140,120,5,2,21,Ýstanbul - Eyüpsultan - Topçular Mahallesi
+6250000,120,75,3,4,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2775000,105,90,3,5,18.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+1750000,90,80,4,5,13.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+1640000,70,65,2,4,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2950000,90,80,3,5,4,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+2600000,95,85,3,4,21,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+1340000,95,80,3,5,21,Ýstanbul - Eyüpsultan - Rami Cuma Mahallesi
+2500000,80,78,3,3,13.5,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+3400000,180,160,6,5,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2850000,130,120,4,4,7.5,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+70000000,480,380,7,2,21,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+20000000,350,320,8,4,0,Ýstanbul - Eyüpsultan - Topçular Mahallesi
+4500000,95,80,3,10,3,Ýstanbul - Eyüpsultan - Sakarya Mahallesi
+4500000,95,90,3,3,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2150000,85,75,3,5,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+2290000,85,75,3,5,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+1470000,75,65,3,5,13.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+2950000,110,100,4,3,7.5,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+83000000,550,450,9,3,21,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+240000000,850,750,9,4,21,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2800000,120,119,4,4,21,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2350000,85,75,3,5,4,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+3350000,170,155,6,5,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2100000,95,90,3,5,7.5,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+2950000,108,96,3,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2750000,95,85,3,5,21,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+3300000,140,130,4,10,2,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+3100000,140,130,4,10,2,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+11800000,190,175,5,3,3,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+3850000,120,107,4,3,18.5,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+2135000,85,75,3,6,7.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+5500000,260,240,6,5,18.5,Ýstanbul - Eyüpsultan - Düðmeciler Mahallesi
+235000000,850,750,8,3,21,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+11750000,225,150,4,4,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+7850000,145,97,3,4,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+4500000,193,130,4,4,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2700000,87,77,3,8,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+2540000,90,78,3,8,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+2545000,90,78,3,8,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+3100000,135,115,4,10,18.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2717000,88,78,3,9,4,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+3000000,78,70,3,10,7.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+26000000,560,450,8,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+8360000,98,73,3,4,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+12250000,200,140,4,3,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+11000000,200,145,4,3,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+8500000,185,100,3,4,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+9500000,145,97,3,7,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+1200000,125,120,3,4,7.5,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+2550000,85,70,3,5,13.5,Ýstanbul - Eyüpsultan - Sakarya Mahallesi
+850000,75,65,2,5,21,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+1975000,150,135,3,3,7.5,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+1575000,103,96,3,5,13.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+2590000,110,90,3,4,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2900000,130,120,4,3,7.5,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+1980000,95,85,3,4,7.5,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+18950000,320,280,5,30,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+10750000,280,250,7,3,7.5,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+2600000,85,70,3,4,1,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+2600000,95,80,3,5,13.5,Ýstanbul - Eyüpsultan - Sakarya Mahallesi
+5450000,100,80,2.5,5,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+1790000,100,94,3,5,18.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2500000,70,56,3,9,7.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+3500000,105,100,4,3,7.5,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+8000000,110,90,4,4,4,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+8500000,190,160,5,14,3,Ýstanbul - Eyüpsultan - Düðmeciler Mahallesi
+9000000,218,109,4,3,7.5,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+1800000,45,28,2,5,7.5,Ýstanbul - Eyüpsultan - Topçular Mahallesi
+1800000,75,70,3,4,7.5,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+2400000,135,120,4,4,21,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+4550000,115,105,4,5,7.5,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+2499999,87,75,2,12,7.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+12500000,210,200,4,4,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+14250000,244,191,5,5,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+7650000,132,95,3,5,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+1350000,60,50,2,6,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+3800000,66,50,2,5,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+2200000,110,90,3,5,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2850000,95,80,3,9,7.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+10820000,130,98,3,4,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+6000000,71,52,2,4,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+8950000,125,92,3,5,4,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2350000,90,80,3,5,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2250000,95,85,3,5,21,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+105000000,550,400,8,3,21,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+8000000,220,200,6,3,7.5,Ýstanbul - Eyüpsultan - Emniyettepe Mahallesi
+9200000,140,105,3,18,1,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+4850000,110,100,3,4,4,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+12950000,215,200,5,5,4,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+9850000,220,190,6,5,18.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+6000000,140,90,3,5,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+3400000,170,150,5,4,13.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+1490000,90,78,3,4,18.5,Ýstanbul - Eyüpsultan - Düðmeciler Mahallesi
+3250000,120,100,4,9,4,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2615000,125,105,4,5,18.5,Ýstanbul - Eyüpsultan - Rami Cuma Mahallesi
+4150000,160,145,3,3,0,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+2500000,73,56,3,13,7.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+3100000,92,70,3,13,7.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+2050000,85,78,3,7,3,Ýstanbul - Eyüpsultan - Emniyettepe Mahallesi
+1800000,90,80,3,5,7.5,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+3650000,100,85,3,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+5850000,140,120,3,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3950000,105,95,3,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+5950000,135,125,3,5,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2900000,100,85,3,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+4650000,136,85,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+4650000,136,86,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+1950000,85,75,3,5,21,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+1280000,85,80,3,4,18.5,Ýstanbul - Eyüpsultan - Rami Cuma Mahallesi
+3500000,110,95,3,3,1,Ýstanbul - Eyüpsultan - Düðmeciler Mahallesi
+2870000,75,65,3,3,1,Ýstanbul - Eyüpsultan - Düðmeciler Mahallesi
+1800000,85,72,3.5,5,4,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+4250000,190,185,5,4,0,Ýstanbul - Eyüpsultan - Sakarya Mahallesi
+3900000,102,89,3,5,4,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+7600000,112,102,3,5,4,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2100000,95,90,3,5,0,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+3500000,150,130,5.5,6,0,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+3150000,175,160,6,3,7.5,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+3950000,95,90,3,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2900000,105,95,3,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3100000,90,67,3,9,0,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+1600000,90,65,3,12,21,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+2500000,95,80,3,3,1,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+4600000,120,101,4,4,7.5,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+20000000,175,150,4,4,18.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+10750000,180,150,4,5,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2570000,90,80,3,5,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+2650000,85,75,3,5,0,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+2150000,90,85,3,4,13.5,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+2250000,126,108,4,7,18.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+5500000,110,105,3,3,7.5,Ýstanbul - Eyüpsultan - Topçular Mahallesi
+1975000,85,80,3,6,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+37499999,500,400,9,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3950000,95,90,3,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+6500000,120,100,3,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+10000000,120,105,3,3,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+8250000,135,121,3,6,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+1790000,80,75,3,4,7.5,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+3650000,100,95,3,4,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3000000,85,77,2,5,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2980000,120,110,4,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3800000,85,80,3,4,2,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+3200000,135,125,4,4,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+2450000,85,82,3,5,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2350000,80,70,3,6,1,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+2750000,85,75,3,5,7.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+2350000,80,70,3,6,1,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+3200000,135,125,4,5,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+1680000,85,80,3,5,7.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+2850000,88,80,3,3,18.5,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+19500000,240,200,5,3,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+4850000,170,160,5,5,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+2350000,75,60,3,11,4,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+1700000,95,90,3,5,13.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+4150000,90,80,3,5,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+4700000,94,67,3,7,2,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+4400000,75,55,2,6,3,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2500000,130,120,4,5,18.5,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+4500000,85,65,3,5,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+5500000,135,120,3,5,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+8350000,120,90,4,5,2,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2290000,75,48,3,8,4,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+4500000,136,86,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+4550000,136,87,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+4550000,136,85,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+4550000,136,87,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+4450000,136,86,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+4600000,136,86,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+4550000,136,87,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+4500000,136,87,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+4600000,136,87,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+4400000,136,86,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+2500000,100,95,3,5,13.5,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+8300000,158,120,3,2,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+19000000,195,190,4,5,18.5,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+4000000,65,55,2,4,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+4700000,76,60,3,5,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+1590000,55,45,2,3,7.5,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+2530000,90,80,3,4,21,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+3250000,170,150,5,5,7.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+4600000,136,85,3,10,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+4600000,136,87,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+4200000,76,68,3,5,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3200000,90,80,3,8,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+3000000,90,80,3,7,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+3100000,90,80,3,8,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+10200000,210,163,4,3,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+3000000,85,80,3,4,21,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+8500000,198,185,4,4,7.5,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+5300000,70,50,2,5,4,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+2200000,85,80,3,5,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2950000,170,160,5,5,21,Ýstanbul - Eyüpsultan - Rami Yeni Mahallesi
+6800000,220,219,5,3,21,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+15500000,224,165,5,11,2,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+15700000,240,230,6,5,4,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+14300000,200,175,5,3,18.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3550000,135,120,4,7,13.5,Ýstanbul - Eyüpsultan - Sakarya Mahallesi
+8900000,270,220,5,5,7.5,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+5150000,130,90,2,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2500000,75,70,3,4,1,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+3000000,85,75,3,4,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+2350000,105,80,3,5,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+4650000,200,180,5,5,18.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+4200000,200,180,5,5,18.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+2650000,150,130,4,5,7.5,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+3300000,220,200,6,4,7.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+7350000,125,105,3,5,3,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3750000,150,140,4,5,0,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+3650000,145,130,4,5,0,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+2200000,85,80,3,5,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2600000,102,101,5,1,21,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+925000,70,65,2,5,7.5,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+3350000,160,150,5,10,4,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+3200000,85,80,3,11,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+3350000,160,140,5,9,0,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+3050000,160,140,5,9,0,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+3750000,170,160,5,10,4,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+2100000,85,75,3,9,3,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+3200000,80,75,3,11,0,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+3500000,160,150,5,5,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+5500000,135,120,3,5,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3000000,85,80,3,5,0,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+3350000,130,110,4,4,21,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+15675000,230,200,5,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+1000000,65,50,2,4,21,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+14000000,370,360,10,6,13.5,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+2150000,80,70,3,8,0,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+3700000,95,88,3,10,0,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+6000000,200,190,7,5,7.5,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+2450000,130,110,5,6,7.5,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+3000000,95,90,3,4,2,Ýstanbul - Eyüpsultan - Sakarya Mahallesi
+3100000,140,110,3,4,1,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+5300000,70,65,2,4,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+4500000,110,90,3,3,3,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+2250000,125,110,4,5,4,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+2850000,85,75,3,5,7.5,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+7500000,250,210,6,3,0,Ýstanbul - Eyüpsultan - Defterdar Mahallesi
+5500000,150,120,4,3,0,Ýstanbul - Eyüpsultan - Defterdar Mahallesi
+2900000,140,120,4,4,4,Ýstanbul - Eyüpsultan - Rami Yeni Mahallesi
+2400000,135,110,4,10,18.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+13500000,184,154,4,14,3,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+28000000,280,250,6,5,18.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3740000,170,150,5,9,4,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+10000000,120,100,3,6,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+4950000,60,55,2,5,1,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+2680000,155,135,4,4,7.5,Ýstanbul - Eyüpsultan - Emniyettepe Mahallesi
+5750000,122,90,3,20,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+4000000,160,140,5,5,7.5,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+5000000,100,80,2,24,4,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2800000,69,68,3,5,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+3650000,102,92,3,6,4,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3650000,108,98,3,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+6000000,140,107,3,3,1,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+10200000,142,120,3,4,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+13200000,203,168,5,5,3,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2850000,90,80,3,4,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+8000000,140,120,4,4,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2850000,90,85,3,5,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+23000000,285,225,6,5,18.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+5500000,90,80,3,9,3,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+1850000,95,90,3,5,21,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+1350000,125,120,4,4,13.5,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+2695000,90,80,3,8,7.5,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+2850000,200,170,5,3,18.5,Ýstanbul - Eyüpsultan - Rami Cuma Mahallesi
+2350000,90,70,3,8,4,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+2550000,65,64,2,4,2,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+4000000,105,85,3,5,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+71900000,550,500,8,4,21,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+7500000,180,150,4,3,2,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+4720000,135,120,4,4,18.5,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+1500000,135,125,3,4,0,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+2750000,125,110,4,7,4,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2200000,50,45,,13,4,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+5500000,90,80,3,9,3,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2900000,110,90,4,5,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+85000000,550,460,8,3,21,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+117000000,750,600,9,3,21,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+6000000,131,110,3,4,3,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+79000000,400,350,7,3,21,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+29800000,420,360,9,3,21,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+7350000,140,112,3,6,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+86000000,750,600,8,3,21,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3250000,60,40,2,5,0,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+20500000,210,180,4,4,18.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+17500000,208,180,5,4,18.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+86000000,700,650,10,3,21,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+81000000,550,500,7,3,13.5,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+83000000,550,400,8,3,21,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+15500000,200,150,4,5,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+102000000,600,500,8,4,21,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+16750000,200,180,3,3,18.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+33500000,297,200,6,3,21,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2630000,100,95,3,4,4,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+1400000,75,65,2,4,0,Ýstanbul - Eyüpsultan - Rami Yeni Mahallesi
+6250000,100,90,3,5,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2500000,86,73,,12,7.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+1900000,85,80,3,5,13.5,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+8000000,150,125,3,3,7.5,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+2130000,95,75,3,6,7.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+3000000,122,84,5,4,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2900000,90,75,3,9,4,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+1780000,70,65,3,5,3,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+4000000,200,178,5,3,0,Ýstanbul - Eyüpsultan - Sakarya Mahallesi
+2900000,130,120,4,5,4,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+2630000,95,80,3,6,0,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+4500000,156,122,3,5,3,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+2925000,110,72,3,10,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+1595000,115,110,3,5,7.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+3450000,65,48,2,5,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+3000000,92,84,3,13,7.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+3000000,85,75,3,12,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2350000,105,80,3,5,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+4650000,200,180,5,5,18.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+3350000,130,110,4,4,21,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+2250000,150,130,4,5,7.5,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+1000000,65,50,2,4,21,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+2450000,88,85,3,8,1,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+5000000,132,81,3,13,7.5,Ýstanbul - Eyüpsultan - Topçular Mahallesi
+2100000,85,75,3,10,3,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+2100000,100,90,3,5,18.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+3750000,160,145,5,3,7.5,Ýstanbul - Eyüpsultan - Rami Cuma Mahallesi
+5800000,320,270,7,4,18.5,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+6850000,230,180,7,6,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+6850000,250,200,7,6,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+5000000,180,170,7,5,0,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+7000000,275,215,6,4,1,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+1770000,80,70,3,6,21,Ýstanbul - Eyüpsultan - Düðmeciler Mahallesi
+2750000,90,65,3,10,4,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+1200000,80,70,2,5,21,Ýstanbul - Eyüpsultan - Rami Yeni Mahallesi
+13000000,146,145,5,2,21,Ýstanbul - Eyüpsultan - Topçular Mahallesi
+3150000,88,85,3,8,0,Ýstanbul - Eyüpsultan - Emniyettepe Mahallesi
+12500000,253,178,6,5,3,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+5500000,200,180,5,4,3,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+2499000,130,120,4,9,13.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+1700000,120,110,3,7,18.5,Ýstanbul - Eyüpsultan - Akþemsettin Mahallesi
+2400000,80,75,3,10,3,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+7500000,145,110,4,4,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+2075000,100,90,3,3,7.5,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+3600000,130,100,4,9,2,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2550000,55,40,2,5,3,Ýstanbul - Eyüpsultan - Mithatpaþa Mahallesi
+3800000,220,170,7,4,7.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+3100000,128,110,3,9,0,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+3000000,125,115,4,5,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2550000,80,55,2,8,0,Ýstanbul - Eyüpsultan - Emniyettepe Mahallesi
+11000000,178,155,4,3,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+2950000,175,165,5,7,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+3200000,180,170,5,7,0,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+1360000,80,70,3,5,7.5,Ýstanbul - Eyüpsultan - Esentepe Mahallesi
+3250000,160,128,4,9,3,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+5800000,90,80,3,20,0,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+10400000,192,170,4,20,0,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+10400000,192,170,4,20,0,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2750000,160,140,5,3,7.5,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+3535000,160,145,5,3,0,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2750000,100,90,3,7,7.5,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+1740000,75,55,2,2,7.5,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+10500000,180,165,5,5,7.5,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+3750000,90,75,3,4,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3500000,105,90,3,4,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2500000,130,110,3,6,21,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2600000,130,120,4,5,13.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+2600000,95,80,3,5,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2600000,90,75,3,8,4,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2500000,90,80,3,5,7.5,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+2800000,120,110,4,6,7.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+2200000,146,130,4,7,18.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+2500000,145,135,4,4,7.5,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+2500000,145,135,4,4,7.5,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+2100000,85,80,3,5,4,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+2500000,95,90,3,12,7.5,Ýstanbul - Eyüpsultan - Emniyettepe Mahallesi
+2475000,180,160,7,3,0,Ýstanbul - Eyüpsultan - Rami Yeni Mahallesi
+8950000,345,300,10,7,3,Ýstanbul - Eyüpsultan - Çýrçýr Mahallesi
+1450000,75,70,3,8,7.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+5950000,250,200,8,11,0,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+15000000,300,180,8,2,21,Ýstanbul - Eyüpsultan - Niþancý Mahallesi
+1700000,90,75,3,4,21,Ýstanbul - Eyüpsultan - Rami Cuma Mahallesi
+4150000,170,150,6,3,7.5,Ýstanbul - Eyüpsultan - Rami Cuma Mahallesi
+4250000,180,160,5,3,13.5,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+1800000,80,75,3,5,7.5,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+2900000,90,80,3,13,7.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+1590000,60,55,2,6,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+7000000,165,150,6,4,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+1225000,90,80,3,4,1,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+2550000,85,70,3,6,13.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+24000000,210,200,5,3,21,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+5300000,260,250,5,5,21,Ýstanbul - Eyüpsultan - Rami Cuma Mahallesi
+2890000,170,150,6,4,13.5,Ýstanbul - Eyüpsultan - Düðmeciler Mahallesi
+2750000,90,85,3,7,13.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+3600000,130,110,4,9,2,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+1820000,90,80,3,4,21,Ýstanbul - Eyüpsultan - Rami Yeni Mahallesi
+4850000,110,95,3,5,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+3600000,72,65,2,24,3,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+1550000,90,80,3,5,7.5,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+8500000,150,145,3,4,0,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+4000000,240,220,6,4,13.5,Ýstanbul - Eyüpsultan - Rami Cuma Mahallesi
+2700000,100,80,2,24,21,Ýstanbul - Eyüpsultan - Güzeltepe Mahallesi
+48000000,800,720,9,3,7.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+2700000,90,80,3,6,0,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+6500000,145,115,4,5,18.5,Ýstanbul - Eyüpsultan - Düðmeciler Mahallesi
+4500000,105,86,3,9,0,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+11000000,198,157,4,3,0,Ýstanbul - Eyüpsultan - Mimar Sinan Mahallesi
+2390000,130,115,3,5,13.5,Ýstanbul - Eyüpsultan - Yeþilpýnar Mahallesi
+1575000,110,100,3,4,21,Ýstanbul - Eyüpsultan - Merkez Mahallesi
+8250000,130,100,3,2,13.5,Ýstanbul - Eyüpsultan - Göktürk Merkez Mahallesi
+5150000,145,130,5,4,7.5,Ýstanbul - Eyüpsultan - Ýslambey Mahallesi
+2750000,140,115,4,5,13.5,Ýstanbul - Eyüpsultan - Alibeyköy Mahallesi
+3500000,160,150,5,5,4,Ýstanbul - Eyüpsultan - Silahtaraða Mahallesi
+2720000,125,120,4,5,7.5,Ýstanbul - Eyüpsultan - Karadolap Mahallesi
+18000000,777,775,6,2,21,Ýstanbul - Eyüpsultan - Merkez Mahallesi

@@ -1,0 +1,548 @@
+price,area,absolute_area,room,floor_count,building_age,location
+3100000,85,84,3,4,0,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+3700000,140,130,4,8,21,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+1550000,100,90,3,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1950000,95,85,3,4,21,Ýstanbul - Güngören - Merkez Mahallesi
+1700000,100,90,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1500000,90,80,3,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+3650000,85,70,3,5,0,Ýstanbul - Güngören - Güven Mahallesi
+1700000,100,90,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1700000,100,90,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1800000,90,85,3,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1690000,105,95,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1575000,80,75,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1350000,120,110,4,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1200000,90,85,3,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2350000,90,80,3,3,4,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2200000,60,50,2,4,1,Ýstanbul - Güngören - Haznedar Mahallesi
+8000000,150,135,4,5,21,Ýstanbul - Güngören - Mehmet Nesih Özmen Mahallesi
+4000000,120,115,4,5,13.5,Ýstanbul - Güngören - Haznedar Mahallesi
+2485000,130,120,4,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+4000000,120,110,4,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+4000000,120,105,3.5,4,21,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+1820000,120,110,4,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2085000,120,115,4,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2350000,90,85,3,4,13.5,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1545000,110,100,4,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+7950000,300,240,6,5,7.5,Ýstanbul - Güngören - Merkez Mahallesi
+2500000,130,110,4,4,0,Ýstanbul - Güngören - Merkez Mahallesi
+1050000,65,55,2,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2375000,125,110,4,5,21,Ýstanbul - Güngören - Güven Mahallesi
+2200000,95,85,3,5,21,Ýstanbul - Güngören - Güven Mahallesi
+1350000,110,90,4,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1570000,90,80,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1800000,90,85,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+4500000,96,85,3,5,21,Ýstanbul - Güngören - Tozkoparan Mahallesi
+1350000,95,87,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1450000,100,95,3,5,18.5,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1400000,80,70,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1050000,65,55,2,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2600000,120,112,4,5,21,Ýstanbul - Güngören - Güven Mahallesi
+1780000,100,80,3,3,13.5,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1690000,90,80,3,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1620000,95,90,3,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2750000,145,130,4,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1730000,95,90,3,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+1999000,150,80,3,4,21,Ýstanbul - Güngören - Merkez Mahallesi
+4500000,96,85,3,5,21,Ýstanbul - Güngören - Tozkoparan Mahallesi
+2600000,110,95,3,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2150000,140,130,4,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+1549000,110,100,4,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1180000,85,80,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2100000,120,110,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1680000,110,95,3,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+1500000,95,85,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2300000,120,110,4,6,21,Ýstanbul - Güngören - Güven Mahallesi
+1600000,95,90,3,4,21,Ýstanbul - Güngören - Merkez Mahallesi
+2650000,200,180,7,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1900000,160,150,4.5,7,21,Ýstanbul - Güngören - Gençosman Mahallesi
+1500000,110,105,3,5,21,Ýstanbul - Güngören - Gençosman Mahallesi
+2375000,120,110,4,6,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1850000,100,90,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+4300000,300,270,8,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2550000,130,120,4,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2250000,85,74,3,5,7.5,Ýstanbul - Güngören - Güven Mahallesi
+2750000,100,85,3,5,0,Ýstanbul - Güngören - Güven Mahallesi
+4990000,180,160,5,5,0,Ýstanbul - Güngören - Güven Mahallesi
+3000000,130,120,4,5,21,Ýstanbul - Güngören - Güven Mahallesi
+2680000,110,100,4,3,13.5,Ýstanbul - Güngören - Güneþtepe Mahallesi
+4500000,96,85,3,5,21,Ýstanbul - Güngören - Tozkoparan Mahallesi
+1650000,95,90,3,4,21,Ýstanbul - Güngören - Merkez Mahallesi
+1560000,95,85,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+3750000,196,180,6,4,7.5,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2300000,135,130,4,6,21,Ýstanbul - Güngören - Güven Mahallesi
+1740000,120,110,4,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2000000,130,120,4,5,21,Ýstanbul - Güngören - Güven Mahallesi
+1690000,90,85,3,4,18.5,Ýstanbul - Güngören - Haznedar Mahallesi
+1600000,100,90,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2200000,115,110,3,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1465000,95,90,3,4,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+5000000,180,155,5,5,0,Ýstanbul - Güngören - Güven Mahallesi
+3500000,130,120,4,5,21,Ýstanbul - Güngören - Gençosman Mahallesi
+2500000,100,90,3,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1880000,120,110,4,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1160000,75,35,2,5,13.5,Ýstanbul - Güngören - Merkez Mahallesi
+1875000,90,85,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1180000,85,80,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2250000,100,95,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2575000,135,130,4,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+5000000,240,220,5,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2400000,120,115,4,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+7250000,180,160,6,4,13.5,Ýstanbul - Güngören - Haznedar Mahallesi
+1690000,90,80,3,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+3880000,100,90,3,3,0,Ýstanbul - Güngören - Güneþtepe Mahallesi
+2480000,100,90,3,3,13.5,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2750000,86,78,3,11,7.5,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1570000,100,90,3,5,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+2400000,95,90,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1690000,90,85,3,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+2850000,85,80,3,4,13.5,Ýstanbul - Güngören - Haznedar Mahallesi
+15250000,150,130,4,7,13.5,Ýstanbul - Güngören - Tozkoparan Mahallesi
+1940000,120,110,4,4,21,Ýstanbul - Güngören - Güven Mahallesi
+3250000,125,115,4,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1550000,220,200,6,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+2750000,115,105,3,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+4000000,120,105,3.5,4,21,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+1900000,95,90,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+2150000,120,110,4,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1450000,105,95,4,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1780000,85,75,3,1,7.5,Ýstanbul - Güngören - Güven Mahallesi
+2550000,135,120,4,4,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+2300000,115,100,3,4,21,Ýstanbul - Güngören - Gençosman Mahallesi
+2290000,100,90,3,3,13.5,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1690000,90,85,3,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+2650000,120,100,4,5,13.5,Ýstanbul - Güngören - Güven Mahallesi
+2645000,100,96,4,5,21,Ýstanbul - Güngören - Mehmet Nesih Özmen Mahallesi
+2400000,90,80,3,5,21,Ýstanbul - Güngören - Mehmet Nesih Özmen Mahallesi
+2550000,90,80,3,5,21,Ýstanbul - Güngören - Mehmet Nesih Özmen Mahallesi
+6400000,170,150,4,5,21,Ýstanbul - Güngören - Mehmet Nesih Özmen Mahallesi
+3850000,95,80,4,5,21,Ýstanbul - Güngören - Tozkoparan Mahallesi
+2200000,80,70,3,5,21,Ýstanbul - Güngören - Tozkoparan Mahallesi
+2400000,90,80,3,5,21,Ýstanbul - Güngören - Mehmet Nesih Özmen Mahallesi
+2550000,90,80,3,5,21,Ýstanbul - Güngören - Mehmet Nesih Özmen Mahallesi
+1500000,200,170,6,6,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+2650000,201,172,7,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1900000,125,120,4,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1350000,150,110,4,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+7100000,135,125,4,5,21,Ýstanbul - Güngören - Tozkoparan Mahallesi
+1650000,90,85,3,4,21,Ýstanbul - Güngören - Merkez Mahallesi
+1650000,100,95,3,5,21,Ýstanbul - Güngören - Güven Mahallesi
+2500000,120,110,4,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+2200000,130,110,4,4,21,Ýstanbul - Güngören - Merkez Mahallesi
+1630000,90,85,3,4,21,Ýstanbul - Güngören - Sanayi Mahallesi
+2250000,85,67,3,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+6000000,115,100,3,12,7.5,Ýstanbul - Güngören - Sanayi Mahallesi
+4180000,134,102,3,9,3,Ýstanbul - Güngören - Sanayi Mahallesi
+4465000,145,105,3,9,3,Ýstanbul - Güngören - Sanayi Mahallesi
+2300000,115,110,6,6,21,Ýstanbul - Güngören - Güven Mahallesi
+2300000,108,100,4,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+3500000,220,200,5,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1390000,90,80,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2250000,90,80,3,4,3,Ýstanbul - Güngören - Merkez Mahallesi
+1350000,110,100,4,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1350000,120,110,4,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1150000,95,85,3,6,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+5100000,170,135,4,5,21,Ýstanbul - Güngören - Mehmet Nesih Özmen Mahallesi
+2300000,110,100,3,4,21,Ýstanbul - Güngören - Güven Mahallesi
+2750000,75,70,3,4,0,Ýstanbul - Güngören - Güneþtepe Mahallesi
+2500000,80,75,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+2550000,95,85,3,4,3,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1800000,100,90,3,4,21,Ýstanbul - Güngören - Merkez Mahallesi
+11000000,157,110,3,4,21,Ýstanbul - Güngören - Sanayi Mahallesi
+1350000,110,100,4,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2300000,100,90,3,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1350000,55,50,2,4,7.5,Ýstanbul - Güngören - Merkez Mahallesi
+2750000,110,80,4,5,21,Ýstanbul - Güngören - Gençosman Mahallesi
+3650000,120,115,4,4,0,Ýstanbul - Güngören - Merkez Mahallesi
+1750000,110,95,4,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1700000,70,60,2,4,7.5,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2350000,115,105,4,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+2650000,120,100,4,5,13.5,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2650000,120,100,4,5,13.5,Ýstanbul - Güngören - Güven Mahallesi
+2100000,140,130,4,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2550000,130,120,4,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+800000,75,70,3,4,21,Ýstanbul - Güngören - Merkez Mahallesi
+2500000,120,110,4,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1690000,105,85,3,5,21,Ýstanbul - Güngören - Sanayi Mahallesi
+1150000,90,80,3,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1775000,130,125,4,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1690000,100,90,3,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+2500000,85,70,3,3,0,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1940000,90,85,3,4,7.5,Ýstanbul - Güngören - Güven Mahallesi
+1975000,85,80,3,3,0,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1750000,115,110,4,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+1650000,115,110,4,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+1630000,85,78,3,5,21,Ýstanbul - Güngören - Güven Mahallesi
+1380000,80,75,3,1,21,Ýstanbul - Güngören - Güven Mahallesi
+1975000,85,75,3,3,0,Ýstanbul - Güngören - Güneþtepe Mahallesi
+3825000,110,100,4,4,7.5,Ýstanbul - Güngören - Güven Mahallesi
+1940000,90,85,3,4,7.5,Ýstanbul - Güngören - Güven Mahallesi
+1700000,100,90,3,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1800000,100,90,4,5,13.5,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1050000,90,85,3,5,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1100000,65,55,3,4,21,Ýstanbul - Güngören - Merkez Mahallesi
+1790000,120,115,4,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1350000,85,80,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1480000,100,90,3,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2500000,90,70,3,4,0,Ýstanbul - Güngören - Güneþtepe Mahallesi
+12000000,400,340,9,5,13.5,Ýstanbul - Güngören - Güneþtepe Mahallesi
+4650000,145,130,4,4,7.5,Ýstanbul - Güngören - Haznedar Mahallesi
+3150000,130,120,4,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+2475000,135,130,4,5,18.5,Ýstanbul - Güngören - Merkez Mahallesi
+3150000,101,90,3,4,21,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+950000,80,65,2,3,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1400000,110,100,3,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1975000,85,75,3,3,0,Ýstanbul - Güngören - Güneþtepe Mahallesi
+4500000,160,140,5,4,0,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1250000,80,70,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1650000,75,60,3,4,13.5,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1250000,120,90,3,6,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+2650000,125,110,4,4,7.5,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1450000,95,90,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1700000,100,95,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1500000,100,90,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1575000,95,90,3,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+1450000,85,80,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1875000,95,90,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1740000,120,110,4,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1450000,90,80,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1950000,120,115,4,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1350000,120,100,3,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2000000,90,80,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1690000,90,85,3,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1700000,100,90,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2540000,130,110,4,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2350000,85,75,3,4,13.5,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2100000,130,120,4,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+950000,110,85,3,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+2300000,120,110,4,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1900000,190,185,4,4,21,Ýstanbul - Güngören - Gençosman Mahallesi
+2475000,120,105,4,3,13.5,Ýstanbul - Güngören - Merkez Mahallesi
+5550000,121,100,4,5,21,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+1800000,110,100,4,4,13.5,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1600000,90,80,3,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2200000,80,70,3,5,21,Ýstanbul - Güngören - Tozkoparan Mahallesi
+3850000,95,80,4,5,21,Ýstanbul - Güngören - Tozkoparan Mahallesi
+3000000,120,110,3,4,13.5,Ýstanbul - Güngören - Güneþtepe Mahallesi
+11900000,810,800,9,5,21,Ýstanbul - Güngören - Gençosman Mahallesi
+1350000,110,90,4,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+3915000,95,90,3,5,0,Ýstanbul - Güngören - Haznedar Mahallesi
+1725000,80,75,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1800000,110,100,3,5,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+3150000,135,124,4,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1850000,100,90,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1250000,100,90,3,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+1780000,85,70,3,5,7.5,Ýstanbul - Güngören - Merkez Mahallesi
+1650000,90,80,3,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2100000,120,110,3,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+1550000,100,90,3,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+12000000,400,340,9,5,13.5,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1800000,95,87,3,4,21,Ýstanbul - Güngören - Merkez Mahallesi
+1345000,100,75,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1650000,115,110,4,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+1350000,90,85,3,5,18.5,Ýstanbul - Güngören - Güneþtepe Mahallesi
+2250000,90,80,3,4,3,Ýstanbul - Güngören - Merkez Mahallesi
+2650000,85,77,3,5,0,Ýstanbul - Güngören - Güven Mahallesi
+1680000,115,95,3,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+5150000,140,110,4,9,3,Ýstanbul - Güngören - Merkez Mahallesi
+2060000,89,82,3,10,0,Ýstanbul - Güngören - Güneþtepe Mahallesi
+2450000,100,90,4,10,21,Ýstanbul - Güngören - Tozkoparan Mahallesi
+1265000,70,60,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+3100000,120,110,4,3,13.5,Ýstanbul - Güngören - Akýncýlar Mahallesi
+3300000,100,90,3,4,13.5,Ýstanbul - Güngören - Haznedar Mahallesi
+3920000,105,100,3,5,7.5,Ýstanbul - Güngören - Haznedar Mahallesi
+2500000,125,120,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+6400000,170,150,4,5,21,Ýstanbul - Güngören - Mehmet Nesih Özmen Mahallesi
+2645000,96,90,4,5,21,Ýstanbul - Güngören - Mehmet Nesih Özmen Mahallesi
+2700000,90,75,3,5,21,Ýstanbul - Güngören - Mehmet Nesih Özmen Mahallesi
+4000000,100,96,4,5,21,Ýstanbul - Güngören - Mehmet Nesih Özmen Mahallesi
+6400000,170,150,4,5,21,Ýstanbul - Güngören - Mehmet Nesih Özmen Mahallesi
+12500000,400,350,9,5,13.5,Ýstanbul - Güngören - Güneþtepe Mahallesi
+6250000,200,170,6,4,13.5,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1800000,110,100,3,5,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+3650000,115,100,4,4,1,Ýstanbul - Güngören - Merkez Mahallesi
+3600000,130,115,4,10,21,Ýstanbul - Güngören - Gençosman Mahallesi
+4250000,200,190,5,3,13.5,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2600000,100,90,3,4,21,Ýstanbul - Güngören - Güven Mahallesi
+3800000,160,140,5,3,13.5,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2100000,130,120,4,4,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+2250000,135,110,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1500000,85,75,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1620000,95,85,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+990000,80,70,2,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1950000,120,115,4,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1550000,95,90,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+4000000,180,150,5,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+3675000,118,100,4,8,21,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+3775000,115,100,4,5,21,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+2250000,85,70,3,5,0,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1500000,100,90,3,5,21,Ýstanbul - Güngören - Gençosman Mahallesi
+949000,85,78,3,3,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1800000,90,85,3,4,21,Ýstanbul - Güngören - Merkez Mahallesi
+1850000,115,107,3,6,21,Ýstanbul - Güngören - Güven Mahallesi
+2100000,130,120,4,4,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+3825000,110,100,4,4,7.5,Ýstanbul - Güngören - Güven Mahallesi
+4750000,160,145,5,4,0,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1450000,90,88,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2250000,85,80,3,4,13.5,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1050000,85,8,3,5,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1700000,100,85,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1800000,125,110,4,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1820000,120,110,4,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1840000,95,90,3,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1220000,75,70,2,4,18.5,Ýstanbul - Güngören - Gençosman Mahallesi
+2000000,90,80,4,5,21,Ýstanbul - Güngören - Gençosman Mahallesi
+2645000,100,96,4,5,21,Ýstanbul - Güngören - Mehmet Nesih Özmen Mahallesi
+3000000,95,80,4,5,21,Ýstanbul - Güngören - Mehmet Nesih Özmen Mahallesi
+3880000,105,95,3,4,0,Ýstanbul - Güngören - Akýncýlar Mahallesi
+950000,80,70,3,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1950000,120,110,4,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2150000,120,110,4,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+3825000,110,100,3,4,7.5,Ýstanbul - Güngören - Güven Mahallesi
+1500000,90,80,3,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+3800000,160,140,5,3,13.5,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+5250000,165,145,5,4,0,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1780000,85,75,3,3,7.5,Ýstanbul - Güngören - Güven Mahallesi
+1775000,73,68,3,5,18.5,Ýstanbul - Güngören - Gençosman Mahallesi
+2900000,98,90,3,7,21,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+4000000,135,120,4,5,21,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+1580000,100,95,3,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1550000,100,90,3,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+980000,80,70,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+6000000,105,90,4,4,0,Ýstanbul - Güngören - Haznedar Mahallesi
+1450000,100,90,3,5,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+2300000,120,110,4,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+2100000,110,100,3,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2100000,120,100,4,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+4700000,100,85,3,5,1,Ýstanbul - Güngören - Tozkoparan Mahallesi
+1190000,140,130,3.5,6,21,Ýstanbul - Güngören - Gençosman Mahallesi
+3100000,90,80,3,5,0,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1450000,90,85,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2500000,130,125,4,6,21,Ýstanbul - Güngören - Güven Mahallesi
+4650000,150,110,4,9,3,Ýstanbul - Güngören - Merkez Mahallesi
+2690000,90,85,3.5,5,0,Ýstanbul - Güngören - Akýncýlar Mahallesi
+750000,80,75,3,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1900000,145,130,4,6,21,Ýstanbul - Güngören - Gençosman Mahallesi
+1780000,85,70,3,3,13.5,Ýstanbul - Güngören - Güven Mahallesi
+1295000,90,80,3,4,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+2285000,130,120,4,5,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+2100000,90,85,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1280000,85,80,3,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1750000,88,85,3,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+3500000,130,125,4,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1450000,90,80,3,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1700000,90,80,3,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+2250000,85,75,3,4,13.5,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2000000,120,110,3,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1650000,90,80,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+3300000,100,95,3,5,13.5,Ýstanbul - Güngören - Haznedar Mahallesi
+1990000,120,110,4,4,21,Ýstanbul - Güngören - Güven Mahallesi
+1000000,65,60,2,6,7.5,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1650000,110,100,3,4,21,Ýstanbul - Güngören - Gençosman Mahallesi
+2385000,125,110,4,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1850000,100,95,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1999999,115,105,4,6,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1700000,100,85,3,5,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+2050000,120,110,4,4,21,Ýstanbul - Güngören - Merkez Mahallesi
+2950000,182,180,5,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1700000,95,80,3,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+2850000,100,80,3,5,21,Ýstanbul - Güngören - Güven Mahallesi
+13500000,280,260,6,4,3,Ýstanbul - Güngören - Haznedar Mahallesi
+2850000,190,170,5,4,4,Ýstanbul - Güngören - Gençosman Mahallesi
+2600000,100,90,3,4,21,Ýstanbul - Güngören - Güven Mahallesi
+2150000,85,75,3,7,21,Ýstanbul - Güngören - Merkez Mahallesi
+3500000,230,200,6,4,21,Ýstanbul - Güngören - Güven Mahallesi
+4250000,200,190,5,3,13.5,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1345000,100,80,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1175000,80,70,3,4,21,Ýstanbul - Güngören - Merkez Mahallesi
+5000000,180,170,6,3,13.5,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1265000,70,60,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2500000,70,60,3,4,0,Ýstanbul - Güngören - Güneþtepe Mahallesi
+3675000,90,76,3,5,21,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+2950000,95,84,3,5,21,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+2875000,135,125,4,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+1800000,90,85,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+3500000,130,120,4,5,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+5500000,160,150,4,9,21,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+2000000,120,110,4,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+3180000,85,80,3,4,0,Ýstanbul - Güngören - Sanayi Mahallesi
+1275000,95,80,3,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2265000,125,120,4,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1500000,85,80,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2500000,130,120,4,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+1500000,100,95,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1450000,90,85,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+4900000,225,146,6,5,21,Ýstanbul - Güngören - Güven Mahallesi
+2255000,150,120,4,5,21,Ýstanbul - Güngören - Sanayi Mahallesi
+1300000,85,75,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1500000,100,90,3,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1650000,92,90,3,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+3650000,165,145,4,4,1,Ýstanbul - Güngören - Merkez Mahallesi
+2350000,100,90,3,4,13.5,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+735000,90,75,3,5,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1690000,90,80,3,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+2600000,135,125,4,6,21,Ýstanbul - Güngören - Güven Mahallesi
+1840000,95,85,3,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+4200000,125,115,5,5,0,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+4000000,145,135,4,5,21,Ýstanbul - Güngören - Mehmet Nesih Özmen Mahallesi
+1875000,90,85,3,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1650000,90,80,3,4,21,Ýstanbul - Güngören - Güven Mahallesi
+1530000,110,100,4,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1790000,120,110,4,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2600000,135,125,4,6,21,Ýstanbul - Güngören - Güven Mahallesi
+2550000,140,125,4,4,13.5,Ýstanbul - Güngören - Gençosman Mahallesi
+5350000,230,210,5,5,21,Ýstanbul - Güngören - Gençosman Mahallesi
+1840000,95,90,3,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+880000,75,70,3,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+1380000,80,75,3,4,21,Ýstanbul - Güngören - Güven Mahallesi
+2150000,100,90,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1685000,95,90,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1060000,120,110,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1875000,95,85,3,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+6100000,220,200,3,5,4,Ýstanbul - Güngören - Haznedar Mahallesi
+829000,75,70,3,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+1790000,120,110,4,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1450000,95,90,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2050000,135,120,4,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2100000,75,70,3,3,18.5,Ýstanbul - Güngören - Güneþtepe Mahallesi
+2750000,140,120,4,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+2500000,135,105,4,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2950000,75,70,3,5,0,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2500000,110,85,3,4,13.5,Ýstanbul - Güngören - Sanayi Mahallesi
+2750000,110,100,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1700000,95,85,3,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2100000,110,90,3,5,7.5,Ýstanbul - Güngören - Güneþtepe Mahallesi
+2000000,95,90,3,5,21,Ýstanbul - Güngören - Güven Mahallesi
+1700000,100,90,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1600000,105,100,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+2975000,100,90,3,5,21,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+3575000,180,170,6,5,13.5,Ýstanbul - Güngören - Sanayi Mahallesi
+2100000,95,80,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1750000,110,100,3,5,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1900000,120,115,4,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+5000000,200,190,5,4,0,Ýstanbul - Güngören - Güven Mahallesi
+1900000,85,80,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+4000000,145,135,4,5,21,Ýstanbul - Güngören - Mehmet Nesih Özmen Mahallesi
+2900000,96,90,4,5,21,Ýstanbul - Güngören - Mehmet Nesih Özmen Mahallesi
+1560000,95,90,3,3,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+3500000,440,230,6,5,18.5,Ýstanbul - Güngören - Merkez Mahallesi
+1600000,90,80,3,4,21,Ýstanbul - Güngören - Güven Mahallesi
+1550000,120,110,3,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1155000,85,75,3,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1283000,110,100,3,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1390000,90,80,3,5,18.5,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1280000,90,85,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2750000,90,80,3,5,0,Ýstanbul - Güngören - Güven Mahallesi
+2500000,85,80,3,4,0,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1450000,75,70,3,4,7.5,Ýstanbul - Güngören - Akýncýlar Mahallesi
+5000000,105,97,3,4,0,Ýstanbul - Güngören - Haznedar Mahallesi
+6000000,110,97,4,4,0,Ýstanbul - Güngören - Haznedar Mahallesi
+1500000,80,70,3,4,21,Ýstanbul - Güngören - Merkez Mahallesi
+2000000,105,95,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+2000000,65,55,3,4,4,Ýstanbul - Güngören - Haznedar Mahallesi
+1285000,105,100,3,6,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2950000,180,175,5,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+5000000,97,85,3,5,0,Ýstanbul - Güngören - Haznedar Mahallesi
+1800000,110,100,4,3,7.5,Ýstanbul - Güngören - Güneþtepe Mahallesi
+2800000,130,120,4,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1800000,135,125,4,4,21,Ýstanbul - Güngören - Güven Mahallesi
+1265000,110,100,3,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+4899000,160,140,4,5,0,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+3000000,160,140,4,5,21,Ýstanbul - Güngören - Güven Mahallesi
+1350000,120,109,3,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2950000,130,120,4,5,4,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1780000,80,75,3,3,7.5,Ýstanbul - Güngören - Güven Mahallesi
+6000000,130,115,4,5,3,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1380000,80,75,3,4,21,Ýstanbul - Güngören - Güven Mahallesi
+3250000,150,140,3,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1146000,75,70,3,5,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2300000,110,90,4,11,21,Ýstanbul - Güngören - Tozkoparan Mahallesi
+2200000,150,135,4,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1800000,130,120,4,4,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+2000000,125,120,4,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+4000000,110,100,4,4,7.5,Ýstanbul - Güngören - Haznedar Mahallesi
+1875000,160,150,5,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1700000,100,95,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2325000,105,90,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+5250000,155,150,5,5,0,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2750000,75,70,3,4,0,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1000000,75,65,3,6,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+4000000,150,140,4,4,4,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2100000,120,110,4,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+2250000,95,90,3,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1065000,105,95,3,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1550000,120,110,3,3,21,Ýstanbul - Güngören - Gençosman Mahallesi
+1300000,90,85,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2000000,135,125,4,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+2050000,95,90,3,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+16800000,216,215,1,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2250000,90,85,3,3,13.5,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2050000,135,115,3,5,21,Ýstanbul - Güngören - Sanayi Mahallesi
+2150000,130,110,4,4,13.5,Ýstanbul - Güngören - Gençosman Mahallesi
+1180000,90,75,3,4,21,Ýstanbul - Güngören - Gençosman Mahallesi
+4150000,130,120,4,4,21,Ýstanbul - Güngören - Tozkoparan Mahallesi
+2500000,170,150,5,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+2250000,125,120,4,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+4275000,126,113,4,8,21,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+1050000,110,85,3,6,21,Ýstanbul - Güngören - Merkez Mahallesi
+4250000,105,73,3,11,2,Ýstanbul - Güngören - Merkez Mahallesi
+1500000,135,110,4,6,21,Ýstanbul - Güngören - Merkez Mahallesi
+3300000,150,140,4,7,21,Ýstanbul - Güngören - Merkez Mahallesi
+1700000,100,95,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1700000,90,88,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+1800000,95,90,3,6,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1820000,120,115,4,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1400000,95,90,3,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1520000,95,90,3,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1820000,120,110,4,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+1500000,125,120,4,4,13.5,Ýstanbul - Güngören - Merkez Mahallesi
+1650000,95,90,3,3,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1560000,95,80,3,3,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+3100000,160,150,5,3,7.5,Ýstanbul - Güngören - Gençosman Mahallesi
+2250000,85,80,3,3,1,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1575000,170,160,6,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+5000000,220,200,5,5,13.5,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2100000,120,115,4,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1750000,100,90,3,4,21,Ýstanbul - Güngören - Güven Mahallesi
+1900000,85,80,3,2,7.5,Ýstanbul - Güngören - Gençosman Mahallesi
+1180000,95,80,3,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1800000,109,90,3,4,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+3500000,85,80,3,4,4,Ýstanbul - Güngören - Haznedar Mahallesi
+1800000,165,160,5,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+4000000,120,105,4,4,21,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+3500000,180,170,4,4,13.5,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1560000,90,85,3,3,21,Ýstanbul - Güngören - Güneþtepe Mahallesi
+1520000,90,88,3,5,21,Ýstanbul - Güngören - Akýncýlar Mahallesi
+3600000,150,135,4,5,21,Ýstanbul - Güngören - Tozkoparan Mahallesi
+3250000,98,90,3,4,0,Ýstanbul - Güngören - Merkez Mahallesi
+4300000,120,90,3,9,3,Ýstanbul - Güngören - Sanayi Mahallesi
+2300000,115,110,4,5,21,Ýstanbul - Güngören - Haznedar Mahallesi
+4000000,146,137,4,7,21,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+1500000,52,40,2,5,21,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+3550000,185,160,4,5,21,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+5000000,195,155,5,5,0,Ýstanbul - Güngören - Güven Mahallesi
+1750000,120,110,4,4,21,Ýstanbul - Güngören - Merkez Mahallesi
+1500000,80,70,3,4,21,Ýstanbul - Güngören - Merkez Mahallesi
+2500000,95,90,3,5,0,Ýstanbul - Güngören - Merkez Mahallesi
+1000000,75,72,3,4,21,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+3550000,110,100,4,5,21,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+324000000,4100,4099,5,2,18.5,Ýstanbul - Güngören - Abdurrahman Nafiz Gürman Mahallesi
+110000000,3900,3899,9,5,21,Ýstanbul - Güngören - Mehmet Nesih Özmen Mahallesi
+2650000,200,190,6,6,21,Ýstanbul - Güngören - Haznedar Mahallesi
+1735000,100,95,3,4,21,Ýstanbul - Güngören - Haznedar Mahallesi
+7500000,113,95,3,3,21,Ýstanbul - Güngören - Sanayi Mahallesi
+1600000,90,80,3,5,21,Ýstanbul - Güngören - Güven Mahallesi
+5950000,230,210,6,4,7.5,Ýstanbul - Güngören - Güven Mahallesi
+2249000,90,85,3,3,13.5,Ýstanbul - Güngören - Mareþal Çakmak Mahallesi
+5000000,220,200,5,5,13.5,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2180000,165,150,4,5,21,Ýstanbul - Güngören - Güven Mahallesi
+2200000,80,75,3,4,4,Ýstanbul - Güngören - Akýncýlar Mahallesi
+2170000,130,120,4,5,21,Ýstanbul - Güngören - Merkez Mahallesi
+2000000,130,120,4,5,21,Ýstanbul - Güngören - Güven Mahallesi
+3300000,100,90,3,4,0,Ýstanbul - Güngören - Akýncýlar Mahallesi
+6000000,130,120,4,5,21,Ýstanbul - Güngören - Tozkoparan Mahallesi
+1750000,120,115,4,5,21,Ýstanbul - Güngören - Güven Mahallesi
+3750000,160,150,5,3,4,Ýstanbul - Güngören - Gençosman Mahallesi
+2750000,210,190,6,3,21,Ýstanbul - Güngören - Gençosman Mahallesi
+2500000,160,150,5,3,7.5,Ýstanbul - Güngören - Gençosman Mahallesi
+1680000,90,80,3,6,21,Ýstanbul - Güngören - Akýncýlar Mahallesi

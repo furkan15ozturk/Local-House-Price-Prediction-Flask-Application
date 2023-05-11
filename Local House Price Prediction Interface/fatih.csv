@@ -1,0 +1,948 @@
+price,area,absolute_area,room,floor_count,building_age,location
+2000000,98,95,3,4,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+1150000,60,55,2.5,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2500000,110,100,3,4,21,Ýstanbul - Fatih - Muhsine Hatun Mahallesi
+380000,45,40,1,4,18.5,Ýstanbul - Fatih - Yedikule Mahallesi
+1200000,62,60,2,5,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+6850000,135,125,4,5,21,Ýstanbul - Fatih - Aksaray Mahallesi
+880000,75,70,3,5,21,Ýstanbul - Fatih - Yedikule Mahallesi
+1400000,80,75,2.5,5,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+19000000,109,100,4,5,21,Ýstanbul - Fatih - Ali Kuþçu Mahallesi
+5500000,140,125,4,8,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+2450000,85,80,3,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+11350000,165,155,5,6,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+2300000,90,80,3,5,7.5,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1650000,70,65,2,3,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+1700000,77,75,3,4,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+1800000,80,75,3,3,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+1950000,90,70,3,5,4,Ýstanbul - Fatih - Silivrikapý Mahallesi
+2750000,70,65,2,4,21,Ýstanbul - Fatih - Topkapý Mahallesi
+1650000,90,85,3,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1900000,85,80,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1750000,85,80,3,4,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+1750000,115,105,3,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1750000,90,85,3,5,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+3100000,110,90,4,4,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+6400000,170,140,6,6,21,Ýstanbul - Fatih - Yavuz Sultan Selim Mahallesi
+1700000,75,70,2.5,4,21,Ýstanbul - Fatih - Topkapý Mahallesi
+1990000,105,85,3,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1100000,80,75,2,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+3250000,125,110,4,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+2800000,80,78,3,3,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+2800000,80,78,3,3,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1650000,90,85,3,5,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+2500000,90,85,3,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1850000,90,85,3,5,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+3500000,220,210,9,3,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+3050000,120,110,3,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+3050000,120,110,3,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+3500000,78,75,3,2,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+1550000,85,80,3,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1840000,130,100,3,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1515000,85,25,3,4,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+1150000,65,60,2.5,5,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+6000000,70,68,2,4,18.5,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+1850000,90,70,3,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1400000,70,65,2,5,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+3850000,170,160,5,5,0,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1900000,55,50,2,5,0,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1650000,70,65,2,4,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+3950000,98,90,4,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+3750000,85,75,3,3,0,Ýstanbul - Fatih - Karagümrük Mahallesi
+2290000,120,100,4,5,18.5,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+5500000,180,140,4,3,0,Ýstanbul - Fatih - Karagümrük Mahallesi
+1300000,85,75,3,28,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+3200000,60,58,4,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1350000,65,60,2,4,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+31200000,288,256,5,1,0,Ýstanbul - Fatih - Yedikule Mahallesi
+29375000,220,180,3,1,0,Ýstanbul - Fatih - Yedikule Mahallesi
+19600000,170,140,2,1,0,Ýstanbul - Fatih - Yedikule Mahallesi
+3200000,130,100,4,4,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+5360000,95,90,3,5,0,Ýstanbul - Fatih - Molla Gürani Mahallesi
+1450000,70,65,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+6000000,155,145,4,3,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+3750000,95,85,3,5,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+4200000,126,110,3,5,21,Ýstanbul - Fatih - Ali Kuþçu Mahallesi
+1500000,70,69,3,4,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+1350000,85,75,3,5,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+1500000,75,65,2,4,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+1050000,85,75,3,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+890000,65,55,2,4,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+1250000,65,60,3,4,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+1700000,85,80,3,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+2400000,90,85,3,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1220000,80,70,3,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2350000,90,85,3,5,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+1850000,85,75,3,4,21,Ýstanbul - Fatih - Yedikule Mahallesi
+1200000,62,60,3,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+1700000,85,75,3,3,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+3750000,151,126,5,4,21,Ýstanbul - Fatih - Ali Kuþçu Mahallesi
+1450000,70,69,3,3,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+650000,40,39,,3,21,Ýstanbul - Fatih - Yedikule Mahallesi
+1270000,60,59,2,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2350000,85,75,3,4,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+1500000,85,80,3,3,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+13000000,320,300,7,3,21,Ýstanbul - Fatih - Cibali Mahallesi
+1800000,80,70,3,4,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+3850000,85,80,3,3,21,Ýstanbul - Fatih - Niþanca Mahallesi
+1450000,75,65,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1150000,75,65,3,35,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+5500000,260,250,8,4,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+1450000,85,80,3,4,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+2165000,100,80,3,4,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+3000000,80,79,3,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+1475000,85,80,3,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1900000,75,65,3,6,21,Ýstanbul - Fatih - Yavuz Sultan Selim Mahallesi
+1500000,90,85,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+8500000,250,245,5,3,21,Ýstanbul - Fatih - Ali Kuþçu Mahallesi
+2550000,90,85,3,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+3890000,151,126,5,4,21,Ýstanbul - Fatih - Ali Kuþçu Mahallesi
+3250000,100,90,4,4,21,Ýstanbul - Fatih - Zeyrek Mahallesi
+5500000,85,75,3,5,21,Ýstanbul - Fatih - Aksaray Mahallesi
+1675000,80,79,3,4,21,Ýstanbul - Fatih - Topkapý Mahallesi
+1800000,60,50,2,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+6500000,310,300,6,6,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1550000,80,75,3,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+2900000,180,160,6,6,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1550000,85,75,3,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1650000,70,65,2,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1950000,110,100,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1225000,70,60,2,4,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2600000,85,65,3,3,21,Ýstanbul - Fatih - Þehremini Mahallesi
+2165000,100,80,3,4,21,Ýstanbul - Fatih - Atikali Mahallesi
+2250000,95,85,3,4,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+1250000,75,70,2,5,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+2600000,110,100,4,4,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+1450000,70,65,2,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1600000,75,70,2,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1470000,76,75,3,4,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+1350000,35,30,2,5,0,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+2850000,105,100,4,6,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1625000,65,60,2,4,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1295000,65,60,2,3,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+5450000,160,140,4,5,21,Ýstanbul - Fatih - Þehremini Mahallesi
+3140000,170,125,4,4,21,Ýstanbul - Fatih - Topkapý Mahallesi
+1650000,55,52,2,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1800000,85,80,3,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+1200000,85,80,3,3,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+3000000,65,55,2,4,0,Ýstanbul - Fatih - Topkapý Mahallesi
+6500000,170,160,4,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+15000000,600,576,3,6,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1950000,90,85,3,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1650000,80,75,2,5,13.5,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+6830000,135,120,3,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+3500000,130,125,4,5,21,Ýstanbul - Fatih - Aksaray Mahallesi
+3400000,118,110,4,2,21,Ýstanbul - Fatih - Aksaray Mahallesi
+1580000,78,75,3,3,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1250000,50,35,2,4,21,Ýstanbul - Fatih - Yavuz Sultan Selim Mahallesi
+2550000,132,111,4,3,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+6480000,55,50,2,4,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+2000000,80,75,3,5,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+2800000,95,85,3,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1650000,80,70,2,4,21,Ýstanbul - Fatih - Yavuz Sultan Selim Mahallesi
+2600000,150,140,5,4,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+4750000,40,38,2,6,21,Ýstanbul - Fatih - Molla Fenari Mahallesi
+1675000,60,55,2,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2800000,100,90,3,5,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+2700000,130,110,4,5,21,Ýstanbul - Fatih - Yedikule Mahallesi
+2200000,85,75,3,4,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+1650000,50,45,3,1,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+4500000,155,150,4,4,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+2850000,145,140,5,4,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+5500000,135,130,4,6,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1500000,70,55,2,3,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+2950000,120,95,3,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+2250000,100,80,3,4,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+2345000,120,110,4,5,21,Ýstanbul - Fatih - Niþanca Mahallesi
+1750000,70,65,2,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+15000000,95,90,3,4,7.5,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2200000,85,84,3,4,21,Ýstanbul - Fatih - Yavuz Sultan Selim Mahallesi
+3650000,120,110,4,3,21,Ýstanbul - Fatih - Atikali Mahallesi
+2500000,90,80,3,6,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1390000,65,55,3,3,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1500000,85,75,3,3,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+2400000,75,70,3,5,21,Ýstanbul - Fatih - Niþanca Mahallesi
+2000000,130,120,4,5,21,Ýstanbul - Fatih - Niþanca Mahallesi
+2350000,110,100,4,5,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+5280000,264,237,9,3,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+1400000,85,80,3,5,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+1450000,60,55,2,5,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+3950000,125,115,4,5,21,Ýstanbul - Fatih - Þehremini Mahallesi
+24500000,160,145,3,3,21,Ýstanbul - Fatih - Topkapý Mahallesi
+6000000,250,240,5,6,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+1550000,90,75,3,3,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+1550000,60,40,2,4,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+3250000,150,135,4,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2100000,85,80,3,4,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+2750000,100,90,3,4,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+8250000,140,115,4,4,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+3500000,120,115,4,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2500000,83,80,3,4,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+8000000,155,130,4,4,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+3500000,65,55,2,5,0,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2250000,125,110,3,5,21,Ýstanbul - Fatih - Zeyrek Mahallesi
+8900000,170,160,4,7,21,Ýstanbul - Fatih - Aksaray Mahallesi
+5000000,180,155,6,4,21,Ýstanbul - Fatih - Muhsine Hatun Mahallesi
+2600000,70,65,3,3,13.5,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+1000000,40,35,2,4,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+2750000,130,120,5,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1550000,80,70,3,5,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+1950000,85,80,3,4,21,Ýstanbul - Fatih - Aksaray Mahallesi
+1100000,55,50,2,3,21,Ýstanbul - Fatih - Yedikule Mahallesi
+2600000,85,80,3,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+6000000,90,85,3,3,0,Ýstanbul - Fatih - Þehremini Mahallesi
+3250000,90,85,3,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1500000,60,50,2,5,21,Ýstanbul - Fatih - Þehremini Mahallesi
+2500000,90,75,3,5,13.5,Ýstanbul - Fatih - Ali Kuþçu Mahallesi
+1550000,60,50,2.5,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+5000000,110,100,3,5,21,Ýstanbul - Fatih - Küçük Ayasofya Mahallesi
+1600000,90,80,3,5,13.5,Ýstanbul - Fatih - Ali Kuþçu Mahallesi
+5750000,95,90,3,4,13.5,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+4500000,130,120,4,5,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+3750000,140,130,4,10,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+2500000,90,85,3,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1375000,75,65,2,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1500000,60,50,4,4,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+3350000,110,95,3,5,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+2510000,95,85,3,5,13.5,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1119999,65,60,2,5,7.5,Ýstanbul - Fatih - Aksaray Mahallesi
+1300000,55,50,2,4,21,Ýstanbul - Fatih - Atikali Mahallesi
+1950000,88,85,3,5,4,Ýstanbul - Fatih - Silivrikapý Mahallesi
+3750000,95,90,3,4,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+2575000,110,95,4,3,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+2500000,110,100,3,5,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+2500000,95,85,3,3,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+1000000,80,70,2,5,7.5,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+2900000,95,90,3,5,18.5,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2600000,90,80,3,4,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+1950000,85,75,3,3,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+2900000,95,85,3,4,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+2065000,90,80,3,5,21,Ýstanbul - Fatih - Yedikule Mahallesi
+2500000,85,75,3,4,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+4250000,110,90,4,4,0,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+2865000,80,75,3,5,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+2500000,85,80,3,5,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+1975000,85,75,2,5,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+1525000,75,70,3,5,21,Ýstanbul - Fatih - Yedikule Mahallesi
+1575000,70,55,2,5,21,Ýstanbul - Fatih - Zeyrek Mahallesi
+14250000,400,360,8,5,18.5,Ýstanbul - Fatih - Molla Gürani Mahallesi
+3100000,140,120,4,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2150000,70,60,2,5,21,Ýstanbul - Fatih - Atikali Mahallesi
+9000000,92,82,2,4,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+3300000,200,180,6,3,21,Ýstanbul - Fatih - Zeyrek Mahallesi
+1900000,130,120,4,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+11950000,125,100,2,2,21,Ýstanbul - Fatih - Zeyrek Mahallesi
+1610000,100,85,3,6,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2350000,90,70,3,5,21,Ýstanbul - Fatih - Zeyrek Mahallesi
+6900000,150,140,4,6,18.5,Ýstanbul - Fatih - Molla Gürani Mahallesi
+3900000,130,110,4,5,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+25000,170,150,4,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+3450000,85,80,3,5,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+1600000,80,70,3,4,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+16000000,400,390,9,3,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+1775000,75,70,3,5,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+6000000,90,85,3,3,0,Ýstanbul - Fatih - Þehremini Mahallesi
+2720000,105,90,3,5,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+2250000,50,45,2,5,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+1450000,100,95,3,4,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+29500000,200,180,4,3,1,Ýstanbul - Fatih - Yedikule Mahallesi
+45200000,400,375,6,4,1,Ýstanbul - Fatih - Yedikule Mahallesi
+3000000,100,90,5,5,21,Ýstanbul - Fatih - Aksaray Mahallesi
+1850000,98,90,3,5,21,Ýstanbul - Fatih - Aksaray Mahallesi
+1100000,75,70,2,3,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+1700000,80,70,3,4,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+4000000,125,105,4,5,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+1000000,90,85,3,4,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+2499900,85,80,3,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1500000,90,85,3,4,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+16500000,240,195,9,3,13.5,Ýstanbul - Fatih - Balat Mahallesi
+1100000,85,80,3,5,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+1750000,85,80,3,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+3650000,140,130,4,5,21,Ýstanbul - Fatih - Saraç Ýshak Mahallesi
+2550000,85,75,3,2,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+7250000,140,125,5,5,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+1750000,100,90,3,3,7.5,Ýstanbul - Fatih - Aksaray Mahallesi
+5100000,175,150,4,3,3,Ýstanbul - Fatih - Atikali Mahallesi
+1920000,120,110,4,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1900000,80,65,2,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+985000,65,60,2,5,21,Ýstanbul - Fatih - Atikali Mahallesi
+1850000,85,80,3,5,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+3150000,120,110,4,5,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+7995000,70,55,4,3,4,Ýstanbul - Fatih - Balat Mahallesi
+2250000,138,115,4,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1485000,65,55,3,4,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+1450000,75,65,2,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1420000,75,70,3,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+3850000,120,115,4,10,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+2400000,100,95,3,4,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+1680000,98,90,3,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1500000,80,75,3,4,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+1750000,85,80,3,5,21,Ýstanbul - Fatih - Þehremini Mahallesi
+3750000,120,100,3,4,21,Ýstanbul - Fatih - Topkapý Mahallesi
+2200000,85,80,3,3,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+2750000,170,160,5,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+4150000,140,130,4,4,21,Ýstanbul - Fatih - Ali Kuþçu Mahallesi
+4800000,140,130,4.5,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1500000,95,90,3,4,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+2750000,90,85,3,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2250000,85,80,3,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2000000,100,90,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1250000,85,80,3,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+2100000,80,79,3,4,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+2000000,90,80,3.5,3,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+3350000,120,100,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2900000,85,80,3,5,21,Ýstanbul - Fatih - Aksaray Mahallesi
+3175000,90,85,3,3,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+4480000,120,115,5,3,1,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+1680000,70,68,3,4,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+5500000,130,125,4,7,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+7500000,170,150,3,4,13.5,Ýstanbul - Fatih - Molla Gürani Mahallesi
+1650000,80,65,3,3,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+1900000,85,80,3,3,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+1425000,80,75,2,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+4500000,280,225,6,2,21,Ýstanbul - Fatih - Topkapý Mahallesi
+2000000,83,73,3,5,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+4000000,100,95,3,6,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1770000,75,70,3,5,21,Ýstanbul - Fatih - Yedikule Mahallesi
+3850000,135,130,4,9,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+1700000,100,90,3,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1500000,90,85,3,3,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+1875000,75,70,3,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+2500000,90,80,2,5,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+2400000,85,75,3,3,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+3500000,110,100,3,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2400000,85,75,3,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2200000,70,60,2.5,6,21,Ýstanbul - Fatih - Balat Mahallesi
+1990000,105,90,4,4,21,Ýstanbul - Fatih - Balat Mahallesi
+3500000,150,140,4,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2250000,80,70,3,6,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+2850000,100,90,3,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+850000,70,65,3,4,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+35000000,400,350,9,3,7.5,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+1350000,80,70,2.5,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+3990000,115,110,4,4,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+3650000,125,120,4,4,21,Ýstanbul - Fatih - Emin Sinan Mahallesi
+1000000,50,40,2,5,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+3100000,100,85,3,4,18.5,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1300000,65,60,2,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+2000000,110,100,3,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+16000000,400,360,8,6,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+3450000,75,70,3,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2399000,110,105,3,5,18.5,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+2250000,90,89,3,4,21,Ýstanbul - Fatih - Aksaray Mahallesi
+3650000,115,110,3,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+3350000,110,100,4,3,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+3500000,120,110,3,5,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+15500000,600,560,9,4,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+1950000,90,88,3,3,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+1300000,90,85,3,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1300000,70,65,2,3,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+1250000,80,75,2,5,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+1700000,75,70,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2000000,110,100,3,6,21,Ýstanbul - Fatih - Zeyrek Mahallesi
+1550000,70,55,2,6,21,Ýstanbul - Fatih - Zeyrek Mahallesi
+2700000,110,95,3,10,21,Ýstanbul - Fatih - Cibali Mahallesi
+140000,30,25,,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+810000,75,60,2,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1250000,85,75,2,4,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+1750000,95,85,3,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+3650000,135,120,4,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+5750000,130,110,3,4,7.5,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+18000000,65,45,9,3,21,Ýstanbul - Fatih - Cankurtaran Mahallesi
+1350000,60,59,2,2,21,Ýstanbul - Fatih - Yedikule Mahallesi
+1000000,70,65,3,3,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+5099000,175,150,4,3,3,Ýstanbul - Fatih - Atikali Mahallesi
+2500000,105,95,3,5,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+1200000,65,55,2,4,21,Ýstanbul - Fatih - Yedikule Mahallesi
+15000000,360,340,8,5,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+1550000,30,25,1,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1750000,80,75,3,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2600000,150,140,5,4,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+3000000,140,120,5,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+6950000,135,100,4,4,21,Ýstanbul - Fatih - Ali Kuþçu Mahallesi
+4250000,260,220,9,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1270000,48,40,3,3,21,Ýstanbul - Fatih - Balat Mahallesi
+3200000,100,80,3,3,21,Ýstanbul - Fatih - Topkapý Mahallesi
+1750000,80,75,2,3,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1150000,90,70,3,5,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+1200000,95,90,3,5,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+2000000,85,80,3,3,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1550000,90,80,3,5,21,Ýstanbul - Fatih - Yedikule Mahallesi
+1580000,85,75,3,5,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+1550000,75,70,3,4,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+2850000,95,90,3,6,21,Ýstanbul - Fatih - Saraç Ýshak Mahallesi
+12000000,374,350,8,4,21,Ýstanbul - Fatih - Hoca Gýyasettin Mahallesi
+3200000,75,74,3,3,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2000000,75,70,3,5,21,Ýstanbul - Fatih - Atikali Mahallesi
+2500000,85,80,3,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+980000,65,50,2,5,21,Ýstanbul - Fatih - Yedikule Mahallesi
+3000000,110,95,4,5,21,Ýstanbul - Fatih - Yedikule Mahallesi
+8000000,110,100,4,4,21,Ýstanbul - Fatih - Yedikule Mahallesi
+2000000,75,70,3,5,21,Ýstanbul - Fatih - Yedikule Mahallesi
+2500000,110,95,4,5,21,Ýstanbul - Fatih - Yedikule Mahallesi
+1990000,95,90,3,5,21,Ýstanbul - Fatih - Yedikule Mahallesi
+1900000,70,65,3,5,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+2000000,75,65,3,3,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1900000,100,90,3,3,21,Ýstanbul - Fatih - Topkapý Mahallesi
+1549000,60,55,2.5,3,21,Ýstanbul - Fatih - Topkapý Mahallesi
+2130000,120,95,3,2,21,Ýstanbul - Fatih - Þehremini Mahallesi
+2200000,80,70,3,4,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+1550000,85,80,3,4,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+6750000,319,300,6,6,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+6750000,319,300,6,6,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+1850000,70,65,2,4,21,Ýstanbul - Fatih - Topkapý Mahallesi
+1650000,80,70,3,5,21,Ýstanbul - Fatih - Topkapý Mahallesi
+2460000,90,85,3,4,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2600000,90,72,3,27,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+3100000,110,100,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+750000,80,65,3,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+2000000,80,75,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2300000,90,85,3,4,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+1150000,80,75,2,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1750000,80,75,3,5,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+4000000,140,120,4,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1300000,65,60,2,4,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+2310000,80,75,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2500000,85,75,3,5,21,Ýstanbul - Fatih - Topkapý Mahallesi
+1390000,80,70,2.5,4,21,Ýstanbul - Fatih - Topkapý Mahallesi
+2500000,85,75,3,2,21,Ýstanbul - Fatih - Topkapý Mahallesi
+620000,40,35,,3,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+2000000,85,80,3,3,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+22000000,500,450,6,5,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+3500000,80,67,3,5,13.5,Ýstanbul - Fatih - Karagümrük Mahallesi
+1700000,80,75,3,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+1740000,90,85,3,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+4150000,140,130,4,4,21,Ýstanbul - Fatih - Ali Kuþçu Mahallesi
+2250000,90,75,2,5,13.5,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2300000,75,70,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+7500000,230,200,6,5,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+1750000,90,85,3,5,21,Ýstanbul - Fatih - Aksaray Mahallesi
+2250000,130,120,5,4,18.5,Ýstanbul - Fatih - Yedikule Mahallesi
+1990000,90,85,3,5,21,Ýstanbul - Fatih - Yedikule Mahallesi
+1300000,100,90,3,5,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+980000,55,50,2,5,21,Ýstanbul - Fatih - Yedikule Mahallesi
+900000,65,60,2,5,21,Ýstanbul - Fatih - Yedikule Mahallesi
+750000,60,55,2,4,21,Ýstanbul - Fatih - Yedikule Mahallesi
+2500000,110,100,4,5,21,Ýstanbul - Fatih - Yedikule Mahallesi
+1500000,80,75,3,5,21,Ýstanbul - Fatih - Yedikule Mahallesi
+3300000,100,90,4,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1850000,85,80,3,5,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+1500000,110,95,3,5,21,Ýstanbul - Fatih - Katip Kasým Mahallesi
+1450000,80,75,3.5,4,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+2200000,80,70,3,3,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+1500000,75,65,2,5,18.5,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+4300000,150,140,4,4,0,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2600000,70,65,3,4,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+800000,55,45,2,5,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+2500000,95,85,3,3,21,Ýstanbul - Fatih - Aksaray Mahallesi
+3950000,186,170,6,3,1,Ýstanbul - Fatih - Balat Mahallesi
+2990000,165,135,4,2,4,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+3250000,170,145,4,3,7.5,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2550000,90,85,3,6,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+1950000,65,55,2,3,4,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+2050000,115,100,3,5,21,Ýstanbul - Fatih - Þehremini Mahallesi
+4800000,120,94,3,4,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+1500000,110,100,4,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+2350000,90,80,3,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+4400000,43,40,8,5,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+1950000,80,75,3,5,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+1875000,95,90,3,4,21,Ýstanbul - Fatih - Topkapý Mahallesi
+2850000,95,90,3,5,21,Ýstanbul - Fatih - Aksaray Mahallesi
+1984900,135,120,4,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1899000,80,65,2,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1500000,55,50,2,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+3000000,110,100,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2250000,80,70,3,6,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+2800000,75,70,3,5,4,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+1900000,75,70,3,3,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+1700000,70,66,2,5,21,Ýstanbul - Fatih - Zeyrek Mahallesi
+2550000,95,90,3,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+1750000,85,75,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+4800000,170,150,4,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1650000,100,90,3,5,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+1575000,100,85,3,3,21,Ýstanbul - Fatih - Cibali Mahallesi
+1900000,85,70,2,3,21,Ýstanbul - Fatih - Atikali Mahallesi
+1000000,90,80,3,3,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+5000000,250,240,6,4,18.5,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+5000000,200,180,6,5,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+1100000,45,40,3,5,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+4300000,150,140,4,5,0,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+11500000,550,525,3,7,21,Ýstanbul - Fatih - Yavuz Sultan Selim Mahallesi
+1650000,75,65,3,5,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+11500000,540,400,8,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1850000,85,80,3,5,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+2700000,130,120,4,5,21,Ýstanbul - Fatih - Cibali Mahallesi
+1550000,100,95,4,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1550000,80,70,3,4,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+17000000,221,220,7,3,21,Ýstanbul - Fatih - Muhsine Hatun Mahallesi
+1550000,80,70,3,4,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+3550000,80,65,3,4,0,Ýstanbul - Fatih - Yavuz Sultan Selim Mahallesi
+5500000,125,120,4,5,0,Ýstanbul - Fatih - Akþemsettin Mahallesi
+3950000,130,125,4,10,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+1370000,55,45,3,3,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+1250000,80,75,3,4,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+4500000,90,85,3,4,13.5,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+1950000,85,60,3,3,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+4000000,120,100,3,4,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+1750000,85,80,3,5,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+2000000,65,60,2,5,7.5,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+2700000,200,180,6,7,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+1850000,100,85,3,3,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+3000000,225,220,9,3,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+1450000,70,65,2,4,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+1175000,65,60,2,6,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+1750000,75,70,2.5,4,21,Ýstanbul - Fatih - Yedikule Mahallesi
+1700000,85,75,3,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1650000,80,70,3,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+2000000,100,90,4,4,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+1700000,90,80,4,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+3350000,125,110,4,4,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+2750000,125,105,4,2,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+4800000,280,260,10,6,18.5,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+3350000,140,135,4,5,21,Ýstanbul - Fatih - Aksaray Mahallesi
+1750000,90,85,3,4,21,Ýstanbul - Fatih - Aksaray Mahallesi
+1500000,110,100,3,3,18.5,Ýstanbul - Fatih - Aksaray Mahallesi
+850000,75,70,2,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+4500000,240,225,9,3,18.5,Ýstanbul - Fatih - Ayvansaray Mahallesi
+2500000,90,80,3,3,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+3149000,120,110,4,5,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+3500000,135,115,4,4,21,Ýstanbul - Fatih - Balat Mahallesi
+3500000,145,140,4,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+3800000,145,140,4,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+3950000,170,160,4.5,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1550000,80,70,3,5,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+2750000,80,70,3,4,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2600000,65,60,2,2,7.5,Ýstanbul - Fatih - Þehremini Mahallesi
+1550000,80,70,3,5,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+3450000,150,135,4,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2720000,85,70,3,5,21,Ýstanbul - Fatih - Aksaray Mahallesi
+1250000,75,65,3,3,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+6000000,180,160,5,5,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+3000000,140,120,4,6,13.5,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+4500000,100,99,3,3,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+1500000,55,50,2,4,18.5,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1350000,85,80,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1400000,85,80,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1995000,100,85,3,6,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+1200000,85,80,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1830000,90,85,3,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1600000,70,60,2,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1640000,80,77,3,3,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+5000000,155,145,6,4,21,Ýstanbul - Fatih - Muhsine Hatun Mahallesi
+1550000,70,65,2,5,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+1200000,63,55,2,3,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1390000,85,70,3,3,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+3500000,85,75,3,3,7.5,Ýstanbul - Fatih - Silivrikapý Mahallesi
+1200000,85,80,3,5,21,Ýstanbul - Fatih - Aksaray Mahallesi
+3750000,110,100,4,5,18.5,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+2750000,120,110,4,5,21,Ýstanbul - Fatih - Atikali Mahallesi
+2247000,138,115,4,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1625000,100,75,3,5,21,Ýstanbul - Fatih - Topkapý Mahallesi
+1700000,80,75,3,5,18.5,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+12000000,260,240,9,4,21,Ýstanbul - Fatih - Þehsuvar Bey Mahallesi
+8000000,200,160,6,2,21,Ýstanbul - Fatih - Kalenderhane Mahallesi
+4200000,140,135,4,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1200000,65,60,3,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+3100000,150,130,3,6,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+2550000,90,80,3,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+2650000,155,130,4,8,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+5140000,110,90,4,3,0,Ýstanbul - Fatih - Þehremini Mahallesi
+5000000,135,108,3,3,0,Ýstanbul - Fatih - Þehremini Mahallesi
+2000000,100,85,3,5,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+3400000,135,130,4,4,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+2500000,90,82,4,5,18.5,Ýstanbul - Fatih - Silivrikapý Mahallesi
+2600000,130,115,4,6,21,Ýstanbul - Fatih - Aksaray Mahallesi
+1700000,85,80,3,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+984900,65,60,2,5,21,Ýstanbul - Fatih - Atikali Mahallesi
+2350000,85,75,3,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+2350000,95,90,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1750000,70,65,2,5,18.5,Ýstanbul - Fatih - Þehremini Mahallesi
+2100000,90,85,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+3000000,145,140,4,4,21,Ýstanbul - Fatih - Niþanca Mahallesi
+2950000,90,80,3,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+4200000,110,105,3,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+6222000,90,80,3,3,0,Ýstanbul - Fatih - Topkapý Mahallesi
+2400000,85,75,3,8,21,Ýstanbul - Fatih - Ali Kuþçu Mahallesi
+2200000,90,80,3,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1975000,105,95,3,3,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+2150000,90,85,3,4,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+1250000,85,75,3,4,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+1975000,105,95,3,3,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+1250000,65,55,2,4,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+1250000,65,55,2,4,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+2945000,40,35,4,4,21,Ýstanbul - Fatih - Balat Mahallesi
+2300000,85,75,3,4,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+2525000,115,100,3,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1750000,75,65,2,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1450000,65,60,2.5,3,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+4490000,145,120,5,5,21,Ýstanbul - Fatih - Yavuz Sultan Selim Mahallesi
+1275000,75,70,3,4,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+1090000,70,65,3,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+10000000,85,84,1,3,21,Ýstanbul - Fatih - Yedikule Mahallesi
+2150000,75,65,3,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+2500000,85,80,3,4,18.5,Ýstanbul - Fatih - Þehremini Mahallesi
+1150000,85,75,2,5,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1550000,90,80,3,4,13.5,Ýstanbul - Fatih - Þehremini Mahallesi
+1250000,55,50,2,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1400000,65,60,3,5,21,Ýstanbul - Fatih - Þehremini Mahallesi
+4100000,140,120,5,6,21,Ýstanbul - Fatih - Aksaray Mahallesi
+9000000,81,80,9,5,21,Ýstanbul - Fatih - Niþanca Mahallesi
+4850000,112,85,3,5,0,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1715000,85,80,3,4,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+1490000,65,58,2.5,5,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+1975000,130,120,4,5,21,Ýstanbul - Fatih - Niþanca Mahallesi
+1250000,75,70,3,3,21,Ýstanbul - Fatih - Yedikule Mahallesi
+1650000,150,135,4,5,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+1600000,85,70,3,4,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+4300000,150,130,4,5,0,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+2500000,100,90,3,3,21,Ýstanbul - Fatih - Topkapý Mahallesi
+4000000,150,140,4,3,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+2500000,85,80,3,3,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1700000,95,90,3,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1850000,110,100,4,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+5000000,120,110,4,5,18.5,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+15000000,450,449,1,5,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1080000,55,54,2,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+3300000,105,95,3,5,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+2370000,110,100,4,5,21,Ýstanbul - Fatih - Þehremini Mahallesi
+2400000,90,80,3,4,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+1250000,75,70,2,5,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+1300000,55,45,2,4,21,Ýstanbul - Fatih - Yavuz Sultan Selim Mahallesi
+2350000,110,100,4,4,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+3200000,280,250,6,4,21,Ýstanbul - Fatih - Niþanca Mahallesi
+1850000,100,50,3,5,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+2265000,85,80,3,6,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+1600000,65,60,2,3,21,Ýstanbul - Fatih - Topkapý Mahallesi
+1250000,55,45,2,6,21,Ýstanbul - Fatih - Yavuz Sultan Selim Mahallesi
+3500000,160,150,5,4,0,Ýstanbul - Fatih - Þehremini Mahallesi
+3610000,115,90,3.5,5,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+1600000,95,85,3,6,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+1600000,130,125,4,5,21,Ýstanbul - Fatih - Þehremini Mahallesi
+2350000,95,90,3,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+915000,80,65,3,6,21,Ýstanbul - Fatih - Balat Mahallesi
+1750000,80,75,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1500000,95,90,3,4,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+3500000,140,130,4,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1650000,115,90,3,6,18.5,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+1350000,90,80,3,5,21,Ýstanbul - Fatih - Topkapý Mahallesi
+1565000,77,75,3,4,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+1500000,65,58,2,6,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+1650000,110,90,3,6,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+2400000,81,75,3,5,21,Ýstanbul - Fatih - Balat Mahallesi
+19000000,410,300,7,4,21,Ýstanbul - Fatih - Balat Mahallesi
+950000,55,45,2,5,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+2200000,90,85,3,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1900000,85,80,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2370000,110,100,4,5,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1100000,70,50,2,5,21,Ýstanbul - Fatih - Atikali Mahallesi
+7984900,80,60,5,3,4,Ýstanbul - Fatih - Balat Mahallesi
+1350000,65,55,2,4,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+1500000,100,90,3,3,21,Ýstanbul - Fatih - Yedikule Mahallesi
+2000000,95,90,3,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+2299000,85,75,3,4,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1450000,85,80,3,6,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+17000000,72,70,4,5,21,Ýstanbul - Fatih - Yavuz Sultan Selim Mahallesi
+2100000,100,90,3.5,5,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+19000000,410,300,7,4,21,Ýstanbul - Fatih - Balat Mahallesi
+19000000,410,300,7,4,21,Ýstanbul - Fatih - Balat Mahallesi
+4950000,140,130,4,4,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+1200000,85,80,3,5,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+1484900,65,55,3,4,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2850000,90,85,3,4,0,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+3750000,95,85,3,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1950000,85,75,3,3,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+1350000,60,55,2,3,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+5800000,217,120,9,4,21,Ýstanbul - Fatih - Yedikule Mahallesi
+1370000,70,65,3,5,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+2500000,125,110,4,3,21,Ýstanbul - Fatih - Atikali Mahallesi
+1390000,75,70,3,3,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+4500000,250,165,5,5,21,Ýstanbul - Fatih - Aksaray Mahallesi
+2750000,105,100,3,4,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+9500000,124,123,3,4,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+2500000,90,75,3,5,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+2000000,115,90,3,5,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+2155000,100,90,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2100000,166,120,4,4,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+63000000,700,699,3,4,21,Ýstanbul - Fatih - Aksaray Mahallesi
+2100000,85,78,3,4,18.5,Ýstanbul - Fatih - Molla Gürani Mahallesi
+2500000,95,85,3,3,0,Ýstanbul - Fatih - Silivrikapý Mahallesi
+1650000,78,70,2,4,21,Ýstanbul - Fatih - Yavuz Sultan Selim Mahallesi
+2290000,110,95,3,4,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+7000000,100,90,3,5,0,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2500000,125,109,3,5,21,Ýstanbul - Fatih - Aksaray Mahallesi
+2500000,90,80,3,5,21,Ýstanbul - Fatih - Aksaray Mahallesi
+1700000,80,75,3,5,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+930000,82,70,2,4,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+8490000,87,75,9,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+2250000,90,80,3,4,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+3500000,150,135,4,4,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1850000,75,70,2,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2100000,75,70,2,1,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1930000,75,68,3,5,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+1500000,100,75,3,5,21,Ýstanbul - Fatih - Atikali Mahallesi
+3650000,130,120,4,4,21,Ýstanbul - Fatih - Aksaray Mahallesi
+1600000,78,75,3,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+2400000,105,95,3,5,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+3900000,150,140,4,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1650000,80,70,2,4,13.5,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2250000,95,85,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2350000,85,80,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1900000,110,90,4,4,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+1800000,80,75,3,3,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1750000,140,120,5,4,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+1250000,85,80,3,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+8200000,65,64,9,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1200000,55,50,2,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+1250000,55,50,2,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+2150000,90,85,3,5,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+2750000,110,105,3,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+125000000,1501,1500,9,9,21,Ýstanbul - Fatih - Hobyar Mahallesi
+7500000,128,127,9,3,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+2550000,120,115,3.5,4,13.5,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+1750000,85,80,3,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+2500000,90,80,3,5,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+3730000,135,120,3,6,7.5,Ýstanbul - Fatih - Akþemsettin Mahallesi
+6000000,185,180,6,5,13.5,Ýstanbul - Fatih - Aksaray Mahallesi
+2000000,85,75,3,6,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+1950000,80,75,3,3,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+3800000,110,100,3,2,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1700000,60,50,2,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1150000,80,75,2,2,21,Ýstanbul - Fatih - Þehremini Mahallesi
+2500000,90,80,3,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1600000,130,125,4,5,21,Ýstanbul - Fatih - Topkapý Mahallesi
+7000000,90,70,3,5,21,Ýstanbul - Fatih - Beyazýt Mahallesi
+1480000,75,70,3,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+3000000,110,100,3,6,21,Ýstanbul - Fatih - Ali Kuþçu Mahallesi
+3200000,120,110,4,6,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2900000,140,135,4,1,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+2350000,80,75,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1250000,60,50,2,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+950000,80,70,2,6,18.5,Ýstanbul - Fatih - Karagümrük Mahallesi
+1950000,90,80,3,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+2350000,80,75,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2100000,125,120,4,4,21,Ýstanbul - Fatih - Aksaray Mahallesi
+2550000,130,120,4,5,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+1925000,85,80,3,4,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+1600000,70,60,3,5,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+2100000,85,80,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+4000000,120,115,3,5,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+2000000,75,65,2.5,6,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+3600000,128,115,4,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+32000000,600,500,9,6,21,Ýstanbul - Fatih - Molla Fenari Mahallesi
+2000000,105,95,4,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1700000,85,80,3,4,21,Ýstanbul - Fatih - Yedikule Mahallesi
+3250000,115,105,4,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+3600000,125,115,4,4,18.5,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2400000,125,120,4,4,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+1250000,65,60,3,4,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+3500000,110,100,3,2,0,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1500000,85,80,3,4,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+1900000,100,80,4.5,4,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+1550000,75,70,2,3,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2400000,110,100,3,5,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+1100000,65,60,3,5,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+1600000,90,85,3,5,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+2400000,170,160,5,5,21,Ýstanbul - Fatih - Zeyrek Mahallesi
+5500000,105,95,4,5,0,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1350000,70,65,2,5,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+2800000,105,98,4,6,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+3750000,55,50,2,10,0,Ýstanbul - Fatih - Topkapý Mahallesi
+1675000,85,80,3,4,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+4000000,130,120,4,6,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+4000000,130,120,4,6,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2750000,140,130,4,4,18.5,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+1700000,75,70,3,6,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2400000,125,120,4,4,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+1200000,80,75,2,5,13.5,Ýstanbul - Fatih - Aksaray Mahallesi
+1650000,100,90,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2100000,110,90,3,3,21,Ýstanbul - Fatih - Aksaray Mahallesi
+4500000,160,145,4,3,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+800000,65,60,2,5,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+2200000,85,75,3,4,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+5500000,180,160,4,4,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+1550000,75,65,2,4,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+56500000,1200,1199,1,2,21,Ýstanbul - Fatih - Zeyrek Mahallesi
+2500000,90,85,3,4,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2500000,79,72,3,4,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+2300000,80,75,3,5,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+2350000,100,95,3,4,21,Ýstanbul - Fatih - Zeyrek Mahallesi
+2750000,150,140,4,6,13.5,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+6500000,120,110,4,3,7.5,Ýstanbul - Fatih - Karagümrük Mahallesi
+2200000,90,80,3,5,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+1435000,85,75,3,5,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+2000000,90,80,3,4,21,Ýstanbul - Fatih - Aksaray Mahallesi
+2500000,120,110,4,5,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+7000000,44,40,3,3,21,Ýstanbul - Fatih - Zeyrek Mahallesi
+9850000,370,350,8,4,3,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+3000000,95,80,4,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1650000,75,60,2,5,21,Ýstanbul - Fatih - Þehremini Mahallesi
+2355000,90,75,3,4,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1850000,65,55,2,4,18.5,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+2950000,135,130,4,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+3600000,125,115,4,4,18.5,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+3150000,115,105,4,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+8450000,87,86,9,4,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+3000000,110,109,4,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+3100000,115,100,4,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1950000,90,85,3,5,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+1840000,55,40,3,4,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2600000,125,120,4,5,21,Ýstanbul - Fatih - Atikali Mahallesi
+3000000,90,85,3,4,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+2100000,140,130,4,4,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+3300000,110,100,4,3,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+1250000,90,85,3,5,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+2550000,90,80,3,4,0,Ýstanbul - Fatih - Silivrikapý Mahallesi
+100000000,180,100,4,4,21,Ýstanbul - Fatih - Balat Mahallesi
+1750000,85,80,3,3,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+3500000,280,250,9,3,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+4000000,250,240,5,5,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+2500000,100,99,3,4,2,Ýstanbul - Fatih - Yedikule Mahallesi
+1750000,130,120,4,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1100000,85,80,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2350000,90,85,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1500000,70,60,2,4,7.5,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+2300000,90,80,3,5,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+4500000,150,140,4,6,13.5,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+4250000,135,125,4,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+7000000,180,170,4,3,4,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+2200000,90,85,3,4,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+2740000,90,80,3,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2000000,90,85,3,5,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+6000000,200,170,5,3,4,Ýstanbul - Fatih - Karagümrük Mahallesi
+1050000,75,65,2,5,18.5,Ýstanbul - Fatih - Karagümrük Mahallesi
+1150000,110,100,3,5,21,Ýstanbul - Fatih - Yavuz Sultan Selim Mahallesi
+13000000,520,510,10,5,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+14500000,378,370,2,7,13.5,Ýstanbul - Fatih - Akþemsettin Mahallesi
+3700000,170,130,4,5,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+3270000,130,115,5,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2700000,150,140,4,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+42500000,800,799,1,5,21,Ýstanbul - Fatih - Mercan Mahallesi
+4250000,160,155,6,4,21,Ýstanbul - Fatih - Aksaray Mahallesi
+1700000,115,110,4,4,21,Ýstanbul - Fatih - Atikali Mahallesi
+2650000,140,110,4,4,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+2300000,140,130,4,5,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+6500000,80,70,2,5,13.5,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+1500000,80,65,3,6,13.5,Ýstanbul - Fatih - Balat Mahallesi
+4000000,220,200,5,5,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+3500000,177,150,4,4,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+18000000,40,35,2,5,0,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+3000000,155,140,4,5,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+1600000,75,70,2.5,5,21,Ýstanbul - Fatih - Ali Kuþçu Mahallesi
+4500000,160,150,3,4,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+1500000,75,70,2,3,21,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+1950000,85,75,3,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+4500000,130,120,4,6,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+4500000,150,140,4,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+950000,80,70,3,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+870000,80,65,3,5,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+1900000,105,100,3,4,1,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+3950000,186,170,6,4,0,Ýstanbul - Fatih - Balat Mahallesi
+4000000,190,180,4,4,21,Ýstanbul - Fatih - Balat Mahallesi
+4950000,200,180,4,3,21,Ýstanbul - Fatih - Balat Mahallesi
+4000000,115,110,4,5,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+1600000,85,80,3,4,21,Ýstanbul - Fatih - Balat Mahallesi
+9500000,100,90,3,4,0,Ýstanbul - Fatih - Ayvansaray Mahallesi
+2600000,100,90,3,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+2750000,90,80,3,5,21,Ýstanbul - Fatih - Akþemsettin Mahallesi
+2000000,85,80,3,5,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+2500000,130,120,4,5,21,Ýstanbul - Fatih - Atikali Mahallesi
+1050000,55,50,2,4,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+1250000,100,85,3,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1700000,60,55,2,5,0,Ýstanbul - Fatih - Þehremini Mahallesi
+1550000,78,75,3,5,21,Ýstanbul - Fatih - Þehremini Mahallesi
+4750000,150,135,3,2,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+1650000,75,70,3,5,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+2700000,110,102,4,4,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+2300000,95,90,3,5,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+20000000,130,125,9,2,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+1200000,89,80,3,5,7.5,Ýstanbul - Fatih - Yavuz Sultan Selim Mahallesi
+1850000,60,55,2,2,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+1625000,80,65,3,5,21,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+3500000,95,90,4,3,7.5,Ýstanbul - Fatih - Atikali Mahallesi
+2400000,95,90,3,6,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+2250000,120,100,3,3,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+6500000,320,300,6,5,21,Ýstanbul - Fatih - Ýskenderpaþa Mahallesi
+970000,75,60,2,5,7.5,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+1250000,1285,55,2.5,5,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+3300000,220,200,4,2,21,Ýstanbul - Fatih - Yavuz Sultan Selim Mahallesi
+2800000,150,125,6,3,7.5,Ýstanbul - Fatih - Balat Mahallesi
+6500000,117,100,4,5,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+3000000,120,110,4,4,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+15800000,200,195,4,3,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+9950000,405,240,8,2,21,Ýstanbul - Fatih - Zeyrek Mahallesi
+1500000,120,115,4,5,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+1450000,105,95,3,5,7.5,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+3450000,120,110,4,4,0,Ýstanbul - Fatih - Molla Gürani Mahallesi
+1600000,85,80,3,4,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+5200000,460,450,9,35,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+9000000,130,110,4,4,21,Ýstanbul - Fatih - Yavuz Sultan Selim Mahallesi
+4000000,180,160,4,2,7.5,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+1550000,75,70,3,5,21,Ýstanbul - Fatih - Yedikule Mahallesi
+1370000,60,55,2,5,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+2850000,110,100,3,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1650000,85,80,3,5,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+7250000,100,90,3,5,0,Ýstanbul - Fatih - Akþemsettin Mahallesi
+1500000,75,65,3,3,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+2650000,170,169,1,4,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+900000,80,75,3,4,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+2250000,105,100,3,5,21,Ýstanbul - Fatih - Atikali Mahallesi
+4500000,200,190,4,5,21,Ýstanbul - Fatih - Þehremini Mahallesi
+3500000,110,100,3,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+4500000,420,410,10,3,21,Ýstanbul - Fatih - Balat Mahallesi
+2100000,85,80,2,5,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+2000000,90,80,4,3,7.5,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+4500000,420,400,9,3,21,Ýstanbul - Fatih - Balat Mahallesi
+2500000,140,120,,5,18.5,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+5200000,100,90,3,2,13.5,Ýstanbul - Fatih - Silivrikapý Mahallesi
+4000000,120,100,4,2,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+1800000,120,105,4,4,18.5,Ýstanbul - Fatih - Ayvansaray Mahallesi
+1050000,85,80,3,4,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+950000,60,55,2,5,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+3500000,120,100,3,2,0,Ýstanbul - Fatih - Hýrka-i Þerif Mahallesi
+1550000,70,60,2,4,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+1750000,60,50,2,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+6000000,190,180,6,2,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+1600000,105,100,3,5,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+1650000,75,70,3,4,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+3200000,145,140,6,3,21,Ýstanbul - Fatih - Balat Mahallesi
+7000000,640,630,9,5,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+15000000,561,560,9,4,0,Ýstanbul - Fatih - Ayvansaray Mahallesi
+3800000,176,175,6,3,21,Ýstanbul - Fatih - Balat Mahallesi
+1150000,50,49,2,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+3100000,190,170,5,5,0,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+5000000,130,120,4,5,21,Ýstanbul - Fatih - Þehremini Mahallesi
+2100000,139,135,4,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1750000,70,60,3,4,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+2150000,120,115,3,4,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+2500000,180,160,6,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+3400000,110,100,3,4,7.5,Ýstanbul - Fatih - Mevlanakapý Mahallesi
+1250000,75,70,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+2735000,130,120,4,4,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+5000000,130,120,4,4,21,Ýstanbul - Fatih - Zeyrek Mahallesi
+1000000,60,55,2,4,21,Ýstanbul - Fatih - Þehremini Mahallesi
+2300000,85,80,3,4,21,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+1850000,85,80,3,4,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+2550000,110,100,3,4,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+3250000,100,90,3,4,13.5,Ýstanbul - Fatih - Silivrikapý Mahallesi
+1700000,137,95,3,4,13.5,Ýstanbul - Fatih - Topkapý Mahallesi
+2850000,110,100,3,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+3000000,150,140,4,3,21,Ýstanbul - Fatih - Sümbül Efendi Mahallesi
+3000000,85,75,3,3,13.5,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+3750000,120,119,3,4,21,Ýstanbul - Fatih - Cerrahpaþa Mahallesi
+1500000,75,70,3,3,13.5,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+1400000,85,80,3,4,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1950000,90,85,3,6,21,Ýstanbul - Fatih - Molla Gürani Mahallesi
+2250000,85,80,3,3,21,Ýstanbul - Fatih - Þehremini Mahallesi
+1250000,55,45,2,3,21,Ýstanbul - Fatih - Koca Mustafapaþa Mahallesi
+9500000,270,230,7,3,3,Ýstanbul - Fatih - Haseki Sultan Mahallesi
+1850000,110,100,3,5,13.5,Ýstanbul - Fatih - Silivrikapý Mahallesi
+3500000,80,75,3,3,13.5,Ýstanbul - Fatih - Silivrikapý Mahallesi
+2500000,145,130,6,3,21,Ýstanbul - Fatih - Ayvansaray Mahallesi
+1700000,100,90,3,3,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+4250000,150,140,4,5,21,Ýstanbul - Fatih - Seyyid Ömer Mahallesi
+1400000,85,80,3,3,21,Ýstanbul - Fatih - Þehremini Mahallesi
+900000,53,50,2,4,21,Ýstanbul - Fatih - Silivrikapý Mahallesi
+6500000,93,80,3,3,21,Ýstanbul - Fatih - Karagümrük Mahallesi
+10000000,210,209,3,2,21,Ýstanbul - Fatih - Derviþ Ali Mahallesi
+2500000,120,110,4,4,7.5,Ýstanbul - Fatih - Silivrikapý Mahallesi
+7900000,115,100,4,3,21,Ýstanbul - Fatih - Hoca Gýyasettin Mahallesi

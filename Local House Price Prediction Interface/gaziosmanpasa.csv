@@ -1,0 +1,761 @@
+price,area,absolute_area,room,floor_count,building_age,location
+8900000,190,120,4,20,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3900000,230,220,7,5,21,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+1875000,100,90,3,5,21,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+1750000,90,80,3,5,21,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+1385000,90,85,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+4000000,140,120,5,2,21,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+4350000,126,110,4,16,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+7650000,200,125,4,26,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1150000,80,75,3,5,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+4250000,240,200,6,3,18.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1350000,130,120,3,3,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2390000,170,140,4,3,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2090000,115,100,3,3,21,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+3500000,125,120,4,4,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+5100000,100,79,3,20,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+4750000,230,200,8,3,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3500000,120,97,4,3,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2700000,100,95,3,4,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1650000,85,80,3,4,18.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+3545000,185,175,6,5,0,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+1649000,75,70,3,5,0,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+1875000,120,100,3,4,13.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+11580000,250,200,4,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2850000,125,110,5,4,21,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+3000000,89,60,2,25,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1690000,120,115,3,5,21,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+1650000,70,65,2,4,18.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+12375000,140,120,4,15,13.5,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+1900000,90,85,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+1900000,80,70,3,5,21,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+8300000,200,120,1,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+4400000,220,200,7,5,0,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+3100000,110,100,4,5,0,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+3000000,110,100,4,5,0,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+1950000,95,85,3,3,7.5,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+2300000,110,100,3,5,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1600000,95,80,2,5,7.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2300000,75,60,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1700000,60,55,2,5,21,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+4400000,200,180,6,5,13.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+1750000,95,90,3,7,18.5,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+1700000,85,80,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+7000000,135,125,5,4,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1400000,80,70,3,4,21,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2200000,100,90,3,5,0,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+1600000,100,90,3,5,0,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+3000000,95,90,3,4,0,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+1850000,70,60,2,4,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2850000,85,75,3,4,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2600000,110,93,3,4,13.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+2750000,90,85,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+2100000,85,80,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2950000,90,80,3,4,7.5,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+1650000,85,75,3,5,21,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+1750000,90,80,3,5,21,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+1750000,90,80,3,5,21,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+2550000,75,65,3,14,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1590000,130,110,4,6,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1500000,75,65,3,5,21,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+1650000,90,80,3,5,21,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+6750000,187,100,4,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1650000,90,85,3,4,0,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+1980000,85,80,3,4,13.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+3250000,90,85,3,5,0,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+3250000,120,110,4,5,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+3525000,165,160,5,5,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+1799000,215,180,6,6,21,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+5500000,270,240,7,3,7.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+3100000,120,110,3,5,21,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2300000,105,85,3,4,13.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+1100000,65,55,2,5,7.5,Ýstanbul - Gaziosmanpaþa - Kazým Karabekir Mahallesi
+1900000,115,105,4,5,21,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+6950000,230,120,4,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+10500000,240,130,5,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3800000,110,98,3,20,7.5,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+3500000,100,90,3,10,0,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+1250000,90,85,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2000000,85,80,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1850000,120,110,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2990000,110,105,3,5,21,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+1700000,80,70,2,5,18.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1651000,125,115,4,5,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2850000,85,80,3,3,0,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+4350000,165,145,5,3,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1995000,90,88,3,5,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1350000,90,80,3,4,21,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+5250000,165,160,5,4,13.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2100000,90,80,3,5,21,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1550000,75,55,2,5,21,Ýstanbul - Gaziosmanpaþa - Kazým Karabekir Mahallesi
+2500000,160,150,5,25,21,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+4500000,200,180,6,5,0,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2375000,85,80,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Pazariçi Mahallesi
+1500000,85,80,2,3,21,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+4000000,120,107,4,15,2,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+750000,96,90,3,5,21,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+1610000,90,85,3,4,21,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+2150000,95,85,3,3,13.5,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+2000000,110,90,3,4,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1600000,80,70,2,5,7.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2000000,85,80,3,4,21,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+1100000,85,80,3,4,21,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+1990000,100,90,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+1700000,85,70,3,3,21,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+2250000,105,95,4,3,0,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1800000,80,70,3,5,4,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1900000,95,85,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1500000,70,60,2,4,21,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+1400000,100,85,4,4,21,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1750000,105,90,3,4,21,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+1550000,75,55,2,5,21,Ýstanbul - Gaziosmanpaþa - Kazým Karabekir Mahallesi
+2600000,100,85,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1550000,110,95,4,4,0,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+3850000,140,110,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+4150000,170,165,4,5,7.5,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+600000,100,75,3,3,18.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1319000,110,105,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1345000,85,80,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+4550000,140,135,4,5,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1880000,85,80,3,5,21,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+1850000,125,120,4,5,18.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+3990000,130,120,3,5,4,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3650000,200,185,5,4,0,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+4090000,200,180,6,4,4,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1600000,90,85,3,4,0,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+1250000,70,60,2,4,3,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+1650000,125,115,4,5,21,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+2900000,88,84,3,11,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2750000,95,85,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+2550000,110,100,3,4,21,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+2250000,67,55,2,14,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3100000,108,90,3,12,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2375000,110,100,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+1265000,100,90,3,6,21,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3395000,95,90,3,16,4,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+929000,75,70,3,5,21,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2445000,90,85,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+2295000,85,80,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3545000,185,175,6,5,0,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+3350000,175,170,5,5,4,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+1775000,110,100,4,3,21,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+2950000,150,140,4,4,21,Ýstanbul - Gaziosmanpaþa - Kazým Karabekir Mahallesi
+3050000,95,90,3,3,0,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+1700000,90,85,3,3,0,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1850000,90,80,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+3150000,120,96,4,14,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+8600000,248,135,5,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+6940000,230,125,4,24,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3800000,116,72,3,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2900000,70,46,2,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+6740000,187,100,4,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+4200000,102,80,3,20,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+4900000,147,100,3,20,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+6780000,200,106,4,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+4800000,120,100,3,20,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2750000,95,90,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2400000,130,120,4,8,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2300000,220,200,6,4,21,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+3550000,75,50,2,14,1,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+650000,70,60,2,3,21,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+4650000,235,210,7,3,13.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2800000,90,85,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+3450000,160,155,4,5,13.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+1560000,90,85,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3350000,115,100,3,12,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+2095000,100,95,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Kazým Karabekir Mahallesi
+1500000,95,90,2,5,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1850000,85,80,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+1600000,95,90,3,5,21,Ýstanbul - Gaziosmanpaþa - Kazým Karabekir Mahallesi
+2700000,220,180,7,5,21,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+3599000,240,200,6,4,7.5,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+3420000,98,83,3,12,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+4200000,112,85,3,4,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1800000,95,90,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+1950000,95,85,3,3,7.5,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+1575000,105,95,3,3,21,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+6700000,136,110,4,19,7.5,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+1350000,90,85,3,4,21,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+1100000,90,85,3,4,21,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+3100000,112,105,3,5,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3550000,92,67,2,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2250000,105,95,3,4,18.5,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+8250000,170,150,5,13,7.5,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+4875000,110,90,4,10,7.5,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+2580000,85,80,3,12,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+1780000,80,75,3,3,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2590000,85,80,3,12,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+2920000,160,145,5,4,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3100000,100,90,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+1900000,80,70,3,4,7.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+2450000,185,175,4,2,7.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+5500000,130,120,4,4,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+1830000,85,80,3,4,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2250000,98,85,3,5,21,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+2850000,160,150,5,4,18.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2700000,220,200,7,5,21,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+1760000,80,70,3,4,7.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+1790000,90,80,3,3,7.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+4390000,170,150,5,3,7.5,Ýstanbul - Gaziosmanpaþa - Pazariçi Mahallesi
+4850000,134,100,3,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2000000,80,70,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+3000000,105,95,3,4,0,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+11850000,168,150,5,15,13.5,Ýstanbul - Gaziosmanpaþa - Mevlana Mahallesi
+2950000,130,110,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3350000,88,50,2,24,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2950000,92,62,2,17,1,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2850000,78,55,2,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1850000,110,100,4,5,18.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+1260000,75,70,2,4,7.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+2500000,90,85,3,4,13.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+975000,85,75,3.5,4,21,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+2900000,80,70,3,4,7.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+3250000,160,150,5,5,7.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2120000,90,80,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+1200000,70,60,2,5,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2200000,120,115,4,5,21,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+1250000,90,85,4,5,21,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+8600000,187,100,4,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1375000,110,105,4,5,13.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+2050000,90,80,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+6700000,189,118,4,25,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2000000,85,80,3,4,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+6490000,187,110,4,25,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1900000,100,90,3,4,18.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2750000,180,170,5,5,21,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+6650000,188,112,4,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+6950000,145,110,4,18,2,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+2250000,95,80,3,3,7.5,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+6070000,240,220,7,5,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+4130000,120,105,4,5,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3650000,175,150,6,4,13.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+2550000,115,105,3,5,21,Ýstanbul - Gaziosmanpaþa - Pazariçi Mahallesi
+3400000,85,70,2,20,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3500000,200,180,5,4,13.5,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+1350000,115,100,4,5,18.5,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+2400000,86,74,3,6,1,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+4075000,140,120,4,14,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1650000,105,95,3,6,21,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+1850000,100,90,3,5,21,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+3150000,90,80,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+6900000,230,124,4,25,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+6100000,230,220,8,5,0,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+2600000,85,80,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+3950000,130,113,4,14,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2500000,75,65,3,14,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+4400000,126,110,4,15,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3575000,102,89,3,16,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2200000,65,60,3,6,7.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+2450000,85,80,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1650000,95,90,3,4,18.5,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+5000000,240,200,6,4,0,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+6600000,187,110,4,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2898000,145,130,4,5,13.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3250000,104,87,3,14,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2500000,110,100,3,4,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2400000,170,150,5,5,7.5,Ýstanbul - Gaziosmanpaþa - Kazým Karabekir Mahallesi
+1280000,70,60,2,5,1,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+2455555,130,125,4,5,21,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+8200000,138,114,4,15,13.5,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+2950000,160,150,5,5,7.5,Ýstanbul - Gaziosmanpaþa - Pazariçi Mahallesi
+2950000,130,125,4,5,2,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1700000,85,80,3,5,21,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+1350000,70,65,2,4,13.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+3500000,135,110,4,4,7.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+8200000,138,114,4,15,13.5,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+3250000,104,87,3,14,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3125000,185,170,4,4,21,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+3500000,125,120,4,4,13.5,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+4950000,180,150,5,3,13.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1000000,75,70,2,5,13.5,Ýstanbul - Gaziosmanpaþa - Pazariçi Mahallesi
+1975000,120,95,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2900000,140,125,4,5,13.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2600000,145,140,4,2,18.5,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+1550000,130,110,3,5,21,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2150000,95,85,3,4,13.5,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+4395000,126,110,4,13,7.5,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+4580000,111,100,4,10,7.5,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+3985000,91,85,3,13,7.5,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+3985000,91,85,3,13,7.5,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+4395000,126,110,4,13,7.5,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+5195000,126,110,4,13,7.5,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+2500000,135,130,4,4,7.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2800000,125,100,4,5,13.5,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+2350000,115,110,4,5,21,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+4350000,120,107,4,14,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3350000,120,110,4,5,13.5,Ýstanbul - Gaziosmanpaþa - Mevlana Mahallesi
+2350000,200,180,6,5,21,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+3500000,190,170,5,5,0,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1500000,90,85,3,4,21,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+3950000,300,280,6,5,13.5,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+2750000,150,140,4,5,13.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+4450000,107,95,3,11,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+3350000,120,80,3,10,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+3975000,180,130,6,4,7.5,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+3550000,106,86,4,14,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3850000,114,93,4,14,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3250000,86,68,3,14,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3600000,105,85,4,12,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2650000,81,60,3,14,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1300000,85,75,3,3,13.5,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+3350000,120,110,3,5,2,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+3100000,180,160,5,4,7.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2666000,200,190,6,5,18.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2650000,120,100,4,4,7.5,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+2950000,130,115,4,4,21,Ýstanbul - Gaziosmanpaþa - Mevlana Mahallesi
+2180000,70,43,2,18,7.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2850000,105,90,3,5,1,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+1410000,200,180,5,5,21,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+2300000,90,85,3,4,21,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+4500000,165,160,5,5,13.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2850000,95,90,3,5,21,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+960000,70,65,2,5,18.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+3250000,85,64,3,12,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3200000,85,64,3,12,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3150000,85,64,3,12,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2375000,72,56,3,12,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3000000,85,64,3,12,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+975000,65,60,2,3,21,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+1450000,140,100,4,5,18.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+2950000,140,130,4,5,21,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+1550000,130,110,4,5,21,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+3500000,175,155,5,5,7.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2525000,140,120,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Pazariçi Mahallesi
+3700000,106,86,3,11,2,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2250000,185,175,4,3,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3300000,97,85,3,4,0,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+4000000,200,190,5,4,21,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+2750000,140,120,4,4,13.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1790000,100,90,3,3,7.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2950000,130,120,5,4,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3000000,120,100,4,5,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2000000,100,90,3,5,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2375000,160,140,4,5,13.5,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+2125000,105,95,3,4,7.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+6100000,185,100,4,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2700000,150,145,4,3,7.5,Ýstanbul - Gaziosmanpaþa - Kazým Karabekir Mahallesi
+4100000,114,78,3,11,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1950000,65,50,2,15,13.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1975000,115,110,3,4,21,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+1995000,90,88,3,5,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1375000,64,46,3,5,4,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+1050000,60,50,2,4,7.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+1850000,90,85,3,4,21,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+2200000,112,90,3,4,21,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+1350000,95,85,3,5,21,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+3600000,125,120,4,4,21,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+1753000,90,75,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+3760000,110,100,4,5,0,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+1580000,93,80,3,4,21,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+4200000,193,168,6,3,0,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2850000,88,70,3,12,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+1795000,100,85,3,4,21,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+2475000,77,65,3,14,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2150000,85,80,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3150000,90,85,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+2450000,115,105,3,4,0,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1790000,90,70,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+1350000,90,80,3,5,21,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2150000,160,140,5,4,13.5,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+3350000,80,70,3,14,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1590000,100,85,3,4,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1975000,110,100,3,4,21,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+2450000,103,95,4,3,0,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2450000,95,90,4,3,0,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1450000,100,95,3,3,21,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+3900000,100,90,3,18,7.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+1425000,90,85,3,4,13.5,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+5000000,210,180,6,3,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+6220000,280,270,7,5,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3770000,115,100,3,4,0,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+1600000,110,95,3,4,21,Ýstanbul - Gaziosmanpaþa - Kazým Karabekir Mahallesi
+4570000,140,130,4,5,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+4370000,140,130,4,5,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2300000,110,90,3,3,21,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+2530000,140,120,4,6,21,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+3230000,160,130,5,5,13.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+3150000,88,70,3,11,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+2590000,75,62,3,15,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2430000,88,80,3,12,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3500000,103,88,3,12,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+4136000,120,96,4,12,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2450000,77,60,2,12,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+2000000,90,85,3,4,18.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1800000,100,90,3,5,21,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1150000,110,100,4,5,13.5,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+3490000,300,280,6,3,13.5,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+1750000,85,80,3,4,18.5,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+2600000,97,75,3,12,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+2490000,90,80,3,4,7.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1980000,100,90,3,3,21,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+1780000,75,74,3,6,0,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+3060000,88,55,2,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2600000,75,50,2,20,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2995000,180,160,5,5,13.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+2575000,100,90,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+1475000,95,90,3,5,21,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1699000,110,105,4,5,13.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1450000,95,90,3,3,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2750000,90,80,3,4,7.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+3100000,160,135,4,6,1,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+4400000,130,110,4,11,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+2600000,115,110,3,6,18.5,Ýstanbul - Gaziosmanpaþa - Pazariçi Mahallesi
+3750000,190,157,7,5,18.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1750000,90,85,3,4,21,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+3500000,95,82,2,25,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+5750000,195,140,4,17,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1500000,100,95,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+3450000,98,85,3,4,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1650000,95,90,3,5,21,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+3000000,95,90,3,5,2,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2900000,70,61,2,17,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+5220000,155,105,3,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+4111000,120,96,4,12,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2770000,180,170,5,4,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2100000,90,85,3,4,13.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+3250000,125,110,4,5,7.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+4000000,500,202,5,1,18.5,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+5000000,210,180,6,3,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1150000,110,100,4,4,13.5,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+3550000,165,150,4,4,18.5,Ýstanbul - Gaziosmanpaþa - Kazým Karabekir Mahallesi
+2100000,120,110,3,5,21,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+1750000,110,100,3,4,21,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1850000,85,80,2,5,18.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2095000,100,85,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+750000,85,80,3,6,21,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+1350000,95,85,3,4,21,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+6500000,195,170,6,4,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2300000,85,75,3,5,21,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+3750000,112,85,3,4,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2900000,90,85,3,30,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+4800000,150,140,4,4,13.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+3100000,160,150,4,5,13.5,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+3100000,160,135,4,6,1,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+5500000,187,137,4,20,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1500000,80,75,3,5,21,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+3100000,120,100,3,5,21,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+2850000,116,77,3,4,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+2850000,110,80,3,5,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+4500000,185,150,6,5,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+4500000,186,148,6,5,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+990000,90,70,2,5,13.5,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+2400000,185,175,4,3,21,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2200000,130,120,4,4,21,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+1700000,85,80,3,5,21,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+1400000,65,60,2,5,4,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+2500000,140,135,4,5,21,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2400000,112,90,3,4,21,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+2000000,90,85,3,5,21,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+4000000,170,165,3,1,21,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+2300000,90,80,3,5,3,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+4550000,200,180,6,5,1,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1350000,80,75,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1650000,85,80,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+3600000,150,120,3,20,7.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2250000,130,125,4,3,21,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+2500000,140,125,4,4,21,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+1960000,66,54,2,12,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+4500000,210,200,6,4,21,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+975000,90,85,3,4,21,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+2090000,105,95,4,5,13.5,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+2900000,88,70,3,12,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+4350000,125,110,4,12,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+5000000,130,120,4,5,0,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+4900000,130,120,4,5,0,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+3850000,115,100,3,5,0,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+2350000,115,100,4,5,0,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+3400000,106,90,3,12,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+2250000,70,60,2,12,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+4550000,120,105,4,12,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+1550000,90,85,3,7,21,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2700000,80,75,3,12,2,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+1075000,65,50,3,4,21,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+1275000,85,65,3,5,21,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+2600000,130,110,4,5,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2065000,90,85,3,5,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1750000,90,85,3,4,21,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+2000000,85,75,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+3500000,215,210,5,5,0,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+2650000,95,90,3,5,0,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+2640000,95,90,3,5,0,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+2050000,100,95,3,5,21,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2225000,137,124,4,3,21,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+1660000,80,75,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+3600000,180,170,7,6,18.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1200000,85,80,2,5,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+5350000,112,90,3,15,13.5,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+2400000,95,90,3,5,21,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+2850000,160,150,5,5,21,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+4200000,165,150,5,3,7.5,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+1000000,90,80,3,5,21,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2550000,170,160,6,5,13.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+1670000,95,90,3,5,21,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+2250000,180,120,4,5,13.5,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+1600000,120,115,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2150000,180,160,6,5,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+5000000,113,80,3,21,1,Ýstanbul - Gaziosmanpaþa - Mevlana Mahallesi
+6850000,136,123,4,13,18.5,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+2550000,125,120,4,4,7.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+1875000,75,70,2,4,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1835000,90,85,3,4,21,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+1490000,95,85,3,5,21,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+1590000,110,90,3,5,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1740000,110,95,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+1250000,120,100,3,4,21,Ýstanbul - Gaziosmanpaþa - Pazariçi Mahallesi
+1950000,115,95,3,5,21,Ýstanbul - Gaziosmanpaþa - Pazariçi Mahallesi
+2950000,100,85,3,16,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3650000,95,75,3,20,4,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+3100000,120,115,4,3,21,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+1100000,75,70,2,5,13.5,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+2200000,130,95,5,5,21,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+2400000,85,80,3,4,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1750000,95,90,3,4,0,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1950000,105,90,3,4,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2020000,125,120,4,5,18.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1750000,85,80,3,5,21,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2500000,130,95,5,5,21,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+3100000,115,110,4,5,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1000000,70,65,2,5,18.5,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+1600000,90,80,3,5,21,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+4130000,130,120,4,6,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+6070000,250,240,7,6,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+4460000,116,80,3,20,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2350000,71,46,2,24,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2850000,71,45,2,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+6600000,175,112,4,26,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3000000,92,62,2,20,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+4650000,147,85,3,24,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+6300000,162,110,4,24,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3800000,116,72,3,24,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+6250000,200,127,4,20,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3100000,92,62,2,20,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3800000,120,80,3,24,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+4085000,102,70,3,20,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3770000,116,85,3,24,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+6950000,165,110,4,24,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+6950000,180,125,4,24,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+4950000,180,155,5,4,13.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+1350000,120,105,4,5,18.5,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+31750000,322,320,3,6,18.5,Ýstanbul - Gaziosmanpaþa - Mevlana Mahallesi
+1290000,85,70,3,4,21,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+2325000,130,125,4,4,21,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2425000,170,150,4,4,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1600000,85,80,3,5,21,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2850000,120,110,4,2,18.5,Ýstanbul - Gaziosmanpaþa - Mevlana Mahallesi
+1185000,105,95,3,6,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+935000,110,100,3,6,18.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2475000,100,90,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2875000,75,48,2,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2200000,120,115,4,3,18.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+3150000,125,120,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+6500000,140,120,4,12,13.5,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+1850000,96,90,3,6,13.5,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+1700000,110,100,3,5,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1150000,75,70,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+2050000,95,85,3,5,21,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+3495000,195,185,5,4,21,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+2000000,85,80,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+1850000,135,125,4,5,18.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1530000,100,90,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+1150000,75,61,2,5,21,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+970000,140,120,4,6,21,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+4250000,190,170,6,4,7.5,Ýstanbul - Gaziosmanpaþa - Pazariçi Mahallesi
+2600000,130,115,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+2950000,125,120,4,5,13.5,Ýstanbul - Gaziosmanpaþa - Mevlana Mahallesi
+2120000,110,100,4,5,18.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1580000,130,110,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2500000,135,130,4,4,7.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+3150000,80,65,2,17,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2700000,71,50,2,20,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+4750000,160,155,5,5,7.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2400000,90,85,3,5,4,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+1775000,170,150,5,5,13.5,Ýstanbul - Gaziosmanpaþa - Pazariçi Mahallesi
+9250000,161,160,9,3,21,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+2700000,115,110,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+2475000,100,90,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+4500000,120,75,3,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2900000,75,50,2,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3500000,190,170,5,5,0,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1200000,85,80,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1350000,100,90,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1700000,85,75,3,3,21,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+3800000,139,129,6,5,0,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+1600000,100,95,3,5,21,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+1200000,65,55,3,5,21,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2350000,135,130,4,5,21,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+2350000,135,130,4,5,4,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+1300000,90,80,2,5,18.5,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+1600000,130,110,3,5,21,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+2850000,100,95,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+2050000,90,80,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+2100000,160,140,4,5,21,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+4800000,290,270,7,5,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1790000,120,110,3,5,21,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+2500000,105,95,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+1600000,90,85,3,4,21,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+1550000,85,80,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+3500000,160,155,5,5,13.5,Ýstanbul - Gaziosmanpaþa - Pazariçi Mahallesi
+2350000,210,190,6,5,13.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+900000,50,49,2,3,18.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+5950000,123,85,3,21,7.5,Ýstanbul - Gaziosmanpaþa - Mevlana Mahallesi
+3850000,190,180,6,5,0,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+3850000,190,185,6,5,0,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+3750000,190,180,5,5,0,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1400000,75,70,3,5,3,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+699000,50,40,1,4,21,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+1750000,90,80,4,3,0,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+3300000,110,105,4,5,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2650000,110,100,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+1550000,90,85,3,6,13.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+3500000,185,180,5,4,0,Ýstanbul - Gaziosmanpaþa - Pazariçi Mahallesi
+1600000,80,75,3,4,13.5,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+2650000,125,120,4,4,18.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+1850000,90,85,3,5,21,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+2700000,120,115,3,4,18.5,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+1900000,90,85,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Yenidoðan Mahallesi
+1700000,125,120,4,4,13.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+3550000,182,152,5,7,18.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+3125000,100,85,3,12,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+10000000,85,80,9,7,18.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+1700000,90,80,3,4,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2325000,130,110,4,3,21,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2200000,130,120,4,4,21,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+1850000,90,80,3,5,21,Ýstanbul - Gaziosmanpaþa - Mevlana Mahallesi
+1100000,65,55,2,5,21,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2250000,100,90,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+725000,75,70,2,5,21,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2500000,120,100,3,5,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+4500000,250,230,6,5,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+1700000,90,70,3,5,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+5100000,100,77,3,20,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3400000,200,180,6,5,21,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+3500000,110,88,3,18,7.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+1670000,80,70,3,3,7.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2000000,100,95,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+4000000,200,170,6,3,0,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2250000,170,150,6,3,4,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3575000,120,115,4,5,0,Ýstanbul - Gaziosmanpaþa - Kazým Karabekir Mahallesi
+3400000,181,180,6,5,0,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+2990000,100,95,3,5,2,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+4750000,120,93,4,14,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1200000,85,80,2,5,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3850000,185,180,6,5,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3850000,185,180,6,5,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1245000,95,90,3,4,21,Ýstanbul - Gaziosmanpaþa - Pazariçi Mahallesi
+1450000,110,85,3,5,0,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+3750000,200,180,7,4,13.5,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+1525000,170,155,5,5,18.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+750000,70,65,2,5,13.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3500000,125,120,4,3,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2400000,140,120,4,5,21,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+1499000,80,75,3,4,18.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1600000,115,100,4,3,21,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1250000,120,100,3,5,21,Ýstanbul - Gaziosmanpaþa - Pazariçi Mahallesi
+4600000,114,77,3,11,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1900000,120,100,3,6,18.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1800000,120,110,3,5,21,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+3550000,250,230,6,5,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2670000,170,165,6,5,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1925000,100,95,3,5,21,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+1675000,120,85,3,6,7.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+1300000,85,80,3,3,7.5,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+1495000,95,90,3,4,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1850000,140,120,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+3300000,140,130,4,5,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3300000,140,130,4,5,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+4250000,110,85,3,14,18.5,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+1290000,120,100,3,5,21,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+2850000,107,105,3,5,0,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+1850000,65,60,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+1450000,120,65,2,3,21,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1165000,100,95,3,5,21,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+5520000,250,240,6,5,21,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+1875000,105,95,3,3,18.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+7600000,150,145,4,5,18.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2850000,132,120,4,5,13.5,Ýstanbul - Gaziosmanpaþa - Pazariçi Mahallesi
+970000,85,75,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+3399000,140,127,4,15,1,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2650000,130,110,4,4,13.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1045000,85,70,3,5,21,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+1770000,200,180,5,5,18.5,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+2300000,95,85,3,5,0,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+3400000,90,80,3,16,4,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+2650000,200,180,6,4,7.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1360000,80,70,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+1800000,110,90,3,3,4,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+1650000,95,85,3,4,21,Ýstanbul - Gaziosmanpaþa - Barbaros Hayrettinpaþa Mahallesi
+1575000,95,90,3,3,21,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+1250000,100,90,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2400000,85,80,3,3,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2100000,170,160,5,5,13.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+2300000,75,70,2,3,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3100000,115,110,4,3,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1750000,115,110,4,4,21,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+1420000,110,100,3,4,18.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+1700000,120,110,4,5,18.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+4600000,150,130,4,20,0,Ýstanbul - Gaziosmanpaþa - Mevlana Mahallesi
+2995000,220,190,5,3,21,Ýstanbul - Gaziosmanpaþa - Hürriyet Mahallesi
+2300000,100,90,3,5,18.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+12000000,92,90,3,5,13.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+2000000,85,80,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2500000,95,85,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+1600000,100,90,3,5,0,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+2100000,160,140,5,5,21,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+3200000,200,180,4,3,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3100000,115,100,4,4,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3100000,115,105,3,4,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1265000,90,85,3,9,21,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3550000,165,140,5,4,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+3450000,160,140,5,4,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+11500000,187,110,4,24,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+3370000,230,220,6,5,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+3250000,89,88,3,12,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+3200000,90,80,3,4,21,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2300000,75,65,2,4,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3500000,220,200,6,5,7.5,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+3575000,200,180,5,5,7.5,Ýstanbul - Gaziosmanpaþa - Yeni Mahalle Mahallesi
+2520000,190,180,5,5,18.5,Ýstanbul - Gaziosmanpaþa - Karayollarý Mahallesi
+1799000,215,180,6,6,21,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+3000000,100,90,3,6,18.5,Ýstanbul - Gaziosmanpaþa - Mevlana Mahallesi
+2300000,115,110,4,3,4,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+3450000,150,140,4,3,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2400000,85,80,3,3,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2300000,75,65,2,2,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+4350000,240,230,6,5,21,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+3300000,129,115,4,5,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+3850000,230,200,6,5,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+8500000,141,100,3,6,21,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2100000,120,115,3,4,13.5,Ýstanbul - Gaziosmanpaþa - Kazým Karabekir Mahallesi
+2700000,85,80,3,5,7.5,Ýstanbul - Gaziosmanpaþa - Yýldýztabya Mahallesi
+2300000,65,55,2,4,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+6500000,135,98,4,21,7.5,Ýstanbul - Gaziosmanpaþa - Fevzi Çakmak Mahallesi
+1550000,135,125,4,4,21,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
+2400000,80,70,3,5,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+4750000,300,270,7,5,0,Ýstanbul - Gaziosmanpaþa - Baðlarbaþý Mahallesi
+3650000,200,190,5,4,13.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+10000000,240,180,5,25,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+6800000,185,130,4,25,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+5500000,187,137,4,11,4,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+1650000,100,90,3,5,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2100000,120,100,4,5,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1550000,70,60,2,5,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3000000,170,140,5,5,7.5,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+1650000,90,85,3,5,21,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+6500000,230,190,4,7,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+5000000,210,190,7,4,7.5,Ýstanbul - Gaziosmanpaþa - Karlýtepe Mahallesi
+3750000,150,140,4,4,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+3100000,105,95,4,4,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2300000,70,65,2,4,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+2400000,110,90,3,4,0,Ýstanbul - Gaziosmanpaþa - Sarýgöl Mahallesi
+4000000,170,130,4,10,0,Ýstanbul - Gaziosmanpaþa - Þemsipaþa Mahallesi
+4750000,115,105,3,22,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+4500000,115,95,3,20,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+6750000,140,115,4,22,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+4750000,140,110,4,22,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2800000,85,65,2,22,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+4250000,120,90,3,22,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+6500000,175,120,4,23,3,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2800000,95,85,2,22,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+2750000,75,65,2,20,7.5,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+6500000,210,180,4,24,0,Ýstanbul - Gaziosmanpaþa - Karadeniz Mahallesi
+7000000,160,140,5,5,0,Ýstanbul - Gaziosmanpaþa - Merkez Mahallesi
