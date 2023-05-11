@@ -1,12 +1,12 @@
-from flask import Flask
-import re
+from flask import Flask, render_template
+
 
 app = Flask(__name__)
 
 
 @app.route('/')
-def hello_world():  # put application's code here
-    return 'Hello World!'
+def index():  # put application's code here
+    return render_template("index.html", title="İstanbul Ev Fiyat Tahmin Sitesi")
 
 
 if __name__ == '__main__':
