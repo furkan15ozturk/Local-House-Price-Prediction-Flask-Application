@@ -145,9 +145,7 @@ def process_district(queue):
 
 
 if __name__ == "__main__":
-    district_names = ["esenyurt", "eyupsultan", "fatih", "gaziosmanpasa", "gungoren", "kadikoy",
-                      "kagithane", "kartal", "kucukcekmece", "maltepe", "pendik", "sancaktepe", "sariyer", "silivri",
-                      "sultanbeyli", "sultangazi", "sile", "sisli", "tuzla", "umraniye", "uskudar", "zeytinburnu"]
+    district_names = ["tuzla", "umraniye", "uskudar", "zeytinburnu"]
 
     # district_names = ["avcilar"]
 
@@ -172,7 +170,7 @@ if __name__ == "__main__":
 
     # with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
     #     futures = [executor.submit(process_district, district) for district in district_names]
-    #     for future in concurrent.futures.as_completed(futures):
+    #     for future in concurrent.futures.as_completed(futures):w
     #         pass
 
     # threads = []

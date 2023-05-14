@@ -1,0 +1,1288 @@
+price,area,absolute_area,room,floor_count,building_age,location
+1385000,110,100,4,3,21,Ýstanbul - Pendik - Güzelyalý Mahallesi
+1995000,80,75,3,5,13.5,Ýstanbul - Pendik - Yeni Mahallesi
+1980000,95,85,3,8,7.5,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+3925000,95,71,3,7,0,Ýstanbul - Pendik - Orhangazi Mahallesi
+19000000,375,335,9,4,13.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+4395000,120,95,4,7,0,Ýstanbul - Pendik - Orhangazi Mahallesi
+1500000,100,80,3,4,13.5,Ýstanbul - Pendik - Fatih Mahallesi
+4050000,128,115,4,5,0,Ýstanbul - Pendik - Yeni Mahallesi
+2125000,105,95,3,9,13.5,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2400000,100,80,3,8,0,Ýstanbul - Pendik - Sülüntepe Mahallesi
+4250000,115,105,4,6,0,Ýstanbul - Pendik - Batý Mahallesi
+4750000,114,95,3.5,4,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4000000,180,160,6,5,7.5,Ýstanbul - Pendik - Orta Mahallesi
+3380000,90,75,3,13,4,Ýstanbul - Pendik - Doðu Mahallesi
+2600000,83,65,3,11,0,Ýstanbul - Pendik - Sülüntepe Mahallesi
+3100000,146,110,4,8,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2750000,120,105,4,7,4,Ýstanbul - Pendik - Esenler Mahallesi
+3900000,170,135,5,5,18.5,Ýstanbul - Pendik - Yayalar Mahallesi
+2380000,100,85,3,8,13.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+4600000,220,200,7,5,7.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+3000000,90,80,3,10,13.5,Ýstanbul - Pendik - Sülüntepe Mahallesi
+4400000,90,80,3,9,2,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+2590000,160,150,5,4,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+5500000,230,220,8,6,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2300000,135,120,4,4,13.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2750000,120,105,4,7,4,Ýstanbul - Pendik - Esenler Mahallesi
+3850000,91,90,3,3,21,Ýstanbul - Pendik - Kaynarca Mahallesi
+1875000,115,90,3,3,13.5,Ýstanbul - Pendik - Orhangazi Mahallesi
+2200000,110,100,4,6,21,Ýstanbul - Pendik - Doðu Mahallesi
+2700000,80,60,3,8,1,Ýstanbul - Pendik - Doðu Mahallesi
+2550000,85,70,3,9,1,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2750000,125,105,4,9,0,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+750000,68,60,2,2,21,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+2300000,95,88,4,5,13.5,Ýstanbul - Pendik - Velibaba Mahallesi
+1385000,130,120,4,4,21,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1480000,95,90,4,4,13.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+700000,50,40,2,7,21,Ýstanbul - Pendik - Kaynarca Mahallesi
+3800000,185,180,7,3,13.5,Ýstanbul - Pendik - Çamçeþme Mahallesi
+4150000,115,114,4,4,21,Ýstanbul - Pendik - Kaynarca Mahallesi
+2270000,125,110,4,4,13.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+3500000,125,120,4,5,2,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2300000,105,95,3,9,4,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+920000,100,85,4,5,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+3950000,115,90,4,5,0,Ýstanbul - Pendik - Yeþilbaðlar Mahallesi
+3100000,120,100,4,9,3,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+2850000,120,86,3,2,7.5,Ýstanbul - Pendik - Yayalar Mahallesi
+4200000,135,105,4,9,0,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+1050000,65,60,2,4,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+1050000,65,60,2,4,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+2700000,130,120,4,5,7.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+1850000,110,85,3,5,21,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+2350000,92,80,3,8,0,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+3000000,110,95,3,6,4,Ýstanbul - Pendik - Kurtköy Mahallesi
+1925000,90,80,3,9,3,Ýstanbul - Pendik - Fatih Mahallesi
+2550000,115,90,3,9,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+3025000,140,110,4,5,3,Ýstanbul - Pendik - Çamlýk Mahallesi
+2290000,100,80,4,10,7.5,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+4500000,150,130,4,5,7.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+1950000,95,80,3,6,3,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+4600000,220,200,7,5,7.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+1900000,90,80,3,8,7.5,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2050000,75,60,2,3,13.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+2125000,95,85,3,9,13.5,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2050000,55,45,2,5,7.5,Ýstanbul - Pendik - Esenler Mahallesi
+2850000,130,115,4,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1950000,95,85,3,4,7.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+2355000,100,90,3,1,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1950000,120,110,4,5,13.5,Ýstanbul - Pendik - Çýnardere Mahallesi
+2500000,130,115,4,4,7.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+2275000,95,85,3,9,3,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2250000,90,80,3,8,7.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+2500000,100,90,3,4,13.5,Ýstanbul - Pendik - Yayalar Mahallesi
+4250000,180,160,5,3,0,Ýstanbul - Pendik - Yeni Mahallesi
+2375000,90,80,3,8,7.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+1970000,100,85,3,3,7.5,Ýstanbul - Pendik - Esenler Mahallesi
+950000,100,85,3,5,21,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1675000,95,80,3,4,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1750000,85,70,3,3,7.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+1850000,70,60,2,3,13.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+2800000,145,135,4,3,13.5,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+3000000,105,90,3,4,13.5,Ýstanbul - Pendik - Esenler Mahallesi
+1900000,90,80,3,8,7.5,Ýstanbul - Pendik - Sülüntepe Mahallesi
+950000,100,85,3,5,21,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1970000,100,85,3,3,7.5,Ýstanbul - Pendik - Esenler Mahallesi
+2500000,100,90,3,3,13.5,Ýstanbul - Pendik - Yayalar Mahallesi
+1940000,95,85,3,4,7.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+2050000,75,60,2,3,13.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+2050000,55,45,2,5,7.5,Ýstanbul - Pendik - Esenler Mahallesi
+2350000,95,85,3,10,7.5,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+2275000,95,85,3,9,3,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2900000,115,100,4,5,13.5,Ýstanbul - Pendik - Yayalar Mahallesi
+2300000,115,100,4,5,7.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+3000000,220,205,7,3,13.5,Ýstanbul - Pendik - Esenler Mahallesi
+3800000,95,80,3,9,0,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2220000,110,100,4,6,0,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+25000000,315,300,6,2,13.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+2350000,100,85,3,9,3,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+2850000,115,100,4,9,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3250000,95,85,3,11,2,Ýstanbul - Pendik - Çýnardere Mahallesi
+2500000,95,85,3,5,0,Ýstanbul - Pendik - Þeyhli Mahallesi
+2500000,95,85,3,5,0,Ýstanbul - Pendik - Þeyhli Mahallesi
+3150000,125,100,4,5,0,Ýstanbul - Pendik - Çýnardere Mahallesi
+25000000,315,300,6,2,13.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+2850000,125,100,4,4,0,Ýstanbul - Pendik - Þeyhli Mahallesi
+2700000,105,90,4,9,0,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+3250000,95,85,3,11,7.5,Ýstanbul - Pendik - Çýnardere Mahallesi
+1360000,85,75,3,4,13.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+2800000,145,135,4,3,13.5,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+2450000,95,80,3,7,0,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+2385000,95,85,3,9,13.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+2500000,125,115,4,4,13.5,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+2350000,95,85,3,10,7.5,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+1940000,90,80,3,3,3,Ýstanbul - Pendik - Kaynarca Mahallesi
+1850000,90,80,3,10,2,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+3000000,120,105,4,5,13.5,Ýstanbul - Pendik - Velibaba Mahallesi
+1850000,135,120,4,5,13.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+4720000,130,115,4,7,0,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2450000,90,80,3,7,0,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+4400000,220,200,7,3,13.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+1950000,125,115,4,5,13.5,Ýstanbul - Pendik - Çýnardere Mahallesi
+2355000,100,90,3,4,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2500000,95,80,3,8,13.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+1950000,95,80,3,6,3,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+1950000,90,80,3,5,7.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+1360000,80,70,3,4,13.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+2250000,90,80,3,8,7.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+3000000,130,115,4,4,7.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+2125000,95,85,3,9,13.5,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2385000,95,80,3,8,13.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+3800000,220,200,6,4,7.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+4250000,180,160,5,4,0,Ýstanbul - Pendik - Yeni Mahallesi
+1675000,95,80,3,4,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4500000,130,115,4,5,7.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+2150000,120,110,4,9,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1849000,75,60,2,6,7.5,Ýstanbul - Pendik - Çýnardere Mahallesi
+1310000,130,125,4,5,7.5,Ýstanbul - Pendik - Çamçeþme Mahallesi
+3000000,125,110,4,14,7.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+1865000,90,55,2,9,7.5,Ýstanbul - Pendik - Yayalar Mahallesi
+2050000,76,65,2,14,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+9800000,325,230,7,10,2,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+4750000,182,123,4,8,4,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2800000,220,200,6,3,7.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+3045000,90,80,3,9,2,Ýstanbul - Pendik - Güzelyalý Mahallesi
+1360000,73,60,2,4,7.5,Ýstanbul - Pendik - Esenler Mahallesi
+3650000,135,120,4,5,21,Ýstanbul - Pendik - Batý Mahallesi
+3300000,83,70,3,13,4,Ýstanbul - Pendik - Doðu Mahallesi
+2700000,105,80,3,9,0,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+1450000,160,150,5,3,13.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+4500000,120,110,4,6,0,Ýstanbul - Pendik - Bahçelievler Mahallesi
+3250000,98,74,3,5,0,Ýstanbul - Pendik - Sapan Baðlarý Mahallesi
+1500000,90,80,3,5,13.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+5700000,149,93,4,11,0,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+3500000,125,110,4,6,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+2430000,92,76,3,9,4,Ýstanbul - Pendik - Sülüntepe Mahallesi
+1395000,110,100,4,6,21,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2650000,190,180,5,3,13.5,Ýstanbul - Pendik - Esenler Mahallesi
+3350000,70,58,3,5,0,Ýstanbul - Pendik - Sapan Baðlarý Mahallesi
+9200000,155,120,4,5,18.5,Ýstanbul - Pendik - Batý Mahallesi
+1265000,150,140,4,3,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+1100000,70,55,2,5,7.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+3200000,130,120,4,5,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+3100000,130,120,4,5,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+1330000,90,89,3,5,21,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+5000000,160,125,4,5,7.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+1900000,95,85,3,7,13.5,Ýstanbul - Pendik - Sülüntepe Mahallesi
+7875000,350,210,6,4,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2440000,100,80,3,6,0,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+1925000,120,90,4,6,21,Ýstanbul - Pendik - Çýnardere Mahallesi
+3050000,105,80,3,6,7.5,Ýstanbul - Pendik - Yeni Mahallesi
+3500000,110,80,3,5,7.5,Ýstanbul - Pendik - Yeni Mahallesi
+1570000,83,67,3,5,4,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2250000,100,90,4,4,18.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+13250000,270,250,5,4,13.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+21000000,2606,563,12,3,18.5,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1750000,120,115,4,4,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+2830000,145,125,4,9,18.5,Ýstanbul - Pendik - Harmandere Mahallesi
+2650000,90,75,3,9,2,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2350000,103,70,3,9,1,Ýstanbul - Pendik - Sülüntepe Mahallesi
+4750000,150,140,4,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3100000,110,85,3,9,2,Ýstanbul - Pendik - Velibaba Mahallesi
+1300000,105,100,3,5,21,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+3100000,220,200,8,3,7.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+3500000,92,62,3,9,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4150000,125,105,3,9,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3250000,120,105,4,7,7.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+2685000,105,83,4,5,0,Ýstanbul - Pendik - Orhangazi Mahallesi
+12500000,200,185,6,5,0,Ýstanbul - Pendik - Batý Mahallesi
+8750000,170,145,5,5,7.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+985000,95,80,3,4,21,Ýstanbul - Pendik - Esenler Mahallesi
+1450000,120,110,4,6,18.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2050000,90,80,3,9,3,Ýstanbul - Pendik - Kurtköy Mahallesi
+5500000,150,110,4,8,4,Ýstanbul - Pendik - Kaynarca Mahallesi
+4710000,120,85,3,10,0,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+1550000,65,55,2,5,7.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+2550000,80,65,3,7,0,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+1950000,100,90,3,5,21,Ýstanbul - Pendik - Doðu Mahallesi
+2350000,105,100,4,5,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2330000,90,80,3,8,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+1750000,75,65,2,11,7.5,Ýstanbul - Pendik - Çýnardere Mahallesi
+2390000,150,135,4,9,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1600000,135,120,4,5,21,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+3565000,97,75,3,8,0,Ýstanbul - Pendik - Orhangazi Mahallesi
+4395000,120,95,4,7,0,Ýstanbul - Pendik - Orhangazi Mahallesi
+4740000,105,93,4,11,0,Ýstanbul - Pendik - Fatih Mahallesi
+3565000,85,74,3,7,0,Ýstanbul - Pendik - Orhangazi Mahallesi
+4740000,95,74,3,7,0,Ýstanbul - Pendik - Fatih Mahallesi
+4105000,93,73,3,11,0,Ýstanbul - Pendik - Fatih Mahallesi
+4625000,105,93,4,7,0,Ýstanbul - Pendik - Fatih Mahallesi
+4280000,105,92,4,11,0,Ýstanbul - Pendik - Fatih Mahallesi
+3565000,97,75,3,8,0,Ýstanbul - Pendik - Orhangazi Mahallesi
+3565000,85,74,3,7,0,Ýstanbul - Pendik - Orhangazi Mahallesi
+2350000,65,55,3,4,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2825000,235,210,6,4,13.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+1700000,120,110,4,5,13.5,Ýstanbul - Pendik - Orhangazi Mahallesi
+3500000,120,110,4,6,4,Ýstanbul - Pendik - Velibaba Mahallesi
+2850000,115,110,4,6,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+3000000,130,120,4,5,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2390000,150,135,4,9,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2250000,75,65,3,6,7.5,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1590000,150,135,4,4,21,Ýstanbul - Pendik - Yeþilbaðlar Mahallesi
+1850000,95,75,3,10,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2845000,120,110,4,8,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+1970000,110,100,3,4,13.5,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+2700000,100,80,3,9,1,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2100000,90,75,3,5,7.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+3175000,125,120,4,8,2,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+4000000,110,85,3,7,7.5,Ýstanbul - Pendik - Çamçeþme Mahallesi
+2390000,150,135,4,9,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1800000,90,85,3,10,0,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+2650000,100,90,4,5,7.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+1400000,125,115,4,4,13.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2350000,100,70,3,6,4,Ýstanbul - Pendik - Þeyhli Mahallesi
+2750000,110,95,3,6,7.5,Ýstanbul - Pendik - Esenler Mahallesi
+3900000,100,85,4,6,1,Ýstanbul - Pendik - Batý Mahallesi
+2550000,130,110,4,5,7.5,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+850000,60,55,2,4,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+2100000,135,125,4,3,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+1665000,110,100,4,5,21,Ýstanbul - Pendik - Güzelyalý Mahallesi
+1800000,65,56,2,7,7.5,Ýstanbul - Pendik - Çamçeþme Mahallesi
+4300000,143,123,4,14,7.5,Ýstanbul - Pendik - Çamçeþme Mahallesi
+3880000,140,110,3,10,7.5,Ýstanbul - Pendik - Çamçeþme Mahallesi
+3690000,110,96,4,6,0,Ýstanbul - Pendik - Velibaba Mahallesi
+3450000,135,115,4,10,21,Ýstanbul - Pendik - Harmandere Mahallesi
+4450000,135,120,4,10,4,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+3995000,205,175,6,7,7.5,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2000000,100,90,3,5,0,Ýstanbul - Pendik - Fatih Mahallesi
+1950000,105,89,3,5,1,Ýstanbul - Pendik - Yayalar Mahallesi
+4300000,240,220,7,5,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2800000,130,120,4,5,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+3450000,280,250,7,5,7.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+3000000,95,85,3,5,4,Ýstanbul - Pendik - Güzelyalý Mahallesi
+4390000,235,220,5,5,13.5,Ýstanbul - Pendik - Velibaba Mahallesi
+3750000,122,87,3,9,4,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1650000,70,60,3,4,21,Ýstanbul - Pendik - Batý Mahallesi
+1580000,70,60,2,7,7.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+2750000,95,85,3,6,1,Ýstanbul - Pendik - Yeþilbaðlar Mahallesi
+3450000,100,80,3,6,0,Ýstanbul - Pendik - Sapan Baðlarý Mahallesi
+2650000,90,70,3,9,7.5,Ýstanbul - Pendik - Sülüntepe Mahallesi
+3250000,148,100,4,5,4,Ýstanbul - Pendik - Yeþilbaðlar Mahallesi
+1000000,120,115,4,8,18.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+3900000,185,170,5,3,2,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+2350000,130,120,4,9,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1100000,115,110,4,3,21,Ýstanbul - Pendik - Kaynarca Mahallesi
+1000000,125,115,4,8,21,Ýstanbul - Pendik - Esenyalý Mahallesi
+2600000,62,45,2,11,0,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+2150000,105,95,4,5,13.5,Ýstanbul - Pendik - Orhangazi Mahallesi
+1440000,120,100,3,5,13.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2100000,100,90,3,4,13.5,Ýstanbul - Pendik - Fatih Mahallesi
+3900000,103,83,4,10,0,Ýstanbul - Pendik - Çýnardere Mahallesi
+2500000,105,80,3,10,0,Ýstanbul - Pendik - Þeyhli Mahallesi
+3125000,145,130,4,4,13.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+935000,100,85,3,4,21,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1950000,135,125,4,5,13.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2900000,220,200,8,4,7.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+1450000,75,65,3,8,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+275000,45,35,2,2,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+1100000,125,115,4,5,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+4250000,190,175,6,6,0,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+2350000,78,68,2,9,13.5,Ýstanbul - Pendik - Harmandere Mahallesi
+2800000,53,40,2,9,4,Ýstanbul - Pendik - Yeniþehir Mahallesi
+6500000,260,225,6,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+7500000,139,100,4,7,4,Ýstanbul - Pendik - Çamlýk Mahallesi
+3050000,98,78,3,5,1,Ýstanbul - Pendik - Kurtköy Mahallesi
+2650000,125,100,4,9,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2950000,90,85,3,4,0,Ýstanbul - Pendik - Sapan Baðlarý Mahallesi
+2320000,125,110,4,10,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1695000,60,55,2,8,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2935000,118,98,4,5,13.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+1915000,100,75,3,9,4,Ýstanbul - Pendik - Þeyhli Mahallesi
+4250000,115,110,4,3,21,Ýstanbul - Pendik - Kaynarca Mahallesi
+2900000,80,62,3,9,1,Ýstanbul - Pendik - Kurtköy Mahallesi
+2050000,75,55,3,9,1,Ýstanbul - Pendik - Sülüntepe Mahallesi
+4250000,145,120,4,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2550000,90,80,3,3,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2900000,80,62,3,9,1,Ýstanbul - Pendik - Kurtköy Mahallesi
+2500000,95,80,3,4,4,Ýstanbul - Pendik - Sülüntepe Mahallesi
+3200000,136,84,3,5,4,Ýstanbul - Pendik - Kurtköy Mahallesi
+1725000,89,78,3,10,7.5,Ýstanbul - Pendik - Esenler Mahallesi
+2875000,72,50,2,9,3,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4200000,130,95,4,7,7.5,Ýstanbul - Pendik - Yeni Mahallesi
+1424000,85,75,3,8,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3650000,134,98,4,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3990000,60,49,3,7,0,Ýstanbul - Pendik - Batý Mahallesi
+3450000,137,95,4,5,3,Ýstanbul - Pendik - Çamlýk Mahallesi
+9250000,280,240,7,7,7.5,Ýstanbul - Pendik - Doðu Mahallesi
+3350000,120,110,4,5,13.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2800000,95,85,3,5,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+1850000,95,80,3,4,13.5,Ýstanbul - Pendik - Orhangazi Mahallesi
+3100000,120,90,4,5,18.5,Ýstanbul - Pendik - Bahçelievler Mahallesi
+3400000,120,90,4,5,18.5,Ýstanbul - Pendik - Bahçelievler Mahallesi
+3100000,120,90,3,9,7.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+1520000,48,35,,8,1,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2800000,125,105,4,9,13.5,Ýstanbul - Pendik - Harmandere Mahallesi
+2650000,70,60,2,4,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1400000,95,85,3,4,7.5,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+1475000,54,45,,8,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3075000,125,100,4,10,18.5,Ýstanbul - Pendik - Harmandere Mahallesi
+1850000,71,56,2,8,4,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2840000,125,105,4,9,21,Ýstanbul - Pendik - Harmandere Mahallesi
+5000000,260,241,6,2,18.5,Ýstanbul - Pendik - Velibaba Mahallesi
+2200000,67,55,2,9,7.5,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+3150000,140,120,4,7,13.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+2050000,140,130,4,6,13.5,Ýstanbul - Pendik - Orhangazi Mahallesi
+4250000,120,110,4,9,2,Ýstanbul - Pendik - Çamçeþme Mahallesi
+1675000,60,40,,9,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1650000,85,75,3,4,7.5,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+2150000,75,65,3,4,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3150000,200,175,4,5,7.5,Ýstanbul - Pendik - Yeþilbaðlar Mahallesi
+2650000,85,74,3,5,7.5,Ýstanbul - Pendik - Yeþilbaðlar Mahallesi
+1750000,90,80,3,7,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+2980000,120,105,4,3,18.5,Ýstanbul - Pendik - Sapan Baðlarý Mahallesi
+11900000,235,170,5,6,3,Ýstanbul - Pendik - Doðu Mahallesi
+3150000,115,95,4,9,7.5,Ýstanbul - Pendik - Sapan Baðlarý Mahallesi
+3650000,100,90,4,6,0,Ýstanbul - Pendik - Çýnardere Mahallesi
+3900000,110,92,3,3,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2480000,102,85,3,9,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+2400000,125,110,4,9,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4400000,151,130,4,10,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2950000,145,135,4,5,13.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+2950000,145,135,4,5,13.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+995000,120,100,4,3,21,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+1250000,120,115,4,4,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+1250000,120,115,4,4,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+3450000,145,125,4,10,3,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+1480000,65,55,2,9,13.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+2300000,62,45,2,8,0,Ýstanbul - Pendik - Kaynarca Mahallesi
+2550000,70,55,3,7,4,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4500000,160,120,3,9,7.5,Ýstanbul - Pendik - Harmandere Mahallesi
+6900000,228,174,5,9,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2150000,110,100,4,9,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3150000,90,70,3,5,0,Ýstanbul - Pendik - Yeni Mahallesi
+2280000,64,46,2,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1770000,65,50,2,5,13.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+3250000,110,95,4,8,3,Ýstanbul - Pendik - Velibaba Mahallesi
+3100000,125,100,3,9,4,Ýstanbul - Pendik - Harmandere Mahallesi
+2600000,150,135,4,4,21,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1650000,110,100,4,5,7.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2650000,100,80,3,5,7.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+3770000,90,70,3,9,0,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2450000,100,85,3,8,13.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+4200000,115,100,4,9,0,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2800000,136,84,3,8,3,Ýstanbul - Pendik - Kurtköy Mahallesi
+3200000,109,75,3,5,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4000000,133,97,4,5,7.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+4200000,133,97,4,5,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4200000,137,100,4,5,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2800000,123,72,2.5,8,4,Ýstanbul - Pendik - Kurtköy Mahallesi
+4450000,145,105,4,7,7.5,Ýstanbul - Pendik - Yeni Mahallesi
+2450000,105,85,3,10,4,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+1920000,90,75,3,5,13.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+2100000,63,58,2,9,4,Ýstanbul - Pendik - Kurtköy Mahallesi
+1920000,66,55,2,9,4,Ýstanbul - Pendik - Kurtköy Mahallesi
+1875000,60,55,2,10,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2390000,100,90,3,10,4,Ýstanbul - Pendik - Fatih Mahallesi
+3450000,110,100,4,6,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+1950000,165,150,4,5,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+2300000,125,110,4,9,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3200000,90,69,3,10,0,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+6675000,145,105,4,10,0,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+20000000,680,600,9,4,3,Ýstanbul - Pendik - Çamlýk Mahallesi
+8200000,170,155,5,7,0,Ýstanbul - Pendik - Batý Mahallesi
+1925000,130,120,4,9,18.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+8000000,155,120,4,5,18.5,Ýstanbul - Pendik - Batý Mahallesi
+2750000,185,160,5,7,21,Ýstanbul - Pendik - Doðu Mahallesi
+4500000,122,100,3,4,18.5,Ýstanbul - Pendik - Çamçeþme Mahallesi
+1300000,55,45,2,11,13.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+4850000,160,140,5,5,21,Ýstanbul - Pendik - Çýnardere Mahallesi
+1300000,55,45,2,11,13.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2575000,60,50,2,10,0,Ýstanbul - Pendik - Yeþilbaðlar Mahallesi
+5500000,300,250,5,9,4,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+3205000,93,75,3,11,0,Ýstanbul - Pendik - Fatih Mahallesi
+5500000,300,250,5,9,4,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+3750000,135,110,4,9,4,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+3750000,135,120,4,10,3,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+8500000,350,300,7,9,4,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+8500000,350,300,7,9,4,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+3650000,135,110,4,9,4,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+3650000,135,110,4,9,4,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+2750000,105,95,3,9,3,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+2350000,105,90,3,9,4,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+2750000,105,90,3,9,4,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+2850000,96,85,3,9,3,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+2650000,95,85,3,10,0,Ýstanbul - Pendik - Velibaba Mahallesi
+2600000,160,140,4,3,7.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+2250000,130,125,4,5,18.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2150000,135,120,4,9,18.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+3100000,95,94,3,5,0,Ýstanbul - Pendik - Esenler Mahallesi
+2500000,70,60,3,5,7.5,Ýstanbul - Pendik - Bahçelievler Mahallesi
+1375000,135,88,3,7,4,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+4150000,120,95,3,9,3,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2500000,200,180,5,4,21,Ýstanbul - Pendik - Yeþilbaðlar Mahallesi
+5650000,70,60,2,3,4,Ýstanbul - Pendik - Çamlýk Mahallesi
+2200000,80,70,3,6,0,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+2100000,76,65,2,8,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4000000,115,90,4,5,0,Ýstanbul - Pendik - Yeþilbaðlar Mahallesi
+2225000,105,85,3,7,13.5,Ýstanbul - Pendik - Sülüntepe Mahallesi
+7500000,180,160,5,10,7.5,Ýstanbul - Pendik - Harmandere Mahallesi
+3750000,105,94,3,9,7.5,Ýstanbul - Pendik - Harmandere Mahallesi
+3079000,135,110,4,9,21,Ýstanbul - Pendik - Harmandere Mahallesi
+4320000,132,97,3,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2470000,74,54,2,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2990000,102,80,3,11,7.5,Ýstanbul - Pendik - Yayalar Mahallesi
+2750000,90,70,3,7,13.5,Ýstanbul - Pendik - Çýnardere Mahallesi
+1850000,66,50,2,6,7.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+1600000,120,110,4,5,18.5,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+19000000,500,400,7,3,0,Ýstanbul - Pendik - Kurtköy Mahallesi
+1750000,140,130,4,6,21,Ýstanbul - Pendik - Güzelyalý Mahallesi
+18995000,219,200,7,4,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4050000,94,74,3,7,0,Ýstanbul - Pendik - Yeni Mahallesi
+2350000,85,73,3,6,7.5,Ýstanbul - Pendik - Çýnardere Mahallesi
+1845000,90,80,3,8,3,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+4750000,210,180,6,9,4,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1350000,100,90,3,3,13.5,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+2815000,135,130,4,9,13.5,Ýstanbul - Pendik - Harmandere Mahallesi
+4350000,120,105,6,4,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2885000,125,115,4,5,13.5,Ýstanbul - Pendik - Yayalar Mahallesi
+1930000,78,65,3,5,7.5,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+915000,78,65,2,7,21,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+3450000,125,90,3,9,4,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3500000,160,130,4,3,7.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+1400000,42,31,,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2500000,164,115,3,5,13.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+2549000,95,78,3,9,7.5,Ýstanbul - Pendik - Harmandere Mahallesi
+4970000,175,140,5,7,7.5,Ýstanbul - Pendik - Yeni Mahallesi
+2050000,140,130,4,4,21,Ýstanbul - Pendik - Çýnardere Mahallesi
+14950000,180,150,4,2,21,Ýstanbul - Pendik - Güzelyalý Mahallesi
+3620000,150,125,4,5,7.5,Ýstanbul - Pendik - Çýnardere Mahallesi
+2400000,95,90,3,8,7.5,Ýstanbul - Pendik - Esenler Mahallesi
+2680000,130,120,4,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3300000,120,95,4,7,7.5,Ýstanbul - Pendik - Batý Mahallesi
+2685000,105,95,4,5,0,Ýstanbul - Pendik - Orhangazi Mahallesi
+1735000,85,80,3,4,7.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+1490000,85,70,3,5,4,Ýstanbul - Pendik - Esenler Mahallesi
+3500000,125,115,4,6,7.5,Ýstanbul - Pendik - Yeþilbaðlar Mahallesi
+12000000,260,257,9,2,21,Ýstanbul - Pendik - Yeni Mahallesi
+2650000,90,80,3,4,0,Ýstanbul - Pendik - Bahçelievler Mahallesi
+1300000,130,120,4,5,18.5,Ýstanbul - Pendik - Çamçeþme Mahallesi
+1900000,150,128,4,9,21,Ýstanbul - Pendik - Kaynarca Mahallesi
+1550000,130,120,4,5,21,Ýstanbul - Pendik - Güzelyalý Mahallesi
+1380000,130,125,4,5,21,Ýstanbul - Pendik - Esenler Mahallesi
+1980000,90,75,3,3,7.5,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+5000000,137,130,4,9,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3650000,135,110,4,10,4,Ýstanbul - Pendik - Velibaba Mahallesi
+2200000,100,86,3,4,13.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+2050000,56,40,2,9,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1480000,100,95,3,5,3,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+2500000,98,75,3,9,0,Ýstanbul - Pendik - Kurtköy Mahallesi
+4500000,143,125,4,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2500000,102,85,3,9,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+2350000,117,115,4,6,0,Ýstanbul - Pendik - Çamçeþme Mahallesi
+1625000,105,90,4,5,1,Ýstanbul - Pendik - Fatih Mahallesi
+980000,90,70,3,5,21,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+18500000,405,350,9,4,13.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+11500000,200,180,9,5,21,Ýstanbul - Pendik - Orhangazi Mahallesi
+3050000,120,105,4,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1700000,52,32,,9,4,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4500000,137,100,4,9,13.5,Ýstanbul - Pendik - Harmandere Mahallesi
+1980000,145,135,4,7,18.5,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+7775000,225,190,5,9,7.5,Ýstanbul - Pendik - Harmandere Mahallesi
+4250000,145,105,4,7,7.5,Ýstanbul - Pendik - Yeni Mahallesi
+2600000,140,120,4,4,21,Ýstanbul - Pendik - Yeni Mahallesi
+6000000,125,100,4,5,2,Ýstanbul - Pendik - Batý Mahallesi
+2200000,74,65,3,11,0,Ýstanbul - Pendik - Çýnardere Mahallesi
+7100000,150,135,4,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4450000,1050,81,3,20,0,Ýstanbul - Pendik - Kaynarca Mahallesi
+3575000,125,110,4,10,2,Ýstanbul - Pendik - Çýnardere Mahallesi
+1800000,70,55,2,4,13.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+1950000,160,140,4,10,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1700000,130,115,4,7,21,Ýstanbul - Pendik - Güzelyalý Mahallesi
+3450000,135,95,3.5,9,13.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+2350000,67,52,2,7,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3000000,140,120,4,7,7.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+6000000,167,135,4,18,7.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+1650000,100,85,3,6,13.5,Ýstanbul - Pendik - Esenler Mahallesi
+3950000,138,98,3,14,7.5,Ýstanbul - Pendik - Çamçeþme Mahallesi
+3500000,110,89,3,9,1,Ýstanbul - Pendik - Yayalar Mahallesi
+5500000,126,84,4,17,4,Ýstanbul - Pendik - Doðu Mahallesi
+2700000,85,70,3,6,1,Ýstanbul - Pendik - Orhangazi Mahallesi
+1875000,72,61,2,8,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2350000,55,45,1,8,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2800000,125,105,4,9,21,Ýstanbul - Pendik - Harmandere Mahallesi
+3500000,110,90,3,8,7.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+4100000,155,112,4,9,4,Ýstanbul - Pendik - Harmandere Mahallesi
+4000000,150,120,4,8,4,Ýstanbul - Pendik - Harmandere Mahallesi
+2600000,155,140,4,7,21,Ýstanbul - Pendik - Sülüntepe Mahallesi
+8300000,240,170,5,3,0,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+2495000,180,165,4,4,13.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2550000,115,98,4,6,7.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+3480000,177,176,3,3,21,Ýstanbul - Pendik - Velibaba Mahallesi
+2600000,85,65,2,13,3,Ýstanbul - Pendik - Doðu Mahallesi
+12000000,350,300,7,4,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2990000,135,110,4,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2100000,88,62,2,9,4,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2100000,100,80,3,5,4,Ýstanbul - Pendik - Esenler Mahallesi
+1695000,60,55,2,8,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1350000,130,115,4,4,21,Ýstanbul - Pendik - Kaynarca Mahallesi
+4500000,160,150,5,6,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2750000,250,175,6,2,18.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+3250000,145,100,4,10,0,Ýstanbul - Pendik - Velibaba Mahallesi
+2200000,120,100,3,5,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+2075000,95,75,3,7,4,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1950000,95,75,3,7,4,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+2565000,85,70,3,8,0,Ýstanbul - Pendik - Kurtköy Mahallesi
+9500000,200,175,4,3,4,Ýstanbul - Pendik - Çamlýk Mahallesi
+3500000,180,160,6,5,4,Ýstanbul - Pendik - Yeniþehir Mahallesi
+5250000,170,150,5,5,7.5,Ýstanbul - Pendik - Yeni Mahallesi
+1790000,100,88,3,5,21,Ýstanbul - Pendik - Harmandere Mahallesi
+2890000,135,115,4,10,21,Ýstanbul - Pendik - Harmandere Mahallesi
+3348800,91,69,3,9,0,Ýstanbul - Pendik - Çýnardere Mahallesi
+2050000,90,75,3,8,13.5,Ýstanbul - Pendik - Yayalar Mahallesi
+1700000,70,55,2,4,13.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+2450000,95,85,3,8,13.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+6050000,216,187,5,5,7.5,Ýstanbul - Pendik - Batý Mahallesi
+1900000,81,60,3,9,7.5,Ýstanbul - Pendik - Sanayi Mahallesi
+1750000,85,75,3,5,0,Ýstanbul - Pendik - Esenyalý Mahallesi
+1125000,120,110,4,4,21,Ýstanbul - Pendik - Kaynarca Mahallesi
+1100000,100,90,3,4,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+2250000,85,62,3,9,7.5,Ýstanbul - Pendik - Çýnardere Mahallesi
+3250000,120,100,4,7,0,Ýstanbul - Pendik - Fatih Mahallesi
+950000,85,75,3,5,21,Ýstanbul - Pendik - Fatih Mahallesi
+2585000,95,90,3,4,0,Ýstanbul - Pendik - Orhangazi Mahallesi
+1350000,130,115,4,4,21,Ýstanbul - Pendik - Kaynarca Mahallesi
+4750000,205,185,6,6,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+4200000,150,110,4,6,7.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+1850000,90,85,3,4,13.5,Ýstanbul - Pendik - Esenler Mahallesi
+1260000,75,60,2,4,13.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+3750000,96,85,3,7,7.5,Ýstanbul - Pendik - Harmandere Mahallesi
+7125000,150,105,4,7,4,Ýstanbul - Pendik - Doðu Mahallesi
+1579000,90,75,3,4,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2850000,125,95,3,3,4,Ýstanbul - Pendik - Kaynarca Mahallesi
+2380000,60,50,2,2,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3000000,130,115,4,4,0,Ýstanbul - Pendik - Kurtköy Mahallesi
+6500000,175,140,4.5,9,3,Ýstanbul - Pendik - Yayalar Mahallesi
+2250000,90,75,3,6,0,Ýstanbul - Pendik - Kurtköy Mahallesi
+2600000,150,130,4,8,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+2750000,150,125,4,7,18.5,Ýstanbul - Pendik - Velibaba Mahallesi
+2950000,128,100,4,7,4,Ýstanbul - Pendik - Kurtköy Mahallesi
+4150000,145,120,4,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2499000,140,110,4,3,13.5,Ýstanbul - Pendik - Esenler Mahallesi
+3700000,139,95,4,9,1,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2000000,95,70,3,8,4,Ýstanbul - Pendik - Kurtköy Mahallesi
+1195000,115,110,3,4,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+6700000,120,91,4,12,0,Ýstanbul - Pendik - Çýnardere Mahallesi
+1370000,130,125,4,5,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+3475000,105,85,3,5,7.5,Ýstanbul - Pendik - Batý Mahallesi
+3450000,85,75,3,6,0,Ýstanbul - Pendik - Sapan Baðlarý Mahallesi
+7250000,110,100,3.5,4,21,Ýstanbul - Pendik - Doðu Mahallesi
+2250000,130,120,4,8,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4000000,151,120,4,8,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2200000,115,100,4,8,7.5,Ýstanbul - Pendik - Sülüntepe Mahallesi
+4500000,105,90,4,9,3,Ýstanbul - Pendik - Kaynarca Mahallesi
+2500000,135,120,4,10,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1425000,85,75,3,8,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3250000,110,100,3,4,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2750000,120,100,3,8,3,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+4000000,400,350,4,4,13.5,Ýstanbul - Pendik - Ertuðrul Gazi Mahallesi
+2750000,145,140,9,3,21,Ýstanbul - Pendik - Orhangazi Mahallesi
+8500000,300,250,6,4,13.5,Ýstanbul - Pendik - Doðu Mahallesi
+850000,110,95,3,7,21,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+3300000,245,240,9,4,21,Ýstanbul - Pendik - Fatih Mahallesi
+2500000,95,90,3,5,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+1800000,100,80,3,7,13.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+2980000,115,95,4,9,1,Ýstanbul - Pendik - Orhangazi Mahallesi
+1899000,95,85,3,6,4,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+6900000,154,125,4,7,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2400000,70,60,3,5,0,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+5100000,145,130,4,7,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2200000,90,80,3,7,3,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+2250000,145,140,4,4,0,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+2100000,56,45,2,9,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2300000,170,150,4,4,13.5,Ýstanbul - Pendik - Yayalar Mahallesi
+2680000,150,127,4,4,18.5,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+3750000,115,86,4,8,1,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2850000,95,78,3,9,7.5,Ýstanbul - Pendik - Harmandere Mahallesi
+3510000,145,123,4,9,18.5,Ýstanbul - Pendik - Harmandere Mahallesi
+2599000,80,70,3,9,0,Ýstanbul - Pendik - Kurtköy Mahallesi
+95000000,1538,1400,9,2,7.5,Ýstanbul - Pendik - Emirli Mahallesi
+3100000,140,120,4,6,13.5,Ýstanbul - Pendik - Çýnardere Mahallesi
+1750000,58,50,2,9,7.5,Ýstanbul - Pendik - Harmandere Mahallesi
+2690000,125,110,4,9,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3775000,140,120,4,7,7.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+1500000,140,130,6,5,7.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2650000,100,95,4,8,21,Ýstanbul - Pendik - Yeni Mahallesi
+4500000,125,95,3,7,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1100000,115,90,3,5,21,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+1600000,125,110,4,4,18.5,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+3200000,160,135,4,9,3,Ýstanbul - Pendik - Yayalar Mahallesi
+3560000,115,105,5,11,3,Ýstanbul - Pendik - Esenler Mahallesi
+2400000,85,80,3,11,3,Ýstanbul - Pendik - Esenler Mahallesi
+2250000,200,165,4,4,7.5,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+2375000,145,120,4,8,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1430000,120,100,4,4,21,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+2160000,135,110,4,10,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2450000,90,75,4,8,21,Ýstanbul - Pendik - Yeni Mahallesi
+1715000,70,60,3,10,7.5,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+2250000,80,50,2,8,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2390000,90,75,2,8,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1750000,110,95,4,3,7.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+2375000,115,93,4,4,21,Ýstanbul - Pendik - Doðu Mahallesi
+20000000,350,300,7,3,18.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+3100000,100,80,3,6,4,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+1940000,85,75,3,4,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2100000,90,80,3,10,0,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+3100000,100,80,3,6,4,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+2695000,95,85,3,5,18.5,Ýstanbul - Pendik - Yayalar Mahallesi
+2390000,85,65,3,6,0,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+2599999,135,120,4,4,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2750000,55,40,2,9,3,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1830000,65,55,2,9,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2500000,72,58,2,9,13.5,Ýstanbul - Pendik - Harmandere Mahallesi
+3450000,110,90,4,4,7.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+2050000,130,120,4,8,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2050000,85,66,3,3,0,Ýstanbul - Pendik - Kaynarca Mahallesi
+3750000,160,150,5,7,0,Ýstanbul - Pendik - Yayalar Mahallesi
+3250000,170,160,5,4,4,Ýstanbul - Pendik - Fatih Mahallesi
+4750000,179,128,4,9,4,Ýstanbul - Pendik - Çamlýk Mahallesi
+3450000,175,155,5,4,13.5,Ýstanbul - Pendik - Esenler Mahallesi
+2950000,150,120,5,5,4,Ýstanbul - Pendik - Çamçeþme Mahallesi
+9250000,157,123,4,14,4,Ýstanbul - Pendik - Batý Mahallesi
+2000000,95,80,3,9,4,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1950000,130,100,4,9,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2050000,97,77,3,8,7.5,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1825000,100,78,3,9,7.5,Ýstanbul - Pendik - Esenler Mahallesi
+6500000,154,125,4,5,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2400000,120,115,4,7,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+1550000,100,90,3,4,21,Ýstanbul - Pendik - Kaynarca Mahallesi
+1569000,90,75,3,9,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+950000,115,110,3,7,21,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+1920000,90,60,3,4,3,Ýstanbul - Pendik - Kurtköy Mahallesi
+3300000,120,95,4,10,4,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+2430000,96,78,4,9,0,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2420000,145,135,4,9,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2450000,95,75,3,6,7.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+1350000,75,70,2,3,7.5,Ýstanbul - Pendik - Sapan Baðlarý Mahallesi
+3450000,112,81,3,9,0,Ýstanbul - Pendik - Esenler Mahallesi
+3450000,90,75,3,13,4,Ýstanbul - Pendik - Doðu Mahallesi
+2195000,85,75,3,6,4,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+3100000,105,95,3,6,7.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+1990000,90,70,3,4,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+940000,130,120,3,4,21,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+850000,100,90,3,5,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+4750000,144,110,4.5,5,7.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+3100000,130,116,4,6,18.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+2100000,80,70,3,10,1,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+2200000,85,75,3,4,13.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+9360000,175,165,4.5,4,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+11000000,225,220,9,4,4,Ýstanbul - Pendik - Fatih Mahallesi
+1900000,125,110,4,6,21,Ýstanbul - Pendik - Sapan Baðlarý Mahallesi
+2500000,120,110,4,10,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1800000,74,56,2,14,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+2150000,75,65,3,5,3,Ýstanbul - Pendik - Batý Mahallesi
+3100000,100,87,3,5,3,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+1700000,90,80,3,5,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+15000000,250,220,6,5,0,Ýstanbul - Pendik - Batý Mahallesi
+2250000,80,70,3,11,2,Ýstanbul - Pendik - Velibaba Mahallesi
+1190000,90,80,3,4,13.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+6250000,220,150,4,4,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1290000,170,150,4,5,21,Ýstanbul - Pendik - Orhangazi Mahallesi
+2250000,80,70,3,9,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+4300000,134,98,4,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3200000,135,125,4,4,7.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+3749999,145,123,4,9,18.5,Ýstanbul - Pendik - Harmandere Mahallesi
+4100000,114,90,3,7,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4600000,177,135,4,7,2,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2400000,100,85,3,6,3,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+4990000,138,110,4,7,0,Ýstanbul - Pendik - Batý Mahallesi
+2120000,135,110,4,4,13.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2800000,100,80,3,8,4,Ýstanbul - Pendik - Kurtköy Mahallesi
+3750000,220,200,6,3,13.5,Ýstanbul - Pendik - Orhangazi Mahallesi
+3550000,100,80,4,10,0,Ýstanbul - Pendik - Velibaba Mahallesi
+3750000,104,81,3,19,0,Ýstanbul - Pendik - Kaynarca Mahallesi
+1630000,85,70,3,4,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2200000,115,110,4,2,18.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+2000000,60,38,,9,4,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1800000,67,52,2,9,7.5,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+3300000,124,100,4,9,7.5,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+1600000,90,80,3,4,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1575000,85,75,3,7,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1275000,45,31,,8,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1330000,75,60,2,8,13.5,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2500000,85,70,3,9,0,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2525000,95,75,3,7,4,Ýstanbul - Pendik - Kurtköy Mahallesi
+1619000,85,75,3,8,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1875000,88,70,3,8,0,Ýstanbul - Pendik - Velibaba Mahallesi
+1875000,90,80,3,5,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+1840000,105,90,3,9,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1625000,83,67,3,5,4,Ýstanbul - Pendik - Güzelyalý Mahallesi
+1880000,100,80,3,9,4,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+770000,90,70,3,6,21,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2700000,103,82,3,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1200000,120,115,4,5,21,Ýstanbul - Pendik - Esenler Mahallesi
+5000000,145,127,4,6,4,Ýstanbul - Pendik - Kaynarca Mahallesi
+1675000,75,65,3,6,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+2060000,75,55,3,9,1,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2350000,100,75,3,8,1,Ýstanbul - Pendik - Çamçeþme Mahallesi
+4650000,202,172,5,7,7.5,Ýstanbul - Pendik - Sülüntepe Mahallesi
+1300000,90,85,3,4,18.5,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+2052000,63,46,2,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3650000,110,90,3,7,4,Ýstanbul - Pendik - Çamlýk Mahallesi
+2875000,88,64,3,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2720000,135,108,4,9,18.5,Ýstanbul - Pendik - Harmandere Mahallesi
+4315000,133,97,4,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2600000,135,125,4,10,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3155000,130,115,4,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+5950000,140,125,3,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3750000,140,110,3.5,9,3,Ýstanbul - Pendik - Yayalar Mahallesi
+5950000,150,130,4,7,7.5,Ýstanbul - Pendik - Sapan Baðlarý Mahallesi
+2500000,127,100,3,4,13.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+1700000,80,70,3,4,13.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+1300000,95,85,3,5,21,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+2900000,110,90,4,14,3,Ýstanbul - Pendik - Bahçelievler Mahallesi
+2800000,160,140,4,9,18.5,Ýstanbul - Pendik - Yeni Mahallesi
+4200000,125,100,4,7,21,Ýstanbul - Pendik - Sapan Baðlarý Mahallesi
+2350000,135,105,4,6,7.5,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+3200000,100,80,3,9,3,Ýstanbul - Pendik - Kaynarca Mahallesi
+2150000,95,80,3,6,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+3200000,140,80,3,8,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4400000,103,90,3,9,4,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1799000,105,95,3,10,1,Ýstanbul - Pendik - Fatih Mahallesi
+2070000,125,115,4,5,7.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+3375000,130,110,4,9,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+9250000,230,190,5,3,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+9250000,240,200,5,3,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2390000,85,75,3,9,4,Ýstanbul - Pendik - Orhangazi Mahallesi
+2750000,62,50,2,7,3,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2375000,70,60,2,4,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2580000,90,75,3,7,0,Ýstanbul - Pendik - Þeyhli Mahallesi
+2600000,105,85,3,4,4,Ýstanbul - Pendik - Yeni Mahallesi
+1350000,160,130,4,3,21,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+5500000,160,95,4,6,3,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3750000,120,110,4.5,9,4,Ýstanbul - Pendik - Çýnardere Mahallesi
+2200000,120,110,4,6,21,Ýstanbul - Pendik - Kaynarca Mahallesi
+1250000,130,120,3,3,21,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+1700000,95,75,3,6,7.5,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1800000,120,110,3,6,21,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+2000000,125,110,4,10,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3350000,120,85,4,9,0,Ýstanbul - Pendik - Çýnardere Mahallesi
+6500000,350,300,7,9,4,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+2400000,140,117,4,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3200000,175,165,5,5,3,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+2980000,175,165,5,5,13.5,Ýstanbul - Pendik - Orhangazi Mahallesi
+3500000,148,128,4,6,13.5,Ýstanbul - Pendik - Yayalar Mahallesi
+1100000,85,75,3,4,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+3190000,125,95,4,10,3,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+1375000,100,90,3,4,13.5,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+3200000,105,81,4,11,0,Ýstanbul - Pendik - Sülüntepe Mahallesi
+3250000,90,71,3,6,0,Ýstanbul - Pendik - Kurtköy Mahallesi
+3050000,105,90,4,4,0,Ýstanbul - Pendik - Kurtköy Mahallesi
+3500000,123,90,4,10,3,Ýstanbul - Pendik - Kurtköy Mahallesi
+1900000,95,80,3,5,13.5,Ýstanbul - Pendik - Orhangazi Mahallesi
+1650000,90,75,3,10,0,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1900000,165,145,4,4,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+1475000,90,75,3,4,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2950000,110,95,4,9,0,Ýstanbul - Pendik - Velibaba Mahallesi
+1550000,78,68,3,5,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1975000,92,78,3,4,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+3350000,132,105,4,7,4,Ýstanbul - Pendik - Kurtköy Mahallesi
+5800000,200,145,4,3,21,Ýstanbul - Pendik - Güzelyalý Mahallesi
+1650000,65,55,2,9,2,Ýstanbul - Pendik - Yayalar Mahallesi
+1850000,115,110,4,7,21,Ýstanbul - Pendik - Kaynarca Mahallesi
+2750000,104,86,3,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4200000,90,85,3,6,0,Ýstanbul - Pendik - Batý Mahallesi
+2450000,55,48,2,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3250000,125,120,4,9,21,Ýstanbul - Pendik - Harmandere Mahallesi
+1350000,135,110,4,5,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+2000000,95,90,3,9,13.5,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2100000,75,65,2,8,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1300000,65,50,2,9,21,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2850000,155,135,4,4,13.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+3850000,101,72,3,4,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+890000,38,29,,6,13.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+6200000,225,220,8,6,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+1890000,150,140,4,3,21,Ýstanbul - Pendik - Esenyalý Mahallesi
+1890000,150,140,6,3,21,Ýstanbul - Pendik - Esenyalý Mahallesi
+1850000,110,95,3,5,13.5,Ýstanbul - Pendik - Velibaba Mahallesi
+1680000,77,63,2,4,13.5,Ýstanbul - Pendik - Yayalar Mahallesi
+3150000,135,100,4,7,21,Ýstanbul - Pendik - Yeni Mahallesi
+2000000,70,65,2.5,5,21,Ýstanbul - Pendik - Batý Mahallesi
+2875000,95,75,3,8,2,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+8250000,280,240,7,4,13.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+1600000,87,80,3,7,13.5,Ýstanbul - Pendik - Fatih Mahallesi
+7500000,125,78,4,19,2,Ýstanbul - Pendik - Kaynarca Mahallesi
+3380000,150,135,5,6,7.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+1550000,52,30,,9,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2900000,120,105,4,10,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1365000,213,180,5,5,13.5,Ýstanbul - Pendik - Orhangazi Mahallesi
+1925000,85,75,3,5,0,Ýstanbul - Pendik - Orhangazi Mahallesi
+2475000,270,230,7,3,13.5,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+2495000,255,230,7,4,7.5,Ýstanbul - Pendik - Çamçeþme Mahallesi
+2890000,105,81,4,11,0,Ýstanbul - Pendik - Sülüntepe Mahallesi
+1200000,106,95,3,6,13.5,Ýstanbul - Pendik - Fatih Mahallesi
+2700000,115,95,3,5,21,Ýstanbul - Pendik - Doðu Mahallesi
+2150000,150,140,3,3,21,Ýstanbul - Pendik - Esenyalý Mahallesi
+2150000,150,140,4,3,21,Ýstanbul - Pendik - Esenyalý Mahallesi
+2100000,120,105,4,6,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+2100000,120,105,4,6,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+1655000,85,75,3,5,7.5,Ýstanbul - Pendik - Orhangazi Mahallesi
+3500000,110,81,3,19,0,Ýstanbul - Pendik - Kaynarca Mahallesi
+20000000,450,400,9,9,0,Ýstanbul - Pendik - Kaynarca Mahallesi
+5000000,125,110,4,9,0,Ýstanbul - Pendik - Kaynarca Mahallesi
+5000000,125,110,4,9,0,Ýstanbul - Pendik - Kaynarca Mahallesi
+4400000,120,105,4,9,0,Ýstanbul - Pendik - Kaynarca Mahallesi
+4500000,125,105,4,9,1,Ýstanbul - Pendik - Kaynarca Mahallesi
+4300000,125,110,4,9,0,Ýstanbul - Pendik - Kaynarca Mahallesi
+4500000,145,107,4,7,0,Ýstanbul - Pendik - Kaynarca Mahallesi
+4300000,125,110,4,9,0,Ýstanbul - Pendik - Kaynarca Mahallesi
+4200000,125,115,4,9,0,Ýstanbul - Pendik - Kaynarca Mahallesi
+4000000,115,105,4,9,0,Ýstanbul - Pendik - Kaynarca Mahallesi
+17000000,200,180,7,2,0,Ýstanbul - Pendik - Çamlýk Mahallesi
+929000,145,120,4,5,21,Ýstanbul - Pendik - Orhangazi Mahallesi
+2100000,135,125,4,4,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+2100000,135,125,4,4,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+959000,90,80,3,5,18.5,Ýstanbul - Pendik - Esenler Mahallesi
+2690000,135,110,4,9,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1650000,140,130,4,5,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+8500000,156,138,4,6,0,Ýstanbul - Pendik - Batý Mahallesi
+1450000,100,90,3,7,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+1000000,100,85,3,2,1,Ýstanbul - Pendik - Sapan Baðlarý Mahallesi
+1445000,105,85,3,4,13.5,Ýstanbul - Pendik - Velibaba Mahallesi
+1350000,120,95,3,6,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+10750000,280,250,5,6,13.5,Ýstanbul - Pendik - Batý Mahallesi
+900000,95,85,3,5,21,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+2050000,140,130,4,5,13.5,Ýstanbul - Pendik - Velibaba Mahallesi
+2500000,135,125,4,6,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2500000,90,75,3,9,3,Ýstanbul - Pendik - Esenyalý Mahallesi
+2500000,90,75,3,9,3,Ýstanbul - Pendik - Esenyalý Mahallesi
+8900000,400,380,4,1,4,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2149000,140,130,4,3,7.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+1150000,100,95,3,5,21,Ýstanbul - Pendik - Fatih Mahallesi
+1800000,250,180,5,6,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+2745000,105,95,4,5,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+3450000,115,110,3,5,21,Ýstanbul - Pendik - Orhangazi Mahallesi
+1925000,85,75,3,4,0,Ýstanbul - Pendik - Orhangazi Mahallesi
+2650000,125,110,4,4,18.5,Ýstanbul - Pendik - Doðu Mahallesi
+2750000,90,75,3,6,1,Ýstanbul - Pendik - Kurtköy Mahallesi
+2100000,120,110,4,8,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4750000,168,118,4,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1600000,45,25,,9,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+6250000,140,120,4,4,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2100000,85,70,3,5,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+1885000,61,52,2,9,7.5,Ýstanbul - Pendik - Harmandere Mahallesi
+1950000,85,80,3,8,13.5,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2845000,115,90,3,9,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2399000,140,125,4,7,13.5,Ýstanbul - Pendik - Sülüntepe Mahallesi
+1550000,65,55,2,9,2,Ýstanbul - Pendik - Yayalar Mahallesi
+2350000,90,75,3,10,3,Ýstanbul - Pendik - Fatih Mahallesi
+3450000,137,90,3,8,0,Ýstanbul - Pendik - Kaynarca Mahallesi
+2300000,100,89,4,4,13.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+1895000,95,94,3,7,7.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+1750000,90,85,3,5,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+3000000,60,50,2,16,7.5,Ýstanbul - Pendik - Doðu Mahallesi
+12500000,195,175,5,5,0,Ýstanbul - Pendik - Batý Mahallesi
+12550000,180,160,4,7,0,Ýstanbul - Pendik - Batý Mahallesi
+3250000,120,105,4,12,7.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2755000,300,270,6,6,18.5,Ýstanbul - Pendik - Çýnardere Mahallesi
+2150000,95,85,3,8,4,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+4900000,145,135,4,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1300000,145,115,4,5,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+1350000,145,115,4,5,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+2150000,90,85,3,4,0,Ýstanbul - Pendik - Fatih Mahallesi
+21200000,480,373,8,4,7.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+2500000,60,50,2,3,0,Ýstanbul - Pendik - Bahçelievler Mahallesi
+2550000,86,54,2,8,0,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+4900000,130,89,3,3,7.5,Ýstanbul - Pendik - Harmandere Mahallesi
+2500000,125,120,4,8,7.5,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+20000000,90,80,3,5,21,Ýstanbul - Pendik - Doðu Mahallesi
+3250000,106,80,3,17,7.5,Ýstanbul - Pendik - Yeni Mahallesi
+2700000,100,80,3,11,3,Ýstanbul - Pendik - Çýnardere Mahallesi
+1550000,100,80,2,12,7.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+4500000,150,149,3,3,21,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+1750000,85,65,3,8,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+1950000,90,70,3,4,2,Ýstanbul - Pendik - Kaynarca Mahallesi
+2100000,90,80,3,9,0,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+4000000,145,120,4,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1350000,65,55,2,2,21,Ýstanbul - Pendik - Çýnardere Mahallesi
+1875000,115,110,4,4,13.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+1935000,145,130,4,4,13.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+1425000,165,145,5,4,21,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2150000,135,110,3,4,21,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+850000,65,55,2,5,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+850000,65,55,2,5,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+1000000,115,95,3,5,21,Ýstanbul - Pendik - Ramazanoðlu Mahallesi
+3500000,180,160,5,4,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+1450000,135,125,4,5,21,Ýstanbul - Pendik - Orhangazi Mahallesi
+850000,100,90,3,5,21,Ýstanbul - Pendik - Orhangazi Mahallesi
+2250000,90,80,3,7,4,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+1850000,135,120,4,5,18.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+2999000,120,100,4,7,4,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+399000,70,60,2,5,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+4999000,220,180,6,7,4,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+2650000,120,110,4,8,7.5,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+3300000,130,100,4,6,0,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+8000000,300,275,6,10,4,Ýstanbul - Pendik - Çýnardere Mahallesi
+2100000,88,76,3,7,7.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+1690000,138,125,4,4,13.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+2265000,135,120,4,3,13.5,Ýstanbul - Pendik - Orhangazi Mahallesi
+2250000,92,80,3,8,4,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1700000,135,120,4,4,21,Ýstanbul - Pendik - Batý Mahallesi
+1395000,118,105,3,4,21,Ýstanbul - Pendik - Batý Mahallesi
+1460000,95,82,3,3,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+2560000,115,100,3,8,7.5,Ýstanbul - Pendik - Yayalar Mahallesi
+3020000,95,75,3,9,0,Ýstanbul - Pendik - Velibaba Mahallesi
+2870000,95,75,3,9,0,Ýstanbul - Pendik - Velibaba Mahallesi
+3700000,110,95,4,9,0,Ýstanbul - Pendik - Velibaba Mahallesi
+2250000,70,69,2,9,7.5,Ýstanbul - Pendik - Harmandere Mahallesi
+3900000,200,190,3,2,21,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1550000,128,115,4,7,21,Ýstanbul - Pendik - Kaynarca Mahallesi
+4000000,120,90,3.5,6,4,Ýstanbul - Pendik - Çamlýk Mahallesi
+3500000,100,90,4,2,18.5,Ýstanbul - Pendik - Ertuðrul Gazi Mahallesi
+4600000,110,81,3,19,0,Ýstanbul - Pendik - Kaynarca Mahallesi
+3250000,135,95,4,5,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+3100000,135,95,4,5,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2975000,135,95,4,5,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2950000,135,95,4,5,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2800000,135,95,4,5,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2700000,135,95,4,5,0,Ýstanbul - Pendik - Güzelyalý Mahallesi
+950000,90,80,3,5,18.5,Ýstanbul - Pendik - Esenler Mahallesi
+3930000,205,185,5,5,13.5,Ýstanbul - Pendik - Orhangazi Mahallesi
+1350000,200,180,6,8,18.5,Ýstanbul - Pendik - Çamçeþme Mahallesi
+2250000,75,55,2,9,2,Ýstanbul - Pendik - Sülüntepe Mahallesi
+2600000,125,100,4,10,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1785000,110,95,3,8,7.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+1890000,105,95,3,7,7.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+2000000,70,60,3,9,2,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1560000,95,85,3,5,18.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+3750000,145,125,4,10,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2500000,100,80,3,12,7.5,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+3300000,160,145,4,9,18.5,Ýstanbul - Pendik - Yeni Mahallesi
+1780000,90,85,3,5,7.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+4500000,106,96,3,8,7.5,Ýstanbul - Pendik - Harmandere Mahallesi
+4300000,220,190,6,3,13.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+6500000,250,230,6,5,4,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4500000,144,108,4.5,5,4,Ýstanbul - Pendik - Çamlýk Mahallesi
+9500000,145,130,4,7,0,Ýstanbul - Pendik - Batý Mahallesi
+1320000,95,90,3,3,21,Ýstanbul - Pendik - Orhangazi Mahallesi
+1165000,105,100,3,5,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+3875000,140,125,4,9,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+7050000,150,120,4,7,0,Ýstanbul - Pendik - Doðu Mahallesi
+5000000,300,160,4,8,3,Ýstanbul - Pendik - Yayalar Mahallesi
+2780000,115,100,4,6,0,Ýstanbul - Pendik - Velibaba Mahallesi
+2785000,105,95,4,6,4,Ýstanbul - Pendik - Velibaba Mahallesi
+5000000,300,160,4,8,3,Ýstanbul - Pendik - Yayalar Mahallesi
+2200000,87,75,3,5,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+3800000,115,96,3,6,3,Ýstanbul - Pendik - Bahçelievler Mahallesi
+2650000,110,90,3,10,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+3275000,150,116,4,6,18.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+2200000,130,115,4,5,18.5,Ýstanbul - Pendik - Çýnardere Mahallesi
+4500000,144,90,3,9,0,Ýstanbul - Pendik - Kaynarca Mahallesi
+909000,160,150,5,5,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+2450000,85,67,3,6,0,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+2250000,85,65,3,5,4,Ýstanbul - Pendik - Batý Mahallesi
+2465000,112,97,3,8,3,Ýstanbul - Pendik - Velibaba Mahallesi
+1975000,110,95,4,8,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+2280000,92,80,3,10,4,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1895000,90,78,3,8,7.5,Ýstanbul - Pendik - Yayalar Mahallesi
+1950000,96,82,3,10,3,Ýstanbul - Pendik - Velibaba Mahallesi
+2085000,165,138,4,4,21,Ýstanbul - Pendik - Kaynarca Mahallesi
+1390000,77,60,2,4,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+1850000,128,110,4,9,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1225000,66,49,2,4,7.5,Ýstanbul - Pendik - Yayalar Mahallesi
+1665000,90,81,3,4,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+1850000,120,108,4,4,13.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+1350000,89,80,3,4,7.5,Ýstanbul - Pendik - Fatih Mahallesi
+2050000,86,74,3,7,7.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+1710000,138,125,4,4,13.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+2000000,88,76,3,7,7.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+1990000,75,55,3,4,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1630000,50,30,,8,3,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1750000,105,85,3,5,13.5,Ýstanbul - Pendik - Çýnardere Mahallesi
+3000000,150,125,4,4,21,Ýstanbul - Pendik - Kurtköy Mahallesi
+2750000,165,145,5,3,7.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+4389000,133,97,4,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1535000,42,31,,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4000000,115,86,3,9,13.5,Ýstanbul - Pendik - Harmandere Mahallesi
+2350000,110,100,4,3,18.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+2550000,95,85,3,8,4,Ýstanbul - Pendik - Þeyhli Mahallesi
+2600000,80,60,3,4,2,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+5000000,123,113,4,5,21,Ýstanbul - Pendik - Batý Mahallesi
+4250000,240,230,6,4,13.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+1050000,115,110,4,5,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+3050000,95,80,3,6,18.5,Ýstanbul - Pendik - Bahçelievler Mahallesi
+4315000,131,96,3,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3700000,120,105,4,9,7.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+1960000,92,85,3,6,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2800000,205,175,3,9,0,Ýstanbul - Pendik - Sülüntepe Mahallesi
+1700000,95,85,3,4,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+1565000,100,90,4,5,18.5,Ýstanbul - Pendik - Fatih Mahallesi
+3100000,118,96,4,3,7.5,Ýstanbul - Pendik - Yayalar Mahallesi
+2150000,110,80,3,8,4,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+1545000,115,105,4,5,18.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+1700000,95,85,3,4,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+2100000,130,110,4,9,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3000000,160,130,5,9,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1950000,85,75,3,6,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2300000,78,46,2,10,3,Ýstanbul - Pendik - Harmandere Mahallesi
+2300000,78,46,2,10,3,Ýstanbul - Pendik - Harmandere Mahallesi
+2350000,78,46,2,10,3,Ýstanbul - Pendik - Harmandere Mahallesi
+2400000,78,41,2,10,3,Ýstanbul - Pendik - Harmandere Mahallesi
+2250000,86,46,2,10,3,Ýstanbul - Pendik - Harmandere Mahallesi
+2400000,86,46,2,10,3,Ýstanbul - Pendik - Harmandere Mahallesi
+3100000,143,100,4,10,7.5,Ýstanbul - Pendik - Esenler Mahallesi
+2500000,135,130,4,4,18.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+1950000,90,80,3,10,0,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1930000,105,90,3,10,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+2600000,115,90,3,7,7.5,Ýstanbul - Pendik - Yeni Mahallesi
+1850000,90,80,3,5,13.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2000000,255,250,5,6,21,Ýstanbul - Pendik - Orhangazi Mahallesi
+3870000,114,80,4,7,0,Ýstanbul - Pendik - Sülüntepe Mahallesi
+13200000,350,300,7,4,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+8650000,180,155,5,8,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1800000,110,90,3,3,13.5,Ýstanbul - Pendik - Çýnardere Mahallesi
+1620000,125,120,4,4,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+1975000,120,110,4,8,13.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+3100000,130,115,4,7,21,Ýstanbul - Pendik - Doðu Mahallesi
+1900000,72,61,2,8,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1350000,125,110,4,5,13.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+1075000,150,130,4,4,21,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2100000,130,120,4,5,13.5,Ýstanbul - Pendik - Orhangazi Mahallesi
+2550000,100,90,3,4,13.5,Ýstanbul - Pendik - Doðu Mahallesi
+965000,75,65,3,5,7.5,Ýstanbul - Pendik - Esenler Mahallesi
+3100000,250,230,7,5,13.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+4750000,134,120,4,5,21,Ýstanbul - Pendik - Batý Mahallesi
+2200000,120,100,4,7,0,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+11500000,320,260,6,4,7.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+1750000,75,65,3,7,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1100000,100,90,3,5,13.5,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+2100000,100,85,3,4,21,Ýstanbul - Pendik - Doðu Mahallesi
+1510000,85,70,2.5,6,13.5,Ýstanbul - Pendik - Orhangazi Mahallesi
+2500000,120,100,3,9,7.5,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+2783000,85,62,3,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2400000,74,54,2,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1850000,100,75,3,5,4,Ýstanbul - Pendik - Velibaba Mahallesi
+1785000,90,80,3,4,7.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+3200000,90,70,3,10,0,Ýstanbul - Pendik - Sülüntepe Mahallesi
+1700000,75,65,3,4,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4500000,105,90,3,1,21,Ýstanbul - Pendik - Ertuðrul Gazi Mahallesi
+2750000,140,125,4,7,13.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+1700000,90,75,3,4,13.5,Ýstanbul - Pendik - Velibaba Mahallesi
+3500000,113,90,3,6,3,Ýstanbul - Pendik - Kaynarca Mahallesi
+2430000,90,80,3,4,1,Ýstanbul - Pendik - Velibaba Mahallesi
+1235000,110,90,4,5,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+2320000,110,95,3,6,7.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+1600000,100,90,3,4,7.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+1600000,100,90,3,4,7.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+1560000,130,110,4,4,21,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+2590000,95,85,3,5,4,Ýstanbul - Pendik - Çamçeþme Mahallesi
+970000,130,125,4,3,21,Ýstanbul - Pendik - Esenler Mahallesi
+1600000,120,100,3,5,13.5,Ýstanbul - Pendik - Orhangazi Mahallesi
+2550000,100,99,3,2,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+1100000,130,125,4,5,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+15000000,250,233,5,2,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1640000,105,90,3,4,18.5,Ýstanbul - Pendik - Yayalar Mahallesi
+3550000,245,220,7,4,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+2850000,96,70,3,8,2,Ýstanbul - Pendik - Kurtköy Mahallesi
+2060000,130,115,4,8,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2720000,105,95,4,9,4,Ýstanbul - Pendik - Esenler Mahallesi
+4220000,140,120,5,9,4,Ýstanbul - Pendik - Esenler Mahallesi
+2100000,165,145,5,4,18.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+3650000,230,220,7,4,7.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+1850000,90,85,3,11,7.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2250000,110,90,3,4,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3150000,130,105,4,5,0,Ýstanbul - Pendik - Velibaba Mahallesi
+2650000,96,80,3,5,0,Ýstanbul - Pendik - Bahçelievler Mahallesi
+1300000,110,100,3,7,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+2585000,120,82,3,10,3,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+1480000,170,150,4,6,21,Ýstanbul - Pendik - Kaynarca Mahallesi
+1750000,95,80,3,6,13.5,Ýstanbul - Pendik - Velibaba Mahallesi
+1800000,135,125,4,7,7.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2585000,120,85,3,10,2,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+1580000,75,70,,8,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2100000,160,130,5,7,7.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+2000000,110,85,3,7,7.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+3900000,128,100,3,1,21,Ýstanbul - Pendik - Orhangazi Mahallesi
+2600000,200,160,4.5,4,13.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+4000000,135,115,5,5,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+3250000,106,80,2,17,7.5,Ýstanbul - Pendik - Yeni Mahallesi
+1450000,125,120,4,4,21,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+950000,75,60,3,5,13.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+4750000,123,104,4,6,0,Ýstanbul - Pendik - Batý Mahallesi
+4750000,145,113,4,6,0,Ýstanbul - Pendik - Bahçelievler Mahallesi
+2995000,230,210,7,4,7.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+1280000,75,45,2,7,7.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2250000,90,75,3,7,0,Ýstanbul - Pendik - Esenler Mahallesi
+2000000,130,120,4,5,21,Ýstanbul - Pendik - Doðu Mahallesi
+4200000,125,91,3,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4390000,133,97,4,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1700000,105,80,3,5,0,Ýstanbul - Pendik - Fatih Mahallesi
+1650000,110,95,4,7,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2900000,95,88,4,7,1,Ýstanbul - Pendik - Sülüntepe Mahallesi
+3770000,154,125,4,10,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2150000,150,130,5,7,13.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+1850000,100,90,3,5,7.5,Ýstanbul - Pendik - Esenler Mahallesi
+4314000,133,97,4,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4312000,131,96,3,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3100000,205,176,6,2,21,Ýstanbul - Pendik - Esenyalý Mahallesi
+2475000,125,105,4,9,21,Ýstanbul - Pendik - Harmandere Mahallesi
+1850000,80,75,3,6,7.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+3100000,125,105,4,5,21,Ýstanbul - Pendik - Kaynarca Mahallesi
+900000,90,80,3,3,18.5,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+2750000,85,70,3,9,0,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+3100000,140,110,4,5,3,Ýstanbul - Pendik - Çamlýk Mahallesi
+2300000,180,150,8,4,13.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+1070000,95,80,3,4,13.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+7250000,170,160,4,6,18.5,Ýstanbul - Pendik - Doðu Mahallesi
+1970000,75,65,2,14,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+6000000,125,100,4,5,1,Ýstanbul - Pendik - Batý Mahallesi
+18000000,400,330,8,3,13.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+5000000,122,83,4,10,3,Ýstanbul - Pendik - Doðu Mahallesi
+2200000,85,75,3,6,7.5,Ýstanbul - Pendik - Esenler Mahallesi
+1950000,85,70,3,10,2,Ýstanbul - Pendik - Velibaba Mahallesi
+2980000,150,135,5,5,18.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+2250000,125,105,4,9,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1950000,120,105,3,5,7.5,Ýstanbul - Pendik - Esenler Mahallesi
+2500000,110,95,4,4,21,Ýstanbul - Pendik - Doðu Mahallesi
+1890000,110,85,3,8,2,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1750000,90,65,3,9,3,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+1100000,100,90,3,5,13.5,Ýstanbul - Pendik - Esenler Mahallesi
+2833000,88,65,3,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2430000,230,175,6,7,7.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+2300000,135,115,4,7,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2000000,90,80,3,7,7.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+1050000,160,130,4,5,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+3050000,145,130,4,7,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4445000,260,230,7,5,13.5,Ýstanbul - Pendik - Yayalar Mahallesi
+2500000,270,230,7,3,13.5,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+2945000,235,200,6,4,13.5,Ýstanbul - Pendik - Çamçeþme Mahallesi
+1850000,127,110,4,4,7.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+1080000,80,75,3,3,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+1875000,135,125,4,4,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+2600000,145,110,3.5,6,21,Ýstanbul - Pendik - Batý Mahallesi
+4500000,145,120,4,6,21,Ýstanbul - Pendik - Batý Mahallesi
+1100000,115,110,3,4,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+2700000,270,260,6,8,7.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2800000,150,125,4,9,18.5,Ýstanbul - Pendik - Harmandere Mahallesi
+1750000,110,100,3,4,13.5,Ýstanbul - Pendik - Esenler Mahallesi
+7500000,350,300,7,2,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2850000,300,270,6,8,18.5,Ýstanbul - Pendik - Çýnardere Mahallesi
+2150000,125,105,4,5,21,Ýstanbul - Pendik - Batý Mahallesi
+3000000,120,105,4,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+4250000,115,90,3,9,0,Ýstanbul - Pendik - Kaynarca Mahallesi
+1595000,120,100,4,4,21,Ýstanbul - Pendik - Güzelyalý Mahallesi
+4435000,146,117,4,6,7.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+5100000,186,160,5,6,21,Ýstanbul - Pendik - Batý Mahallesi
+1350000,100,90,4,5,13.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+4346000,134,98,4,9,0,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2950000,130,110,4,5,2,Ýstanbul - Pendik - Velibaba Mahallesi
+2700000,240,200,5,5,7.5,Ýstanbul - Pendik - Yeþilbaðlar Mahallesi
+2250000,240,230,6,5,13.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+4850000,210,153,5,9,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3150000,101,80,3,9,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3880000,154,125,4,10,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2550000,140,120,5,5,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2100000,85,65,3,6,1,Ýstanbul - Pendik - Batý Mahallesi
+1390000,115,100,4,4,13.5,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+1200000,130,120,4,5,21,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+2400000,85,80,3,10,0,Ýstanbul - Pendik - Esenler Mahallesi
+1750000,125,110,4,5,21,Ýstanbul - Pendik - Güzelyalý Mahallesi
+2155000,90,75,3,8,7.5,Ýstanbul - Pendik - Harmandere Mahallesi
+1100000,80,70,3,4,7.5,Ýstanbul - Pendik - Fatih Mahallesi
+2085000,120,100,4,4,7.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2550000,98,68,3,9,2,Ýstanbul - Pendik - Velibaba Mahallesi
+2300000,90,80,3,5,0,Ýstanbul - Pendik - Velibaba Mahallesi
+1750000,85,75,3,5,2,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+2199000,110,100,3,9,0,Ýstanbul - Pendik - Sülüntepe Mahallesi
+1950000,95,75,2,3,18.5,Ýstanbul - Pendik - Orta Mahallesi
+2980000,110,80,3,6,2,Ýstanbul - Pendik - Esenyalý Mahallesi
+3390000,220,200,7,9,0,Ýstanbul - Pendik - Velibaba Mahallesi
+1960000,90,80,3,8,0,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+3370000,95,85,3,12,3,Ýstanbul - Pendik - Çýnardere Mahallesi
+1980000,65,45,2,9,7.5,Ýstanbul - Pendik - Harmandere Mahallesi
+2000000,160,145,6,4,13.5,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+3750000,95,79,3,10,1,Ýstanbul - Pendik - Çamçeþme Mahallesi
+4250000,150,130,4,3,13.5,Ýstanbul - Pendik - Yayalar Mahallesi
+2780000,100,70,3,9,7.5,Ýstanbul - Pendik - Harmandere Mahallesi
+3000000,160,130,5,9,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+1500000,130,115,4,4,21,Ýstanbul - Pendik - Fatih Mahallesi
+4800000,280,265,4,4,21,Ýstanbul - Pendik - Fatih Mahallesi
+3650000,178,177,4,3,13.5,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+1300000,120,110,4,5,18.5,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+750000,95,90,3,5,21,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+1950000,110,90,4,7,18.5,Ýstanbul - Pendik - Çýnardere Mahallesi
+1850000,130,115,4,4,21,Ýstanbul - Pendik - Fatih Mahallesi
+4650000,154,125,4,10,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+990000,100,90,3,6,21,Ýstanbul - Pendik - Esenyalý Mahallesi
+2875000,90,78,3,4,7.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+4700000,154,125,4,10,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+3950000,154,125,4,10,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+4300000,154,125,4,10,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+4400000,154,125,4,10,0,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+1150000,125,110,3,5,18.5,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+1560000,100,90,3,4,13.5,Ýstanbul - Pendik - Ahmet Yesevi Mahallesi
+1000000,100,90,3,5,21,Ýstanbul - Pendik - Orhangazi Mahallesi
+2200000,230,210,7,4,7.5,Ýstanbul - Pendik - Fatih Mahallesi
+3500000,160,150,5,4,3,Ýstanbul - Pendik - Fatih Mahallesi
+6500000,167,145,4,18,7.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+2500000,90,80,3,5,2,Ýstanbul - Pendik - Esenyalý Mahallesi
+2000000,90,80,3,4,4,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+4600000,307,260,8,5,7.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+4150000,120,105,4,9,18.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+7500000,105,100,3,3,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+1600000,100,88,3,5,18.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+1600000,100,88,3,5,18.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+1300000,120,115,4,4,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+2400000,230,200,6,6,7.5,Ýstanbul - Pendik - Orhangazi Mahallesi
+44500000,694,400,9,3,21,Ýstanbul - Pendik - Doðu Mahallesi
+3320000,129,100,4,4,13.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+1920000,90,89,3,7,7.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+2970000,125,110,4,8,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+16000000,500,450,6,4,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+5250000,197,158,5,7,0,Ýstanbul - Pendik - Batý Mahallesi
+2250000,130,110,4,7,21,Ýstanbul - Pendik - Doðu Mahallesi
+1850000,110,98,4,5,0,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+1750000,170,160,6,4,13.5,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+2400000,110,90,3,10,7.5,Ýstanbul - Pendik - Çamçeþme Mahallesi
+2200000,110,93,4,5,7.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+2500000,98,65,3,10,3,Ýstanbul - Pendik - Velibaba Mahallesi
+2980000,120,110,4,8,7.5,Ýstanbul - Pendik - Kaynarca Mahallesi
+1850000,90,80,3,6,21,Ýstanbul - Pendik - Bahçelievler Mahallesi
+3300000,112,90,3,9,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2000000,59,51,2,9,7.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2400000,130,100,4,10,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+6000000,195,194,1,4,21,Ýstanbul - Pendik - Çamçeþme Mahallesi
+3325000,142,130,4,5,13.5,Ýstanbul - Pendik - Yayalar Mahallesi
+2050000,130,125,4,6,13.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+1700000,95,85,3,4,7.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+1700000,95,85,3,4,4,Ýstanbul - Pendik - Esenyalý Mahallesi
+1765000,90,70,3,8,13.5,Ýstanbul - Pendik - Velibaba Mahallesi
+1850000,130,120,3,6,7.5,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+3070000,125,110,4,4,3,Ýstanbul - Pendik - Güllü Baðlar Mahallesi
+1455000,100,90,3,2,21,Ýstanbul - Pendik - Velibaba Mahallesi
+3000000,135,110,4,4,13.5,Ýstanbul - Pendik - Yayalar Mahallesi
+4100000,205,160,6,3,4,Ýstanbul - Pendik - Kaynarca Mahallesi
+1930000,95,85,3,5,13.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+2840000,125,110,4,9,4,Ýstanbul - Pendik - Velibaba Mahallesi
+64000000,1200,1000,9,3,13.5,Ýstanbul - Pendik - Çamlýk Mahallesi
+2800000,150,140,4,4,13.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+5950000,210,165,5,3,7.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+1850000,130,115,4,11,4,Ýstanbul - Pendik - Velibaba Mahallesi
+2350000,170,160,6,4,13.5,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+43000000,414,370,9,2,18.5,Ýstanbul - Pendik - Göçbeyli Mahallesi
+4750000,120,100,3,4,7.5,Ýstanbul - Pendik - Fevzi Çakmak Mahallesi
+43000000,414,370,9,2,18.5,Ýstanbul - Pendik - Ballýca Mahallesi
+3200000,100,90,3,3,21,Ýstanbul - Pendik - Orhangazi Mahallesi
+2350000,260,240,6,4,13.5,Ýstanbul - Pendik - Esenyalý Mahallesi
+16500000,275,240,5,9,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+1980000,88,75,3,4,7.5,Ýstanbul - Pendik - Velibaba Mahallesi
+2080000,88,75,3,4,0,Ýstanbul - Pendik - Kavakpýnar Mahallesi
+2250000,90,75,3,5,13.5,Ýstanbul - Pendik - Sülüntepe Mahallesi
+6400000,167,140,4,22,4,Ýstanbul - Pendik - Kaynarca Mahallesi
+4500000,160,125,5,4,0,Ýstanbul - Pendik - Yeni Mahallesi
+1470000,75,65,2,10,13.5,Ýstanbul - Pendik - Sülüntepe Mahallesi
+3750000,205,180,5,7,3,Ýstanbul - Pendik - Velibaba Mahallesi
+7000000,260,220,6,4,7.5,Ýstanbul - Pendik - Kurtköy Mahallesi
+8000000,350,300,7,4,21,Ýstanbul - Pendik - Yeniþehir Mahallesi
+3990000,120,92,4,9,3,Ýstanbul - Pendik - Harmandere Mahallesi
+3650000,117,95,3,18,4,Ýstanbul - Pendik - Kaynarca Mahallesi
+1300000,80,70,3,5,7.5,Ýstanbul - Pendik - Þeyhli Mahallesi
+2750000,115,100,4,7,2,Ýstanbul - Pendik - Velibaba Mahallesi
+5870000,168,150,6,3,7.5,Ýstanbul - Pendik - Dumlupýnar Mahallesi
+3475000,138,126,4.5,9,7.5,Ýstanbul - Pendik - Çýnardere Mahallesi
+10000000,125,124,4,1,21,Ýstanbul - Pendik - Kurna Mahallesi
+2500000,165,92,4,4,21,Ýstanbul - Pendik - Kaynarca Mahallesi
+2175000,100,85,3,5,7.5,Ýstanbul - Pendik - Güzelyalý Mahallesi
+6000000,284,250,9,3,13.5,Ýstanbul - Pendik - Velibaba Mahallesi
+2950000,165,153,4,5,21,Ýstanbul - Pendik - Kaynarca Mahallesi
+10500000,365,350,7,4,13.5,Ýstanbul - Pendik - Yeniþehir Mahallesi
+2100000,90,75,3,4,0,Ýstanbul - Pendik - Kavakpýnar Mahallesi

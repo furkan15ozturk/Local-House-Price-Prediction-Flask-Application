@@ -1,0 +1,663 @@
+price,area,absolute_area,room,floor_count,building_age,location
+15500000,600,580,6,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+4250000,215,200,6,2,13.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+7500000,300,220,4,2,7.5,Ýstanbul - Silivri - Çanta Sancaktepe Mahallesi
+2150000,140,130,5,3,21,Ýstanbul - Silivri - Semizkumlar Mahallesi
+6300000,145,122,4,2,0,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+2600000,105,94,3,4,0,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+1575000,90,80,3,14,13.5,Ýstanbul - Silivri - Yeni Mahallesi
+20000000,1500,1030,7,3,1,Ýstanbul - Silivri - Semizkumlar Mahallesi
+12000000,200,185,5,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+750000,85,80,2,4,21,Ýstanbul - Silivri - Alibey Mahallesi
+2625000,141,107,3,7,4,Ýstanbul - Silivri - Yeni Mahallesi
+1070000,85,70,4,2,21,Ýstanbul - Silivri - Semizkumlar Mahallesi
+2950000,140,130,4,5,7.5,Ýstanbul - Silivri - Alibey Mahallesi
+1800000,95,85,3,4,4,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+5850000,330,220,6,3,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2400000,135,120,4,5,0,Ýstanbul - Silivri - Alipaþa Mahallesi
+2800000,140,130,4,5,1,Ýstanbul - Silivri - Alipaþa Mahallesi
+5250000,300,240,9,3,21,Ýstanbul - Silivri - Semizkumlar Mahallesi
+2100000,100,90,3,2,21,Ýstanbul - Silivri - Semizkumlar Mahallesi
+2150000,100,90,3,4,4,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+1380000,100,95,3,4,4,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+1850000,170,160,4,5,21,Ýstanbul - Silivri - Alibey Mahallesi
+8000000,250,200,8,3,21,Ýstanbul - Silivri - Çanta Sancaktepe Mahallesi
+6450000,450,220,4,2,21,Ýstanbul - Silivri - Semizkumlar Mahallesi
+4500000,210,185,6,2,13.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+10000000,350,175,5,2,0,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+6850000,368,275,6,3,0,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+1800000,150,135,4,3,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2650000,130,115,4,5,21,Ýstanbul - Silivri - Fatih Mahallesi
+4120000,310,220,5,2,21,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+14500000,500,280,7,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1550000,145,135,4,5,13.5,Ýstanbul - Silivri - Çanta Sancaktepe Mahallesi
+2500000,95,85,3,6,7.5,Ýstanbul - Silivri - Yeni Mahallesi
+15500000,440,400,12,4,7.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+7000000,450,350,6,4,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+7900000,700,370,7,3,0,Ýstanbul - Silivri - Ortaköy Mahallesi
+1900000,160,155,3,6,7.5,Ýstanbul - Silivri - Çanta Sancaktepe Mahallesi
+850000,85,75,3,5,21,Ýstanbul - Silivri - Yeni Mahallesi
+2200000,180,160,4,2,21,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+2500000,125,120,4,5,7.5,Ýstanbul - Silivri - Alibey Mahallesi
+10750000,320,260,5,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+14500000,450,260,5,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+11750000,350,260,5,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+18500000,1000,490,8,4,0,Ýstanbul - Silivri - Ortaköy Mahallesi
+20000000,650,425,6,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2270000,100,95,3,4,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2250000,110,95,3,3,0,Ýstanbul - Silivri - Ýsmetpaþa Mahallesi
+8850000,550,325,5,2,0,Ýstanbul - Silivri - Ortaköy Mahallesi
+3500000,90,80,3,3,18.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+2500000,120,106,4,4,0,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+4200000,250,240,6,2,13.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+2120000,111,85,3,5,7.5,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+1650000,140,120,4,5,7.5,Ýstanbul - Silivri - Çanta Sancaktepe Mahallesi
+18000000,3640,400,7,3,13.5,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+2800000,300,280,6,4,2,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+2770000,120,110,3,5,0,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+1365000,75,65,3,8,13.5,Ýstanbul - Silivri - Yeni Mahallesi
+2000000,120,115,4,5,13.5,Ýstanbul - Silivri - Çanta Sancaktepe Mahallesi
+1525000,120,95,3,5,13.5,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+1550000,80,75,3,15,7.5,Ýstanbul - Silivri - Yeni Mahallesi
+1785000,100,95,3,8,2,Ýstanbul - Silivri - Yeni Mahallesi
+7000000,165,125,5,3,0,Ýstanbul - Silivri - Küçük Kýlýçlý Mahallesi
+10200000,244,202,5,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1975000,100,95,3,6,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1790000,110,100,3,6,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+9749000,466,200,5,2,1,Ýstanbul - Silivri - Ortaköy Mahallesi
+2720000,135,125,4,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+19000000,2000,586,6,3,13.5,Ýstanbul - Silivri - Ortaköy Mahallesi
+1150000,90,75,3,7,21,Ýstanbul - Silivri - Yeni Mahallesi
+2050000,110,95,3,5,7.5,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+2285000,100,95,3,4,0,Ýstanbul - Silivri - Alibey Mahallesi
+1875000,120,110,4,5,13.5,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+4000000,160,150,4,3,0,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+1350000,65,55,,5,0,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+10800000,244,202,5,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+3000000,165,140,4,4,13.5,Ýstanbul - Silivri - Yeni Mahallesi
+1970000,145,125,4,4,3,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+1850000,92,80,3,7,2,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+4500000,200,175,8,3,4,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+14500000,680,600,7,3,21,Ýstanbul - Silivri - Ortaköy Mahallesi
+8000000,250,230,6,3,0,Ýstanbul - Silivri - Çanta Sancaktepe Mahallesi
+1630000,55,45,2,2,21,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+3880000,240,210,5,3,21,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+2000000,130,120,3,2,0,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+14000000,600,300,6,2,0,Ýstanbul - Silivri - Ortaköy Mahallesi
+9000000,300,180,5,2,0,Ýstanbul - Silivri - Ortaköy Mahallesi
+5000000,270,185,4,2,0,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+16000000,650,500,9,4,13.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+4150000,423,200,5,3,21,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+2750000,120,110,3,6,0,Ýstanbul - Silivri - Yeni Mahallesi
+1300000,140,130,4,4,18.5,Ýstanbul - Silivri - Alibey Mahallesi
+1350000,127,120,3,5,21,Ýstanbul - Silivri - Alibey Mahallesi
+1350000,115,105,3,4,18.5,Ýstanbul - Silivri - Alibey Mahallesi
+1800000,105,95,3,4,0,Ýstanbul - Silivri - Fatih Mahallesi
+3250000,300,220,4,2,21,Ýstanbul - Silivri - Semizkumlar Mahallesi
+1800000,125,120,4,5,18.5,Ýstanbul - Silivri - Yeni Mahallesi
+1800000,125,120,4,6,18.5,Ýstanbul - Silivri - Yeni Mahallesi
+6250000,310,305,6,2,0,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+30000000,1600,580,7,3,13.5,Ýstanbul - Silivri - Ortaköy Mahallesi
+10000000,400,220,6,3,0,Ýstanbul - Silivri - Kavaklý Ýstiklal Mahallesi
+14500000,500,250,6,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+13000000,457,245,6,4,0,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+15500000,640,360,6,3,0,Ýstanbul - Silivri - Ortaköy Mahallesi
+4600000,180,160,5,3,21,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+2575000,120,110,4,4,0,Ýstanbul - Silivri - Alipaþa Mahallesi
+2400000,250,230,6,3,13.5,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+2100000,100,90,3,5,7.5,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+12400000,405,320,7,3,0,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+12400000,405,320,7,3,0,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+6750000,230,220,6,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+14500000,300,250,5,2,2,Ýstanbul - Silivri - Selimpaþa Mahallesi
+4490000,200,175,8,3,4,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+7000000,400,120,5,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+17550000,430,394,9,1,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1080000,75,70,4,3,21,Ýstanbul - Silivri - Semizkumlar Mahallesi
+5000000,270,200,8,3,21,Ýstanbul - Silivri - Semizkumlar Mahallesi
+2600000,120,106,4,4,0,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+13500000,580,335,6,3,0,Ýstanbul - Silivri - Kavaklý Ýstiklal Mahallesi
+9250000,400,300,6,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+9500000,600,380,7,4,0,Ýstanbul - Silivri - Ortaköy Mahallesi
+2275000,675,60,3,2,21,Ýstanbul - Silivri - Semizkumlar Mahallesi
+865000,95,80,3,6,0,Ýstanbul - Silivri - Alibey Mahallesi
+2600000,105,94,3,3,0,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+2250000,160,150,4,4,21,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+1600000,125,120,3,4,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+35000000,2809,1400,9,4,2,Ýstanbul - Silivri - Selimpaþa Mahallesi
+9100000,300,280,7,2,7.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+1650000,115,100,3,6,21,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+2200000,100,90,3,7,0,Ýstanbul - Silivri - Yeni Mahallesi
+1700000,135,125,4,5,13.5,Ýstanbul - Silivri - Çanta Sancaktepe Mahallesi
+2350000,120,110,3,6,7.5,Ýstanbul - Silivri - Yeni Mahallesi
+2100000,95,85,3,6,0,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+19150000,430,394,9,1,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+17850000,430,394,9,1,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1550000,90,85,3,6,21,Ýstanbul - Silivri - Yeni Mahallesi
+5200000,280,250,7,3,13.5,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+1460000,120,110,3,4,21,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+4250000,163,150,5,3,21,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+12000000,480,220,5,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+15500000,400,300,6,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+16350000,430,394,9,1,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2650000,115,100,3,2,3,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+540000,80,70,2,1,18.5,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+1950000,110,85,3,5,7.5,Ýstanbul - Silivri - Alibey Mahallesi
+18750000,430,394,9,1,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+17000000,574,470,6,1,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+23350000,667,546,6,1,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2500000,100,85,3,3,7.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+6250000,1377,300,6,3,18.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+4000000,170,165,5,2,0,Ýstanbul - Silivri - Büyük Çavuþlu Mahallesi
+2049000,95,82,3,3,1,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1200000,130,110,4,5,7.5,Ýstanbul - Silivri - Çanta Sancaktepe Mahallesi
+3000000,140,130,4,7,7.5,Ýstanbul - Silivri - Yeni Mahallesi
+8000000,200,140,5,3,2,Ýstanbul - Silivri - Çeltik Mahallesi
+3150000,150,135,5,3,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+14350000,500,250,6,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2520000,110,100,3,5,0,Ýstanbul - Silivri - Yeni Mahallesi
+2150000,130,100,3,5,21,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+2490000,140,120,4,4,0,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+3590000,160,140,4,6,0,Ýstanbul - Silivri - Yeni Mahallesi
+1750000,90,75,3,5,0,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+2100000,135,120,4,5,0,Ýstanbul - Silivri - Yeni Mahallesi
+1350000,90,75,3,14,7.5,Ýstanbul - Silivri - Yeni Mahallesi
+2750000,145,135,4,4,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2450000,135,125,4,6,7.5,Ýstanbul - Silivri - Yeni Mahallesi
+2900000,125,100,4,3,21,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+3000000,180,160,5,5,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1685000,130,110,4,4,21,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+35000000,2400,2200,9,3,13.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2350000,135,120,4,4,4,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+14500000,280,250,7,3,0,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+5000000,250,225,5,2,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+3200000,125,115,4,4,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+9900000,350,195,5,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+12900000,400,190,5,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+12900000,350,210,5,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+4000000,200,150,5,2,0,Ýstanbul - Silivri - Çanta Sancaktepe Mahallesi
+1350000,125,115,3,4,21,Ýstanbul - Silivri - Alibey Mahallesi
+3250000,150,140,4,4,0,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+17150000,430,394,9,1,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+16850000,430,394,9,1,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2850000,110,85,3,8,0,Ýstanbul - Silivri - Yeni Mahallesi
+13900000,490,400,5,3,21,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+9500000,350,320,9,4,0,Ýstanbul - Silivri - Semizkumlar Mahallesi
+1450000,131,130,4,4,21,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+1875000,92,75,3,7,2,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+6950000,300,250,8,3,21,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+3800000,167,155,4,2,7.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2150000,95,82,3,3,1,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2150000,140,135,5,5,21,Ýstanbul - Silivri - Alibey Mahallesi
+15500000,301,300,6,4,0,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+10500000,400,200,9,4,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2350000,155,140,4,6,13.5,Ýstanbul - Silivri - Yeni Mahallesi
+1350000,105,95,3,5,1,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+6199000,800,750,6,3,7.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+3950000,190,175,6,3,21,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+1650000,130,120,4,6,21,Ýstanbul - Silivri - Yeni Mahallesi
+2050000,120,105,4,5,18.5,Ýstanbul - Silivri - Alibey Mahallesi
+14500000,500,450,8,3,0,Ýstanbul - Silivri - Kadýköy Mahallesi
+2550000,125,110,3,6,0,Ýstanbul - Silivri - Yeni Mahallesi
+790000,75,68,2,10,4,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+2150000,250,240,5,5,18.5,Ýstanbul - Silivri - Alibey Mahallesi
+13000000,505,500,4,2,0,Ýstanbul - Silivri - Kavaklý Hürriyet Mahallesi
+1150000,147,140,4,5,21,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+3500000,155,145,4,7,7.5,Ýstanbul - Silivri - Yeni Mahallesi
+5250000,156,143,4,11,0,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+3850000,115,105,3,3,13.5,Ýstanbul - Silivri - Semizkumlar Mahallesi
+3200000,185,170,5,4,13.5,Ýstanbul - Silivri - Alibey Mahallesi
+1175000,135,120,4,4,21,Ýstanbul - Silivri - Alibey Mahallesi
+2850000,135,125,4,4,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1870000,135,125,4,4,2,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+2200000,260,250,7,5,13.5,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+9500000,250,160,4,2,0,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+1250000,90,80,3,4,13.5,Ýstanbul - Silivri - Çanta Sancaktepe Mahallesi
+1850000,94,90,3,4,0,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+1185000,115,95,3,5,13.5,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+2590000,160,90,3,3,21,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+2500000,55,45,2,2,21,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+1850000,110,100,3,4,21,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+3650000,154,136,4,6,7.5,Ýstanbul - Silivri - Yeni Mahallesi
+1275000,110,95,3,5,21,Ýstanbul - Silivri - Fatih Mahallesi
+6499000,310,220,5,2,0,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+1600000,75,56,3,10,18.5,Ýstanbul - Silivri - Yeni Mahallesi
+10800000,240,200,5,2,4,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+1580000,110,95,3,6,3,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+14200000,500,380,6,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+3600000,176,150,4,5,7.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2750000,130,120,4,7,0,Ýstanbul - Silivri - Yeni Mahallesi
+1650000,100,85,3,3,0,Ýstanbul - Silivri - Yeni Mahallesi
+2250000,117,90,3,3,0,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+7000000,100,85,9,4,21,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+2100000,95,82,3,3,1,Ýstanbul - Silivri - Selimpaþa Mahallesi
+32000000,300,275,5,2,18.5,Ýstanbul - Silivri - Kadýköy Mahallesi
+1898000,120,95,3,5,0,Ýstanbul - Silivri - Yeni Mahallesi
+1300000,75,65,2,5,0,Ýstanbul - Silivri - Yeni Mahallesi
+2000000,120,110,3,5,13.5,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+4700000,200,190,7,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1750000,95,85,3,5,7.5,Ýstanbul - Silivri - Yeni Mahallesi
+4500000,250,200,8,4,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2500000,140,130,4,6,13.5,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+2250000,130,110,4,5,7.5,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+4300000,200,195,6,2,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+8400000,400,180,4,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+14500000,400,200,6,2,0,Ýstanbul - Silivri - Ortaköy Mahallesi
+1200000,95,80,3,4,21,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+3100000,210,190,5,5,7.5,Ýstanbul - Silivri - Alibey Mahallesi
+13000000,490,406,9,3,0,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+16350000,520,400,6,2,0,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+1400000,100,90,3,5,3,Ýstanbul - Silivri - Alipaþa Mahallesi
+8400000,200,170,4,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+6800000,400,380,7,3,0,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+2850000,190,180,3,2,21,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+3100000,160,145,4,6,4,Ýstanbul - Silivri - Yeni Mahallesi
+2150000,135,110,4,4,21,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+11000000,380,300,9,4,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2650000,125,110,4,5,0,Ýstanbul - Silivri - Yeni Mahallesi
+3450000,160,143,3,2,13.5,Ýstanbul - Silivri - Fatih Mahallesi
+1755000,95,78,3,10,18.5,Ýstanbul - Silivri - Yeni Mahallesi
+2350000,135,110,3,4,21,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+2550000,125,110,4,5,0,Ýstanbul - Silivri - Yeni Mahallesi
+8900000,260,240,6,3,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2250000,195,165,5,4,4,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+12750000,500,300,9,5,2,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+2150000,135,130,4,5,21,Ýstanbul - Silivri - Alibey Mahallesi
+3475000,160,145,4,7,2,Ýstanbul - Silivri - Yeni Mahallesi
+4750000,170,140,3,2,21,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+8200000,400,240,6,3,18.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+3000000,190,170,6,6,0,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+2650000,135,130,4,6,7.5,Ýstanbul - Silivri - Yeni Mahallesi
+1800000,90,80,3,5,0,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+11000000,400,270,5,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+8500000,300,230,5,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+3000000,120,100,3,5,3,Ýstanbul - Silivri - Yeni Mahallesi
+2500000,125,120,4,5,7.5,Ýstanbul - Silivri - Alibey Mahallesi
+4250000,250,200,4,2,18.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+1600000,125,120,4,5,21,Ýstanbul - Silivri - Alibey Mahallesi
+4250000,164,130,4,8,2,Ýstanbul - Silivri - Yeni Mahallesi
+5500000,240,235,5,3,0,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+4350000,180,160,4,5,1,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2400000,120,110,4,4,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1799000,95,85,3,5,13.5,Ýstanbul - Silivri - Alibey Mahallesi
+4950000,224,150,4,3,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1850000,120,115,3,5,13.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2350000,150,110,5,2,13.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+9300000,487,380,9,2,0,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+3250000,140,130,5,3,21,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+5250000,300,280,6,3,13.5,Ýstanbul - Silivri - Çanta Sancaktepe Mahallesi
+3995000,170,160,4,4,7.5,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+1550000,95,90,3,4,18.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1700000,100,90,3,4,18.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+710000,65,50,2,9,1,Ýstanbul - Silivri - Alipaþa Mahallesi
+9350000,220,190,4,2,7.5,Ýstanbul - Silivri - Kavaklý Ýstiklal Mahallesi
+14900000,550,210,5,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1550000,120,110,3,16,18.5,Ýstanbul - Silivri - Yeni Mahallesi
+2550000,100,90,3,6,4,Ýstanbul - Silivri - Yeni Mahallesi
+2200000,220,180,4,3,21,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+2070000,126,110,4,10,13.5,Ýstanbul - Silivri - Yeni Mahallesi
+3250000,120,110,4,8,7.5,Ýstanbul - Silivri - Alipaþa Mahallesi
+10000000,270,250,5,2,1,Ýstanbul - Silivri - Büyük Çavuþlu Mahallesi
+13500000,250,220,5,2,7.5,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+3750000,180,160,6,4,0,Ýstanbul - Silivri - Fatih Mahallesi
+27500000,270,250,6,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1250000,110,100,3,4,18.5,Ýstanbul - Silivri - Yeni Mahallesi
+1000000,128,110,4,4,21,Ýstanbul - Silivri - Alibey Mahallesi
+2650000,92,85,3,4,2,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2750000,145,121,4,5,4,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+3300000,155,135,4,6,3,Ýstanbul - Silivri - Yeni Mahallesi
+7200000,150,130,7,3,18.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+18500000,430,394,9,1,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+22000000,560,500,9,4,13.5,Ýstanbul - Silivri - Yeni Mahallesi
+15000000,300,270,7,2,18.5,Ýstanbul - Silivri - Büyük Sinekli Mahallesi
+1075000,100,90,3,7,21,Ýstanbul - Silivri - Yeni Mahallesi
+1900000,80,70,3,5,0,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+14500000,380,350,9,1,0,Ýstanbul - Silivri - Bekirli Mahallesi
+33000000,630,550,8,3,21,Ýstanbul - Silivri - Fener Mahallesi
+9500000,550,353,7,3,0,Ýstanbul - Silivri - Kavaklý Ýstiklal Mahallesi
+2200000,110,90,3,7,1,Ýstanbul - Silivri - Yeni Mahallesi
+1750000,85,80,3,4,7.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+7750000,190,180,5,2,0,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+1500000,130,120,4,5,21,Ýstanbul - Silivri - Alibey Mahallesi
+9200000,236,235,5,3,21,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+1950000,100,80,3,5,0,Ýstanbul - Silivri - Alibey Mahallesi
+1750000,90,85,3,4,4,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+1800000,110,100,3,6,4,Ýstanbul - Silivri - Yeni Mahallesi
+2840000,165,140,4,4,13.5,Ýstanbul - Silivri - Yeni Mahallesi
+9250000,5000,500,8,2,18.5,Ýstanbul - Silivri - Yolçatý Mahallesi
+3500000,200,180,5,4,13.5,Ýstanbul - Silivri - Alibey Mahallesi
+11000000,300,270,6,3,21,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+1420000,75,70,3,3,18.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+21450000,1700,700,9,2,7.5,Ýstanbul - Silivri - Çanta Sancaktepe Mahallesi
+1475000,125,120,4,5,21,Ýstanbul - Silivri - Alibey Mahallesi
+6500000,250,200,5,2,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1435000,80,70,3,5,13.5,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+4660000,185,165,4,3,3,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1450000,150,130,4,4,18.5,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+1750000,95,90,3,5,0,Ýstanbul - Silivri - Alipaþa Mahallesi
+1400000,150,130,4,4,18.5,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+1590000,115,105,3,5,7.5,Ýstanbul - Silivri - Alibey Mahallesi
+7000000,350,120,4,2,13.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2000000,110,95,3,4,21,Ýstanbul - Silivri - Fatih Mahallesi
+9900000,350,300,8,2,21,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+6500000,250,220,4,2,21,Ýstanbul - Silivri - Çanta Sancaktepe Mahallesi
+2600000,150,130,4,6,4,Ýstanbul - Silivri - Yeni Mahallesi
+17500000,840,450,8,4,0,Ýstanbul - Silivri - Ortaköy Mahallesi
+3450000,160,140,4,7,4,Ýstanbul - Silivri - Yeni Mahallesi
+1380000,90,80,3,4,4,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+4650000,180,160,6,2,18.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+1350000,90,85,3,5,21,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+9500000,235,220,4,3,0,Ýstanbul - Silivri - Ortaköy Mahallesi
+1850000,92,80,3,7,2,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+2350000,145,130,4,5,7.5,Ýstanbul - Silivri - Yeni Mahallesi
+2150000,130,120,4,6,13.5,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+2600000,260,240,6,3,13.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+3500000,201,180,4,6,3,Ýstanbul - Silivri - Yeni Mahallesi
+11000000,383,250,9,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2500000,130,125,4,3,13.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+4100000,250,225,4,2,13.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+1600000,90,75,3,8,1,Ýstanbul - Silivri - Alipaþa Mahallesi
+2600000,125,90,3,6,0,Ýstanbul - Silivri - Yeni Mahallesi
+6600000,310,285,5,4,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1080000,70,60,2,4,21,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+3750000,159,135,4,7,4,Ýstanbul - Silivri - Yeni Mahallesi
+1400000,80,68,,7,0,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+1350000,135,120,4,5,21,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+1500000,130,125,4,5,21,Ýstanbul - Silivri - Alibey Mahallesi
+4150000,320,315,6,3,13.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+24800000,2500,650,6,2,2,Ýstanbul - Silivri - Kavaklý Hürriyet Mahallesi
+1375000,78,70,3,4,7.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1850000,115,105,3,4,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2280000,111,84,3,5,7.5,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+1570000,130,110,4,7,13.5,Ýstanbul - Silivri - Yeni Mahallesi
+3200000,170,162,4,6,13.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+14750000,350,300,8,3,13.5,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+1640000,130,100,4,7,21,Ýstanbul - Silivri - Yeni Mahallesi
+1350000,80,70,3,2,21,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+1750000,130,115,4,5,3,Ýstanbul - Silivri - Alibey Mahallesi
+1190000,135,125,4,5,21,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+1300000,100,95,3,6,21,Ýstanbul - Silivri - Yeni Mahallesi
+1485000,145,95,3,4,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+3300000,175,170,5,5,13.5,Ýstanbul - Silivri - Alibey Mahallesi
+1875000,110,95,3,4,0,Ýstanbul - Silivri - Yeni Mahallesi
+1850000,90,80,3,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1320000,95,90,3,3,2,Ýstanbul - Silivri - Deðirmenköy Fevzipaþa Mahallesi
+5175000,185,180,5,2,21,Ýstanbul - Silivri - Semizkumlar Mahallesi
+1000000,65,55,2,5,0,Ýstanbul - Silivri - Alipaþa Mahallesi
+11000000,220,200,4,2,0,Ýstanbul - Silivri - Ortaköy Mahallesi
+1250000,135,130,4,5,7.5,Ýstanbul - Silivri - Çanta Sancaktepe Mahallesi
+1350000,130,125,3,5,18.5,Ýstanbul - Silivri - Alibey Mahallesi
+106000000,1700,1600,9,3,7.5,Ýstanbul - Silivri - Kurfallý Mahallesi
+103000000,1700,1600,9,3,7.5,Ýstanbul - Silivri - Kurfallý Mahallesi
+1500000,120,100,4,6,21,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+1300000,135,130,4,5,21,Ýstanbul - Silivri - Alibey Mahallesi
+16960000,340,285,7,2,0,Ýstanbul - Silivri - Kavaklý Ýstiklal Mahallesi
+16960000,340,285,7,2,0,Ýstanbul - Silivri - Kavaklý Ýstiklal Mahallesi
+18020000,340,285,7,2,0,Ýstanbul - Silivri - Kavaklý Ýstiklal Mahallesi
+14840000,340,285,7,2,0,Ýstanbul - Silivri - Yeni Mahallesi
+2000000,140,130,4,3,13.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+1300000,85,72,3,4,7.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1350000,120,100,3,6,18.5,Ýstanbul - Silivri - Yeni Mahallesi
+1675000,140,125,4,5,21,Ýstanbul - Silivri - Alibey Mahallesi
+1600000,498,497,6,2,18.5,Ýstanbul - Silivri - Büyük Çavuþlu Mahallesi
+7500000,175,155,4.5,3,13.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+10250000,340,280,7,4,1,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+28500000,1000,450,6,2,0,Ýstanbul - Silivri - Ortaköy Mahallesi
+8750000,500,450,6,3,7.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+2050000,95,79,3,4,1,Ýstanbul - Silivri - Selimpaþa Mahallesi
+8900000,500,499,9,4,18.5,Ýstanbul - Silivri - Çanta Sancaktepe Mahallesi
+3600000,60,59,2,2,21,Ýstanbul - Silivri - Semizkumlar Mahallesi
+3250000,110,90,4,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2750000,90,80,3,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2485000,115,95,3,5,0,Ýstanbul - Silivri - Yeni Mahallesi
+2100000,100,90,3,4,0,Ýstanbul - Silivri - Alibey Mahallesi
+1350000,125,100,4,4,21,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+4850000,250,200,4,4,18.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+2160000,145,130,4,4,21,Ýstanbul - Silivri - Yeni Mahallesi
+2650000,130,125,4,10,7.5,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+13500000,448,300,9,2,0,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+2650000,130,125,4,10,7.5,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+3750000,160,150,4,4,7.5,Ýstanbul - Silivri - Yeni Mahallesi
+4000000,160,80,5,3,13.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+1680000,110,100,3,7,18.5,Ýstanbul - Silivri - Yeni Mahallesi
+5250000,130,120,4,2,21,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+9500000,375,350,9,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+15500000,8500,1450,7,4,13.5,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+2075000,150,130,4,4,2,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+2950000,105,100,3,3,21,Ýstanbul - Silivri - Semizkumlar Mahallesi
+1365000,95,85,3,5,21,Ýstanbul - Silivri - Alibey Mahallesi
+1500000,77,60,2,7,7.5,Ýstanbul - Silivri - Yeni Mahallesi
+1600000,75,65,3,10,13.5,Ýstanbul - Silivri - Yeni Mahallesi
+1350000,90,70,3,7,4,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+2250000,135,120,4,4,18.5,Ýstanbul - Silivri - Yeni Mahallesi
+1375000,78,70,3,4,7.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2750000,130,120,4,4,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1765000,135,125,4,6,13.5,Ýstanbul - Silivri - Yeni Mahallesi
+2150000,110,100,3,3,13.5,Ýstanbul - Silivri - Büyük Çavuþlu Mahallesi
+1600000,150,140,4,5,21,Ýstanbul - Silivri - Alibey Mahallesi
+3750000,160,145,4,5,13.5,Ýstanbul - Silivri - Yeni Mahallesi
+8000000,371,370,7,4,13.5,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+6100000,500,200,5,3,0,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+7600000,1000,400,6,4,13.5,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+7250000,190,160,5,2,21,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+2500000,115,90,3,5,0,Ýstanbul - Silivri - Yeni Mahallesi
+3550000,190,180,5,3,21,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+14310000,500,400,9,2,13.5,Ýstanbul - Silivri - Kavaklý Ýstiklal Mahallesi
+2400000,130,100,4,4,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+4500000,200,180,4,3,21,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+2500000,110,90,3,6,0,Ýstanbul - Silivri - Yeni Mahallesi
+2420000,130,120,4,5,0,Ýstanbul - Silivri - Yeni Mahallesi
+1450000,120,110,3,5,18.5,Ýstanbul - Silivri - Alibey Mahallesi
+3050000,220,150,4,5,0,Ýstanbul - Silivri - Büyük Çavuþlu Mahallesi
+3500000,135,125,4,6,0,Ýstanbul - Silivri - Yeni Mahallesi
+1950000,110,100,3,2,18.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2700000,110,100,3,6,0,Ýstanbul - Silivri - Yeni Mahallesi
+2150000,114,98,3,6,0,Ýstanbul - Silivri - Yeni Mahallesi
+2650000,110,90,3,6,0,Ýstanbul - Silivri - Yeni Mahallesi
+8250000,450,280,4.5,4,13.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+8750000,550,320,6,4,0,Ýstanbul - Silivri - Ortaköy Mahallesi
+2250000,120,110,4,3,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+3000000,150,135,4,5,4,Ýstanbul - Silivri - Yeni Mahallesi
+8500000,320,300,8,4,21,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+2100000,150,130,4,9,2,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+7650000,330,300,8,4,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1800000,150,135,4,3,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2050000,128,110,4,4,7.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2750000,110,100,3,6,0,Ýstanbul - Silivri - Yeni Mahallesi
+5500000,155,150,5,2,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1975000,135,125,4,5,4,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+12000000,230,180,5,2,21,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+4200900,200,180,4,2,21,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+1299000,90,85,3,6,21,Ýstanbul - Silivri - Yeni Mahallesi
+15000000,180,170,5,2,13.5,Ýstanbul - Silivri - Büyük Çavuþlu Mahallesi
+19000000,170,147,8,2,13.5,Ýstanbul - Silivri - Büyük Çavuþlu Mahallesi
+2500000,110,100,3,5,0,Ýstanbul - Silivri - Yeni Mahallesi
+2450000,150,140,3,4,3,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2400000,95,90,3,4,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+6700000,230,220,6,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1655000,135,120,4,4,21,Ýstanbul - Silivri - Alibey Mahallesi
+4750000,270,250,6,2,7.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+2045000,100,87,3,4,0,Ýstanbul - Silivri - Alibey Mahallesi
+2800000,102,90,3,6,2,Ýstanbul - Silivri - Yeni Mahallesi
+2100000,1200,100,4,5,0,Ýstanbul - Silivri - Yeni Mahallesi
+1360000,130,100,3,5,18.5,Ýstanbul - Silivri - Alibey Mahallesi
+7000000,140,135,9,4,13.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+14000000,450,400,9,4,7.5,Ýstanbul - Silivri - Büyük Kýlýçlý Mahallesi
+23100000,401,400,6,2,7.5,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+1700000,50,40,2,5,0,Ýstanbul - Silivri - Yeni Mahallesi
+15100000,194,166,5,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1940000,100,85,3,4,4,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2250000,95,85,3,6,0,Ýstanbul - Silivri - Alipaþa Mahallesi
+2100000,125,110,3,6,4,Ýstanbul - Silivri - Yeni Mahallesi
+9500000,300,200,8,2,21,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+4250000,300,15,5,2,21,Ýstanbul - Silivri - Semizkumlar Mahallesi
+2850000,125,110,4,4,0,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+6750000,336,180,7,3,21,Ýstanbul - Silivri - Semizkumlar Mahallesi
+56000000,1000,750,7,2,7.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+6250000,450,200,4,2,21,Ýstanbul - Silivri - Semizkumlar Mahallesi
+750000,55,50,2,10,0,Ýstanbul - Silivri - Alipaþa Mahallesi
+11000000,500,200,4,2,0,Ýstanbul - Silivri - Kavaklý Ýstiklal Mahallesi
+7550000,450,400,7,4,7.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+2850000,120,110,3,6,0,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+9000000,190,165,5,1,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+50000000,750,500,8,2,7.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+2250000,95,90,3,3,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+14000000,300,280,6,2,4,Ýstanbul - Silivri - Kavaklý Hürriyet Mahallesi
+10000000,250,220,8,3,13.5,Ýstanbul - Silivri - Semizkumlar Mahallesi
+1600000,105,95,3,4,2,Ýstanbul - Silivri - Yeni Mahallesi
+8000000,210,200,5,3,7.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+1350000,110,100,3,5,7.5,Ýstanbul - Silivri - Yeni Mahallesi
+4500000,250,235,7,3,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+6100000,260,250,5,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+3500000,200,190,4.5,3,18.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+2200000,110,100,3,5,3,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+13500000,400,300,7,3,0,Ýstanbul - Silivri - Kavaklý Ýstiklal Mahallesi
+32000000,450,380,6,2,0,Ýstanbul - Silivri - Kavaklý Hürriyet Mahallesi
+9000000,320,280,7,2,13.5,Ýstanbul - Silivri - Kavaklý Hürriyet Mahallesi
+1450000,100,75,3,4,0,Ýstanbul - Silivri - Yeni Mahallesi
+12250000,350,285,6,3,7.5,Ýstanbul - Silivri - Kavaklý Ýstiklal Mahallesi
+4800000,220,200,7,3,0,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+2000000,125,110,3,5,3,Ýstanbul - Silivri - Yeni Mahallesi
+8000000,500,240,6,3,13.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+11550000,350,300,8,3,13.5,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+8500000,680,400,5,3,7.5,Ýstanbul - Silivri - Ortaköy Mahallesi
+9200000,300,280,9,4,0,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+1500000,90,80,3,3,21,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+18300000,600,500,10,3,7.5,Ýstanbul - Silivri - Semizkumlar Mahallesi
+2100000,100,90,3,2,21,Ýstanbul - Silivri - Semizkumlar Mahallesi
+1850000,105,95,3,10,4,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+2500000,135,105,3,7,3,Ýstanbul - Silivri - Yeni Mahallesi
+1150000,110,100,4,5,21,Ýstanbul - Silivri - Fatih Mahallesi
+2675000,125,115,4,4,7.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+3600000,165,135,4,8,0,Ýstanbul - Silivri - Yeni Mahallesi
+1800000,135,120,5,4,13.5,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+1550000,95,90,3,5,2,Ýstanbul - Silivri - Alibey Mahallesi
+7000000,220,200,5,3,18.5,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+10250000,300,250,7,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+6500000,270,258,6,4,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2100000,235,220,5,5,13.5,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+20000000,1250,650,10,3,0,Ýstanbul - Silivri - Kavaklý Hürriyet Mahallesi
+2600000,165,145,5,5,13.5,Ýstanbul - Silivri - Alibey Mahallesi
+9000000,320,250,7,4,0,Ýstanbul - Silivri - Semizkumlar Mahallesi
+1649000,130,125,4,4,2,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+2700000,110,90,3,4,0,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+2500000,130,120,4,7,7.5,Ýstanbul - Silivri - Yeni Mahallesi
+9250000,270,230,5,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+5000000,350,349,5,2,0,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+11700000,520,400,9,5,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2775000,145,132,4,3,7.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+1225000,110,100,3,4,13.5,Ýstanbul - Silivri - Ýsmetpaþa Mahallesi
+2950000,135,125,4,5,7.5,Ýstanbul - Silivri - Yeni Mahallesi
+1425000,138,125,4,5,18.5,Ýstanbul - Silivri - Alibey Mahallesi
+9245000,500,200,6,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+7500000,180,170,5,3,0,Ýstanbul - Silivri - Büyük Çavuþlu Mahallesi
+19500000,358,300,9,3,18.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+25000000,358,300,9,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2100000,80,55,3,2,21,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+8950000,270,269,7,3,0,Ýstanbul - Silivri - Semizkumlar Mahallesi
+32000000,1000,950,9,2,0,Ýstanbul - Silivri - Kavaklý Ýstiklal Mahallesi
+5000000,410,400,9,2,18.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+30000000,1000,950,9,2,0,Ýstanbul - Silivri - Kavaklý Hürriyet Mahallesi
+3575000,380,240,10,4,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+3000000,160,140,4,6,0,Ýstanbul - Silivri - Yeni Mahallesi
+2850000,120,100,3,6,0,Ýstanbul - Silivri - Yeni Mahallesi
+11900000,245,210,5,2,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+9500000,1000,180,5,2,18.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+15000000,513,300,7,2,0,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+9000000,450,280,4.5,4,13.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+38500000,6913,850,8,2,21,Ýstanbul - Silivri - Akören Mahallesi
+2300000,170,150,5,5,13.5,Ýstanbul - Silivri - Alibey Mahallesi
+850000,130,125,4,4,21,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+44000000,800,600,9,3,7.5,Ýstanbul - Silivri - Alibey Mahallesi
+8000000,350,300,8,3,13.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+7500000,335,320,4,2,2,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+3250000,169,140,4,6,7.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+3000000,160,140,4,7,0,Ýstanbul - Silivri - Yeni Mahallesi
+3800000,180,160,5,6,4,Ýstanbul - Silivri - Yeni Mahallesi
+1900000,95,85,3,6,1,Ýstanbul - Silivri - Yeni Mahallesi
+1499000,85,75,3,14,13.5,Ýstanbul - Silivri - Yeni Mahallesi
+30000000,620,495,8,4,13.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+1080000,90,80,3,4,21,Ýstanbul - Silivri - Yeni Mahallesi
+1250000,110,100,4,5,21,Ýstanbul - Silivri - Fatih Mahallesi
+2250000,90,85,3,5,13.5,Ýstanbul - Silivri - Yeni Mahallesi
+5500000,310,290,5,2,0,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+2500000,220,200,6,2,13.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+3750000,306,300,9,3,18.5,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+4600000,310,270,5,3,1,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+10000000,750,200,8,2,13.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+5950000,260,250,4.5,4,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+12000000,850,660,9,6,13.5,Ýstanbul - Silivri - Gazitepe Mahallesi
+1850000,130,120,4,4,13.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+14000000,750,400,9,2,18.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+4000000,180,170,4,2,18.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+5750000,375,125,4,3,21,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+1799000,55,50,2,5,0,Ýstanbul - Silivri - Yeni Mahallesi
+4500000,260,250,9,3,18.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+6750000,420,400,10,3,21,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+20000,300,280,7,3,18.5,Ýstanbul - Silivri - Semizkumlar Mahallesi
+1800000,95,85,3,4,4,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+24000000,580,579,9,3,18.5,Ýstanbul - Silivri - Gazitepe Mahallesi
+3600000,160,140,4,4,18.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+2050000,145,135,4,5,1,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+700000,60,50,2,4,21,Ýstanbul - Silivri - Fatih Mahallesi
+1750000,100,90,3,4,1,Ýstanbul - Silivri - Deðirmenköy Fevzipaþa Mahallesi
+8000000,226,225,6,3,21,Ýstanbul - Silivri - Çanta Sancaktepe Mahallesi
+1425000,138,125,4,5,18.5,Ýstanbul - Silivri - Alibey Mahallesi
+2300000,220,210,5,2,21,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+2200000,135,130,4,5,0,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+4000000,141,140,4,2,18.5,Ýstanbul - Silivri - Semizkumlar Mahallesi
+15250000,650,600,10,3,18.5,Ýstanbul - Silivri - Kavaklý Hürriyet Mahallesi
+20000000,375,340,7,3,21,Ýstanbul - Silivri - Semizkumlar Mahallesi
+19999000,300,280,6,1,0,Ýstanbul - Silivri - Ortaköy Mahallesi
+2100000,120,100,4,4,21,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+9750000,240,200,7,3,0,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+6500000,270,240,6,3,21,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+2250000,100,80,4,2,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+55000000,1980,250,5,3,1,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+8250000,500,499,5,3,0,Ýstanbul - Silivri - Ortaköy Mahallesi
+1800000,75000,7500,3,2,21,Ýstanbul - Silivri - Semizkumlar Mahallesi
+32000000,1600,1400,10,4,0,Ýstanbul - Silivri - Kavaklý Ýstiklal Mahallesi
+9999000,360,325,6,3,21,Ýstanbul - Silivri - Semizkumlar Mahallesi
+1500000,95,85,3,5,4,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+3500000,160,130,4,6,7.5,Ýstanbul - Silivri - Yeni Mahallesi
+15500000,400,300,4,1,21,Ýstanbul - Silivri - Fener Mahallesi
+2250000,100,92,3,5,0,Ýstanbul - Silivri - Yeni Mahallesi
+1950000,125,120,4,4,3,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+3850000,180,150,5,3,0,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+1650000,85,80,3,4,3,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+9950000,800,750,5,3,21,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+14500000,1100,700,9,4,18.5,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+4500000,165,150,6,3,21,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+4250000,195,170,5.5,3,21,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+4995000,160,140,4,10,1,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+11550000,300,250,8,3,13.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+1850000,120,119,5,3,13.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+1900000,75,65,3,3,0,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+2200000,100,90,3,3,0,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+17800000,343,336,10,2,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+3000000,250,230,6,5,7.5,Ýstanbul - Silivri - Mimar Sinan Mahallesi
+4590000,260,240,6,3,21,Ýstanbul - Silivri - Cumhuriyet Mahallesi
+2499000,125,110,3,7,4,Ýstanbul - Silivri - Yeni Mahallesi
+750000,250,40,2,2,7.5,Ýstanbul - Silivri - Küçük Kýlýçlý Mahallesi
+5850000,250,220,5,2,13.5,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+3700000,260,240,7,4,7.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+2000000,115,100,3,6,0,Ýstanbul - Silivri - Yeni Mahallesi
+750000,45,20,1,1,7.5,Ýstanbul - Silivri - Küçük Kýlýçlý Mahallesi
+19500000,700,500,8,4,4,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+2000000,100,90,3,5,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+3000000,100,90,3,5,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+60000000,600,540,7,3,13.5,Ýstanbul - Silivri - Kavaklý Hürriyet Mahallesi
+4000000,200,185,4,2,13.5,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+3000000,140,120,6,1,7.5,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+3150000,210,180,5,2,18.5,Ýstanbul - Silivri - Gümüþyaka Mahallesi
+5000000,250,225,5,2,21,Ýstanbul - Silivri - Selimpaþa Mahallesi
+3500000,180,150,4,6,2,Ýstanbul - Silivri - Yeni Mahallesi
+1990000,100,95,3,5,4,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+19500000,1500,900,9,3,7.5,Ýstanbul - Silivri - Selimpaþa Mahallesi
+12000000,400,350,8,3,0,Ýstanbul - Silivri - Selimpaþa Mahallesi
+20000000,1700,1666,8,1,3,Ýstanbul - Silivri - Akören Mahallesi
+2450000,130,110,4,6,3,Ýstanbul - Silivri - Yeni Mahallesi
+3000000,170,160,4,4,4,Ýstanbul - Silivri - Piri Mehmet Paþa Mahallesi
+13000000,500,380,5,1,13.5,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+37000000,350,300,7,3,13.5,Ýstanbul - Silivri - Çanta Balaban Mahallesi
+30000000,500,450,9,3,13.5,Ýstanbul - Silivri - Akören Mahallesi

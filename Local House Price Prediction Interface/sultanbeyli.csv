@@ -1,0 +1,685 @@
+price,area,absolute_area,room,floor_count,building_age,location
+1865000,90,84,3,6,3,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1400000,120,100,3,3,21,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+1750000,80,70,3,5,0,Ýstanbul - Sultanbeyli - Akþemsettin Mahallesi
+2450000,160,145,5,4,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+1150000,67,55,2,7,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2560000,150,140,4,4,4,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1950000,90,80,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2150000,95,85,3,5,3,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2500000,110,95,4,6,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1130000,65,57,2,7,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+3000000,160,140,5,4,1,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1875000,95,90,3,4,0,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+3200000,180,165,6,4,3,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1988000,90,84,3,7,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2135000,95,77,3,7,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2450000,70,60,2,10,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2375000,74,60,2,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+4750000,220,160,5,7,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2350000,160,150,5,4,0,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+2900000,140,135,5,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2850000,115,98,4,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2720000,160,150,5,5,0,Ýstanbul - Sultanbeyli - Hamidiye Mahallesi
+2100000,95,80,3,4,3,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1790000,135,120,3,4,3,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1879000,95,80,3,5,0,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+2250000,100,90,3,5,0,Ýstanbul - Sultanbeyli - Mecidiye Mahallesi
+2850000,135,110,4,3,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1790000,85,80,3,5,4,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+3150000,197,150,5,5,1,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2500000,87,70,3,7,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1540000,115,100,4,4,3,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2120000,88,75,3,7,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1540000,120,100,4,4,3,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+5150000,150,108,4,6,3,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1180000,87,75,2,7,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2200000,87,75,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+3700000,150,110,4.5,6,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2900000,165,150,5,4,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+3635000,195,180,6,6,1,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+2690000,150,135,3.5,4,4,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2175000,90,80,3,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2020000,100,80,3,5,0,Ýstanbul - Sultanbeyli - Hamidiye Mahallesi
+1700000,80,65,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2150000,95,80,3,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1985000,105,90,3,5,0,Ýstanbul - Sultanbeyli - Hamidiye Mahallesi
+2075000,100,80,3,5,4,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+3600000,128,110,3,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2250000,90,85,3,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1200000,43,4,2,4,21,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+6500000,325,295,4,30,21,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1975000,95,70,3,5,0,Ýstanbul - Sultanbeyli - Hamidiye Mahallesi
+3400000,160,145,5,4,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+4120000,170,90,4,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+5500000,118,95,3.5,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1268000,65,55,2,7,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+3700000,130,118,3,10,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2515000,160,140,5,3,0,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+2615000,160,140,5,3,0,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+4850000,281,280,3,1,18.5,Ýstanbul - Sultanbeyli - Yavuz Selim Mahallesi
+1900000,95,80,3,5,3,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+3250000,100,90,3,5,1,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+4200000,150,140,5,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+7650000,295,240,6,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2350000,68,50,2,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2790000,145,135,6,4,0,Ýstanbul - Sultanbeyli - Hamidiye Mahallesi
+2850000,175,150,5,5,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+4000000,150,120,6,3,1,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1930000,92,85,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2550000,135,120,4,3,0,Ýstanbul - Sultanbeyli - Akþemsettin Mahallesi
+2350000,125,115,4,2,18.5,Ýstanbul - Sultanbeyli - Akþemsettin Mahallesi
+1880000,85,75,3,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2400000,85,72,3,6,0,Ýstanbul - Sultanbeyli - Mehmet Akif Mahallesi
+2225000,165,150,5,3,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1987000,85,75,3,7,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2100000,90,80,3,5,0,Ýstanbul - Sultanbeyli - Mehmet Akif Mahallesi
+2950000,150,120,4,6,0,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+2450000,81,73,3,5,0,Ýstanbul - Sultanbeyli - Akþemsettin Mahallesi
+11250000,120,110,3,4,21,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1995000,100,84,3,3,21,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2270000,140,115,4,5,0,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+3250000,180,165,6,6,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2300000,120,105,4,5,0,Ýstanbul - Sultanbeyli - Mehmet Akif Mahallesi
+1415000,110,90,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1900000,90,80,3,3,0,Ýstanbul - Sultanbeyli - Mecidiye Mahallesi
+1550000,90,80,3,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1760000,95,82,3,3,0,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+2500000,120,100,3,1,18.5,Ýstanbul - Sultanbeyli - Abdurrahmangazi Mahallesi
+1890000,105,95,4,3,7.5,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2000000,90,75,3,6,2,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+3900000,180,160,7,5,0,Ýstanbul - Sultanbeyli - Akþemsettin Mahallesi
+2400000,150,135,5,5,0,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+1800000,95,85,3,5,0,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+3500000,188,160,5,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1600000,120,100,3,3,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+850000,75,65,3,3,21,Ýstanbul - Sultanbeyli - Mecidiye Mahallesi
+1370000,160,140,4,3,21,Ýstanbul - Sultanbeyli - Mecidiye Mahallesi
+1465000,120,119,4,4,1,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2600000,70,60,2,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+5400000,159,125,4,10,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+4250000,230,200,6,5,4,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2800000,160,140,5,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2300000,95,80,3,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2050000,110,100,4,3,0,Ýstanbul - Sultanbeyli - Hasanpaþa Mahallesi
+2800000,160,140,5,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2700000,180,160,6,3,0,Ýstanbul - Sultanbeyli - Hasanpaþa Mahallesi
+2800000,135,105,4,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2800000,160,140,5,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2600000,140,115,4,5,4,Ýstanbul - Sultanbeyli - Adil Mahallesi
+3800000,150,125,4,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+3000000,81,70,2,10,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+5400000,152,116,4,8,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2400000,110,95,4,6,7.5,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1600000,120,100,3,3,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1500000,110,90,3,5,4,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2550000,85,75,3,4,0,Ýstanbul - Sultanbeyli - Mehmet Akif Mahallesi
+1775000,140,130,4,5,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+2400000,150,145,5,4,0,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+3600000,300,299,7,2,13.5,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+2600000,80,65,2,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1497500,136,120,3,5,2,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2300000,125,105,4,4,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1890000,65,55,2,6,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1919000,135,115,4,5,18.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2000000,148,126,4,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1920000,100,91,3,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2250000,87,86,7,3,18.5,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1775000,92,82,3,5,1,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+1900000,105,90,3,8,1,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2153000,135,120,4,7,1,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2045000,127,105,4,7,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2450000,110,90,4,4,1,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+1175000,93,85,3,4,18.5,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+1897000,83,70,3,7,1,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2400000,95,85,3,6,0,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+2450000,73,63,2,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1995000,87,82,3,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+4100000,230,210,7,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2015000,140,135,4,5,4,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+1885000,95,85,3,4,0,Ýstanbul - Sultanbeyli - Mehmet Akif Mahallesi
+1175000,95,85,3,4,21,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+4500000,178,175,3,3,21,Ýstanbul - Sultanbeyli - Yavuz Selim Mahallesi
+1989000,95,72,3,7,1,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1967000,95,72,3,7,1,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2600000,108,88,2,7,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2190000,125,100,3,5,0,Ýstanbul - Sultanbeyli - Hamidiye Mahallesi
+1920000,97,75,3,5,0,Ýstanbul - Sultanbeyli - Hamidiye Mahallesi
+2650000,95,80,3,5,4,Ýstanbul - Sultanbeyli - Akþemsettin Mahallesi
+2150000,55,45,2,7,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2400000,160,150,5,5,3,Ýstanbul - Sultanbeyli - Adil Mahallesi
+4640000,148,122,4.5,11,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2850000,130,120,4,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2990000,137,118,4,10,7.5,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1875000,140,120,3,5,0,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+2000000,90,75,3,5,3,Ýstanbul - Sultanbeyli - Adil Mahallesi
+790000,60,50,2,2,21,Ýstanbul - Sultanbeyli - Mecidiye Mahallesi
+2680000,190,125,5,4,0,Ýstanbul - Sultanbeyli - Mehmet Akif Mahallesi
+1750000,125,110,4,6,21,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+4250000,230,200,6,5,4,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2850000,95,80,4,5,3,Ýstanbul - Sultanbeyli - Mehmet Akif Mahallesi
+1675000,48,35,2,6,7.5,Ýstanbul - Sultanbeyli - Hasanpaþa Mahallesi
+1535000,95,90,3,6,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2650000,115,100,4,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2000000,95,85,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+3100000,130,120,4,4,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2150000,85,75,3,4,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1650000,125,110,4,6,21,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+3635000,119,96,3,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2000000,135,125,5,4,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1700000,115,100,3,6,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2750000,165,140,5,5,1,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1900000,105,95,3,5,1,Ýstanbul - Sultanbeyli - Mecidiye Mahallesi
+2700000,100,90,3,6,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1850000,95,80,3,6,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2750000,182,165,6,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+3000000,185,160,5,4,1,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1786000,98,74,3,7,0,Ýstanbul - Sultanbeyli - Abdurrahmangazi Mahallesi
+2146000,135,120,4,7,1,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2034000,90,80,3,7,1,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2100000,96,85,3,3,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+7600000,295,240,6,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2350000,70,60,2,10,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+4900000,150,125,4,10,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2750000,180,160,6,3,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+1840000,100,85,3,5,1,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2675000,140,125,4,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2250000,95,75,3,6,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1850000,95,75,3,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1860000,90,80,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2400000,85,70,3,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+3200000,170,140,5,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+5000000,150,130,4,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+4300000,200,150,7,6,4,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1900000,90,80,3,7,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2550000,120,110,4,5,0,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+1750000,100,90,3,3,0,Ýstanbul - Sultanbeyli - Yavuz Selim Mahallesi
+2500000,160,140,6,6,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+1820000,95,75,3,4,7.5,Ýstanbul - Sultanbeyli - Hasanpaþa Mahallesi
+1675000,110,100,3,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2050000,110,100,4,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2050000,140,135,5,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2050000,140,125,5,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2900000,385,360,9,3,21,Ýstanbul - Sultanbeyli - Hasanpaþa Mahallesi
+1760000,90,80,3,4,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2650000,125,120,4,3,18.5,Ýstanbul - Sultanbeyli - Yavuz Selim Mahallesi
+1200000,82,65,3,4,0,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+3248000,215,200,6,5,1,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1140000,120,110,3,3,18.5,Ýstanbul - Sultanbeyli - Hamidiye Mahallesi
+2750000,160,140,5,6,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1830000,98,78,3,7,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1599000,100,82,3,3,2,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2000000,85,75,3,6,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+2500000,110,92,4,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+3400000,125,110,4,6,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1750000,95,80,3,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1750000,95,80,3,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2875000,125,90,4,5,13.5,Ýstanbul - Sultanbeyli - Mehmet Akif Mahallesi
+1880000,98,88,3,6,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2180000,90,80,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+3900000,240,215,7,5,2,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+3850000,127,107,3,10,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2450000,75,65,2,10,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1875000,105,95,3,8,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2050000,71,57,3,7,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2725000,160,140,6,3,0,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+2750000,138,122,4,3,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2350000,100,91,4,4,0,Ýstanbul - Sultanbeyli - Yavuz Selim Mahallesi
+1310000,67,56,2,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+3400000,125,110,4,6,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1395000,85,70,3,5,0,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+2045000,98,90,3,3,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+2800000,190,170,6,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2050000,110,95,3,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2800000,190,170,5,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2700000,115,95,4,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+990000,100,90,3,5,18.5,Ýstanbul - Sultanbeyli - Mehmet Akif Mahallesi
+1850000,95,80,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1650000,100,85,3,4,1,Ýstanbul - Sultanbeyli - Yavuz Selim Mahallesi
+2250000,72,60,2,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+3850000,180,170,7,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+3350000,95,90,3,5,4,Ýstanbul - Sultanbeyli - Akþemsettin Mahallesi
+2275000,125,115,4,4,4,Ýstanbul - Sultanbeyli - Yavuz Selim Mahallesi
+1900000,160,150,5,4,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1780000,95,85,3,5,2,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1765000,90,80,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1390000,110,100,3,4,1,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+7000000,274,200,4,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1250000,60,45,2,6,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+3350000,100,90,3,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1300000,110,90,3,3,21,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+1990000,95,85,3,3,0,Ýstanbul - Sultanbeyli - Hamidiye Mahallesi
+2300000,95,75,3,6,3,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2375000,120,110,4,5,3,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2285000,125,115,4,4,4,Ýstanbul - Sultanbeyli - Yavuz Selim Mahallesi
+2425000,100,80,3,2,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+2450000,135,120,4.5,5,4,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1215000,90,75,4,4,7.5,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2800000,165,155,5,6,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2350000,145,130,6,4,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2998000,160,145,5,4,2,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2090000,95,85,3,3,4,Ýstanbul - Sultanbeyli - Adil Mahallesi
+3000000,170,155,5,7,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1585000,80,70,3,4,4,Ýstanbul - Sultanbeyli - Mehmet Akif Mahallesi
+4100000,170,130,4,6,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1770000,102,82,3,6,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2495000,100,90,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1750000,95,75,3,3,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1810000,97,82,3,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1595000,95,75,3,7,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1995000,95,70,3,7,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1687500,140,120,4,7,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1585000,90,80,3,7,1,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2095000,95,80,3,4,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1959000,125,110,4,7,1,Ýstanbul - Sultanbeyli - Abdurrahmangazi Mahallesi
+1962000,120,100,4,7,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1757900,95,75,3,6,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1350000,60,45,2,6,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2465000,125,110,5,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1965000,135,125,4,7,1,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2419000,115,110,4,6,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1750000,103,88,3,4,2,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1584000,95,75,3,7,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1945000,120,100,4,5,0,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+1600000,125,110,4,3,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2350000,90,80,3,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+3200000,150,130,4,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1740000,90,80,3,6,3,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+1720000,120,100,4,4,0,Ýstanbul - Sultanbeyli - Mehmet Akif Mahallesi
+1650000,90,75,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2700000,150,140,5,3,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+3320000,145,135,4,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1800000,100,90,3,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1765000,90,80,3,7,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2199000,128,90,4,5,0,Ýstanbul - Sultanbeyli - Mecidiye Mahallesi
+3250000,160,150,5,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2100000,70,57,2,11,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2400000,80,65,2,11,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2100000,75,62,2,11,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1825000,95,82,3,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+3500000,170,160,7,7,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2450000,100,90,4,4,13.5,Ýstanbul - Sultanbeyli - Yavuz Selim Mahallesi
+2200000,95,82,3,7,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2950000,185,126,5,5,1,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+2350000,98,90,3,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2850000,165,140,5,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2470000,115,100,4,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1850000,87,72,3,6,0,Ýstanbul - Sultanbeyli - Mecidiye Mahallesi
+2450000,140,110,5,6,4,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1100000,98,85,3.5,4,21,Ýstanbul - Sultanbeyli - Abdurrahmangazi Mahallesi
+1600000,105,95,3,5,4,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2400000,110,87,3,8,4,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+3750000,180,160,4,7,3,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+3600000,148,100,4,8,3,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+3250000,148,100,4,7,3,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1300000,100,90,3,4,21,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+2225000,159,120,4,5,0,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+2600000,120,100,4,6,0,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+2200000,125,85,3,5,7.5,Ýstanbul - Sultanbeyli - Hasanpaþa Mahallesi
+2450000,140,125,3,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1530000,100,85,3,7,2,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2000000,85,80,3,6,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+3200000,193,156,6,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2350000,110,90,4,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1850000,90,75,3,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1750000,80,65,3,3,0,Ýstanbul - Sultanbeyli - Mecidiye Mahallesi
+2300000,140,130,4,4,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2700000,150,140,5,3,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+1850000,68,58,2,5,7.5,Ýstanbul - Sultanbeyli - Hasanpaþa Mahallesi
+3000000,75,60,3,6,7.5,Ýstanbul - Sultanbeyli - Hasanpaþa Mahallesi
+1950000,98,90,3,3,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+1850000,68,58,2,5,7.5,Ýstanbul - Sultanbeyli - Hasanpaþa Mahallesi
+3600000,150,110,4.5,6,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1200000,85,75,4,5,0,Ýstanbul - Sultanbeyli - Hamidiye Mahallesi
+2400000,100,80,3,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2050000,100,80,3,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2765000,105,90,4,6,0,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+2250000,115,110,4,5,0,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+4100000,350,300,10,2,18.5,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+1600000,110,105,3,5,18.5,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+1675000,110,95,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2000000,80,68,3,4,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+3300000,170,135,5,4,1,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2500000,125,110,4,5,1,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1075000,110,100,3,3,18.5,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+3100000,145,127,4,5,1,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1924000,90,77,3,6,0,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+2700000,130,116,4,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2150000,87,76,3,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+3820000,116,92,3,10,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2300000,85,65,3,5,2,Ýstanbul - Sultanbeyli - Akþemsettin Mahallesi
+2950000,185,126,5,5,1,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+2170000,160,145,5,4,7.5,Ýstanbul - Sultanbeyli - Yavuz Selim Mahallesi
+2600000,160,140,5,4,1,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2450000,135,105,4,4,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1850000,140,110,3,4,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2225000,110,85,4,5,0,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+2175000,96,85,3,5,7.5,Ýstanbul - Sultanbeyli - Hasanpaþa Mahallesi
+1150000,90,85,3,6,21,Ýstanbul - Sultanbeyli - Mehmet Akif Mahallesi
+2200000,195,185,5,5,0,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+2375000,200,180,6,5,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2375000,130,105,4,5,0,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+1750000,80,75,3,6,2,Ýstanbul - Sultanbeyli - Mehmet Akif Mahallesi
+1665000,90,85,3,5,1,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+3100000,135,120,4,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2700000,150,135,5,4,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2075000,90,80,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2500000,135,125,4,5,13.5,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+3600000,170,160,6,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2150000,100,88,3,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+3280000,118,95,3,7,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+3000000,112,99,4.5,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2570000,120,100,4,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2100000,95,85,3,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1940000,105,82,3,5,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1875000,57,48,2,11,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2350000,120,110,4,3,4,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2350000,120,110,4,3,4,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2980000,175,160,6,4,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+3950000,130,105,4,7,7.5,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2249000,95,85,3,5,7.5,Ýstanbul - Sultanbeyli - Hasanpaþa Mahallesi
+2575000,175,135,4,4,0,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+1815000,95,72,3,4,0,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+2575000,170,135,4,4,0,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+1815000,95,72,3,4,0,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+1775000,175,150,5,4,0,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+2550000,125,100,4,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2050000,90,80,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2950000,145,105,4,9,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1765000,222,220,3,1,18.5,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+2120000,95,85,3,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1914000,100,90,3,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+3650000,110,100,3,1,7.5,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+1650000,110,100,3,1,7.5,Ýstanbul - Sultanbeyli - Hamidiye Mahallesi
+1645000,85,80,3,4,4,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+3550000,230,215,7,5,4,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1540000,80,65,3,4,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1650000,110,80,3,4,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2000000,130,95,5,4,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2000000,120,89,4,4,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2000000,130,95,5,4,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2375000,66,50,2,8,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1750000,58,42,2,8,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+3300000,98,78,3,7,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2500000,165,155,5,6,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2850000000,125,110,4,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1875000,135,125,4,5,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+1875000,135,125,4,5,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+6650000,500,360,4,4,13.5,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+1690000,90,80,3,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+72000000,450,350,7,2,21,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2750000,125,110,4,6,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1900000,115,100,4,6,0,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+1650000,140,130,4,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1850000,88,72,3,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2300000,120,95,4,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1950000,58,42,2,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+4350000,152,116,4,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2925000,100,85,3,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2925000,129,105,3,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+7250000,274,224,4,8,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+5975000,231,176,5,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+4700000,175,150,4,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2300000,85,65,2,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1900000,130,120,4,4,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1900000,100,90,4,4,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1600000,110,95,3,4,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2280000,100,85,4,5,2,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+2650000,100,85,4,5,2,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+2100000,90,80,3,6,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+2890000,160,130,4,5,0,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+3600000,160,150,6,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2100000,95,85,3,6,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+3180000,95,70,3,6,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1985000,70,50,3,6,3,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2890000,137,118,4,9,7.5,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2390000,125,110,4,5,1,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1930000,53,42,2,10,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2200000,115,105,4,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1550000,85,70,3,6,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2990000,180,160,5,6,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1550000,100,95,3,5,0,Ýstanbul - Sultanbeyli - Yavuz Selim Mahallesi
+2300000,95,85,3,5,0,Ýstanbul - Sultanbeyli - Hamidiye Mahallesi
+1435000,79,74,3,4,3,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2600000,130,110,5,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2350000,58,49,2,11,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+4550000,150,128,4,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1980000,62,50,2,10,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+6500000,158,128,4,10,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2500000,87,62,3,7,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2050000,110,95,4,7,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2100000,82,70,3,4,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1000000,120,110,3,3,18.5,Ýstanbul - Sultanbeyli - Mecidiye Mahallesi
+3600000,170,140,5,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2250000,150,120,5,3,0,Ýstanbul - Sultanbeyli - Mecidiye Mahallesi
+2250000,90,75,3,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1550000,95,85,3,5,2,Ýstanbul - Sultanbeyli - Yavuz Selim Mahallesi
+1700000,85,75,3,6,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1975000,125,110,4,6,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2500000,85,70,2,8,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1690000,135,110,4,4,7.5,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2530000,130,115,4,6,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+3825000,175,160,6,6,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1580000,85,75,3,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1750000,120,110,4,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+6000000,310,292,3,4,21,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1350000,125,115,4,5,0,Ýstanbul - Sultanbeyli - Yavuz Selim Mahallesi
+2400000,78,62,2,7,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1950000,65,53,2,11,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1950000,65,53,2,11,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2250000,105,87,3,6,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1500000,100,85,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+3580000,175,160,6,4,0,Ýstanbul - Sultanbeyli - Mecidiye Mahallesi
+2285000,85,70,3,4,0,Ýstanbul - Sultanbeyli - Mecidiye Mahallesi
+3250000,270,170,7,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2300000,160,150,4,3,7.5,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2240000,95,80,3,5,0,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+1765000,90,80,3,4,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1740000,110,100,3,4,3,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2250000,95,80,3,6,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2675000,180,150,6,6,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1865000,90,85,3,4,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+4020000,150,140,4,4,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2850000,105,90,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1680000,80,70,3,4,4,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2500000,87,72,3,6,2,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2325000,100,85,3,6,2,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+1700000,120,110,4,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1550000,130,120,4,4,18.5,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+2200000,125,105,4,5,0,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+2150000,125,105,4,5,0,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+2420000,140,130,4,4,1,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1775000,90,80,3,6,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2450000,180,150,4,4,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+1200000,85,75,3,5,0,Ýstanbul - Sultanbeyli - Hamidiye Mahallesi
+2225000,110,85,4,5,0,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+3000000,160,150,5,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1800000,110,95,4,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+3200000,102,85,4,4,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2300000,90,72,3,4,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+875000,120,110,3,3,18.5,Ýstanbul - Sultanbeyli - Yavuz Selim Mahallesi
+2050000,90,75,3,6,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2500000,120,105,4,5,2,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2225000,180,160,6,3,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1150000,120,98,4,5,18.5,Ýstanbul - Sultanbeyli - Mecidiye Mahallesi
+1950000,90,85,3,5,4,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1750000,95,85,3,6,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+3300000,140,125,5,7,0,Ýstanbul - Sultanbeyli - Mehmet Akif Mahallesi
+1995000,80,70,3,4,0,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+2370000,155,145,5,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+3750000,120,85,3,7,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+3050000,93,70,3,7,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1670000,105,85,3,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2050000,93,80,3,4,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2150000,90,80,3,5,3,Ýstanbul - Sultanbeyli - Akþemsettin Mahallesi
+1565000,85,75,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1450000,120,105,4,3,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2000000,105,90,3,5,1,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2500000,160,140,5,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2480000,145,100,4,6,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2600000,160,140,5,4,1,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1850000,140,110,3,4,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1835000,100,85,3,4,7.5,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1835000,100,85,3,4,7.5,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2225000,135,120,4,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2500000,130,115,4,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+3600000,180,160,7,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2150000,110,100,4,4,1,Ýstanbul - Sultanbeyli - Hamidiye Mahallesi
+1675000,75,68,3,4,7.5,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1990000,115,95,5,3,4,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2700000,170,150,5,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2250000,90,75,3,6,1,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1970000,125,110,4,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1650000,95,85,3,4,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1950000,100,85,3,6,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1605000,100,85,3,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2000000,85,75,3,5,1,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+3050000,155,140,4,4,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2050000,110,90,3,3,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+3050000,155,140,4,4,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2385000,90,80,3,5,0,Ýstanbul - Sultanbeyli - Akþemsettin Mahallesi
+1870000,100,90,4,5,0,Ýstanbul - Sultanbeyli - Akþemsettin Mahallesi
+1700000,85,75,3,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+4200000,140,125,4,11,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2795000,150,135,4,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1900000,95,80,3,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2225000,180,160,6,3,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1675000,95,80,3,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2450000,175,160,5,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2730000,175,160,5,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1850000,67,52,2,5,7.5,Ýstanbul - Sultanbeyli - Hasanpaþa Mahallesi
+2300000,95,85,3,5,3,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1880000,100,85,3,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2300000,125,110,4,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+990000,140,120,4,2,18.5,Ýstanbul - Sultanbeyli - Mecidiye Mahallesi
+2050000,125,110,4,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+975000,140,120,4,2,18.5,Ýstanbul - Sultanbeyli - Mecidiye Mahallesi
+620000,80,65,3,4,21,Ýstanbul - Sultanbeyli - Hasanpaþa Mahallesi
+1510000,95,85,3,6,3,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+1850000,90,85,3,6,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1770000,100,85,3,8,2,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+1865000,97,83,3,5,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2000000,105,90,3,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2500000,160,145,4,4,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2400000,160,145,4,4,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2200000,150,140,5,4,0,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+1985000,150,140,4,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+3250000,116,90,3,8,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2100000,135,120,4,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+3450000,148,100,4,7,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2300000,97,85,3,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+3200000,135,127,4,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2700000,140,130,4,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2350000,150,110,5,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2470000,140,125,4,3,0,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+1700000,90,80,3,5,2,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2500000,150,140,5,6,4,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2500000,160,140,6,6,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+3545000,230,215,7,5,4,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2490000,102,90,4,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2750000,105,90,4,6,0,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+2250000,90,80,3,4,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2000000,90,85,3,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2375000,100,85,3,12,0,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+2300000,120,100,4,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2075000,125,105,4,5,0,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+2000000,90,80,3,5,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+3950000,200,170,4,7,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+3550000,1480,100,4,7,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1800000,140,130,4,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1650000,80,75,3,5,0,Ýstanbul - Sultanbeyli - Yavuz Selim Mahallesi
+1590000,120,100,3,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+3570000,110,90,2,11,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2200000,115,100,4,6,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+3500000,170,160,6,5,7.5,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2500000,160,140,6,5,1,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2050000,100,90,3,5,0,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+2500000,115,95,4,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2400000,170,155,5,4,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+2150000,117,110,4,6,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1950000,135,120,4,5,1,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+4800000,600,590,4,3,7.5,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+3600000,145,130,5,4,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2550000,120,110,4,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1890000,95,85,3,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2725000,150,130,4,5,4,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1950000,135,120,4,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1700000,52,40,2,7,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1850000,95,85,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1325000,85,65,3,5,4,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+9000000,250,245,3,2,13.5,Ýstanbul - Sultanbeyli - Hamidiye Mahallesi
+2300000,125,110,4,6,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1620000,125,110,3,5,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2200000,175,160,5,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1955000,140,120,4,5,4,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1350000,125,110,4,5,1,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1660000,100,85,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1970000,130,120,4,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1650000,135,120,4,5,7.5,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2150000,175,160,6,4,0,Ýstanbul - Sultanbeyli - Turgut Reis Mahallesi
+2375000,130,105,4,5,0,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+2500000,175,155,6,6,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2700000,170,145,6,6,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2700000,170,145,6,6,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2500000,110,100,4,1,18.5,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2000000,85,75,3,6,0,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+1050000,115,105,3,2,18.5,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+1850000,230,200,5,4,4,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+1755000,90,85,3,4,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1750000,70,55,3,3,3,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1750000,80,70,3,6,3,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2500000,200,95,4,1,18.5,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2650000,120,110,4,7,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2800000,155,145,6,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2920000,160,130,5,4,1,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2450000,84,66,3,7,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+5350000,250,220,6,2,13.5,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+2150000,160,140,5,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+3600000,301,300,3,2,7.5,Ýstanbul - Sultanbeyli - Orhangazi Mahallesi
+3600000,145,130,5,4,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1750000,105,90,3,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1950000,95,80,3,6,1,Ýstanbul - Sultanbeyli - Adil Mahallesi
+2495000,71,55,3,7,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2200000,150,130,5,5,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1650000,120,100,3,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2800000,180,150,5,5,7.5,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+4800000,206,148,5,9,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2200000,150,140,4,6,7.5,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1950000,150,140,4,6,7.5,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2150000,120,100,3,4,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+1525000,166,157,4,7,21,Ýstanbul - Sultanbeyli - Hasanpaþa Mahallesi
+1865000,84,69,3,7,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2090000,93,75,3,6,4,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+1670000,95,85,3,5,21,Ýstanbul - Sultanbeyli - Abdurrahmangazi Mahallesi
+1700000,95,80,3,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2500000,141,120,4,5,1,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+3500000,185,170,4,2,18.5,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+3250000,180,160,5,5,1,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2700000,115,100,3,2,13.5,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+2850000,180,160,5,5,0,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+2050000,125,110,4,5,0,Ýstanbul - Sultanbeyli - Fatih Mahallesi
+3250000,128,90,3,7,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+3850000,180,170,7,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+4750000,200,180,5,7,2,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+3350000,128,90,3,7,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1750000,165,145,5,6,0,Ýstanbul - Sultanbeyli - Adil Mahallesi
+3250000,128,90,3,7,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+3350000,128,90,3,7,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+3450000,148,100,4,7,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2065000,89,82,3,6,0,Ýstanbul - Sultanbeyli - Mehmet Akif Mahallesi
+3550000,148,100,4,7,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1150000,65,50,2,4,2,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+7500000,662,660,5,2,18.5,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+5150000,268,205,7,4,3,Ýstanbul - Sultanbeyli - Adil Mahallesi
+3550000,135,100,4,7,1,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+2350000,140,130,4,4,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+3100000,170,155,5,4,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+1750000,96,85,3,5,0,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+1750000,96,85,3,5,0,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+1950000,160,145,5,5,0,Ýstanbul - Sultanbeyli - Ahmet Yesevi Mahallesi
+1900000,95,85,3,4,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+2350000,120,110,4,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2350000,160,145,6,5,0,Ýstanbul - Sultanbeyli - Battalgazi Mahallesi
+2000000,145,125,4,5,0,Ýstanbul - Sultanbeyli - Mimar Sinan Mahallesi
+3650000,148,116,4,8,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi
+3450000,148,115,4,7,0,Ýstanbul - Sultanbeyli - Necip Fazýl Mahallesi

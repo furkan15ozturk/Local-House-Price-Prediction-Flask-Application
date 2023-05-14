@@ -5,13 +5,22 @@
     <title>{{ title }}</title>
 </head>
 <body>
-<form>
-    <label for="price" class="form-label"> Ev Fiyatı: </label>
-    <input type="number">
-    <label for="area" class="form-label"> Brüt Metrekare: </label>
-    <input type="number">
-    <label for="absolute_area" class="form-label"> Net Metrekare: </label>
-    <input type="number">
-</form>
+    <div class="input-form">
+        <form>
+            <label for="price" class="form-label"> Ev Fiyatı: </label>
+            <input type="number">
+            <label for="area" class="form-label"> Brüt Metrekare: </label>
+            <input type="number">
+            <label for="absolute_area" class="form-label"> Net Metrekare: </label>
+            <input type="number">
+            <label for="floor_count" class="form-label"> Binanın Kat Sayısı: </label>
+            <input type="number">
+            <label for="location" class="form-label"> Adres: </label>
+            <input type="text">
+        </form>
+    </div>
+    <div class="send-button">
+        <input type="submit" value="Hesapla" />
+    </div>
 </body>
 </html>

@@ -1,0 +1,1498 @@
+price,area,absolute_area,room,floor_count,building_age,location
+2500000,95,90,3,3,1,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+2800000,85,80,3,13,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3901000,132,116,4,12,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3180000,94,84,2,19,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4349000,132,116,4,12,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4231000,132,116,4,12,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3125000,84,76,3,12,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+5000000,220,200,6,4,21,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+3950000,132,122,4,12,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4395000,50,35,1,10,0,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+4250000,113,90,3,11,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+6250000,126,120,4,15,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3200000,94,84,2,19,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3350000,74,65,2,16,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2850000,70,50,2,16,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+5900000,129,90,3,22,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4600000,240,200,7,5,13.5,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+575000,70,60,3,5,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+625000,95,85,3,6,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1800000,90,75,3,3,0,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2000000,90,85,3,3,0,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1280000,110,90,3,5,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2280000,130,110,4,3,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2180000,120,100,3,3,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+3800000,130,115,4,11,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2600000,76,66,2,18,13.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+3600000,130,115,4,11,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+9000000,220,175,4.5,7,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+949000,90,85,3,4,21,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+1825000,100,90,3,3,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1650000,85,80,3,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1850000,90,85,3,3,18.5,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+860000,85,80,3,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1430000,80,75,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+8550000,196,190,4,10,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1550000,70,65,2,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+740000,90,85,3,5,21,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+1375000,90,75,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1450000,90,78,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2650000,72,60,3,3,0,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+6350000,140,120,4,14,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3000000,160,150,5,3,4,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2100000,100,95,3,4,7.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+4000000,80,70,3,10,4,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+575000,70,60,3,5,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+3400000,68,50,3,21,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1850000,95,85,3,3,18.5,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+5000000,100,90,3,5,4,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2850000,150,140,5,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+8000000,157,140,4,14,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1425000,80,75,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+940000,90,85,3,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+4150000,132,116,4,12,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3222300,85,80,3,12,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2350000,140,130,4,3,4,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1175000,75,65,2,3,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+6500000,130,98,3,7,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2500000,95,85,3,4,1,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2990000,90,80,3,3,4,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2800000,180,160,6,4,18.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2300000,85,75,3,2,7.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+3000000,100,90,3,5,0,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1240000,110,100,3,5,21,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+950000,75,70,3,5,21,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+2650000,220,200,6,8,21,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2600000,130,110,4,5,18.5,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+5850000,120,110,4,13,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+240000,40,25,,5,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+4150000,94,84,3,13,18.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2700000,60,45,2,13,18.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2350000,130,110,4,3,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+839000,100,90,3,6,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1245000,140,130,4,6,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1250000,125,120,3,4,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+825000,80,75,2,5,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1750000,145,140,4,5,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+995000,135,130,3,5,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+815000,85,80,3,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+3850000,160,150,6,3,0,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1950000,95,90,3,4,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1300000,85,70,3,4,7.5,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+2250000,115,95,4,4,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1715000,85,80,3,4,4,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+250000,35,32,2,1,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2550000,130,115,4,3,0,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+2650000,95,85,3,3,4,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+11995000,350,327,9,5,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+5675000,135,115,3,4,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3800000,94,84,3,13,18.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+6500000,210,190,6,5,0,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+2950000,155,120,4,3,13.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2690000,130,115,4,9,7.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1500000,90,80,3,2,7.5,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1700000,90,80,3,4,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+4650000,190,170,6,5,0,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+3100000,125,110,4,11,4,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+4900000,121,80,3,10,0,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+6990000,147,127,4,24,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2100000,55,50,2,18,2,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1830000,95,90,3,4,21,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+2650000,150,140,4,3,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+4100000,150,135,4,5,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+5000000,165,150,5,4,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1430000,75,70,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+4207000,132,116,4,12,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1285000,75,70,2,4,4,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2775000,84,76,3,13,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+7500000,155,118,4,9,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+5500000,130,105,3,9,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+10500000,196,155,5,11,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2500000,95,85,3,11,13.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+6900000,147,110,4,20,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+5350000,98,85,3,9,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+11100000,196,150,5,11,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1500000,80,75,3,5,18.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2550000,95,80,3,5,7.5,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1200000,120,110,4,5,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+4650000,138,91,3,13,3,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2850000,115,105,4,2,7.5,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+1250000,120,100,3,6,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+3830000,94,84,3,10,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2670000,95,85,3,3,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2100000,95,85,3,4,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2150000,90,80,3,4,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2690000,130,115,4,5,7.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+880000,75,70,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+470000,45,40,3,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2350000,86,71,3,2,13.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2100000,55,48,2,18,3,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+6750000,95,76,3,5,0,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+1440000,150,145,4,5,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+5670000,135,120,4,14,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3050000,115,100,3,4,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+4100000,200,170,5,5,18.5,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1300000,135,110,4,5,21,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+1250000,110,100,4,4,21,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+2100000,95,85,3,3,7.5,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+1550000,90,80,3,7,21,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+2950000,175,165,5,4,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1850000,95,85,3,4,7.5,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+2100000,80,70,3,4,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+15500000,220,180,5,5,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+8500000,185,125,4,5,4,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+3100000,95,85,3,4,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+4100000,175,165,5,4,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+3800000,100,90,3,4,3,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+7500000,170,120,4,8,0,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+10000000,120,110,9,2,21,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2100000,70,65,3,4,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2700000,75,70,3,12,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1375000,785,70,3,4,4,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1750000,48,38,2,15,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4250000,92,85,3,15,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1000000,90,80,3,5,13.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1350000,140,130,4,6,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+4200000,110,85,3,17,3,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1265000,75,70,2,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+870000,98,90,3,6,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1700000,85,80,3,4,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+575000,65,55,3,6,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+790000,85,80,3,5,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1550000,85,75,3,3,7.5,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+2750000,80,75,3,11,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3490000,72,54,2,22,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2950000,130,120,4,4,7.5,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+1590000,100,95,3,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2849000,170,160,6,3,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+815000,65,60,2,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+950000,85,80,3,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+949000,90,80,3,6,18.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+4500000,152,130,4,15,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+565000,50,45,2,5,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+4500000,130,120,4,12,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2300000,90,85,3,3,4,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+1435000,135,130,4,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+740000,75,70,2,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+845000,75,74,2,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+350000,40,35,2,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+850000,85,80,3,4,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+4490000,100,70,3,12,3,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+5950000,135,105,4,24,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+3100000,115,110,4,6,0,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+740000,70,65,2,5,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+4350000,135,130,4,10,0,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+725000,80,75,3,6,18.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2950000,160,140,5,4,7.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+4200000,99,85,3,5,7.5,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+1750000,47,37,2,14,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+14500000,175,145,5,6,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1695000,75,70,3,3,18.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+2140000,54,42,2,24,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2000000,85,75,3,4,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2000000,85,75,3,4,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1200000,65,60,2,3,4,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+4200000,170,160,6,5,0,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+4500000,180,170,7,5,0,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1890000,90,85,3,5,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1600000,85,80,3,4,0,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+3600000,120,105,4,13,2,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2495000,95,90,3,5,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2620000,95,85,3,5,1,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1645000,85,80,3,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1100000,120,115,3,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1720000,85,80,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1800000,85,80,3,4,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1800000,95,90,3,4,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1350000,120,100,4,6,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1250000,145,140,4,5,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+875000,85,80,3,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1240000,115,110,3,4,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1225000,135,130,3,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2550000,165,160,6,4,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1295000,75,70,2,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+3250000,180,170,6,4,4,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+4200000,108,95,3,15,3,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+565000,65,55,3,6,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1350000,105,100,3,6,21,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+502500,79,69,3,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+995000,80,75,2,5,21,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+795000,75,70,2,5,21,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+495000,78,70,3,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+700000,65,55,2,7,21,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+789000,140,130,4,6,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1799000,85,75,3,2,13.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+555000,65,60,2,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+489000,55,45,3,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+374000,40,30,2,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+939000,120,110,3,7,18.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+749000,90,80,3,6,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1699000,80,70,3,4,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+556000,60,50,3,6,18.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1848000,70,60,3,4,0,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+3148000,160,150,6,4,0,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+949000,100,90,3,5,18.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2300000,85,75,3,3,4,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+1900000,65,55,2,3,7.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1250000,120,110,3,5,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2575000,155,130,4,3,13.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2499000,150,140,5,3,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+6750000,162,118,5,10,0,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+945000,95,90,3,5,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3095000,140,135,4,3,4,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+3950000,132,116,4,12,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1380000,135,130,4,5,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1150000,70,65,2,4,4,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+710000,90,85,3,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+3000000,84,76,3,12,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4407000,132,116,4,12,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4400000,132,116,4,12,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1350000,110,100,3,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+6500000,225,220,3.5,19,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2050000,130,120,4,5,21,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+2650000,160,150,6,2,13.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+4600000,50,45,2,11,1,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+4600000,50,45,2,11,1,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+2827000,84,76,3,13,7.5,Ýstanbul - Küçükçekmece - Yarýmburgaz Mahallesi
+770000,110,100,3,7,18.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1500000,32,30,,15,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1040000,115,110,4,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2095000,77,67,3,4,2,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+4350000,90,80,3,11,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+720000,90,85,3,5,21,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+920000,85,80,3,5,21,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+2650000,61,60,2,15,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1800000,85,75,3,3,13.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+10500000,155,147,4,4,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1340000,95,90,3,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2300000,58,57,2,9,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+860000,85,80,3,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+4250000,132,116,4,12,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+5564000,152,140,4,15,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+5513000,152,140,4,15,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4350000,132,116,4,12,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4160000,132,116,4,16,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3223000,84,76,3,11,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1550000,105,100,3,5,21,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+1600000,105,100,3,5,21,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+5450000,120,100,3,14,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4250000,120,105,4,14,13.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+2750000,110,95,4,17,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+8500000,220,185,5,3,21,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+1800000,100,85,3,5,13.5,Ýstanbul - Küçükçekmece - Yarýmburgaz Mahallesi
+3950000,93,89,3,5,13.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+3500000,74,68,2,19,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4250000,132,116,4,12,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2490000,76,68,2,19,13.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+1825000,90,75,3,5,7.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+5750000,120,110,3,22,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2750000,98,74,2,30,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2350000,74,70,2,19,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1950000,64,47,2,5,21,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+8500000,140,139,4,19,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2800000,85,80,3,3,0,Ýstanbul - Küçükçekmece - Kemalpaþa Mahallesi
+3330000,180,160,5,3,0,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+3400000,170,150,5,3,0,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+3150000,120,100,4,12,2,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+4245000,111,83,3,6,0,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+2650000,130,110,4,6,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2450000,190,160,5,5,7.5,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1300000,90,80,3,4,3,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2350000,160,140,4,4,4,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1879000,105,85,3,4,7.5,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1150000,110,100,3,7,18.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1400000,135,130,3,5,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1750000,85,80,3,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1400000,80,75,3,4,4,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+400000,30,25,2,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1280000,70,65,2,4,3,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1385000,150,145,4,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1645000,90,80,2,4,4,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+4950000,190,175,5,3,0,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+1550000,110,100,3,6,18.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+235000,25,20,,6,18.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2950000,110,85,3,4,1,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+690000,85,80,3,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1250000,100,90,3,7,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1500000,55,50,3,4,0,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+1500000,110,100,3,5,21,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1230000,100,95,3,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1350000,100,90,3,7,21,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+3300000,150,140,6,5,1,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+875000,95,90,3,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2245000,65,55,2,22,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1630000,120,110,3,4,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1165000,75,65,2,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2650000,150,140,4,3,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2900000,58,50,2,12,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3600000,94,84,3,13,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2950000,160,150,4,6,18.5,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+6000000,120,107,4,13,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3100000,63,50,2,7,13.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2000000,165,120,4,6,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1750000,85,75,3,3,3,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2300000,85,75,3,3,4,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+1020000,95,90,3,5,21,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1750000,96,90,3,5,21,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+3850000,200,95,3,5,21,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1900000,120,110,4,5,21,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1950000,105,100,3,3,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2780000,130,110,4,5,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1750000,70,60,2,3,0,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+1250000,120,100,4,6,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1750000,75,70,3,2,13.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1330000,85,80,3,3,7.5,Ýstanbul - Küçükçekmece - Kemalpaþa Mahallesi
+2580000,85,75,3,3,2,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1250000,90,85,3,3,13.5,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+1225000,60,50,2,3,4,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+1100000,75,70,2,3,7.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+2500000,115,105,3,3,7.5,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1645000,75,70,3,4,7.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+2100000,100,95,3,3,7.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+1720000,85,75,3,3,7.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2580000,85,80,3,3,1,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+2200000,80,75,3,2,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+4165000,120,110,4,5,3,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+3250000,114,90,3,4,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+3299999,275,250,6,4,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1995000,115,110,3,4,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1750000,85,80,3,4,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1250000,105,100,3,6,21,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+3745000,150,140,4,3,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1649000,89,85,3,4,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+495000,75,70,2,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+535000,60,55,2,6,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+790000,95,90,3,6,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+535000,60,55,2,6,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1350000,95,90,3,6,21,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+865000,70,65,2,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+605000,75,70,2,6,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+725000,75,70,3,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+490000,65,55,2,5,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2500000,95,90,3,3,0,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+4200000,200,180,6,3,0,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2585000,100,90,3,3,3,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+5750000,200,170,5,6,21,Ýstanbul - Küçükçekmece - Kemalpaþa Mahallesi
+945000,95,90,3,4,21,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+710000,85,75,3,5,21,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+625000,80,70,3,4,21,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+2150000,90,85,3,3,4,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+685000,95,90,3,5,21,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+1590000,80,75,3,3,4,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2300000,95,85,3,4,0,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1200000,120,110,3,5,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+4850000,100,90,3,9,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2795000,105,90,3,16,2,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+7490000,155,117,4,9,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4000000,132,110,4,12,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+6200000,120,110,4,13,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3500000,100,90,3,11,0,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+2600000,170,150,6,4,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+3000000,93,85,2,4,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2850000,90,80,3,11,4,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+690000,90,75,3,6,18.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1050000,100,90,3,6,21,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1175000,75,70,2,4,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2150000,60,50,2,19,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1750000,96,90,3,5,21,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+700000,85,80,3,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+3450000,115,90,4,13,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+715000,80,75,3,6,21,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+2750000,100,95,3,3,2,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+1790000,90,85,3,3,13.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1550000,90,85,3,3,2,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+3000000,125,120,4,2,4,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+2530000,170,160,5,3,7.5,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+2275000,80,70,3,3,7.5,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+2500000,90,85,3,3,0,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+1225000,60,50,2,3,4,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+2200000,90,85,3,3,7.5,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+2100000,90,85,3,3,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1690000,100,90,4,3,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2750000,160,150,5,5,18.5,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+700000,80,75,3,7,18.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+3500000,83,69,3,5,18.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3500000,110,100,4,5,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+9400000,330,165,5,3,0,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+420000,40,30,2,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1150000,90,75,2,4,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1350000,80,75,2,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1950000,105,100,3,3,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+3000000,90,70,3,11,4,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2500000,100,85,3,6,0,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+2295000,75,70,3,3,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1760000,120,115,4,10,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+7500000,155,117,4,9,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+650000,85,80,3,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2620000,95,85,3,10,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+5700000,120,110,4,13,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2250000,75,70,3,4,0,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+300000,25,20,,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+3300000,190,170,5,2,13.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+3700000,170,150,4,5,7.5,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2140000,90,80,3,3,0,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+1750000,100,95,3,6,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1920000,105,85,3,4,7.5,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+665000,90,89,3,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2795000,60,42,2,9,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2900000,155,140,4,4,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+4500000,120,100,3,4,21,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+3225000,83,69,3,5,18.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2325000,60,50,2,30,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+3100000,90,80,3,4,2,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+4550000,145,110,4,10,18.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+850000,90,85,3,5,21,Ýstanbul - Küçükçekmece - Kemalpaþa Mahallesi
+2900000,68,67,3,4,18.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+5499000,190,165,6,4,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+10650000,210,150,4,12,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2050000,140,120,4,8,21,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+3050000,180,170,5,5,4,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+3300000,110,95,3,4,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+3000000,130,120,4,4,0,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+1850000,95,85,3,4,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+7000000,155,117,4,9,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3750000,74,56,2,19,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+9700000,196,150,5,4,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3050000,90,78,2,15,4,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+2930000,90,78,2,15,4,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+3350000,200,180,5,6,18.5,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1900000,90,85,3,4,7.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+7250000,176,130,4,18,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+9650000,176,130,4,18,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+6500000,85,76,3,5,0,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+4000000,120,105,4,14,13.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+940000,95,90,3,4,21,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+985000,95,90,3,4,21,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+900000,95,90,3,6,21,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+720000,75,70,2,5,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1650000,75,68,3,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1000000,110,100,3,5,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1000000,140,130,3,6,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+3850000,74,55,2,16,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3600000,120,115,4,4,0,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+1300000,100,95,3,4,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+7000000,160,130,4,3,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2850000,130,110,4,4,7.5,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1600000,38,28,,18,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+14900000,300,260,5,11,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1500000,145,130,4,6,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3900000,230,200,6,4,0,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+900000,75,60,2,4,21,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+924000,130,120,4,6,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3600000,105,90,3,19,2,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+990000,95,85,3,5,21,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+1025000,90,85,3,4,21,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+3850000,158,145,4,4,7.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+2850000,128,115,4,5,21,Ýstanbul - Küçükçekmece - Kemalpaþa Mahallesi
+3000000,100,90,3,5,0,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+2475000,170,160,5,3,7.5,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+735000,90,85,3,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2600000,80,70,3,3,0,Ýstanbul - Küçükçekmece - Kemalpaþa Mahallesi
+3610000,165,155,6,3,7.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1850000,70,60,3,3,0,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1600000,120,90,3,5,18.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2600000,80,70,3,4,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2360000,90,85,3,3,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2500000,125,115,4,6,21,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+820000,70,65,2,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+790000,95,90,3,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+230000,25,15,1,6,18.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1090000,75,70,3,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1280000,100,95,3,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2300000,75,70,3,6,3,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+1695000,115,90,4,7,21,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1250000,100,95,3,5,21,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+5800000,250,220,6,5,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+4500000,160,140,5,5,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+4000000,140,120,4,5,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1750000,95,90,3,5,4,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2750000,80,70,3,3,0,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1850000,70,60,3,3,0,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1250000,95,90,3,5,21,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+3750000,120,105,3,3,7.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1350000,95,85,3,5,21,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+2250000,60,50,2,34,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2420000,140,130,6,3,4,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+800000,75,70,3,5,21,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+1550000,85,75,3,4,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2700000,150,130,5,3,4,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+950000,120,110,3,6,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1354000,85,70,3,3,4,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+890000,100,90,3,5,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1950000,150,145,5,4,4,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+5100000,150,128,4,13,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+910000,65,60,2,3,4,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+4400000,152,130,4,15,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+700000,60,55,3,5,21,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+1295000,80,70,2,4,4,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1600000,65,60,2,3,0,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+3175000,182,158,7,7,0,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+555000,60,55,3,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+520000,55,50,2,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2050000,105,100,3,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2340000,110,105,3,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+275000,25,20,2,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2400000,150,145,5,4,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1265000,70,65,2,4,3,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+3250000,101,90,3,28,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+8075000,130,99,3,7,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+5600000,122,90,3,22,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2900000,90,85,3,12,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4200000,132,131,4,15,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1850000,110,95,4,4,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2100000,90,80,3,3,0,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+8000000,140,120,4,13,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3290000,110,90,4,14,18.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1299000,95,85,3,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1435000,90,80,3,4,21,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+3000000,120,105,3,2,7.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2500000,110,90,4,8,18.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+4600000,152,132,4,11,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+5000000,163,132,4,7,18.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1150000,110,100,4,5,21,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2050000,60,50,2,30,4,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1450000,85,80,3,5,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+695000,75,70,2,5,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+3100000,95,90,3,5,13.5,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+1200000,110,100,4,5,18.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+3100000,120,115,4,2,7.5,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+21310000,230,167,5,4,0,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3000000,130,120,4,4,0,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+4600000,170,145,6,5,2,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+14050000,162,120,4,4,0,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3600000,115,96,4,16,21,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+10675000,114,79,3,4,0,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+8140000,82,65,2,4,0,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3000000,130,120,3,4,0,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+1380000,120,110,3,5,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1700000,85,80,3,4,4,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2630000,180,160,5,4,4,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1575000,80,70,3,4,4,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2325000,105,85,3,4,7.5,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+3490000,115,80,3,15,4,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+6860000,147,110,4,23,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4000000,110,90,3,3,7.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+4450000,90,79,3,9,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2200000,95,90,3,9,21,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+12500000,320,300,5,12,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2500000,61,54,3,4,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+4200000,110,90,2,19,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+7800000,163,140,4,11,18.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+9550000,157,150,4,14,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2450000,60,52,2,10,13.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+3000000,75,68,3,12,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+5500000,110,100,3,11,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2350000,72,57,2,9,21,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4650000,84,69,2,19,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2600000,90,80,3,2,7.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2500000,85,75,3,3,7.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+8650000,192,145,5,6,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2800000,110,95,4,16,21,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3150000,90,84,3,10,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3000000,95,75,3,5,0,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1550000,110,90,3,4,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+950000,85,80,3,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1880000,37,30,,12,1,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+1950000,90,80,3,4,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1990000,95,90,3,4,3,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+950000,90,80,3,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+4900000,107,95,2.5,12,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+115000000,550,450,9,4,18.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1420000,140,125,3,4,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1675000,85,75,3,4,21,Ýstanbul - Küçükçekmece - Kemalpaþa Mahallesi
+630000,70,65,2,5,21,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+2595000,110,93,4,4,0,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+6250000,140,120,4,14,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4050000,125,115,4,15,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2500000,72,64,2,18,13.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+1630000,105,100,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1100000,145,140,4,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+3650000,85,80,3,5,7.5,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+1450000,75,70,3,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1740000,47,40,2,16,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2550000,72,65,2.5,16,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2700000,74,60,2,14,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4150000,76,58,3,6,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+4500000,250,230,6,3,2,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2300000,90,80,3,3,0,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+2600000,85,80,3,3,1,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+3400000,180,170,5,4,0,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1700000,85,75,2,4,0,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+777000,85,84,3,7,18.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+850000,70,65,2,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1549000,80,70,3,3,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1050000,115,105,3,6,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+965000,90,75,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1670000,75,70,3,3,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2000000,80,72,3,3,0,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+2630000,90,80,3,3,4,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+4250000,210,200,6,3,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+749500,75,60,2,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1820000,85,80,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1399000,75,70,2,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+867500,90,85,3,5,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2400000,75,65,3,2,7.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+990000,130,120,4,5,21,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+5595000,280,260,7,5,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+7000000,141,125,4,13,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2800000,74,55,2,18,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+10550000,190,175,5,5,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3650000,74,55,2,16,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3220000,95,75,2,30,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3100000,205,200,5,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+7000000,170,140,4,2,4,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2850000,125,115,4,4,7.5,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+1850000,130,110,4,5,13.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+950000,70,65,2,4,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1245000,135,125,3,6,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1645000,80,75,3,4,4,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+775000,85,80,3,8,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2350000,152,140,5,5,3,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+2000000,90,75,3,3,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1990000,55,35,2,16,1,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+5500000,145,120,4,19,1,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3700000,88,57,3,19,1,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3650000,140,125,4,3,0,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1280000,75,65,2,4,7.5,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+5200000,140,95,3,2,4,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3450000,160,150,4,2,7.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1360000,100,90,3,2,13.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1800000,120,110,4,4,21,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+2150000,80,70,3,4,18.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+2948000,100,90,3,13,4,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+870000,75,65,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2850000,175,170,6,4,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+4500000,180,160,6,5,7.5,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+4179000,250,225,7,3,4,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+3250000,130,125,4,4,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1150000,70,60,2,4,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+4500000,160,145,6,5,0,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+1700000,120,110,3,9,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1700000,120,110,4,9,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1250000,120,110,3,5,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1550000,75,70,3,3,7.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+950000,143,127,3,6,21,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2700000,110,90,3,3,7.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1270000,80,68,3,3,1,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+3550000,72,67,2,18,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4000000,180,170,6,3,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+3000000,85,75,3,3,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+845000,105,95,3,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1950000,85,79,3,5,7.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+1800000,85,75,3,5,2,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+4000000,125,120,4,3,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2000000,125,105,3,3,7.5,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1200000,70,68,2,12,18.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2650000,95,90,3,2,18.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+2350000,120,110,4,4,7.5,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+1700000,100,90,3,5,21,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+495000,70,60,3,5,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1550000,90,80,3,3,0,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+760000,85,75,3,5,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+460000,75,55,2,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+499000,65,55,2,5,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1400000,80,70,3,4,4,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2500000,74,69,2,19,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+5250000,143,130,3,3,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1350000,95,90,3,4,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1275000,70,65,2,3,3,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+1940000,85,80,3,3,7.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+7250000,110,100,3,5,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+6250000,157,130,4,11,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2250000,120,115,4,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1650000,80,75,3,4,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+4330000,170,150,6,5,0,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+2500000,220,200,5,5,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2950000,92,77,3,3,7.5,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+1395000,110,100,4,4,21,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+3000000,84,76,3,12,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+8500000,220,185,5,3,21,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+3300000,115,110,3,1,21,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+1600000,90,80,2,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1350000,65,55,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2800000,160,150,5,4,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2250000,74,69,2,19,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2300000,100,90,3,2,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+725000,85,75,3,6,18.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2750000,100,90,3,4,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+8500000,140,139,4,19,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+810000,65,55,2,5,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1330000,156,150,4,4,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2600000,115,90,4,9,7.5,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+2750000,110,100,4,4,13.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1450000,135,125,4,5,21,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+5500000,145,125,4,19,2,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3700000,88,56,3,19,2,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+4500000,145,95,3,19,2,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2000000,55,35,2,19,2,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1350000,105,90,3,4,18.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1785000,95,90,3,5,21,Ýstanbul - Küçükçekmece - Kemalpaþa Mahallesi
+1645000,100,95,3,5,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2100000,85,80,3,3,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3000000,95,85,3,4,7.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+3950000,125,100,4,5,7.5,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+12000000,180,160,4,12,4,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+3250000,105,90,2,19,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3550000,105,90,2.5,19,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3600000,105,96,4,17,21,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+990000,75,60,2,6,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+4500000,210,190,6,4,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1920000,95,85,3,11,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2750000,119,59,2,13,7.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+1895000,75,70,3,3,7.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+630000,70,65,2,5,21,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+2400000,120,100,3,5,21,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+1400000,140,135,5,6,18.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+680000,75,70,2,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+12000000,180,170,4,10,0,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+1337000,156,150,4,4,18.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2580000,85,75,3,3,2,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1750000,100,85,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1950000,75,70,3,4,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1210000,130,125,3,5,18.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+3650000,135,125,4,5,7.5,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+5000000,270,250,7,3,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2100000,95,90,3,5,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3500000,137,130,4,3,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1450000,95,85,3,5,21,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1450000,65,60,2,3,0,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+4000000,80,70,3,3,7.5,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+2315000,120,115,4,10,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+3700000,100,90,3,18,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+990000,95,85,3,5,21,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+750000,80,75,2,3,18.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1270000,80,70,3,3,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2400000,62,50,2,9,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1100000,85,75,3,4,21,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+3350000,80,70,3,3,7.5,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+2470000,130,110,4,10,4,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2750000,85,75,3,3,3,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+2980000,175,160,4,4,4,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+4050000,104,84,3,14,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1850000,80,75,3,3,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+630000,70,65,2,5,21,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+2300000,140,135,5,3,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+3550000,104,90,3,9,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2150000,140,130,4,4,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+4900000,110,96,3,14,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1400000,130,110,4,5,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2000000,80,70,3,4,3,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+1510000,130,120,4,5,21,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+3500000,95,75,3,10,3,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+800000,85,80,3,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2450000,170,150,5,3,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1600000,140,130,3,4,18.5,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+2450000,150,145,5,4,4,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+6990000,147,107,4,22,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1250000,70,65,2,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1700000,170,135,4,2,18.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1450000,135,120,4,6,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+3400000,175,165,6,4,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2100000,95,85,3,4,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1650000,90,80,3,4,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1750000,80,75,3,4,4,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+8270000,130,110,3.5,10,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1260000,90,80,3,5,21,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+2500000,170,150,5,5,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1900000,140,120,4,5,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2470000,120,110,4,10,4,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2275000,90,85,3,11,13.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+700000,75,70,3,5,21,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+24500000,308,280,7,3,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4500000,130,110,4,9,21,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4500000,160,150,5,4,0,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+2100000,120,95,3,4,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+3400000,220,185,6,4,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+3500000,200,180,6,3,7.5,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+370000,35,30,2,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2325000,85,75,3,4,0,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+3200000,175,165,4,3,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1650000,135,125,4,5,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2700000,60,55,2,14,1,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+1400000,65,55,2,5,0,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1845000,65,57,2,16,21,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1890000,89,82,3,3,13.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1550000,120,119,4,7,21,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1925000,170,155,6,3,7.5,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+3850000,200,180,6,3,0,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+3450000,130,100,4,3,4,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+1795000,95,85,3,4,2,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+975000,100,85,3,3,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1270000,78,60,3,3,1,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+2600000,75,60,3,3,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2350000,70,58,2,16,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1450000,70,68,3,4,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2950000,90,75,3,5,0,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+1720000,75,68,3,3,7.5,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+2750000,90,75,3,3,7.5,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+3850000,200,160,6,4,0,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+3850000,170,160,5,3,0,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+1270000,75,65,3,3,1,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+3000000,105,90,3,8,7.5,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+1600000,85,75,3,5,21,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1000000,65,58,3,4,1,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+4800000,250,225,5,5,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+3200000,175,160,5,3,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+4750000,110,96,4,14,4,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2200000,80,70,3,4,1,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+3075000,90,78,2,15,4,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+1825000,85,80,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+830000,100,90,3,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+815000,65,60,2,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1365000,75,70,3,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+3250000,120,119,4,4,0,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+4400000,160,145,5,5,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+6450000,122,93,3,19,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2450000,170,150,5,3,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3100000,120,110,4,5,7.5,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+7900000,167,150,4,15,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1235000,70,55,2,3,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3250000,175,170,6,3,0,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1650000,75,70,3,3,0,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+3799000,210,200,6,4,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3799000,210,200,6,4,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1650000,80,70,3,3,1,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+1125000,95,85,3,4,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+800000,85,75,3,7,21,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+1650000,120,110,3,4,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+4928000,127,90,3,8,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+645000,75,70,2,5,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2100000,90,85,3,3,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+3000000,95,85,3,12,0,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1650000,90,80,3,5,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2650000,90,80,3,3,7.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1600000,130,125,4,6,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+4800000,250,225,5,5,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1200000,100,95,3,5,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1500000,115,98,4,5,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1800000,60,50,2,15,18.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2950000,220,190,6,4,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1375000,85,75,3,3,4,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+3250000,120,119,4,4,0,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+4200000,190,180,6,4,4,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1500000,85,80,3,5,18.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+2000000,90,85,3,2,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+670000,85,84,3,7,18.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+4250000,140,115,4,3,4,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1990000,68,55,2,30,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1250000,70,65,2,4,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1650000,80,75,3,4,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2799000,100,90,3,4,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3250000,100,95,3,4,4,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+2840000,240,230,6,2,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2200000,90,80,3,5,21,Ýstanbul - Küçükçekmece - Beþyol Mahallesi
+2950000,150,140,6,3,0,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1270000,85,75,3,2,7.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+3175000,158,145,5,6,0,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+1675000,85,80,3,4,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+9200000,220,200,5,4,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4500000,152,140,4,15,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3600000,160,140,4,5,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1679000,85,75,3,3,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1050000,100,90,3,5,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+9750000,230,170,5,11,4,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1500000,60,59,2,5,21,Ýstanbul - Küçükçekmece - Beþyol Mahallesi
+2600000,105,95,4,4,0,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+3400000,220,180,6,3,1,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+2600000,63,45,2,12,2,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+1640000,80,75,3,4,4,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1245000,70,65,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1200000,90,75,3,6,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+4800000,95,85,3,18,0,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+3810000,104,85,3,9,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4750000,220,190,6,5,4,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2365000,85,80,3,3,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3750000,130,120,4,3,13.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+2250000,140,125,4,12,3,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2075000,90,75,3,4,3,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+1795000,125,100,4,8,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+930000,130,120,4,6,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+3500000,170,160,6,3,0,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+2650000,190,170,5,5,13.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+3500000,170,160,5,2,7.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1400000,110,100,4,4,21,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+2100000,125,115,4,7,21,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+779000,85,80,3,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+720000,80,75,3,5,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1250000,60,50,2,4,4,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+3200000,84,80,3,10,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+980000,85,80,3,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1485000,85,80,3,4,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+820000,85,80,3,5,13.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+2650000,160,150,6,2,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1575000,90,80,3,7,18.5,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+750000,85,84,3,7,18.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+3200000,135,125,4,4,0,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+3550000,140,125,4,3,7.5,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+3000000,175,150,4,4,4,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+960000,90,80,3,3,21,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+2450000,180,170,5,3,13.5,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+2350000,85,75,3,4,7.5,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+850000,85,75,3,7,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+630000,75,65,3,7,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2495000,80,75,3,4,7.5,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+1500000,65,55,2,3,3,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+4200000,185,175,6,2,7.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1350000,90,80,3,5,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2750000,55,36,2,21,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+4275000,92,70,3,15,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1795000,95,90,3,3,2,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+2575000,120,100,4,3,13.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2415000,95,85,3,3,3,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3300000,98,89,3,13,4,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+669000,85,80,3,6,18.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1240000,70,65,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1295000,60,45,2,5,7.5,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+3550000,90,78,2,15,4,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+2000000,58,37,,15,4,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+1925000,70,58,3,4,1,Ýstanbul - Küçükçekmece - Kemalpaþa Mahallesi
+2570000,175,165,5,2,7.5,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+1849000,85,75,3,3,4,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2300000,85,75,3,4,7.5,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+3250000,170,160,6,4,0,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1900000,95,85,3,3,7.5,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+4500000,210,180,5,5,13.5,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+990000,110,90,3,5,13.5,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1850000,85,75,3,4,13.5,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+2625000,100,90,3,4,0,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+2320000,95,85,3,4,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+6200000,140,120,4,14,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1590000,80,75,3,3,3,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2400000,94,90,3,11,13.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+550000,75,70,3,6,21,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1435000,97,80,3,4,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+7200000,145,125,4,26,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4750000,175,160,5,3,0,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2800000,150,130,5,3,0,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+4000000,200,180,5,3,7.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1150000,120,105,4,5,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+3700000,85,75,3,9,4,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+3600000,90,70,3,5,0,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1850000,80,70,3,3,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3650000,175,160,6,4,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2800000,100,90,3,3,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+660000,85,80,3,5,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2500000,100,90,3,4,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+5300000,125,88,3,29,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3300000,135,125,4,7,7.5,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+5750000,125,88,3,29,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2550000,135,125,4,4,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+3100000,85,75,3,3,4,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2100000,75,65,3,4,0,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+1850000,90,85,3,3,4,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+3350000,160,150,5,3,0,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+2550000,120,100,3,3,4,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+2500000,115,105,4,4,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+4100000,180,170,7,3,7.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+1950000,180,160,4,4,7.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+5850000,155,152,4,13,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+5950000,280,250,5,4,7.5,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+770000,85,80,3,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1470000,145,140,4,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+700000,85,80,3,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+4500000,110,90,3,24,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4300000,135,125,4,9,3,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+8500000,264,190,5.5,15,4,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+2550000,100,85,3,5,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2250000,95,85,3,3,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2150000,90,75,4,5,4,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1450000,130,120,4,5,21,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+1450000,80,70,3,4,1,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+3900000,145,135,4,3,4,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1000000,100,90,3,6,21,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+1550000,75,70,3,3,7.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+4000000,110,90,3,11,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3875000,150,140,4,4,7.5,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+4000000,110,90,3,11,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2650000,85,75,3,3,0,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+3850000,130,110,4,5,21,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+3100000,90,75,3,12,0,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+1100000,80,70,3,3,21,Ýstanbul - Küçükçekmece - Beþyol Mahallesi
+2750000,90,80,3,2,7.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+3450000,105,85,3,8,3,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+2250000,100,85,3,3,3,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1350000,160,140,4,5,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1380000,85,78,3,4,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2475000,160,150,6,3,3,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2850000,100,90,3,9,3,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1200000,80,70,3,4,21,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1800000,130,125,4,3,0,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+2000000,75,70,3,6,21,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+3320000,160,150,7,5,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1600000,90,80,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2870000,160,140,5,4,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+6900000,350,300,7,5,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1972000,100,85,4,4,21,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+8450000,139,115,4,14,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+3550000,120,100,4,14,3,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1299000,72,70,2,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+900000,95,94,3,6,21,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+899000,70,69,2,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2900000,180,170,6,3,3,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2999999,140,120,4,3,7.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+675000,80,75,3,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1375000,145,140,4,6,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+685000,95,85,3,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+3850000,170,160,5,4,13.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1295000,70,65,2,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+875000,85,75,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1150000,100,95,3,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2410000,75,70,3,4,7.5,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+1435000,97,80,3,4,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2550000,175,170,6,4,4,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1870000,95,85,3,4,0,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+2325000,115,100,4,13,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2650000,110,100,3,4,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1350000,115,105,3,4,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1200000,100,90,3,6,21,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+10450000,203,170,5,29,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+6950000,155,117,4,11,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+400000,35,30,2,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1200000,110,100,4,6,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+510000,50,40,3,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1100000,90,80,3,4,21,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+1250000,70,60,3,4,4,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2900000,140,130,5,3,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2910000,85,75,3,3,0,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+4000000,160,150,6,3,0,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+2050000,90,82,3,5,4,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+19800000,270,225,5.5,3,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1680000,85,80,3,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+865000,110,100,3,6,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1250000,90,80,3,4,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2100000,59,50,2,18,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1400000,160,130,4,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+4700000,155,140,4,16,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+995000,85,80,3,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+3650000,145,135,4,4,7.5,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+3650000,84,82,3,11,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2400000,187,120,4,4,21,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+2599000,160,150,6,3,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+3680000,140,120,4,3,7.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1875000,163,160,4,6,18.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+3100000,120,110,4,4,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+609000,85,80,3,6,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1520000,100,90,3,8,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2999000,160,150,6,5,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1370000,90,80,3,4,4,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2100000,110,95,4,4,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2450000,100,90,3,5,4,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1360000,125,115,4,6,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2650000,95,90,3,3,0,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+1850000,80,75,3,2,13.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3600000,120,110,4,3,0,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+780000,85,80,3,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1400000,145,140,4,5,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1300000,150,130,4,6,18.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1350000,125,110,4,6,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2450000,160,145,5,4,4,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1350000,130,120,4,5,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2990000,107,87,3,12,4,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1750000,85,75,3,6,21,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+865000,110,100,3,6,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1600000,95,70,3,5,7.5,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+3550000,73,63,2,15,3,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+8515000,139,115,4,16,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2800000,90,82,3,5,0,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+1150000,90,70,3,5,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+4450000,103,80,3,4,21,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+2550000,115,105,4,2,7.5,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+8700000,155,125,4,9,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1790000,90,80,3,4,3,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1085000,130,110,3,6,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1522000,130,120,4,4,18.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3750000,220,170,5,4,18.5,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1450000,120,110,4,5,21,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+3600000,90,82,3,5,0,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+1349000,85,77,3,3,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+915000,70,65,2,3,7.5,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+2750000,180,165,3,3,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2000000,95,90,3,3,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1950000,95,85,3,4,4,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+7995000,155,120,4,12,7.5,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1800000,55,50,2,18,18.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+5050000,133,105,4,20,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2500000,95,85,3,9,7.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+900000,145,140,4,5,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2000000,85,70,3,4,4,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+4100000,94,90,3,12,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1900000,47,40,2,16,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+5850000,137,115,4,15,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2500000,130,120,4,3,7.5,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+1550000,150,140,4,6,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+4650000,152,140,4,11,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+15300000,196,180,5,9,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2210000,170,150,5,4,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2950000,155,130,4,3,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+4175000,130,110,4,9,21,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3450000,84,70,2,22,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1348000,90,80,3,3,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+990000,85,75,2,7,18.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+7280000,137,115,4,17,13.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+850000,80,75,3,4,13.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1450000,140,135,4,6,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2350000,110,100,3,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+3100000,90,80,2,5,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+7200000,126,110,4,15,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+5650000,144,120,4,14,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+850000,150,140,4,6,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1399000,135,130,4,4,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2700000,85,80,3,2,7.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1050000,90,80,3,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2575000,120,110,4,3,2,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+1500000,95,90,3,5,21,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+800000,75,70,3,5,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1349000,90,80,3,4,4,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+1780000,120,100,3,5,21,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+1625000,110,100,3,6,21,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+2750000,60,50,2,11,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1650000,80,70,3,5,0,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+800000,90,80,3,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+8300000,130,98,3,11,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+9500000,155,120,4,6,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3300000,101,90,3,22,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+7000000,147,107,4,22,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+13500000,203,160,5,29,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1900000,52,47,2,15,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2250000,120,110,4,4,4,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1750000,100,90,3,5,18.5,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1520000,100,90,3,6,21,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+7650000,178,140,4,22,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1475000,70,65,2,4,7.5,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1900000,65,60,1,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+945000,70,65,2,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1700000,45,44,2,4,18.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+5500000,122,100,3,24,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1300000,75,70,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+725000,85,80,3,6,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+3550000,175,125,6,4,4,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2049000,90,85,3,5,21,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+2990000,90,70,3,30,0,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1600000,90,85,3,6,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1050000,85,80,3,6,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+980000,90,85,3,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2400000,160,150,4,3,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2650000,120,110,4,3,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2000000,95,70,3,5,13.5,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+1200000,45,40,2,4,0,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+2450000,90,85,3,5,0,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+4000000,170,150,4,4,4,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+2300000,100,90,3,11,13.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+3500000,120,100,3,8,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1270000,65,60,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2500000,70,65,3,3,7.5,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+1250000,140,130,4,6,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3250000,120,110,4,3,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1830000,85,75,3,3,4,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+6150000,125,101,3,15,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2160000,78,50,2,19,1,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+6800000,92,65,2,6,0,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1750000,135,130,4,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+950000,90,85,3,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1680000,75,70,3,4,0,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1700000,65,55,2,4,7.5,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+3800000,90,70,3,13,7.5,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+1550000,80,75,3,3,3,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1350000,85,75,3,5,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+3300000,190,180,6,3,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1430000,75,74,3,4,4,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2100000,85,80,3,3,13.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+865000,90,85,3,6,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+555000,80,75,2,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2200000,140,130,4,4,21,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+4000000,140,130,4,5,21,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+1250000,95,85,3,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1900000,85,75,3,3,3,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+2550000,85,75,3,2,7.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1735000,90,75,3,3,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1075000,100,90,3,6,21,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+3300000,190,170,5,2,13.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1600000,32,25,,16,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4200000,180,160,5,4,3,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2790000,85,80,3,5,3,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+2550000,85,75,3,5,0,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+2650000,85,75,3,5,0,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+1790000,85,80,3,2,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3100000,125,115,4,4,0,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+3000000,125,115,4,4,0,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+1995000,95,90,3,3,3,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1673000,58,37,,15,4,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+3650000,129,92,3,9,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1759000,100,90,3,5,4,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+5000000,120,110,4,9,18.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4000000,93,80,2,18,13.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2530000,60,50,2,11,18.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2200000,58,57,2,9,18.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2900000,70,60,2,14,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4000000,120,110,4,9,18.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+7000000,147,130,4,26,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1400000,90,85,3,5,21,Ýstanbul - Küçükçekmece - Yarýmburgaz Mahallesi
+2500000,120,110,4,10,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+3000000,140,120,5,5,0,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2600000,65,45,2,15,4,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+1385000,100,85,2.5,4,13.5,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1250000,145,140,4,5,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1150000,130,125,4,5,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2350000,60,47,2,7,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2999999,90,78,2,15,4,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+2850000,120,90,3,3,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1350000,95,85,3,4,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+740000,90,85,3,5,21,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+22000000,255,172,5,5,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3650000,140,130,4,4,4,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+2590000,160,150,5,3,4,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3350000,185,175,6,3,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2499000,90,85,3,3,3,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1890000,120,110,4,8,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2600000,115,100,3,3,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1840000,90,82,3,3,18.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+7650000,147,110,4,26,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3650000,84,75,2,22,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+10500000,165,145,4,13,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+11500000,180,150,5,14,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+9500000,172,164,4,13,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3500000,74,55,2,16,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+5250000,107,75,3,16,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2850000,74,55,2,19,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1250000,95,85,3,5,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2850000,130,110,4,3,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1450000,95,85,3,3,7.5,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+3250000,84,78,3,10,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4300000,133,110,4,11,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+4100000,94,87,3,30,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1800000,110,100,3,4,21,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+1250000,80,70,3,5,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2650000,97,85,3,12,13.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+7200000,126,110,3,19,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+4400000,70,60,2,14,0,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+1100000,105,95,3,5,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1800000,115,100,4,4,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+6100000,200,180,6,4,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2500000,130,110,4,6,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1680000,75,70,3,4,0,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+1399000,95,85,3,4,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1900000,135,125,4,6,18.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2800000,90,85,3,4,13.5,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+10500000,198,180,5,10,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1550000,80,75,3,3,3,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+900000,160,150,4,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2350000,110,95,3,4,13.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+3550000,190,170,6,4,7.5,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+3000000,95,70,3,5,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1845000,85,80,3,5,0,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+3250000,165,145,5,3,0,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+6000000,130,112,3,24,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+7000000,145,110,3,24,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2950000,170,160,5,3,21,Ýstanbul - Küçükçekmece - Kemalpaþa Mahallesi
+2350000,85,80,3,5,0,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+2300000,100,90,4,6,0,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+2500000,85,80,3,3,7.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+9900000,975,750,4,5,21,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+820000,85,80,3,4,21,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+3200000,62,58,2,15,4,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1280000,145,140,4,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1600000,100,95,3,6,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2900000,200,180,6,5,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1400000,120,110,4,4,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2260000,95,90,3,4,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2795000,110,90,3,4,4,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+2500000,180,172,5,5,21,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+1100000,85,70,3,5,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1450000,146,136,4,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+3130000,92,84,3,11,13.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2700000,74,50,2,18,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3200000,90,70,2,19,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1760000,100,90,3,5,3,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+3750000,104,80,3,9,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1550000,110,90,3,5,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1280000,110,105,3,5,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3750000,220,170,5,4,18.5,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+3500000,110,100,4,5,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2000000,95,90,3,5,13.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1320000,180,150,3,5,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2550000,140,120,5,4,7.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+980000,85,70,3,6,13.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2300000,115,95,4,13,0,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2450000,105,80,3,3,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3400000,125,110,4.5,7,13.5,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+3050000,64,48,2,8,0,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+2350000,115,105,4,5,21,Ýstanbul - Küçükçekmece - Beþyol Mahallesi
+1250000,130,110,4,5,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2600000,100,90,3,2,13.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1675000,80,75,2,3,3,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+4500000,250,240,7,3,7.5,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+2100000,75,70,3,3,7.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1600000,135,115,4,5,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2300000,100,85,4,5,21,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+1299000,90,80,3,6,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+3000000,130,110,3,2,4,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2125000,58,47,2,15,7.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+2500000,120,110,4,4,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2100000,58,50,2,23,4,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2100000,160,150,5,3,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+4900000,93,80,3,10,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2300000,100,85,3,4,0,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+1850000,145,140,4,5,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2300000,85,75,3,3,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3350000,165,135,5,3,7.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+2100000,140,130,4,5,18.5,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+1250000,130,120,4,6,21,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+5800000,157,100,3,4,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+900000,130,120,3.5,5,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2000000,90,85,3,3,2,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+675000,105,95,3,5,18.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2070000,75,65,2,3,0,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1985000,120,110,3,4,13.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2500000,87,85,3,15,21,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+7950000,175,145,5,11,4,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+980000,100,85,3,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1950000,100,95,3,5,21,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+1345000,80,75,3,3,7.5,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+2250000,130,120,4,5,21,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+1900000,120,115,4,5,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2500000,110,95,4,4,7.5,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1500000,60,44,2,14,7.5,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+7650000,147,110,4,26,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+7680000,139,115,4,18,13.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+4000000,94,85,3,11,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2200000,85,75,3,5,7.5,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+950000,85,75,3,6,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+1100000,100,95,3,5,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+949000,95,90,3,5,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+980000,80,70,3,8,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1200000,115,110,4,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1250000,145,140,4,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+9000000,200,150,4.5,12,3,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+1450000,130,120,4,6,21,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1500000,180,170,1,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2600000,110,95,3,3,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+950000,90,80,3,7,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+5600000,155,135,4,6,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2350000,80,70,3,3,7.5,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+2350000,65,55,2,9,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1400000,110,100,3,5,21,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+2430000,120,100,4,3,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+2800000,90,80,3,3,7.5,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+1080000,85,80,2,7,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+8747000,404,110,3.5,3,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+3500000,130,115,4,4,3,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+3500000,110,90,4,5,0,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+1675000,110,100,3,5,21,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+3400000,165,145,5,4,7.5,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1875000,85,75,3,3,0,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1675000,110,100,3,3,4,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+3200000,100,70,3,8,0,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+5000000,200,185,5,3,4,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1150000,70,65,3,4,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1930000,60,55,2,30,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+3000000,85,70,2,14,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+7300000,139,115,4,18,13.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+945000,90,85,3,4,21,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1330000,88,70,2,3,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2690000,130,110,4,3,7.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+5500000,122,104,3,11,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1550000,75,70,3,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+3250000,180,165,6,4,0,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+3600000,150,130,3,4,0,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+1650000,80,70,3,4,0,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+3600000,180,165,6,4,0,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+2600000,95,85,3,4,0,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+2000000,100,85,3,6,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+4000000,110,90,3,9,7.5,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+1750000,100,97,3,4,7.5,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1650000,140,135,4,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+930000,85,75,3,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+3500000,137,126,4,15,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+885000,95,90,3,5,21,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+700000,75,65,2,6,21,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+11000000,184,150,4,12,4,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+4200000,180,160,6,3,0,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1375000,110,100,3,5,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1535000,90,80,3,4,18.5,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+1350000,100,95,3,6,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1330000,84,70,2,3,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1550000,90,80,3,8,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2700000,90,80,3,4,21,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+950000,95,85,3,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+5000000,115,113,3,5,18.5,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+5000000,115,114,3,5,18.5,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+5000000,115,110,3,5,18.5,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+1850000,125,110,4,5,21,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+3050000,140,120,4,8,21,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+3800000,130,115,4,5,3,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+2500000,140,130,4,3,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+3200000,95,70,3,11,0,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+3100000,63,55,2,7,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1900000,60,48,2,4,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+5000000,140,102,4,12,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+5850000,130,120,4,14,4,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+2500000,125,110,3.5,5,21,Ýstanbul - Küçükçekmece - Kemalpaþa Mahallesi
+1150000,85,80,3,5,21,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1890000,85,80,3,4,0,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+825000,85,84,3,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+820000,95,90,3,5,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+1350000,85,75,3,4,0,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+1300000,95,85,3,4,7.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2350000,75,70,2,17,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3200000,82,70,3,11,18.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+7000000,176,130,4,18,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+5500000,120,100,3,7,13.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+6900000,155,120,4,7,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1750000,100,85,4,5,2,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+1900000,90,80,3,3,7.5,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1450000,140,130,4,6,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2350000,118,110,4,3,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1850000,80,70,3,3,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1750000,80,70,3,3,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1300000,100,90,3,4,21,Ýstanbul - Küçükçekmece - Fatih Mahallesi
+1425000,120,110,4,7,21,Ýstanbul - Küçükçekmece - Söðütlü Çeþme Mahallesi
+1750000,140,130,4,4,21,Ýstanbul - Küçükçekmece - Cumhuriyet Mahallesi
+4250000,160,140,6,4,2,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+1950000,145,135,5,4,7.5,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1850000,80,75,4,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+1230000,140,135,5,6,21,Ýstanbul - Küçükçekmece - Ýnönü Mahallesi
+7500000,147,107,4,22,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+815000,75,70,3,4,7.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+4200000,200,185,6,3,7.5,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
+9500000,178,130,4,13,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2730000,100,85,3,6,7.5,Ýstanbul - Küçükçekmece - Tevfik Bey Mahallesi
+5900000,215,75,3.5,20,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2600000,160,140,4,4,4,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2000000,75,65,3,4,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+1650000,90,80,3,5,0,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+2275000,80,70,3,3,7.5,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+3400000,160,150,5,4,0,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+890000,75,70,3,3,21,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+1750000,65,60,2,4,4,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+2600000,76,66,2,18,13.5,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+640000,65,55,2,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+2050000,120,90,3,3,4,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+680000,80,75,3,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+2950000,69,42,2,8,0,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+2750000,160,140,5,3,0,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+5250000,152,130,4,15,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1600000,65,50,2,4,0,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+5250000,152,130,4,15,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2900000,110,100,4,8,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2750000,100,90,3,8,7.5,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+945000,100,85,3,6,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+5300000,138,130,3,20,13.5,Ýstanbul - Küçükçekmece - Halkalý Merkez Mahallesi
+499000,50,40,2,7,21,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+3950000,190,170,6,4,1,Ýstanbul - Küçükçekmece - Yeni Mahalle Mahallesi
+12250000,500,450,9,4,0,Ýstanbul - Küçükçekmece - Fevzi Çakmak Mahallesi
+850000,75,70,3,4,13.5,Ýstanbul - Küçükçekmece - Mehmet Akif Mahallesi
+5250000,120,107,4,11,13.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+2450000,85,71,3,5,18.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+8400000,164,144,4,9,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+1939000,90,80,3,4,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2050000,105,95,3,4,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+2720000,90,84,2,15,7.5,Ýstanbul - Küçükçekmece - Atakent Mahallesi
+3000000,230,180,6,4,4,Ýstanbul - Küçükçekmece - Sultan Murat Mahallesi
+1975000,75,70,2,5,7.5,Ýstanbul - Küçükçekmece - Cennet Mahallesi
+2150000,85,80,3,3,4,Ýstanbul - Küçükçekmece - Kartaltepe Mahallesi
+1000000,100,90,3,5,21,Ýstanbul - Küçükçekmece - Ýstasyon Mahallesi
+3000000,200,185,6,4,0,Ýstanbul - Küçükçekmece - Kanarya Mahallesi
+1675000,75,70,3,3,0,Ýstanbul - Küçükçekmece - Gültepe Mahallesi
+449000,75,70,2,7,21,Ýstanbul - Küçükçekmece - Atatürk Mahallesi
+1300000,90,80,3,5,21,Ýstanbul - Küçükçekmece - Yeþilova Mahallesi
