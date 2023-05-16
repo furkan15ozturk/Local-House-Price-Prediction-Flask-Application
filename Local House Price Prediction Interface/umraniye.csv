@@ -1,0 +1,1156 @@
+price,area,absolute_area,room,floor_count,building_age,location
+2350000,90,85,3,7,13.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+4900000,90,75,3,10,0,Ýstanbul - Ümraniye - Atatürk Mahallesi
+6000000,115,100,4,10,0,Ýstanbul - Ümraniye - Atatürk Mahallesi
+5350000,115,105,4,15,0,Ýstanbul - Ümraniye - Atatürk Mahallesi
+3350000,80,75,3,12,2,Ýstanbul - Ümraniye - Esenevler Mahallesi
+2050000,90,85,3,14,21,Ýstanbul - Ümraniye - Atakent Mahallesi
+2980000,85,72,3,9,3,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+9500000,170,150,5,11,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2600000,90,70,3,6,7.5,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+6200000,250,212,7,5,7.5,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+3750000,90,70,3,11,0,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+5250000,122,98,4,15,13.5,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+3750000,150,125,4,8,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+2170000,80,70,3,3,0,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2900000,87,75,3,6,0,Ýstanbul - Ümraniye - Parseller Mahallesi
+4750000,130,110,4,9,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+4000000,135,115,4,4,21,Ýstanbul - Ümraniye - Atakent Mahallesi
+2999999,90,80,3,5,7.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+1650000,236,120,4,1,21,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+3800000,125,110,4,5,21,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3965000,130,110,4,9,13.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+5000000,139,95,3,16,7.5,Ýstanbul - Ümraniye - Þerifali Mahallesi
+1850000,120,90,4,5,21,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+4390000,120,110,4,3,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+17750000,290,250,6,2,18.5,Ýstanbul - Ümraniye - Parseller Mahallesi
+2750000,58,40,2,14,1,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+5800000,135,105,4,9,13.5,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+3700000,120,100,4,5,7.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+4000000,130,110,4,4,0,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+2900000,80,75,3,6,7.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+2500000,80,70,3,4,0,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+4475000,130,120,6,5,13.5,Ýstanbul - Ümraniye - Þerifali Mahallesi
+3250000,135,110,4,5,21,Ýstanbul - Ümraniye - Atatürk Mahallesi
+3800000,120,110,3,12,4,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3500000,300,285,5,4,21,Ýstanbul - Ümraniye - Atatürk Mahallesi
+7500000,109,83,3,6,0,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+17100000,179,135,4,7,1,Ýstanbul - Ümraniye - Finanskent Mahallesi
+1850000,85,75,3,5,7.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+3000000,94,85,3,10,3,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+17500000,149,107,4,14,2,Ýstanbul - Ümraniye - Finanskent Mahallesi
+3400000,63,47,2,30,1,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+1500000,55,50,2,5,7.5,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+2950000,107,100,3,5,21,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3700000,110,100,4,4,13.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+2700000,100,90,3,5,7.5,Ýstanbul - Ümraniye - Tepeüstü Mahallesi
+4440000,137,125,4,8,21,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+2350000,90,80,3,4,0,Ýstanbul - Ümraniye - Huzur Mahallesi
+2850000,85,70,3,5,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+1650000,90,80,3,5,21,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+6550000,125,95,4,9,0,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+1800000,80,65,3,4,13.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+1650000,85,75,3,4,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+1200000,85,80,3,5,21,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+3950000,115,100,4,6,0,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+2975000,115,110,3,5,21,Ýstanbul - Ümraniye - Madenler Mahallesi
+5400000,115,105,3,10,7.5,Ýstanbul - Ümraniye - Site Mahallesi
+4400000,110,95,3,5,4,Ýstanbul - Ümraniye - Atatürk Mahallesi
+2500000,140,100,4,9,18.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+3450000,130,100,4,7,18.5,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+3290000,90,80,3,10,0,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+2497000,95,80,3,4,7.5,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+3900000,115,100,4,5,0,Ýstanbul - Ümraniye - Ihlamurkuyu Mahallesi
+2475000,95,80,3,4,7.5,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+2650000,85,75,3,3,13.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+3250000,150,120,4,3,21,Ýstanbul - Ümraniye - Atatürk Mahallesi
+3550000,120,95,4,3,0,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+2050000,90,80,3,6,13.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+5750000,170,140,4,12,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+2990000,85,70,3,13,4,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+5350000,110,90,3,8,7.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+3250000,120,110,3,5,21,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2700000,85,80,3,5,7.5,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+6250000,150,130,4,11,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+5600000,120,85,3,7,13.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+3325000,85,75,3,8,4,Ýstanbul - Ümraniye - Þerifali Mahallesi
+2650000,85,75,3,4,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3250000,135,120,4,10,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+4100000,125,95,4,7,7.5,Ýstanbul - Ümraniye - Atakent Mahallesi
+4650000,180,145,6,5,2,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2000000,75,55,3,4,7.5,Ýstanbul - Ümraniye - Ihlamurkuyu Mahallesi
+2320000,90,80,3,4,7.5,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+3100000,90,80,3,6,7.5,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+3900000,120,105,4,4,0,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+2650000,130,120,4,5,21,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+2420000,90,80,3,6,21,Ýstanbul - Ümraniye - Atatürk Mahallesi
+4500000,120,110,4,15,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2200000,75,70,4,4,4,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+4250000,120,110,4,15,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2250000,75,70,3,4,4,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+2550000,95,80,3,4,13.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3600000,140,120,4,5,0,Ýstanbul - Ümraniye - Site Mahallesi
+3750000,160,130,4.5,5,7.5,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2775000,95,80,3,4,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+1840000,58,48,2,5,0,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+2850000,90,80,3,5,0,Ýstanbul - Ümraniye - Site Mahallesi
+1450000,65,60,3,4,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2640000,60,50,2,4,0,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+1800000,60,50,2,5,0,Ýstanbul - Ümraniye - Site Mahallesi
+3500000,140,120,4,5,0,Ýstanbul - Ümraniye - Site Mahallesi
+1590000,70,55,2,13,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2350000,85,70,3,4,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+2270000,100,90,3,5,18.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+5750000,140,125,4,13,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3600000,90,80,3,4,0,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+4750000,145,125,4,9,18.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+3400000,110,100,4,10,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2695000,120,88,4,5,13.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+2050000,60,55,2,5,2,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2350000,90,80,3,4,13.5,Ýstanbul - Ümraniye - Þerifali Mahallesi
+3500000,70,61,2,7,4,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+2750000,66,60,3,6,0,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+5300000,145,117,4,17,7.5,Ýstanbul - Ümraniye - Site Mahallesi
+6970000,130,115,4,13,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+2245000,90,80,3,4,7.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+4400000,112,100,4,8,18.5,Ýstanbul - Ümraniye - Parseller Mahallesi
+1750000,65,45,2,4,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+10500000,187,140,4,26,1,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+5600000,95,80,3,7,0,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+3500000,88,78,3,6,0,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+3900000,160,150,5,4,18.5,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+2200000,85,80,3,3,21,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2700000,85,75,3,5,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+1850000,180,110,4,6,21,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2700000,90,80,3,11,4,Ýstanbul - Ümraniye - Site Mahallesi
+2900000,55,45,2,18,7.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+2300000,70,60,3,16,0,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+3250000,88,75,3,5,0,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+3350000,95,82,3,5,0,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+7300000,240,220,6,5,0,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+1670000,80,70,2,4,7.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2775000,90,80,3,5,0,Ýstanbul - Ümraniye - Madenler Mahallesi
+7600000,135,95,3,29,3,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+4150000,130,99,4,10,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+1850000,85,75,3,5,7.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+6250000,155,135,5,5,13.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+13200000,170,110,4,6,0,Ýstanbul - Ümraniye - Finanskent Mahallesi
+5200000,60,40,2,15,3,Ýstanbul - Ümraniye - Finanskent Mahallesi
+4100000,70,55,3,11,0,Ýstanbul - Ümraniye - Esenevler Mahallesi
+1390000,90,80,3,8,18.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2000000,120,109,3,5,21,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+7650000,135,95,3,29,3,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+3300000,95,70,3,10,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2475000,110,80,3,8,21,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+2495000,95,77,3,8,7.5,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+2130000,110,95,4,5,21,Ýstanbul - Ümraniye - Altýnþehir Mahallesi
+4900000,150,130,6,5,13.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+6250000,150,120,5,5,0,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+3250000,160,140,5,5,13.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+1720000,85,70,3,5,3,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+5950000,97,64,3,16,1,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+7000000,180,160,5,4,7.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+3500000,62,45,2,8,0,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+4600000,130,110,4,7,0,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+4040000,77,55,2,30,2,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+4250000,160,140,4,4,7.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+1500000,90,80,3,8,18.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3760000,120,90,4,12,0,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2780000,105,70,3,5,1,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+7500000,148,110,4,14,13.5,Ýstanbul - Ümraniye - Saray Mahallesi
+10500000,176,114,4,29,1,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+11650000,175,114,4,29,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+3300000,75,45,2,13,7.5,Ýstanbul - Ümraniye - Saray Mahallesi
+2500000,90,80,3,4,7.5,Ýstanbul - Ümraniye - Ihlamurkuyu Mahallesi
+2650000,110,80,3,9,7.5,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+5950000,97,64,3,16,1,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3100000,85,70,3,4,13.5,Ýstanbul - Ümraniye - Parseller Mahallesi
+3100000,85,70,3,4,13.5,Ýstanbul - Ümraniye - Parseller Mahallesi
+2750000,110,100,4,14,7.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+6650000,150,130,4,9,18.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+3490000,150,120,4,3,21,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3080000,80,65,2,4,7.5,Ýstanbul - Ümraniye - Tantavi Mahallesi
+3570000,140,120,4,8,13.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+2650000,160,140,4,4,18.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+8500000,270,250,7,5,0,Ýstanbul - Ümraniye - Atatürk Mahallesi
+5500000,150,120,3,5,0,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+5650000,175,160,7,10,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+5550000,120,100,4,10,13.5,Ýstanbul - Ümraniye - Site Mahallesi
+5800000,200,180,6,10,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2300000,85,65,2,4,0,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2485000,90,80,3,5,7.5,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+3494000,135,98,4,11,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2600000,110,100,3,6,18.5,Ýstanbul - Ümraniye - Altýnþehir Mahallesi
+3700000,145,110,4,8,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+2880000,128,110,4,4,18.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+4150000,85,75,3,6,2,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+8750000,151,138,6,11,0,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+3420000,90,76,3,10,4,Ýstanbul - Ümraniye - Atatürk Mahallesi
+2150000,80,70,2,4,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3250000,115,100,3,5,7.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+3150000,125,105,4,4,21,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+4950000,250,210,6,7,21,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+1450000,272,68,3,1,21,Ýstanbul - Ümraniye - Adem Yavuz Mahallesi
+1399000,80,70,3,5,7.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+13300000,171,107,4,6,0,Ýstanbul - Ümraniye - Finanskent Mahallesi
+3850000,100,85,3,8,18.5,Ýstanbul - Ümraniye - Parseller Mahallesi
+2690000,90,75,3,5,3,Ýstanbul - Ümraniye - Esenkent Mahallesi
+2850000,90,70,3,3,13.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+5450000,150,125,5,8,13.5,Ýstanbul - Ümraniye - Þerifali Mahallesi
+3900000,190,145,5,3,7.5,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+2180000,90,75,3,4,7.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+1400000,90,80,3,8,18.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+5200000,170,150,5,5,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+1725000,85,79,3,4,13.5,Ýstanbul - Ümraniye - Þerifali Mahallesi
+1750000,58,50,2,4,0,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+2170000,95,80,3,6,7.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+2495000,90,78,3,7,3,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+2050000,65,58,2,5,7.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+7250000,180,150,5,9,4,Ýstanbul - Ümraniye - Tantavi Mahallesi
+1650000,75,65,3,4,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+750000,40,35,2,3,21,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+4000000,105,95,4,5,18.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+3000000,90,75,3,4,7.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+1800000,65,55,2,5,13.5,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+2000000,60,50,2,5,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3350000,130,115,4,8,18.5,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2580000,95,85,3,4,18.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2590000,70,55,3,9,0,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3300000,125,110,4,9,13.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+2300000,110,95,3,5,21,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+3665200,150,125,4,9,13.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3250000,160,140,4,5,21,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+2750000,100,85,3,6,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+2190000,90,75,3,7,13.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+2100000,90,85,3,3,13.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+2250000,100,80,4,5,21,Ýstanbul - Ümraniye - Atakent Mahallesi
+5600000,110,100,4,10,3,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+1550000,70,60,3,5,18.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+2450000,84,72,3,5,7.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+1700000,100,78,2,5,1,Ýstanbul - Ümraniye - Çakmak Mahallesi
+1680000,90,75,3,4,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2200000,85,75,3,4,4,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+3585000,145,135,4,5,7.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2315000,95,85,3,5,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2250000,90,77,3,5,2,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+2055000,85,75,3,4,13.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3250000,120,110,4,7,18.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3250000,118,100,4,5,0,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+3250000,110,95,4,6,13.5,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+3900000,110,94,4,7,7.5,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+3700000,100,75,3,14,4,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3300000,150,130,4,8,18.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+4100000,100,90,3,6,13.5,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+2000000,75,60,3,5,0,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+2250000,87,74,3,6,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3200000,125,100,4,6,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+2850000,130,120,4,8,21,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+2150000,75,65,3,5,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3500000,96,80,3,4,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3950000,155,135,4,15,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+5570000,123,89,3,8,7.5,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+1200000,100,90,3,1,21,Ýstanbul - Ümraniye - Dumlupýnar Mahallesi
+11000000,85,75,3,5,2,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+2050000,75,65,2,11,7.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+5500000,195,185,5,11,4,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3750000,125,95,4,9,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+2500000,80,65,3,5,0,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+14350000,800,760,9,6,21,Ýstanbul - Ümraniye - Ihlamurkuyu Mahallesi
+2495000,88,80,3,4,7.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+4225000,115,80,4,12,0,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+5550000,120,100,4,10,13.5,Ýstanbul - Ümraniye - Site Mahallesi
+8500000,170,147,4,31,0,Ýstanbul - Ümraniye - Finanskent Mahallesi
+6000000,210,190,5,4,13.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+2900000,80,60,3,5,7.5,Ýstanbul - Ümraniye - Atatürk Mahallesi
+4800000,100,70,3,10,7.5,Ýstanbul - Ümraniye - Atatürk Mahallesi
+4790000,140,125,4,12,4,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2500000,85,75,3,6,7.5,Ýstanbul - Ümraniye - Huzur Mahallesi
+6700000,77,65,2,14,2,Ýstanbul - Ümraniye - Finanskent Mahallesi
+3250000,125,105,4,4,21,Ýstanbul - Ümraniye - Atatürk Mahallesi
+3550000,125,100,4,5,13.5,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+2850000,80,70,3,4,0,Ýstanbul - Ümraniye - Site Mahallesi
+3250000,100,90,3,4,0,Ýstanbul - Ümraniye - Esenevler Mahallesi
+3000000,100,80,3,5,7.5,Ýstanbul - Ümraniye - Altýnþehir Mahallesi
+3500000,90,75,3,9,3,Ýstanbul - Ümraniye - Esenevler Mahallesi
+3050000,85,70,3,4,0,Ýstanbul - Ümraniye - Altýnþehir Mahallesi
+4240000,145,125,5,8,7.5,Ýstanbul - Ümraniye - Þerifali Mahallesi
+6850000,116,96,4.5,30,1,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+2500000,90,75,3,6,7.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+3150000,130,110,3,7,7.5,Ýstanbul - Ümraniye - Adem Yavuz Mahallesi
+3050000,85,70,3,12,3,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3400000,135,120,4,7,18.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3650000,135,125,4,9,7.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+3450000,135,120,4,12,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+1475000,60,50,2,15,7.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2400000,95,90,3,5,13.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+3500000,110,100,4,5,18.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+5495000,195,160,5,11,2,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3500000,125,100,4,7,2,Ýstanbul - Ümraniye - Esenkent Mahallesi
+5495000,195,160,5,11,2,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3500000,125,100,4,7,0,Ýstanbul - Ümraniye - Esenkent Mahallesi
+3500000,95,80,3,11,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3250000,100,80,3,21,4,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3200000,105,85,4,5,0,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+1825000,75,60,3,5,7.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+2800000,90,80,3,5,0,Ýstanbul - Ümraniye - Madenler Mahallesi
+4600000,101,81,3,7,0,Ýstanbul - Ümraniye - Þerifali Mahallesi
+1550000,85,65,3,3,7.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+1950000,80,75,3,5,0,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+3100000,100,90,4,4,0,Ýstanbul - Ümraniye - Ihlamurkuyu Mahallesi
+5000000,101,90,3,7,0,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+5600000,98,62,3,16,0,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+2800000,105,75,3,5,21,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+5200000,105,90,3,16,0,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3000000,95,80,3,5,7.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+3250000,110,98,3,4,7.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3350000,90,80,3,5,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2550000,95,75,3,4,18.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3000000,100,75,3,10,7.5,Ýstanbul - Ümraniye - Site Mahallesi
+2665000,55,50,2,15,4,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2195000,95,80,3,5,21,Ýstanbul - Ümraniye - Atatürk Mahallesi
+2400000,100,90,4,9,21,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3250000,125,105,4,10,13.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+5700000,180,155,6,8,4,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+3975000,70,55,2,8,13.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+2500000,130,125,4,6,21,Ýstanbul - Ümraniye - Atatürk Mahallesi
+3250000,140,128,4,8,18.5,Ýstanbul - Ümraniye - Adem Yavuz Mahallesi
+2500000,100,90,3,5,21,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+7850000,180,160,6,14,0,Ýstanbul - Ümraniye - Esenevler Mahallesi
+13500000,160,110,4,30,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+3900000,72,54,2,30,7.5,Ýstanbul - Ümraniye - Site Mahallesi
+2250000,70,60,3,4,21,Ýstanbul - Ümraniye - Atatürk Mahallesi
+5850000,135,115,4,10,0,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+6750000,135,115,4,10,0,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+2050000,95,90,3,3,21,Ýstanbul - Ümraniye - Atatürk Mahallesi
+3100000,150,128,4,6,18.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3750000,110,100,3,4,13.5,Ýstanbul - Ümraniye - Atatürk Mahallesi
+2800000,55,45,2,18,7.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+4400000,200,170,5,5,21,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+2750000,53,48,2,14,4,Ýstanbul - Ümraniye - Site Mahallesi
+2499000,65,55,2,4,0,Ýstanbul - Ümraniye - Atatürk Mahallesi
+1750000,100,90,3,4,21,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+10200000,139,110,3,30,7.5,Ýstanbul - Ümraniye - Tantavi Mahallesi
+10200000,110,80,3,30,7.5,Ýstanbul - Ümraniye - Tantavi Mahallesi
+4775000,120,80,4,9,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3950000,145,135,4,15,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3500000,97,71,4,9,0,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+3590000,120,100,4,13,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+5800000,140,130,4,4,13.5,Ýstanbul - Ümraniye - Tantavi Mahallesi
+1980000,55,40,2,5,0,Ýstanbul - Ümraniye - Ihlamurkuyu Mahallesi
+17500000,290,250,6,2,18.5,Ýstanbul - Ümraniye - Parseller Mahallesi
+3500000,95,82,3,11,2,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2395000,92,85,3,6,2,Ýstanbul - Ümraniye - Esenkent Mahallesi
+5500000,125,110,4,13,0,Ýstanbul - Ümraniye - Esenevler Mahallesi
+4250000,90,75,3,12,0,Ýstanbul - Ümraniye - Esenevler Mahallesi
+2695000,95,77,3,5,13.5,Ýstanbul - Ümraniye - Atatürk Mahallesi
+3650000,110,95,4,5,13.5,Ýstanbul - Ümraniye - Atatürk Mahallesi
+1865000,70,55,2,5,13.5,Ýstanbul - Ümraniye - Atatürk Mahallesi
+2695000,95,77,3,5,13.5,Ýstanbul - Ümraniye - Atatürk Mahallesi
+2300000,110,100,4,4,0,Ýstanbul - Ümraniye - Ihlamurkuyu Mahallesi
+3500000,65,42,2,16,1,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+4000000,118,97,4,5,21,Ýstanbul - Ümraniye - Tantavi Mahallesi
+8000000,147,127,4,5,21,Ýstanbul - Ümraniye - Tantavi Mahallesi
+2500000,125,110,3,5,18.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+3750000,95,80,3,6,0,Ýstanbul - Ümraniye - Çakmak Mahallesi
+3750000,80,70,3,14,2,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2850000,88,70,3,5,0,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+4600000,85,80,3,5,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+4420000,135,120,4,9,7.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+6000000,59,39,2,15,1,Ýstanbul - Ümraniye - Finanskent Mahallesi
+6000000,59,39,2,15,1,Ýstanbul - Ümraniye - Finanskent Mahallesi
+2320000,120,115,4,6,21,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+2200000,95,80,3,3,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+8000000,230,180,6,16,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+4300000,90,60,2,30,2,Ýstanbul - Ümraniye - Saray Mahallesi
+3550000,90,77,3,10,4,Ýstanbul - Ümraniye - Atatürk Mahallesi
+2900000,62,50,2,13,2,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+3450000,125,100,4,13,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+5450000,180,140,5,7,4,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+2750000,80,70,3,5,2,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+7400000,180,160,5,5,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+7400000,103,73,3,9,0,Ýstanbul - Ümraniye - Site Mahallesi
+4600000,101,81,3,7,0,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+1725000,82,76,3,4,18.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+7300000,220,180,6,5,4,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+5250000,120,110,4,5,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+2500000,120,100,4,4,0,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+4100000,125,95,4,7,7.5,Ýstanbul - Ümraniye - Atakent Mahallesi
+2850000,120,100,4,5,21,Ýstanbul - Ümraniye - Esenkent Mahallesi
+3200000,100,90,3,5,7.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+3500000,190,180,5,4,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2750000,143,135,4,4,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2890000,175,155,5,4,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3450000,135,125,4,5,13.5,Ýstanbul - Ümraniye - Site Mahallesi
+1450000,75,65,2,5,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2650000,130,120,4,4,21,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+8100000,280,240,8,5,13.5,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+3700000,75,50,2,16,0,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+5250000,143,118,4,10,7.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+4950000,143,118,4,10,7.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+4050000,68,50,2,16,0,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+6150000,110,90,3,8,7.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+1650000,95,90,3,5,21,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+4600000,150,130,4,10,18.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+5500000,143,125,4,6,7.5,Ýstanbul - Ümraniye - Atakent Mahallesi
+5025000,200,180,7,10,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2750000,90,80,3,5,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2750000,80,70,3,3,13.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+2950000,125,100,4,5,7.5,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+2500000,80,70,3,5,4,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+1850000,90,80,3,5,18.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2500000,120,110,4,6,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+4000000,105,95,4,5,18.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+2450000,80,70,3,4,7.5,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+4750000,135,125,4,6,13.5,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+11250000,135,85,4,34,0,Ýstanbul - Ümraniye - Finanskent Mahallesi
+2800000,80,75,3,2,4,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+2800000,140,130,4,5,13.5,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+1650000,75,70,3,4,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2900000,140,118,4,6,21,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+3100000,100,88,3,4,7.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+3745000,143,127,4,8,21,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+3750000,175,174,6,5,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+5200000,105,90,3,16,7.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3750000,125,100,4,6,3,Ýstanbul - Ümraniye - Esenkent Mahallesi
+3100000,135,125,6,3,7.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2650000,80,65,3,5,4,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+4500000,140,112,4,8,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+3650000,125,110,4,4,21,Ýstanbul - Ümraniye - Tantavi Mahallesi
+2500000,85,75,2,4,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3650000,80,70,3,9,4,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+4600000,135,117,5,4,13.5,Ýstanbul - Ümraniye - Atatürk Mahallesi
+4650000,80,72,3,10,3,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2850000,75,70,3,14,13.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+2900000,87,80,3,5,0,Ýstanbul - Ümraniye - Madenler Mahallesi
+1850000,80,75,3,4,7.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+4100000,140,114,4,4,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+2245000,55,33,,28,2,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+1650000,80,75,3,5,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2850000,83,65,3,5,0,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+14000000,285,251,6,3,18.5,Ýstanbul - Ümraniye - Atakent Mahallesi
+2450000,90,85,3,2,7.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+1550000,50,47,2,5,13.5,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+4950000,140,125,4,12,4,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+4200000,105,85,4,6,0,Ýstanbul - Ümraniye - Atakent Mahallesi
+3050000,95,85,3,4,7.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+4750000,98,76,3,15,3,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+5500000,120,100,4,13,0,Ýstanbul - Ümraniye - Tantavi Mahallesi
+4600000,100,80,3,13,0,Ýstanbul - Ümraniye - Tantavi Mahallesi
+1500000,70,60,3,4,7.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+9785000,100,75,3,9,0,Ýstanbul - Ümraniye - Site Mahallesi
+2200000,85,72,3,4,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+1850000,95,80,3,5,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2800000,90,70,3,6,0,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+3450000,135,110,4,4,21,Ýstanbul - Ümraniye - Madenler Mahallesi
+4750000,135,110,4,12,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+1775000,90,75,3,3,21,Ýstanbul - Ümraniye - Atatürk Mahallesi
+2075000,105,85,3,3,21,Ýstanbul - Ümraniye - Atatürk Mahallesi
+2750000,125,108,4,4,18.5,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+4400000,90,80,3,9,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+5500000,120,100,4,13,0,Ýstanbul - Ümraniye - Tantavi Mahallesi
+1800000,65,60,3,4,7.5,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+1350000,65,55,3,5,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+6300000,159,110,4,17,13.5,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+3750000,130,115,4,3,18.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+7500000,170,120,5,9,2,Ýstanbul - Ümraniye - Atatürk Mahallesi
+6200000,102,90,3,15,0,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3850000,96,86,3,9,4,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3300000,95,85,3,9,4,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+6195000,135,115,4,10,0,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+8750000,130,120,4,3,21,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+3500000,80,75,3,6,0,Ýstanbul - Ümraniye - Atatürk Mahallesi
+4350000,100,76,3,15,13.5,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+3650000,128,108,4,4,7.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+2490000,120,100,5,4,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2190000,90,75,3,7,7.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+2050000,80,65,3,4,7.5,Ýstanbul - Ümraniye - Altýnþehir Mahallesi
+2500000,65,60,2,11,0,Ýstanbul - Ümraniye - Esenevler Mahallesi
+1650000,65,55,2,5,7.5,Ýstanbul - Ümraniye - Tepeüstü Mahallesi
+2550000,85,75,3,6,7.5,Ýstanbul - Ümraniye - Tepeüstü Mahallesi
+2700000,65,55,2,11,0,Ýstanbul - Ümraniye - Þerifali Mahallesi
+1790000,80,70,3,4,18.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+3200000,62,42,2,13,2,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+3300000,62,42,2,13,2,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+4080000,115,95,4,8,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+5000000,135,110,4,14,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+4150000,125,95,4,5,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3600000,150,120,4,5,13.5,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+4250000,260,180,5,10,13.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3100000,135,120,4,8,18.5,Ýstanbul - Ümraniye - Þerifali Mahallesi
+4700000,110,90,3,14,0,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+2300000,144,120,4,5,21,Ýstanbul - Ümraniye - Esenkent Mahallesi
+2290000,144,120,4,5,21,Ýstanbul - Ümraniye - Esenkent Mahallesi
+4150000,73,43,2,30,7.5,Ýstanbul - Ümraniye - Tantavi Mahallesi
+4250000,73,43,2,30,7.5,Ýstanbul - Ümraniye - Tantavi Mahallesi
+3485000,110,100,4,10,2,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+1730000,52,40,2,4,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2625000,85,72,3,4,0,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+2350000,100,85,3,4,7.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+2850000,95,85,3,4,4,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2650000,85,70,3,5,7.5,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+2300000,160,150,4,5,21,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+2230000,85,75,3,3,7.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+3050000,200,180,5,4,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2500000,85,75,3,4,18.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+4150000,115,90,3,9,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3600000,135,115,4,10,7.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3095000,105,85,3,10,7.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3990000,135,110,4,9,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3250000,80,70,3,6,0,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+3500000,110,90,4,6,0,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+2850000,142,124,4,9,18.5,Ýstanbul - Ümraniye - Huzur Mahallesi
+3275000,87,60,3,12,0,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2975000,125,115,4,7,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+2000000,125,115,4,4,18.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3750000,125,110,4,4,7.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+2900000,90,85,3,4,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2900000,137,112,4,9,21,Ýstanbul - Ümraniye - Madenler Mahallesi
+4400000,100,80,3,27,13.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+262500,22,21,1,1,0,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+2900000,85,75,3,4,7.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+10500000,165,135,4,8,0,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+2400000,100,80,3,4,7.5,Ýstanbul - Ümraniye - Parseller Mahallesi
+3050000,125,120,4,4,21,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+3275000,125,115,3,8,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+3500000,125,110,4,5,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2750000,96,87,3,12,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3100000,115,95,4,4,4,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+1795000,52,40,2,4,0,Ýstanbul - Ümraniye - Ihlamurkuyu Mahallesi
+19500000,215,158,5,28,1,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+4750000,135,106,4,11,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3250000,80,70,3,4,0,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+1680000,60,40,2,4,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+1750000,115,105,3,6,18.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3650000,120,100,4,6,0,Ýstanbul - Ümraniye - Esenkent Mahallesi
+2650000,188,145,3,3,21,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+3550000,95,80,3,11,4,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3200000,145,120,4,4,7.5,Ýstanbul - Ümraniye - Altýnþehir Mahallesi
+3000000,85,75,3,11,13.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+2700000,100,80,3,4,0,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+4600000,110,90,4,14,7.5,Ýstanbul - Ümraniye - Tantavi Mahallesi
+4000000,170,155,4,4,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3750000,150,110,4,3,18.5,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+6950000,195,170,6,9,7.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3100000,110,90,3,6,4,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3500000,115,72,4,9,0,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2150000,120,100,3,4,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+4000000,200,150,6,5,21,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+6475000,100,75,3,9,0,Ýstanbul - Ümraniye - Site Mahallesi
+4550000,141,132,4,8,7.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+3750000,150,120,4,6,18.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+2600000,85,64,3,4,7.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+1900000,110,98,3,5,21,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+1490000,80,70,3,4,13.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3200000,105,90,4,4,0,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+4000000,165,140,4,7,18.5,Ýstanbul - Ümraniye - Adem Yavuz Mahallesi
+2050000,100,90,3,4,13.5,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+2750000,130,120,4,4,7.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+2350000,130,120,4,3,7.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+9550000,170,125,4.5,28,2,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+1500000,65,50,2,5,7.5,Ýstanbul - Ümraniye - Parseller Mahallesi
+4550000,130,100,4,15,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+1800000,140,130,4,5,21,Ýstanbul - Ümraniye - Esenevler Mahallesi
+4250000,115,95,4,6,0,Ýstanbul - Ümraniye - Ihlamurkuyu Mahallesi
+3200000,95,80,3,4,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+5100000,91,90,3,4,7.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+7250000,75,55,2,30,3,Ýstanbul - Ümraniye - Finanskent Mahallesi
+2100000,75,65,3,5,7.5,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+8500000,120,100,4,13,2,Ýstanbul - Ümraniye - Esenevler Mahallesi
+1250000,100,90,3,5,13.5,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+3900000,110,100,4,5,18.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3450000,170,155,4,8,18.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+1945000,75,70,3,3,7.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+3150000,92,80,3,10,4,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3600000,105,85,3,10,4,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3850000,90,85,3,15,2,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3850000,80,70,3,15,1,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+6500000,140,107,4,16,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+9000000,165,150,4.5,13,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+4495000,117,85,3,11,7.5,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+5000000,128,115,4,14,7.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+2400000,80,70,3,8,3,Ýstanbul - Ümraniye - Huzur Mahallesi
+3750000,120,110,4,8,13.5,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+4990000,200,170,6,4,7.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+2650000,140,130,5,3,18.5,Ýstanbul - Ümraniye - Tepeüstü Mahallesi
+2650000,75,60,2,9,7.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+4000000,130,110,4,9,13.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3000000,130,110,4,8,18.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+3450000,145,135,4,9,21,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+2900000,110,90,4,6,13.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3425000,100,75,3,15,13.5,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+2750000,85,75,3,5,2,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+1250000,80,70,3,5,7.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+2600000,110,90,3,7,21,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+1750000,105,100,3,6,21,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+9500000,230,160,5,7,13.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+2100000,110,95,3,4,18.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3700000,180,150,5,3,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+1825000,65,50,2,7,7.5,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2500000,75,65,3,4,7.5,Ýstanbul - Ümraniye - Altýnþehir Mahallesi
+3350000,110,90,4,6,0,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+3100000,74,44,2,30,7.5,Ýstanbul - Ümraniye - Saray Mahallesi
+1450000,80,65,3,8,7.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+7500000,180,125,6,9,2,Ýstanbul - Ümraniye - Atatürk Mahallesi
+1650000,90,80,3,7,18.5,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+9500000,166,140,5,8,13.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+8250000,246,200,5,8,18.5,Ýstanbul - Ümraniye - Parseller Mahallesi
+19650000,850,830,3,4,21,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+3650000,110,90,4,10,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2650000,90,80,3,3,18.5,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+3650000,110,90,4,10,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+7400000,160,127,4,14,13.5,Ýstanbul - Ümraniye - Saray Mahallesi
+2450000,110,95,4,5,21,Ýstanbul - Ümraniye - Atakent Mahallesi
+6225000,150,120,4,9,3,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+4500000,120,110,4,5,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+7950000,190,170,5,20,13.5,Ýstanbul - Ümraniye - Þerifali Mahallesi
+6600000,135,120,4,4,0,Ýstanbul - Ümraniye - Atatürk Mahallesi
+1500000,80,70,3,3,13.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+1600000,120,100,4,6,18.5,Ýstanbul - Ümraniye - Ihlamurkuyu Mahallesi
+3750000,145,120,4,9,0,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+3120000,85,75,3,6,1,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+12750000,166,114,4,29,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+8500000,135,94,3,29,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+2850000,140,110,4,6,4,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+6750000,180,150,4,3,0,Ýstanbul - Ümraniye - Atatürk Mahallesi
+2100000,65,40,,14,2,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+9750000,170,125,5,12,13.5,Ýstanbul - Ümraniye - Þerifali Mahallesi
+4300000,120,110,4,6,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+4350000,135,125,4,9,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+4495000,145,125,4,7,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+2550000,90,75,3,11,13.5,Ýstanbul - Ümraniye - Site Mahallesi
+5600000,101,80,3,7,0,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+4750000,135,120,4,11,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+3150000,95,80,3,11,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+3550000,75,70,3,3,7.5,Ýstanbul - Ümraniye - Atatürk Mahallesi
+4680000,160,135,4,12,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+2190000,95,76,3,4,21,Ýstanbul - Ümraniye - Ihlamurkuyu Mahallesi
+1800000,85,70,3,5,3,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+2075000,85,70,3,5,18.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+1550000,80,70,2,6,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2300000,75,70,3,5,4,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+2450000,85,80,3,6,21,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2300000,90,75,3,6,18.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2550000,90,85,3,5,4,Ýstanbul - Ümraniye - Huzur Mahallesi
+3400000,135,120,4,12,13.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+2100000,125,100,4,13,21,Ýstanbul - Ümraniye - Atakent Mahallesi
+2575000,90,80,3,5,7.5,Ýstanbul - Ümraniye - Tepeüstü Mahallesi
+4445000,137,125,4,8,21,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+2950000,130,110,4,8,13.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+2699000,125,95,3,4,21,Ýstanbul - Ümraniye - Site Mahallesi
+1700000,100,95,3,6,18.5,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+3200000,69,60,3,5,0,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+1524000,42,35,,6,4,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3800000,135,120,4,5,13.5,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+1925000,90,80,3,4,7.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+6500000,200,180,6,4,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+10500000,163,114,4,29,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+3950000,200,180,6,4,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2650000,120,90,4,4,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+1850000,65,55,2,4,0,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2650000,80,68,3,4,0,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2600000,105,86,3,5,18.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3250000,170,155,4,6,18.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3200000,110,90,4,6,0,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+3585000,135,110,4,4,21,Ýstanbul - Ümraniye - Madenler Mahallesi
+3950000,105,90,4,9,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3000000,85,80,3,6,0,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+2100000,90,80,3,7,13.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+2975000,85,63,3,5,0,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+2925000,145,120,4,5,18.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3150000,130,115,4,4,7.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+2800000,80,65,3,9,7.5,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+2350000,115,100,3,5,21,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2300000,100,90,4,5,7.5,Ýstanbul - Ümraniye - Atatürk Mahallesi
+2550000,80,63,3,3,0,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2925000,137,112,4,9,21,Ýstanbul - Ümraniye - Madenler Mahallesi
+11250000,170,118,4,29,3,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+6300000,140,100,3,20,13.5,Ýstanbul - Ümraniye - Saray Mahallesi
+3100000,200,180,5,4,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3150000,75,45,2,30,7.5,Ýstanbul - Ümraniye - Saray Mahallesi
+7500000,110,90,3,22,13.5,Ýstanbul - Ümraniye - Saray Mahallesi
+2050000,150,140,5,4,7.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2050000,150,140,5,4,7.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2100000,80,70,3,4,7.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+2405000,90,80,3,5,0,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+2080000,100,80,3,5,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3900000,100,73,2,14,13.5,Ýstanbul - Ümraniye - Þerifali Mahallesi
+5250000,135,105,3,13,0,Ýstanbul - Ümraniye - Tantavi Mahallesi
+4250000,105,85,3,9,0,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+4400000,130,100,3,13,0,Ýstanbul - Ümraniye - Tantavi Mahallesi
+4200000,105,85,3,9,0,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+4400000,105,85,3,10,0,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2199000,120,100,4,4,21,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+4950000,300,275,3,3,21,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+2400000,100,94,3,5,18.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3500000,135,120,4,8,18.5,Ýstanbul - Ümraniye - Tepeüstü Mahallesi
+3200000,140,100,4,7,18.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+2250000,90,75,3,5,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3095000,74,44,2,30,7.5,Ýstanbul - Ümraniye - Saray Mahallesi
+3250000,135,105,4,9,18.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+4250000,85,75,3,12,7.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+4450000,200,185,6,8,18.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+9500000,190,150,5,8,13.5,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+2000000,80,70,3,5,21,Ýstanbul - Ümraniye - Esenevler Mahallesi
+4425000,200,165,5,5,13.5,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+3750000,83,67,2,14,18.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+10500000,166,132,5,8,13.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+1650000,80,70,4,5,0,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+1800000,75,70,3,5,13.5,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+2500000,85,75,3,5,7.5,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+2100000,110,100,3,5,21,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2820000,100,75,3,14,4,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+7100000,125,85,3,30,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+3900000,74,50,2,29,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+6000000,155,130,4,9,2,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+5500000,147,110,4,18,13.5,Ýstanbul - Ümraniye - Þerifali Mahallesi
+7000000,180,175,6,4,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+3720000,130,100,3,3,0,Ýstanbul - Ümraniye - Atatürk Mahallesi
+3150000,160,150,4,4,3,Ýstanbul - Ümraniye - Çakmak Mahallesi
+3390000,100,80,3,16,7.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3480000,135,125,4,9,7.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2475000,90,80,3,5,7.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+2650000,90,75,3,9,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3050000,135,120,4,8,18.5,Ýstanbul - Ümraniye - Tepeüstü Mahallesi
+2750000,105,75,3,9,4,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+2520000,85,70,3,5,7.5,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+3275000,100,85,3,5,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+4150000,125,115,4,5,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+4750000,120,105,4,11,0,Ýstanbul - Ümraniye - Esenevler Mahallesi
+2050000,90,80,3,6,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+4750000,200,180,4,4,21,Ýstanbul - Ümraniye - Parseller Mahallesi
+7450000,135,94,3,29,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+7700000,135,94,3,30,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+3250000,90,70,3,13,1,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2500000,85,68,3,6,1,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+3200000,95,75,3,8,1,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2975000,106,88,3,8,4,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2750000,145,120,4,5,18.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3450000,105,80,3,9,4,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+2925000,106,85,3,8,4,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2570000,190,170,7,4,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+1750000,68,58,2,4,4,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2400000,105,95,3,4,4,Ýstanbul - Ümraniye - Altýnþehir Mahallesi
+2600000,110,95,3,4,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2240000,130,120,4,3,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2350000,100,90,3,5,7.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+1850000,90,80,3,5,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+3250000,110,95,3,4,0,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2135000,115,100,3,5,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+1525000,95,85,3,4,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+3700000,80,70,3,10,1,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3250000,130,120,4,5,21,Ýstanbul - Ümraniye - Madenler Mahallesi
+4100000,220,180,5,12,7.5,Ýstanbul - Ümraniye - Site Mahallesi
+3250000,120,100,4,5,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3500000,130,120,4,9,21,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+4300000,135,106,4,11,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+2500000,90,85,3,3,7.5,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+8000000,230,180,6,16,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+1525000,70,60,3,4,7.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+2030000,90,85,3,4,7.5,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+6100000,160,120,4,16,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+3650000,120,110,4,8,21,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2100000,80,75,3,5,21,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+2800000,85,65,3,12,7.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+3200000,95,90,3,5,7.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+3450000,120,100,4,4,13.5,Ýstanbul - Ümraniye - Þerifali Mahallesi
+2350000,95,85,3,5,18.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+2300000,80,70,3,5,2,Ýstanbul - Ümraniye - Madenler Mahallesi
+4450000,140,120,5,4,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2150000,65,40,1,14,2,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3300000,120,105,4,9,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+5750000,115,95,4,8,4,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+7000000,180,170,6,4,7.5,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+2300000,75,65,3,5,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+1700000,60,50,2,4,0,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2550000,80,73,3,5,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+35000,27,25,2,1,4,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+2600000,120,110,4,4,18.5,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+4750000,120,100,4,11,0,Ýstanbul - Ümraniye - Esenevler Mahallesi
+3500000,500,450,5,3,21,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+2150000,90,80,3,4,13.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+3500000,94,85,4,4,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+7500000,213,173,7,4,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+6090000,117,90,3,13,13.5,Ýstanbul - Ümraniye - Saray Mahallesi
+1420000,65,55,2,4,7.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+2550000,130,110,4,7,21,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+2500000,110,100,3,5,21,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+2300000,140,130,4,5,18.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+3100000,85,70,3,14,1,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2600000,95,85,3,6,21,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2490000,95,85,3,5,13.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+3050000,95,75,3,10,13.5,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+3000000,125,110,4,8,7.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+2450000,85,70,3,6,7.5,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+4975000,207,180,5,5,21,Ýstanbul - Ümraniye - Atakent Mahallesi
+4800000,125,120,4,10,4,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+2750000,85,75,3,3,13.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+3750000,130,120,4,9,18.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+2800000,85,80,3,10,3,Ýstanbul - Ümraniye - Ihlamurkuyu Mahallesi
+4950000,121,100,4,14,18.5,Ýstanbul - Ümraniye - Site Mahallesi
+10950000,240,200,5,15,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+2600000,80,70,3,3,7.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+10500000,160,135,5,7,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3977000,180,160,5,4,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+1550000,60,45,2,5,18.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+2250000,90,80,3,4,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+1850000,85,75,3,4,13.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3550000,95,90,3,11,7.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+2900000,110,100,4,6,18.5,Ýstanbul - Ümraniye - Adem Yavuz Mahallesi
+4100000,115,100,4,11,4,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+25500000,368,320,7,4,7.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+9980000,260,230,8,3,18.5,Ýstanbul - Ümraniye - Atakent Mahallesi
+1700000,65,50,2,7,7.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+4500000,118,93,3,8,13.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+2250000,100,85,3,6,7.5,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+2900000,90,75,3,9,2,Ýstanbul - Ümraniye - Esenevler Mahallesi
+2320000,51,35,,28,2,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+2850000,120,100,4,5,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+45000000,525,480,8,3,13.5,Ýstanbul - Ümraniye - Fatih Sultan Mehmet Mahallesi
+7350000,173,110,4,30,7.5,Ýstanbul - Ümraniye - Saray Mahallesi
+2750000,95,80,3,5,7.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+3250000,150,140,5,4,21,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+8000000,170,140,6,11,1,Ýstanbul - Ümraniye - Esenevler Mahallesi
+5500000,130,110,4,11,1,Ýstanbul - Ümraniye - Esenevler Mahallesi
+4500000,90,75,3,11,1,Ýstanbul - Ümraniye - Esenevler Mahallesi
+2900000,130,115,4,8,18.5,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+3000000,140,100,4,7,21,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+5250000,160,120,4,16,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+2500000,120,80,3.5,5,7.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3550000,145,112,4,8,18.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3550000,145,112,4,8,18.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3600000,150,120,4,5,0,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+1850000,55,45,2,6,0,Ýstanbul - Ümraniye - Atakent Mahallesi
+3000000,135,125,4,8,18.5,Ýstanbul - Ümraniye - Tepeüstü Mahallesi
+3100000,140,120,4,8,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+1080000,85,75,2,4,21,Ýstanbul - Ümraniye - Tepeüstü Mahallesi
+3350000,85,65,3,12,4,Ýstanbul - Ümraniye - Site Mahallesi
+1645000,90,80,3,6,21,Ýstanbul - Ümraniye - Esenevler Mahallesi
+2880000,125,110,4,4,18.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+3400000,110,90,4,5,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+4500000,105,85,3,11,0,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+4200000,100,80,3,14,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+4550000,100,80,3,14,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+4650000,95,80,3,14,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+4200000,95,80,3,14,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2350000,110,95,3,8,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+1750000,65,55,2,4,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3300000,107,90,3,6,7.5,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2100000,100,75,4,3,21,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+4500000,110,90,3,3,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2590000,110,100,3,5,21,Ýstanbul - Ümraniye - Atatürk Mahallesi
+2500000,51,35,,28,2,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+2250000,90,80,3,4,7.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+3100000,130,100,4,10,13.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+1250000,110,90,3,3,21,Ýstanbul - Ümraniye - Çakmak Mahallesi
+1300000,50,35,2,2,13.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+5750000,119,92,4,15,18.5,Ýstanbul - Ümraniye - Site Mahallesi
+8500000,163,158,4,6,13.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+3900000,145,118,6,3,7.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+2245000,85,75,3,4,7.5,Ýstanbul - Ümraniye - Altýnþehir Mahallesi
+2250000,55,41,2,15,4,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+2450000,55,40,2,15,4,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+2450000,55,40,2,15,4,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3500000,85,75,3,11,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+1600000,88,80,3,5,18.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+3525000,120,85,4,6,21,Ýstanbul - Ümraniye - Atakent Mahallesi
+4430000,180,150,5,5,13.5,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+5700000,168,132,3.5,29,1,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+3950000,130,120,4,5,7.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+8500000,118,85,3,15,0,Ýstanbul - Ümraniye - Finanskent Mahallesi
+3750000,130,110,4,4,21,Ýstanbul - Ümraniye - Atakent Mahallesi
+2500000,85,70,3,2,21,Ýstanbul - Ümraniye - Atakent Mahallesi
+4100000,128,115,4,11,4,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+4000000,140,120,4,4,21,Ýstanbul - Ümraniye - Tantavi Mahallesi
+1835000,115,100,3,6,21,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+5690000,98,70,3,16,0,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+2800000,100,75,3,4,13.5,Ýstanbul - Ümraniye - Site Mahallesi
+2500000,100,99,4,5,4,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+9000000,283,282,3,1,21,Ýstanbul - Ümraniye - Topaðacý Mahallesi
+2500000,90,85,3,5,3,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+4400000,125,105,3.5,10,4,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+20500000,610,575,9,3,21,Ýstanbul - Ümraniye - Çakmak Mahallesi
+7350000,135,95,3,29,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+680000,70,60,2,5,21,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+6150000,140,100,3,20,13.5,Ýstanbul - Ümraniye - Saray Mahallesi
+2200000,85,75,3,3,7.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+5250000,180,170,5,3,18.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3300000,130,110,4,10,13.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3650000,85,75,3,6,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2450000,85,75,3,9,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+5000000,50,40,2,15,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3950000,135,120,4,3,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+8500000,180,135,5,14,2,Ýstanbul - Ümraniye - Tantavi Mahallesi
+2300000,55,40,2,10,0,Ýstanbul - Ümraniye - Esenevler Mahallesi
+1750000,80,70,3,4,18.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+3200000,120,115,4,9,21,Ýstanbul - Ümraniye - Atakent Mahallesi
+3000000,90,85,3,4,0,Ýstanbul - Ümraniye - Parseller Mahallesi
+3100000,87,70,3,4,0,Ýstanbul - Ümraniye - Çakmak Mahallesi
+1850000,65,50,2,4,0,Ýstanbul - Ümraniye - Çakmak Mahallesi
+4600000,160,140,5,4,0,Ýstanbul - Ümraniye - Çakmak Mahallesi
+1000000,50,45,,4,7.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+2650000,95,75,3,5,18.5,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+1475000,75,60,3,5,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+1650000,80,65,3,6,7.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+4300000,150,135,4,13,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2350000,90,75,3,11,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+8150000,186,150,5,15,18.5,Ýstanbul - Ümraniye - Site Mahallesi
+2750000,75,70,3,14,7.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+2750000,140,130,5,3,13.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3550000,150,140,5,3,7.5,Ýstanbul - Ümraniye - Adem Yavuz Mahallesi
+1490000,90,80,3,5,21,Ýstanbul - Ümraniye - Altýnþehir Mahallesi
+2500000,80,70,3,10,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2750000,80,65,3,3,0,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2900000,160,150,5,5,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+1890000,94,85,3,6,18.5,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+1520000,75,70,3,4,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2850000,75,65,3,6,0,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3200000,130,115,4,14,7.5,Ýstanbul - Ümraniye - Site Mahallesi
+3250000,125,105,4,12,18.5,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+4350000,75,45,2,29,2,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+3000000,90,70,3,5,21,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+3000000,90,85,3,4,0,Ýstanbul - Ümraniye - Parseller Mahallesi
+1750000,110,95,3,4,7.5,Ýstanbul - Ümraniye - Huzur Mahallesi
+2100000,95,90,3,5,21,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2600000,87,72,3,4,0,Ýstanbul - Ümraniye - Altýnþehir Mahallesi
+3100000,75,60,3,13,13.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+1650000,70,55,2,4,0,Ýstanbul - Ümraniye - Altýnþehir Mahallesi
+5950000,99,82,3,28,1,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+3200000,65,50,3,5,0,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+6250000,135,110,4,9,18.5,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2800000,140,115,4,5,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2600000,100,80,3,8,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+3650000,95,82,3,12,0,Ýstanbul - Ümraniye - Esenevler Mahallesi
+5250000,140,110,3,14,4,Ýstanbul - Ümraniye - Tantavi Mahallesi
+2750000,100,75,3,14,4,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+4890000,185,145,3,27,13.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+3250000,125,110,4,10,4,Ýstanbul - Ümraniye - Tepeüstü Mahallesi
+3250000,135,120,4,3,18.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+5500000,135,110,4,8,18.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+1660000,72,62,3,4,7.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+3750000,145,130,4,6,21,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3300000,135,115,4,3,18.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+3100000,125,115,4,4,21,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+1295000,100,90,4,6,21,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+3100000,85,80,3,3,2,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+4100000,112,87,4,5,7.5,Ýstanbul - Ümraniye - Atakent Mahallesi
+4750000,120,110,4,12,0,Ýstanbul - Ümraniye - Esenevler Mahallesi
+2400000,85,75,3,5,13.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+2400000,80,70,3,10,13.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+5100000,135,125,4,5,0,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+2150000,95,85,3,4,18.5,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+2075000,85,75,3,4,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2550000,85,75,3,5,13.5,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+1950000,100,80,3,4,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3300000,120,100,3,4,21,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+2050000,60,50,2,7,0,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+3490000,90,78,3,10,4,Ýstanbul - Ümraniye - Atatürk Mahallesi
+3250000,80,70,3,8,0,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2200000,55,50,2,8,0,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+3950000,160,140,4,8,18.5,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+3250000,92,84,3,4,0,Ýstanbul - Ümraniye - Parseller Mahallesi
+3200000,92,84,3,4,0,Ýstanbul - Ümraniye - Parseller Mahallesi
+1300000,55,50,2,4,1,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2365000,82,73,3,4,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3700000,120,110,4,9,13.5,Ýstanbul - Ümraniye - Þerifali Mahallesi
+5200000,125,110,4,7,0,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2450000,95,85,3,4,18.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+4250000,135,110,4,5,21,Ýstanbul - Ümraniye - Tantavi Mahallesi
+3750000,90,80,3,11,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3500000,90,75,3,12,2,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+5500000,175,140,4,12,2,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+5500000,190,160,5,15,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+4100000,75,55,2,20,1,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+2650000,75,55,2,9,3,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+6500000,220,200,5,4,18.5,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+3550000,85,70,3,4,7.5,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+2350000,105,85,3,5,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+4020000,183,165,6,5,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3000000,165,160,5,5,4,Ýstanbul - Ümraniye - Parseller Mahallesi
+2750000,165,160,5,5,4,Ýstanbul - Ümraniye - Parseller Mahallesi
+3000000,170,155,5,5,3,Ýstanbul - Ümraniye - Parseller Mahallesi
+2500000,140,125,5,4,4,Ýstanbul - Ümraniye - Esenkent Mahallesi
+13250000,450,449,1,4,0,Ýstanbul - Ümraniye - Altýnþehir Mahallesi
+1300000,70,65,3,5,21,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2150000,75,65,3,5,7.5,Ýstanbul - Ümraniye - Atakent Mahallesi
+2600000,95,80,3,5,4,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+3290000,120,90,4,5,13.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+1550000,62,50,2,4,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3650000,135,110,4,14,7.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+4500000,160,120,5,4,0,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+2600000,75,70,3,4,7.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2600000,80,75,3,5,0,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+4250000,87,77,3,12,0,Ýstanbul - Ümraniye - Esenevler Mahallesi
+3500000,110,95,4,13,7.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+6250000,117,90,3,13,13.5,Ýstanbul - Ümraniye - Saray Mahallesi
+2200000,80,60,3,4,0,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+4700000,135,125,4,14,4,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+3750000,101,90,4,9,2,Ýstanbul - Ümraniye - Tantavi Mahallesi
+3300000,90,85,3,3,13.5,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+2450000,80,60,3,6,0,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+3200000,120,110,4,3,0,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+2200000,100,90,3,4,18.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+7450000,135,95,3,29,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+6250000,140,94,3,20,13.5,Ýstanbul - Ümraniye - Saray Mahallesi
+2950000,160,150,5,5,18.5,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+4150000,59,38,2,15,0,Ýstanbul - Ümraniye - Finanskent Mahallesi
+4600000,165,145,5,5,0,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+2650000,130,120,4,5,7.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+15450000,290,250,7,3,18.5,Ýstanbul - Ümraniye - Parseller Mahallesi
+5150000,100,80,3,10,7.5,Ýstanbul - Ümraniye - Tantavi Mahallesi
+3750000,86,49,2,29,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+2635000,95,78,4,8,13.5,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+3500000,95,85,3,5,0,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2350000,80,70,4,4,4,Ýstanbul - Ümraniye - Altýnþehir Mahallesi
+1950000,90,80,3,5,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+4400000,190,170,5,5,7.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+2600000,130,120,4,4,13.5,Ýstanbul - Ümraniye - Altýnþehir Mahallesi
+1425000,95,80,3,5,13.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+2950000,135,120,4,8,21,Ýstanbul - Ümraniye - Tepeüstü Mahallesi
+3150000,115,100,4,4,7.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+2300000,120,110,4,8,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3000000,90,80,3,10,1,Ýstanbul - Ümraniye - Altýnþehir Mahallesi
+3850000,90,80,3,15,1,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2750000,85,75,3,5,7.5,Ýstanbul - Ümraniye - Ihlamurkuyu Mahallesi
+2550000,90,80,3,10,7.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+2500000,95,85,3,4,18.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+2800000,135,125,4,8,18.5,Ýstanbul - Ümraniye - Tepeüstü Mahallesi
+2900000,85,65,2,12,2,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+2150000,110,100,3,5,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+3500000,120,90,4,8,7.5,Ýstanbul - Ümraniye - Adem Yavuz Mahallesi
+18750000,330,250,6,6,13.5,Ýstanbul - Ümraniye - Saray Mahallesi
+2600000,80,70,3,5,7.5,Ýstanbul - Ümraniye - Tantavi Mahallesi
+2590000,95,80,3,5,13.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+2550000,115,87,4,3,18.5,Ýstanbul - Ümraniye - Atatürk Mahallesi
+3750000,155,145,4,7,18.5,Ýstanbul - Ümraniye - Adem Yavuz Mahallesi
+1620000,70,60,2,5,4,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+9750000,230,170,5,20,13.5,Ýstanbul - Ümraniye - Saray Mahallesi
+5250000,110,78,3,29,2,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+6450000,117,90,3,13,13.5,Ýstanbul - Ümraniye - Saray Mahallesi
+1750000,65,50,2,4,7.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+2850000,85,80,3,4,0,Ýstanbul - Ümraniye - Parseller Mahallesi
+4650000,180,170,6,5,0,Ýstanbul - Ümraniye - Çakmak Mahallesi
+7350000,135,95,3,35,1,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+7750000,145,105,3,10,7.5,Ýstanbul - Ümraniye - Tantavi Mahallesi
+2150000,100,90,3,5,7.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+2250000,100,90,3,5,7.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+2050000,95,85,3,5,7.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+4500000,110,100,4,3,7.5,Ýstanbul - Ümraniye - Mehmet Akif Mahallesi
+35000000,900,757,3,4,21,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+2080000,100,80,3,5,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3000000,100,80,3,8,1,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2570000,190,170,7,4,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+2100000,111,103,3,7,13.5,Ýstanbul - Ümraniye - Adem Yavuz Mahallesi
+2700000,110,95,3,7,7.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+3100000,85,75,3,5,3,Ýstanbul - Ümraniye - Cemil Meriç Mahallesi
+5750000,155,131,4.5,7,13.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+42000000,420,380,8,3,13.5,Ýstanbul - Ümraniye - Fatih Sultan Mehmet Mahallesi
+3000000,90,75,3,9,2,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+2400000,70,65,3,5,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3200000,100,90,4,8,13.5,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+5250000,100,80,3,10,4,Ýstanbul - Ümraniye - Tantavi Mahallesi
+3300000,130,115,4,8,18.5,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+5700000,75,65,3,10,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+7500000,120,100,4,10,0,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3100000,100,80,3,10,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3100000,100,80,3,10,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2550000,85,70,3,9,7.5,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+5750000,155,135,4,7,13.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+2750000,95,80,3,5,7.5,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+5200000,100,80,3,10,4,Ýstanbul - Ümraniye - Tantavi Mahallesi
+1875000,100,90,3,5,13.5,Ýstanbul - Ümraniye - Atatürk Mahallesi
+2550000,150,140,4,5,13.5,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3600000,160,125,4,6,4,Ýstanbul - Ümraniye - Site Mahallesi
+3550000,150,135,5,6,7.5,Ýstanbul - Ümraniye - Atatürk Mahallesi
+2265000,96,90,3,5,3,Ýstanbul - Ümraniye - Atakent Mahallesi
+2480000,140,120,4,5,18.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+21000000,260,200,5,4,13.5,Ýstanbul - Ümraniye - Fatih Sultan Mehmet Mahallesi
+1675000,60,55,2,4,4,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+2500000,105,95,4,4,0,Ýstanbul - Ümraniye - Esenkent Mahallesi
+3980000,150,130,4,8,7.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+3300000,180,160,6,4,7.5,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+2350000,90,70,3,6,0,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+3300000,110,90,4,6,0,Ýstanbul - Ümraniye - Tantavi Mahallesi
+3650000,150,140,6,4,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+7350000,135,94,3,30,1,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+4800000,110,80,3,30,3,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+14500000,139,109,3,20,0,Ýstanbul - Ümraniye - Tantavi Mahallesi
+5000000,115,100,4,8,7.5,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+2750000,150,140,4,6,21,Ýstanbul - Ümraniye - Atakent Mahallesi
+4750000,165,150,5,4,0,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+3100000,100,78,3,9,4,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+5500000,130,110,4,9,7.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+4000000,220,197,6,11,7.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+16500000,215,152,5,15,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+4100000,115,95,4,8,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3600000,200,150,5,4,13.5,Ýstanbul - Ümraniye - Çakmak Mahallesi
+3175000,95,78,3,6,3,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+7850000,135,95,3,29,1,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+8250000,154,106,4,30,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+14000000,300,250,7,4,21,Ýstanbul - Ümraniye - Atakent Mahallesi
+4100000,130,110,4,5,0,Ýstanbul - Ümraniye - Çamlýk Mahallesi
+3500000,74,50,2,30,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+12250000,186,131,4,17,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+5800000,135,95,3,29,1,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+3275000,95,78,3,6,3,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2150000,65,55,3,5,0,Ýstanbul - Ümraniye - Altýnþehir Mahallesi
+5325000,175,155,4,7,7.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+2850000,125,100,4,6,21,Ýstanbul - Ümraniye - Altýnþehir Mahallesi
+9250000,230,160,5,20,13.5,Ýstanbul - Ümraniye - Saray Mahallesi
+2600000,120,110,4,5,13.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+3850000,140,120,5,3,7.5,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+1725000,65,55,2,5,7.5,Ýstanbul - Ümraniye - Site Mahallesi
+1750000,90,75,3,5,21,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+9300000,165,150,4.5,13,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+1350000,65,60,3,4,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2500000,85,80,3,6,7.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+1900000,62,41,2,13,1,Ýstanbul - Ümraniye - Esenþehir Mahallesi
+4350000,75,49,2,34,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+11750000,166,115,4,29,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+7450000,166,115,4,29,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+7850000,136,95,3,3,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+5600000,140,120,4,12,0,Ýstanbul - Ümraniye - Þerifali Mahallesi
+1950000,75,65,3,5,7.5,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+2875000,102,95,3,4,7.5,Ýstanbul - Ümraniye - Elmalýkent Mahallesi
+2250000,125,115,3,5,18.5,Ýstanbul - Ümraniye - Atatürk Mahallesi
+2150000,85,80,3,3,7.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+2575000,140,130,4,8,13.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+2700000,125,115,3,5,21,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+2255000,135,110,4,4,21,Ýstanbul - Ümraniye - Atatürk Mahallesi
+6300000,137,100,3,30,0,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+4195000,220,180,6,5,7.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+4950000,135,110,4,15,1,Ýstanbul - Ümraniye - Tantavi Mahallesi
+2650000,85,75,3,4,0,Ýstanbul - Ümraniye - Yukarý Dudullu Mahallesi
+1550000,55,50,2,5,7.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3550000,130,110,5,4,0,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+3850000,135,115,4,7,18.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+6250000,260,230,6,13,13.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+2700000,140,135,5,5,2,Ýstanbul - Ümraniye - Esenkent Mahallesi
+7728000,145,98,4,9,3,Ýstanbul - Ümraniye - Madenler Mahallesi
+8500000,280,240,7,9,7.5,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+1300000,125,120,4,3,18.5,Ýstanbul - Ümraniye - Esenkent Mahallesi
+9250000,230,157,5,20,13.5,Ýstanbul - Ümraniye - Saray Mahallesi
+2550000,85,80,3,3,1,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+3800000,180,160,6,5,18.5,Ýstanbul - Ümraniye - Ýstiklal Mahallesi
+3200000,95,85,3,6,7.5,Ýstanbul - Ümraniye - Ýnkýlap Mahallesi
+3800000,155,130,4,8,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+3750000,100,85,3,14,0,Ýstanbul - Ümraniye - Tantavi Mahallesi
+3000000,85,80,3,3,1,Ýstanbul - Ümraniye - Necip Fazýl Mahallesi
+4600000,145,125,4,7,13.5,Ýstanbul - Ümraniye - Tatlýsu Mahallesi
+5600000,130,110,4,9,0,Ýstanbul - Ümraniye - Tantavi Mahallesi
+2550000,150,135,5,5,13.5,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+5300000,125,100,4,13,0,Ýstanbul - Ümraniye - Tantavi Mahallesi
+4600000,220,200,6,5,13.5,Ýstanbul - Ümraniye - Esenevler Mahallesi
+4800000,100,85,3,13,0,Ýstanbul - Ümraniye - Tantavi Mahallesi
+5900000,120,100,4,13,0,Ýstanbul - Ümraniye - Tantavi Mahallesi
+4400000,100,85,3,9,0,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+4450000,100,85,3,9,0,Ýstanbul - Ümraniye - Armaðanevler Mahallesi
+5350000,118,97,3,7,13.5,Ýstanbul - Ümraniye - Madenler Mahallesi
+14920000,169,126,4,29,1,Ýstanbul - Ümraniye - Aþaðý Dudullu Mahallesi
+17447000,165,140,3,12,1,Ýstanbul - Ümraniye - Finanskent Mahallesi
+2750000,140,135,5,5,4,Ýstanbul - Ümraniye - Esenkent Mahallesi
+5500000,120,105,4,13,0,Ýstanbul - Ümraniye - Tantavi Mahallesi
+4500000,210,200,7,5,13.5,Ýstanbul - Ümraniye - Namýk Kemal Mahallesi
+2500000,85,75,3,5,13.5,Ýstanbul - Ümraniye - Atatürk Mahallesi
+2850000,110,100,3,4,13.5,Ýstanbul - Ümraniye - Site Mahallesi
+1350000,75,70,1,4,21,Ýstanbul - Ümraniye - Yamanevler Mahallesi
+5600000,125,110,4,14,0,Ýstanbul - Ümraniye - Tantavi Mahallesi
