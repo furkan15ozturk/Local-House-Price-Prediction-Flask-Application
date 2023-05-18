@@ -16,14 +16,11 @@ print(f"Latitude: {lat}")
 print(f"Longitude: {lng}")
 
 
-def contains_non_latin(word):
-    for char in word:
-        if unicodedata.category(char)[0] != 'L':
-            return True
-    return False
-
-dataset = pd.read_csv('house_price_istanbul.csv', encoding='latin1')
-column_data = dataset['location']
-non_latin_words = [word for word in column_data if contains_non_latin(word)]
-print(non_latin_words)
-
+dataset = pd.read_csv('CSV Files/house_price_istanbul_dataset.csv', encoding='latin1')
+dataset.drop('Unnamed: 0.1', axis=1, inplace=True)
+dataset.drop('Unnamed: 0', axis=1, inplace=True)
+dataset.drop('location', axis=1, inplace=True)
+# Print the column names
+column_names = dataset.columns
+print(column_names)
+dataset.to_csv( r'C:\Users\furka\OneDrive\Masaüstü\GPII Project\Local House Price Prediction Interface\CSV Files\house_price_istanbul.csv')
