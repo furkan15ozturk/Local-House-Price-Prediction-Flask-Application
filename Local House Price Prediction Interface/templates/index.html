@@ -3,24 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <title>{{ title }}</title>
+    <link rel="stylesheet" href="../static/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div class="input-form">
-        <form>
-            <label for="price" class="form-label"> Ev Fiyatı: </label>
-            <input type="number">
-            <label for="area" class="form-label"> Brüt Metrekare: </label>
-            <input type="number">
-            <label for="absolute_area" class="form-label"> Net Metrekare: </label>
-            <input type="number">
-            <label for="floor_count" class="form-label"> Binanın Kat Sayısı: </label>
-            <input type="number">
-            <label for="location" class="form-label"> Adres: </label>
-            <input type="text">
-        </form>
+    <div class="header">
     </div>
-    <div class="send-button">
-        <input type="submit" value="Hesapla" />
+    <div class="input-form">
+        <div class="form-container">
+              <form>
+                    <label for="area" class="form-label">Brüt Metrekare:</label>
+                    <input type="number" class="form-input">
+                    <label for="absolute_area" class="form-label">Net Metrekare:</label>
+                    <input type="number" class="form-input">
+                    <label for="room" class="form-label">Oda Sayısı:</label>
+                    <input type="number" class="form-input">
+                    <label for="floor_count" class="form-label">Binanın Kat Sayısı:</label>
+                    <input type="number" class="form-input">
+                    <label for="building_age" class="form-label">Binanın Yaşı:</label>
+                    <input type="number" class="form-input">
+                    <label for="location" class="form-label">Adres:</label>
+                    <input type="text" class="form-input">
+              </form>
+              <div class="send-button">
+                  <input type="submit" value="Hesapla" />
+              </div>
+        </div>
     </div>
 </body>
 </html>

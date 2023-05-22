@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  background: #000615;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 25px;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  color: #ffffff;
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+}
+
+.input-form {
+  float: left;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  color: #101a3d;
+}
+
+.form-label {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.25);
+  border-radius: 6px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  clear: both;
+  width: 100%;
+  margin-left: -15px;
+  text-align: center;
+  padding: 8px 0 0;
+  width: 100%;
+}
+
+.form-input {
+  display: inline-block;
+  margin-bottom: 10px;
+  padding: 8px 12px;
+  border: 1px solid #0c0f41;
+  border-radius: 4px;
+  font-size: 16px;
+  color: #333;
+}
+
+.form-input:focus {
+  outline: none;
+  border-color: #17053b;
+  box-shadow: 0 0 5px rgba(23, 5, 59, 0.5);
+}
+
+.send-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  color: #17053b;
+  margin-top: 10px;
+  margin-left: 250px;
+}
+
+.send-button input[type="submit"] {
+  background-color: #17053b;
+  font-family: 'Ubuntu', sans-serif;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border-radius: 8px;
+}
+
+.send-button input[type="submit"]:hover {
+  background-color: #fff;
+  color: #17053b;
+}
+.form-container {
+  background: rgba(255, 255, 255, 0.68);
+  border-radius: 6px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  clear: both;
+  width: 100%;
+  margin: 0;
+  padding: 30px 30px 0;
+}
+form {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 10px;
+}
+

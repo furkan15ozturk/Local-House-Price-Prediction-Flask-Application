@@ -6,7 +6,7 @@ gmaps = googlemaps.Client(key='AIzaSyCeoDaJO26EUzomxAwpDtbaBbEXUBSXpGk')
 
 
 if __name__ == "__main__":
-    df = pd.read_csv("house_price_istanbul.csv", encoding="latin1")
+    df = pd.read_csv("CSV Files/house_price_istanbul.csv", encoding="latin1")
 
     pd.set_option('display.max_columns', None)
     count = 0
