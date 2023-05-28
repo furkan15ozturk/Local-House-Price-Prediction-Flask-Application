@@ -7,30 +7,69 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
-    <div class="header">
-    </div>
-    <div class="input-form">
+    <header>
+        <div class="navbar">
+            <img src="../static/Images/house-to-rent-svgrepo-com.svg" class="house-logo">
+            <h1>İstanbul Ev Fiyatı Tahmin Sitesi</h1>
+            <ul class="links">
+                <li><a href="">Github</a></li>
+                <li><a href="">Modern</a></li>
+                <li><a href="">Contemporary</a></li>
+                <li><a href="">Affordable</a></li>
+            </ul>
+            <div class="toggle_btn"><i class="fa-solid fa-bars"></i></div>
+        </div>
+
+        <div class="dropdown_menu">
+            <li><a href="">Github</a></li>
+            <li><a href="">Modern</a></li>
+            <li><a href="">Contemporary</a></li>
+            <li><a href="">Affordable</a></li>
+        </div>
+    </header>
+    <div class="prediction-container">
         <div class="form-container">
-              <form>
-                    <label for="area" class="form-label">Brüt Metrekare:</label>
-                    <input type="number" class="form-input">
-                    <label for="absolute_area" class="form-label">Net Metrekare:</label>
-                    <input type="number" class="form-input">
-                    <label for="room" class="form-label">Oda Sayısı:</label>
-                    <input type="number" class="form-input">
-                    <label for="floor_count" class="form-label">Binanın Kat Sayısı:</label>
-                    <input type="number" class="form-input">
-                    <label for="building_age" class="form-label">Binanın Yaşı:</label>
-                    <input type="number" class="form-input">
-                    <label for="location" class="form-label">Adres:</label>
-                    <input type="text" class="form-input">
-              </form>
-              <div class="send-button">
+            <form method="post">
+                <label for="area" class="form-label">Brüt Metrekare:</label>
+                <input type="number" class="form-input" name="area">
+                <label for="absolute_area" class="form-label">Net Metrekare:</label>
+                <input type="number" class="form-input" name="absolute_area">
+                <label for="room" class="form-label">Oda Sayısı:</label>
+                <input type="number" class="form-input" name="room">
+                <label for="floor_count" class="form-label">Binanın Kat Sayısı:</label>
+                <input type="number" class="form-input" name="floor_count">
+                <label for="building_age" class="form-label">Binanın Yaşı:</label>
+                <input type="number" class="form-input" name="building_age">
+                <label for="location" class="form-label">Adres:</label>
+                <input type="text" class="form-input" name="location">
+                <div class="send-button">
                   <input type="submit" value="Hesapla" />
-              </div>
+                </div>
+            </form>
+        </div>
+
+        <div class="price-result-container">
+            <div class="price-result">
+                <h2 class="price-result-title">Tahmini Fiyat:</h2>
+                <div class="price-result-value-box">
+                    <h2 class="price-result-value">{{ price }}</h2>
+                </div>
+            </div>
         </div>
     </div>
+
+
+    <script>
+        const toggleBtn = document.querySelector('.toggle_btn');
+        const toggleBtnIcon = document.querySelector('.toggle_btn i');
+        const dropDownMenu = document.querySelector('.dropdown_menu');
+
+        toggleBtn.onclick = function () {
+            dropDownMenu.classList.toggle('open');
+        }
+    </script>
 </body>
 </html>
