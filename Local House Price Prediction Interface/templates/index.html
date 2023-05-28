@@ -26,8 +26,8 @@
         <div class="dropdown_menu">
             <li><a href="">Github</a></li>
             <li><a href="">Modern</a></li>
-            <li><a href="">Contemporary</a></li>
-            <li><a href="">Affordable</a></li>
+            <li><a href="">Contact</a></li>
+            <li><a href="">About us</a></li>
         </div>
     </header>
     <div class="prediction-container">
@@ -69,6 +69,11 @@
 
         toggleBtn.onclick = function () {
             dropDownMenu.classList.toggle('open');
+            const isOpen = dropDownMenu.classList.contains('open');
+
+            toggleBtnIcon.classList = isOpen
+                ? 'fa-solid fa-xmark'
+                : 'fa-solid fa-bars';
         }
     </script>
 </body>
