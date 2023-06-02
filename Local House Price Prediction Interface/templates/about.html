@@ -12,7 +12,7 @@
 <body>
     <header>
         <div class="navbar">
-            <a href="index.html"><img src="../static/Images/house-to-rent-svgrepo-com.svg" class="house-logo"></a>
+            <a href="/index.html"><img src="../static/Images/house-to-rent-svgrepo-com.svg" class="house-logo"></a>
             <a href="index.html"><h1>İstanbul Ev Fiyatı Tahmin Sitesi</h1></a>
             <ul class="links">
                 <li><a href="index.html">Anasayfa</a></li>
@@ -30,37 +30,22 @@
             <li><a href="">İletişim</a></li>
         </div>
     </header>
-    <div class="prediction-container">
-        <div class="form-container">
-            <form id="prediction-form" method="post">
-                <label for="area" class="form-label">Brüt Metrekare:</label>
-                <input type="number" class="form-input" name="area">
-                <label for="absolute_area" class="form-label">Net Metrekare:</label>
-                <input type="number" class="form-input" name="absolute_area">
-                <label for="room" class="form-label">Oda Sayısı:</label>
-                <input type="number" class="form-input" name="room">
-                <label for="floor_count" class="form-label">Binanın Kat Sayısı:</label>
-                <input type="number" class="form-input" name="floor_count">
-                <label for="building_age" class="form-label">Binanın Yaşı:</label>
-                <input type="number" class="form-input" name="building_age">
-                <label for="location" class="form-label">Adres:</label>
-                <input type="text" class="form-input" name="location">
-            </form>
-            <div class="send-button">
-                <input type="submit" form="prediction-form" class="send-button" value="Hesapla" />
-            </div>
-        </div>
 
-        <div class="price-result-container">
-            <div class="price-result">
-                <h2 class="price-result-title">Tahmini Fiyat:</h2>
-                <div class="price-result-value-box">
-                    <h2 class="price-result-value">{{ price }}</h2>
-                </div>
-                <p class="price-result-paragraph">Elde edilen sonuç sadece tahminidir. Bir kesinlik taşımamaktadır.</p>
-            </div>
+    <div class="about-project-container">
+        <div class="about-project">
+            <h1>Proje Hakkında</h1>
+            <br>
+            <p>Bu proje 2023 yılında Furkan Öztürk tarafından MCBU Mezuniyet projesi olarak tasarlanmıştır.</p>
+            <br>
+            <p>Projenin amacı İstanbulda bulunan ev fiyatlarının girilen veriler ile tahmin edilmesidir. Proje yapay zeka'yı kullanarak evin brüt metrekaresi, net metrekaresi,
+                oda sayısı, kaçıncı katta bulunduğu, binanın yaşı, ve evin adresi gibi veriler ile evin fiyatı hakkında tahminde bulunur.</p>
+            <p>Proje Deep Learning adı verilen bir makine öğrenmesi algoritmasını baz alarak tasarlanmıştır.</p>
+            <p></p>
         </div>
     </div>
+
+    </div>
+
 
     <script>
         const toggleBtn = document.querySelector('.toggle_btn');
