@@ -1,4 +1,5 @@
 from flask import Flask, render_template, request
+import model
 import googlemaps
 
 app = Flask(__name__)
@@ -20,8 +21,9 @@ def index():  # put application's code here
         building_age_value = int(request.form['building_age'])
         lat_value, lng_value = get_lat_long(request.form['location'])
         print("lat: ", lat_value, "lng: ", lng_value)
-        price_value = int(area_value * absolute_area_value * room_value * floor_count_value * building_age_value * lat_value * lng_value)
-        return render_template("index.html", title="İstanbul Ev Fiyat Tahmin Sitesi", price=price_value)
+        prediction = model.prediction(area_value, absolute_area_value, room_value, floor_count_value,
+                                      building_age_value, lat_value, lng_value)
+        return render_template("index.html", title="İstanbul Ev Fiyat Tahmin Sitesi", price=prediction)
     return render_template("index.html", title="İstanbul Ev Fiyat Tahmin Sitesi")
 
 
