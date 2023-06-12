@@ -1,12 +1,10 @@
 from selenium import webdriver
 from selenium.webdriver.edge.options import Options
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import re
 import os
 import time
 import threading
-import concurrent.futures
 import queue
 import csv
 
@@ -19,23 +17,17 @@ def update_houses(district):
     edge_options.add_experimental_option("excludeSwitches", ["enable-automation"])
     edge_options.add_experimental_option('useAutomationExtension', False)
     browser = webdriver.Edge(f"{os.getcwd()}/msedgedriver.exe", options=edge_options)
-    # browser = webdriver.Chrome(f"{os.getcwd()}/chromedriver.exe")
-    # browser2 = webdriver.Edge(f"{os.getcwd()}/msedgedriver.exe")
     next_page = True
     while next_page:
-        browser.get(link)  # opens the web browser
+        browser.get(link)
         time.sleep(3)
         houses = browser.find_elements(by=By.CSS_SELECTOR, value="._3qUI9q")
-        count = 0
         for c in houses:
             if c.get_attribute("data-index") is None:
                 continue
             else:
                 house_link = c.find_element(by=By.CSS_SELECTOR, value="a")
                 house_href = house_link.get_attribute("href")
-                # house_info = browser2.find_elements(by=By.CSS_SELECTOR, value="._35T4WV")
-
-                # browser.find_element(by=By.TAG_NAME, value="body").send_keys(Keys.CONTROL + "T")
                 browser.execute_script('''window.open("http://bings.com","_blank");''')
                 browser.switch_to.window(browser.window_handles[-1])
 
@@ -121,15 +113,6 @@ def update_houses(district):
     browser.close()
 
 
-# def process_district(district):
-#     data = update_houses(district)
-#     with open(f"{district}.csv", "w", newline="") as csvfile:
-#         fieldnames = data[0].keys()
-#         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-#         writer.writeheader()
-#         writer.writerows(data)
-
-
 def process_district(queue):
     while True:
         district = queue.get()
@@ -146,8 +129,6 @@ def process_district(queue):
 
 if __name__ == "__main__":
     district_names = ["tuzla", "umraniye", "uskudar", "zeytinburnu"]
-
-    # district_names = ["avcilar"]
 
     queue = queue.Queue()
 
@@ -167,20 +148,3 @@ if __name__ == "__main__":
 
     for thread in threads:
         thread.join()
-
-    # with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
-    #     futures = [executor.submit(process_district, district) for district in district_names]
-    #     for future in concurrent.futures.as_completed(futures):w
-    #         pass
-
-    # threads = []
-    # for district in district_names:
-    #     thread = threading.Thread(target=process_district, args=(district,))
-    #     threads.append(thread)
-    #     thread.start()
-    #
-    # for thread in threads:
-    #     thread.join()
-
-    # update_houses("avcilar")
-

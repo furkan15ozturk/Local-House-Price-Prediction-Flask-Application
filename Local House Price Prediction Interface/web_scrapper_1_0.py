@@ -54,3 +54,4 @@ def update_houses():
 if __name__ == "__main__":
     update_houses()
     print(house_list)
+

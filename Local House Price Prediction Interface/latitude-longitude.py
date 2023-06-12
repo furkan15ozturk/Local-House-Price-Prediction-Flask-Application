@@ -3,15 +3,21 @@ from datetime import datetime
 import unicodedata
 import pandas as pd
 
+
 gmaps = googlemaps.Client(key='AIzaSyCeoDaJO26EUzomxAwpDtbaBbEXUBSXpGk')
 
-geocode_result = gmaps.geocode('Istanbul - Çekmekoy - Güngoren Mahallesi')
+def lat_lng_converter(address):
+    geocode_result = gmaps.geocode('address')
 
-location = geocode_result[0]['geometry']['location']
+    location = geocode_result[0]['geometry']['location']
 
-lat = location['lat']
-lng = location['lng']
+    lat = location['lat']
+    lng = location['lng']
 
-print(f"Latitude: {lat}")
-print(f"Longitude: {lng}")
+    print(f"Latitude: {lat}")
+    print(f"Longitude: {lng}")
+
+    return lat, lng
+
+
 

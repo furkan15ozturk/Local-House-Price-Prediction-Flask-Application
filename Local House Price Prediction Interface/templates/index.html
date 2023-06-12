@@ -12,22 +12,22 @@
 <body>
     <header>
         <div class="navbar">
-            <a href="index.html"><img src="../static/Images/house-to-rent-svgrepo-com.svg" class="house-logo"></a>
-            <a href="index.html"><h1>İstanbul Ev Fiyatı Tahmin Sitesi</h1></a>
+            <a href="/"><img src="../static/Images/house-to-rent-svgrepo-com.svg" class="house-logo"></a>
+            <a href="/"><h1>İstanbul Ev Fiyatı Tahmin Sitesi</h1></a>
             <ul class="links">
-                <li><a href="index.html">Anasayfa</a></li>
+                <li><a href="/">Anasayfa</a></li>
                 <li><a href="https://github.com/furkan15ozturk/Local-House-Price-Prediction-Flask-Application">Github</a></li>
-                <li><a href="">Proje Hakkında</a></li>
-                <li><a href="">İletişim</a></li>
+                <li><a href="about">Proje Hakkında</a></li>
+                <li><a href="contact">İletişim</a></li>
             </ul>
             <div class="toggle_btn"><i class="fa-solid fa-bars"></i></div>
         </div>
 
         <div class="dropdown_menu">
-            <li><a href="index.html">Anasayfa</a></li>
+            <li><a href="/">Anasayfa</a></li>
             <li><a href="https://github.com/furkan15ozturk/Local-House-Price-Prediction-Flask-Application">Github</a></li>
-            <li><a href="">Proje Hakkında</a></li>
-            <li><a href="">İletişim</a></li>
+            <li><a href="about">Proje Hakkında</a></li>
+            <li><a href="contact">İletişim</a></li>
         </div>
     </header>
     <div class="prediction-container">
@@ -41,10 +41,28 @@
                 <input type="number" class="form-input" name="room">
                 <label for="floor_count" class="form-label">Binanın Kat Sayısı:</label>
                 <input type="number" class="form-input" name="floor_count">
-                <label for="building_age" class="form-label">Binanın Yaşı:</label>
-                <input type="number" class="form-input" name="building_age">
+                <label for="float-dropdown-building-age" class="form-label">Binanın Yaşı:</label>
+                <select id="float-dropdown-building-age" class="form-input" name="building_age">
+                    <option value="0.0">0 (Yeni)</option>
+                    <option value="1.0">1</option>
+                    <option value="2.0">2</option>
+                    <option value="3.0">3</option>
+                    <option value="4.0">4</option>
+                    <option value="7.5">5 - 10</option>
+                    <option value="13.5">11 - 15</option>
+                    <option value="18.5">16 - 20</option>
+                    <option value="21.0">21 ve üzeri</option>
+                </select>
                 <label for="location" class="form-label">Adres:</label>
                 <input type="text" class="form-input" name="location">
+                <label for="dropdown-model" class="form-label">Model Tipi:</label>
+                <select id="dropdown-model" class="form-input" name="model">
+                    <option value="0">Linear Regression</option>
+                    <option value="1">K-Nearest Neighbor</option>
+                    <option value="2">Random Forest Regressor</option>
+                    <option value="3">Gradient Boosting Regressor</option>
+                    <option value="4">Neural Network Model</option>
+                </select>
             </form>
             <div class="send-button">
                 <input type="submit" form="prediction-form" class="send-button" value="Hesapla" />

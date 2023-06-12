@@ -5,9 +5,10 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import InputLayer, Dense, Dropout
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.metrics import RootMeanSquaredError
+import locale
 
 
-with open('Model/scaler.pkl', 'rb') as f:
+with open(r'C:\Users\furka\OneDrive\Masaüstü\GPII Project\Local House Price Prediction Interface\Model\scaler.pkl', 'rb') as f:
     scaler = pickle.load(f)
 
 
@@ -17,7 +18,7 @@ def preprocessor(X):
   return A
 
 
-model = Sequential([
+deep_learning_model = Sequential([
     InputLayer((13,)),
     Dense(32, activation='relu'),
     Dropout(0.2),
@@ -27,11 +28,14 @@ model = Sequential([
 ])
 
 opt = Adam(learning_rate=0.1)
-model.compile(optimizer=opt, loss='mse', metrics=[RootMeanSquaredError()])
+deep_learning_model.compile(optimizer=opt, loss='mse', metrics=[RootMeanSquaredError()])
 
-model.load_weights('Model/large_nn_weights.h5')
+deep_learning_model.load_weights(r'C:\Users\furka\OneDrive\Masaüstü\GPII Project\Local House Price Prediction Interface\Model\large_nn_weights.h5')
 
-def prediction(area, absolute_area, room, floor_count, building_age, lat, lng):
+locale.setlocale(locale.LC_ALL, 'tr_TR.UTF-8')
+
+
+def prediction(area, absolute_area, room, floor_count, building_age, lat, lng, model_number=0):
     area_abs_area_difference = area - absolute_area
     area_room_ratio = area / room
     building_age_new = float(0)
@@ -76,7 +80,31 @@ def prediction(area, absolute_area, room, floor_count, building_age, lat, lng):
                              building_age_very_old])
 
     preprocessed_input = preprocessor(input_values.reshape(1, -1))
-    _prediction = model.predict(preprocessed_input)
+    if model_number == 0:
+        # _prediction = linear_regression_model.predict(preprocessed_input)
+        pass
+    elif model_number == 1:
+        # _prediction = knn_model.predict(preprocessed_input)
+        pass
+    elif model_number == 2:
+        # _prediction = rfr_model.predict(preprocessed_input)
+        pass
+    elif model_number == 3:
+        # _prediction = gbr_model.predict(preprocessed_input)
+        pass
+    elif model_number == 4:
+        _prediction = deep_learning_model.predict(preprocessed_input)
 
-    return _prediction[0][0]
+
+
+    # Round the number
+    rounded_number = round(int(_prediction[0][0]), -4)
+
+    # Format the number with grouping and currency symbol
+    formatted_number = locale.format_string('%.0f', rounded_number, grouping=True)
+
+    # Add the currency symbol
+    formatted_number += ' TL'
+
+    return formatted_number
 
