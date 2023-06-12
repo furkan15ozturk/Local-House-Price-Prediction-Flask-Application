@@ -30,16 +30,6 @@ def index():  # put application's code here
         building_age_value = float(request.form['building_age'])
         lat_value, lng_value = get_lat_long(request.form['location'])
         model_value = int(request.form['model'])
-        print("lat: ", lat_value, "lng: ", lng_value)
-
-        print("Area:", area_value)
-        print("Absolute Area:", absolute_area_value)
-        print("Room:", room_value)
-        print("Floor Count:", floor_count_value)
-        print("Building Age:", building_age_value)
-        print("Latitude:", lat_value)
-        print("Longitude:", lng_value)
-        print("Model:", model_value)
 
         prediction = model.prediction(area_value, absolute_area_value, room_value, floor_count_value,
                                       building_age_value, lat_value, lng_value, model_value)
