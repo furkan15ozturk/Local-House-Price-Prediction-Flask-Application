@@ -1,9 +1,8 @@
 from unittest import TestCase
 from app import get_lat_long
-from flask import Flask, render_template
 from app import app
 
-class Test(TestCase):
+class Test_Flask(TestCase):
 
     def setUp(self):
         app.config['TESTING'] = True
