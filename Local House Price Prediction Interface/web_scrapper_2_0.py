@@ -1,6 +1,7 @@
 from selenium import webdriver
-from selenium.webdriver.edge.options import Options
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service
 import re
 import os
 import time
@@ -10,13 +11,15 @@ import csv
 
 
 def update_houses(district):
+    counter = 0
     house_list = []
-    edge_options = Options()
+    service = Service(executable_path=f"{os.getcwd()}/chromedriver.exe")
+    chrome_options = Options()
     link = "https://www.emlakjet.com/satilik-konut/istanbul-" + district + "/"
-    edge_options.add_argument('--headless')
-    edge_options.add_experimental_option("excludeSwitches", ["enable-automation"])
-    edge_options.add_experimental_option('useAutomationExtension', False)
-    browser = webdriver.Edge(f"{os.getcwd()}/msedgedriver.exe", options=edge_options)
+    # edge_options.add_argument('--headless')
+    chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+    chrome_options.add_experimental_option('useAutomationExtension', False)
+    browser = webdriver.Edge(service=service, options=chrome_options)
     next_page = True
     while next_page:
         browser.get(link)
@@ -94,13 +97,23 @@ def update_houses(district):
                                        'location': location_value})
                 except:
                     print("hata")
-                print(house_href)
+                # print(house_href)
+                print(f"count: {counter}")
+                counter += 1
                 browser.close()
                 browser.switch_to.window(browser.window_handles[0])
 
         browser.switch_to.window(browser.window_handles[0])
 
         next_link = browser.find_elements(by=By.CSS_SELECTOR, value="._3au2n_")
+        counter = 0
+        # check_next_link = bool(next_link)
+        print(f"Next Link: {next_link}")
+        """
+        if check_next_link == False:
+            print("No links found.")
+            next_page = False
+        else:"""
         for n in next_link:
             if "Sonraki" in n.text:
                 a = n.find_element(By.CSS_SELECTOR, "a")
@@ -109,8 +122,9 @@ def update_houses(district):
                 next_page = True
             else:
                 next_page = False
-    return house_list
     browser.close()
+    return house_list
+    
 
 
 def process_district(queue):
@@ -119,16 +133,56 @@ def process_district(queue):
         if district is None:
             break
         data = update_houses(district)
+        if not data:
+            break
         with open(f"{district}.csv", "w", newline="") as csvfile:
             fieldnames = data[0].keys()
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
             writer.writerows(data)
+        print(f"Done with {district}")
         queue.task_done()
 
 
 if __name__ == "__main__":
-    district_names = ["tuzla", "umraniye", "uskudar", "zeytinburnu"]
+    district_names = ["arnavutkoy",
+                    "atasehir",
+                    "avcilar",
+                    "bagcilar",
+                    "bahcelievler",
+                    "bakirkoy",
+                    "basaksehir",
+                    "bayrampasa",
+                    "besiktas",
+                    "beykoz",
+                    "beylikduzu",
+                    "beyoglu",
+                    "buyukcekmece",
+                    "catalca",
+                    "cekmekoy",
+                    "esenler",
+                    "esenyurt",
+                    "eyupsultan",
+                    "fatih",
+                    "gaziosmanpasa",
+                    "gungoren",
+                    "kadikoy",
+                    "kagithane",
+                    "kartal",
+                    "kucukcekmece",
+                    "maltepe",
+                    "pendik",
+                    "sancaktepe",
+                    "sariyer",
+                    "silivri",
+                    "sultanbeyli",
+                    "sultangazi",
+                    "sile",
+                    "sisli",
+                    "umraniye",
+                    "tuzla",
+                    "uskudar",
+                    "zeytinburnu"]
 
     queue = queue.Queue()
 
